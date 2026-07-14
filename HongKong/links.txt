@@ -1,0 +1,31 @@
+hong-kong-1-dollar-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/HongKong/frente/hong-kong-1-dollar-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/HongKong/tras/hong-kong-1-dollar-1993.jpg
+
+hong-kong-1-dollar-2013:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/HongKong/frente/hong-kong-1-dollar-2013.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/HongKong/tras/hong-kong-1-dollar-2013.jpg
+
+hong-kong-10-cents-1998:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/HongKong/frente/hong-kong-10-cents-1998.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/HongKong/tras/hong-kong-10-cents-1998.jpg
+
+hong-kong-10-dollars-1995:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/HongKong/frente/hong-kong-10-dollars-1995.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/HongKong/tras/hong-kong-10-dollars-1995.jpg
+
+hong-kong-2-dollars-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/HongKong/frente/hong-kong-2-dollars-2015.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/HongKong/tras/hong-kong-2-dollars-2015.jpg
+
+hong-kong-20-cents-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/HongKong/frente/hong-kong-20-cents-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/HongKong/tras/hong-kong-20-cents-1994.jpg
+
+hong-kong-5-dollars-1998:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/HongKong/frente/hong-kong-5-dollars-1998.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/HongKong/tras/hong-kong-5-dollars-1998.jpg
+
+hong-kong-50-cents-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/HongKong/frente/hong-kong-50-cents-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/HongKong/tras/hong-kong-50-cents-1993.jpg

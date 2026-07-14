@@ -29,6 +29,7 @@ COUNTRY_SLUG_ALIASES = {
     "coreia-do-sul": ["coreia-do-sul", "south-korea"],
     "south-korea": ["south-korea", "coreia-do-sul"],
     "sri-lanka": ["sri-lanka"],
+    "hong-kong": ["hong-kong"],
 }
 
 COUNTRY_FILE_SLUGS = {
@@ -39,6 +40,7 @@ COUNTRY_FILE_SLUGS = {
     "coreia-do-sul": "south-korea",
     "south-korea": "south-korea",
     "sri-lanka": "sri-lanka",
+    "hong-kong": "hong-kong",
 }
 
 COUNTRY_FOLDERS = {
@@ -49,6 +51,7 @@ COUNTRY_FOLDERS = {
     "coreia-do-sul": "CoreiaDoSul",
     "south-korea": "CoreiaDoSul",
     "sri-lanka": "SriLanka",
+    "hong-kong": "HongKong",
 }
 
 
