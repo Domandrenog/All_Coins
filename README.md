@@ -58,6 +58,12 @@ Para descarregar as imagens atuais da API antes de trocar os links:
 
 - `python3 sync_coin_images_api.py --country Polonia --name "1 grosz" --years 2018 --download-current --apply`
 
+Para verificar se ainda há algum país/moeda na API a apontar para `i.ucoin.net`:
+
+- `python3 check_ucoin_links_api.py`
+
+O script lê `ALL_COINS_API_KEY` do ambiente ou de `.env`.
+
 ### Opção 1: Gerar localmente com o script
 
 1. Corre o script:
