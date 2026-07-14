@@ -1,0 +1,27 @@
+macau-1-pataca-2007:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Macau/frente/macau-1-pataca-2007.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Macau/tras/macau-1-pataca-2007.jpg
+
+macau-10-avos-1998:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Macau/frente/macau-10-avos-1998.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Macau/tras/macau-10-avos-1998.jpg
+
+macau-10-patacas-1997:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Macau/frente/macau-10-patacas-1997.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Macau/tras/macau-10-patacas-1997.jpg
+
+macau-2-patacas-1998:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Macau/frente/macau-2-patacas-1998.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Macau/tras/macau-2-patacas-1998.jpg
+
+macau-20-avos-1998:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Macau/frente/macau-20-avos-1998.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Macau/tras/macau-20-avos-1998.jpg
+
+macau-5-patacas-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Macau/frente/macau-5-patacas-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Macau/tras/macau-5-patacas-1992.jpg
+
+macau-50-avos-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Macau/frente/macau-50-avos-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Macau/tras/macau-50-avos-1993.jpg
