@@ -65,6 +65,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--download-current", action="store_true", help="Descarrega as imagens atuais da API antes de atualizar.")
     parser.add_argument("--download-only", action="store_true", help="Descarrega as imagens atuais, mas não atualiza a API.")
     parser.add_argument("--overwrite-images", action="store_true", help="Substitui imagens locais existentes ao descarregar.")
+    parser.add_argument("--ucoin-browser-profile", default=".ucoin-profile", help="Perfil Chromium com sessão uCoin para fallback de download.")
+    parser.add_argument("--no-ucoin-browser-fallback", action="store_true", help="Não usa Chromium/Playwright quando o download i.ucoin.net via curl falha.")
     parser.add_argument("--apply", action="store_true", help="Aplica a atualização na API. Sem isto, só mostra o plano.")
     parser.add_argument("--no-git-push", action="store_true", help="Não faz git add/commit/push automático em execuções reais.")
     parser.add_argument("--git-commit-message", default="Update coin image assets", help="Mensagem do commit automático.")
@@ -236,13 +238,15 @@ def find_coins(api_key: str, args: argparse.Namespace) -> list[dict[str, object]
     raise RuntimeError(f"Mais do que uma moeda corresponde a '{args.slug}'. Usa --coin-id:\n{sample}")
 
 
-def download_image(url: str, destination: Path, overwrite: bool) -> str:
+def download_image(url: str, destination: Path, overwrite: bool, browser_profile: str, use_browser_fallback: bool) -> str:
     if destination.exists() and not overwrite:
         return "exists"
 
     if "i.ucoin.net" in url.lower():
         if download_image_with_curl(url, destination):
             return "downloaded"
+        if use_browser_fallback and download_image_with_browser(url, destination, browser_profile):
+            return "downloaded-browser"
         raise RuntimeError(f"Download bloqueado pelo i.ucoin.net: {url}")
 
     request = Request(url, headers={"User-Agent": "Mozilla/5.0"})
@@ -283,6 +287,81 @@ def download_image_with_curl(url: str, destination: Path) -> bool:
     if proc.returncode != 0:
         return False
     return destination.exists() and destination.stat().st_size > 0
+
+
+def download_image_with_browser(url: str, destination: Path, user_data_dir: str) -> bool:
+    try:
+        from playwright.sync_api import sync_playwright
+    except Exception as exc:  # noqa: BLE001
+        raise RuntimeError("Playwright não está instalado. Executa: python3 -m pip install playwright") from exc
+
+    executable = which("chromium") or which("chromium-browser") or which("google-chrome") or which("google-chrome-stable")
+    launch_options = {"executable_path": executable} if executable else {}
+    destination.parent.mkdir(parents=True, exist_ok=True)
+
+    with sync_playwright() as playwright:
+        try:
+            context = playwright.chromium.launch_persistent_context(
+                user_data_dir,
+                headless=True,
+                accept_downloads=True,
+                ignore_https_errors=True,
+                **launch_options,
+            )
+        except Exception as exc:  # noqa: BLE001
+            raise RuntimeError(f"Não consegui abrir Chromium/Playwright: {str(exc).splitlines()[0]}") from exc
+
+        page = context.new_page()
+        try:
+            response = page.goto(url, wait_until="domcontentloaded", timeout=60_000)
+            if response is None:
+                return False
+            content_type = response.headers.get("content-type", "")
+            body = response.body()
+            if 200 <= response.status < 300 and "image" in content_type.lower() and body:
+                destination.write_bytes(body)
+                return True
+            return False
+        finally:
+            context.close()
+
+
+def parse_links_file(path: Path) -> dict[str, dict[str, str]]:
+    entries: dict[str, dict[str, str]] = {}
+    current_slug = ""
+    if not path.exists():
+        return entries
+
+    for raw_line in path.read_text(encoding="utf-8").splitlines():
+        line = raw_line.rstrip()
+        if not line:
+            continue
+        slug_match = re.match(r"^([^\s:][^:]*):$", line)
+        if slug_match:
+            current_slug = slug_match.group(1).strip()
+            entries.setdefault(current_slug, {})
+            continue
+        link_match = re.match(r"^\s+(frente|tras):\s+(https?://\S+)\s*$", line)
+        if current_slug and link_match:
+            entries[current_slug][link_match.group(1)] = link_match.group(2)
+    return entries
+
+
+def write_country_links(folder: Path, slug: str, links: dict[str, str]) -> None:
+    path = folder / "links.txt"
+    entries = parse_links_file(path)
+    entries[slug] = {"frente": links["frente"], "tras": links["tras"]}
+
+    lines: list[str] = []
+    for entry_slug in sorted(entries):
+        entry_links = entries[entry_slug]
+        lines.append(f"{entry_slug}:")
+        if "frente" in entry_links:
+            lines.append(f"  frente: {entry_links['frente']}")
+        if "tras" in entry_links:
+            lines.append(f"  tras: {entry_links['tras']}")
+        lines.append("")
+    path.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
 
 
 def mutable_coin_payload(coin: dict[str, object], frente_url: str, tras_url: str) -> dict[str, object]:
@@ -358,8 +437,9 @@ def main() -> int:
         print(f"Atual tras:   {coin.get('image_verso') or ''}")
         print(f"Nova tras:    {target_links['tras']}")
 
+        folder = Path(country_folder(str(coin.get("country") or args.country or ""), args.country_folder))
+
         if args.download_current or args.download_only:
-            folder = Path(country_folder(str(coin.get("country") or args.country or ""), args.country_folder))
             for side, api_field, subdir in (("frente", "image_frente", "frente"), ("tras", "image_verso", "tras")):
                 source_url = str(coin.get(api_field) or "")
                 destination = folder / subdir / f"{coin_slug}.jpg"
@@ -367,10 +447,20 @@ def main() -> int:
                     print(f"Download {side}: sem URL atual na API")
                     continue
                 if args.apply or args.download_only:
-                    status = download_image(source_url, destination, args.overwrite_images)
+                    status = download_image(
+                        source_url,
+                        destination,
+                        args.overwrite_images,
+                        args.ucoin_browser_profile,
+                        not args.no_ucoin_browser_fallback,
+                    )
                     print(f"Download {side}: {status} -> {destination}")
                 else:
                     print(f"Download {side}: dry-run -> {destination}")
+
+        if args.apply or args.download_only:
+            write_country_links(folder, coin_slug, target_links)
+            print(f"Links: atualizado -> {folder / 'links.txt'}")
 
         if args.download_only:
             continue
