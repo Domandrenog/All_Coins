@@ -1,0 +1,91 @@
+poland-1-grosz-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/frente/poland-1-grosz-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/tras/poland-1-grosz-1999.jpg
+
+poland-1-grosz-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/frente/poland-1-grosz-2014.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/tras/poland-1-grosz-2014.jpg
+
+poland-1-grosz-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/frente/poland-1-grosz-2018.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/tras/poland-1-grosz-2018.jpg
+
+poland-1-zloty-2008:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/frente/poland-1-zloty-2008.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/tras/poland-1-zloty-2008.jpg
+
+poland-1-zloty-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/frente/poland-1-zloty-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/tras/poland-1-zloty-2017.jpg
+
+poland-1-zloty-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/frente/poland-1-zloty-2022.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/tras/poland-1-zloty-2022.jpg
+
+poland-10-groszy-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/frente/poland-10-groszy-2014.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/tras/poland-10-groszy-2014.jpg
+
+poland-10-groszy-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/frente/poland-10-groszy-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/tras/poland-10-groszy-2017.jpg
+
+poland-10-groszy-2021:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/frente/poland-10-groszy-2021.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/tras/poland-10-groszy-2021.jpg
+
+poland-2-grosze-2008:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/frente/poland-2-grosze-2008.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/tras/poland-2-grosze-2008.jpg
+
+poland-2-grosze-2016:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/frente/poland-2-grosze-2016.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/tras/poland-2-grosze-2016.jpg
+
+poland-2-grosze-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/frente/poland-2-grosze-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/tras/poland-2-grosze-2017.jpg
+
+poland-2-zlote-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/frente/poland-2-zlote-2009.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/tras/poland-2-zlote-2009.jpg
+
+poland-20-groszy-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/frente/poland-20-groszy-2014.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/tras/poland-20-groszy-2014.jpg
+
+poland-20-groszy-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/frente/poland-20-groszy-2019.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/tras/poland-20-groszy-2019.jpg
+
+poland-20-groszy-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/frente/poland-20-groszy-2022.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/tras/poland-20-groszy-2022.jpg
+
+poland-5-groszy-2000:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/frente/poland-5-groszy-2000.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/tras/poland-5-groszy-2000.jpg
+
+poland-5-groszy-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/frente/poland-5-groszy-2015.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/tras/poland-5-groszy-2015.jpg
+
+poland-5-groszy-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/frente/poland-5-groszy-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/tras/poland-5-groszy-2017.jpg
+
+poland-5-zlotych-2008:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/frente/poland-5-zlotych-2008.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/tras/poland-5-zlotych-2008.jpg
+
+poland-50-groszy-1995:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/frente/poland-50-groszy-1995.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/tras/poland-50-groszy-1995.jpg
+
+poland-50-groszy-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/frente/poland-50-groszy-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/tras/poland-50-groszy-2017.jpg
+
+poland-50-groszy-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/frente/poland-50-groszy-2022.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Polonia/tras/poland-50-groszy-2022.jpg
