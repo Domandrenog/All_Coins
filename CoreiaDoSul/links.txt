@@ -1,6 +1,22 @@
+south-korea-1-won-1984:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/CoreiaDoSul/frente/south-korea-1-won-1984.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/CoreiaDoSul/tras/south-korea-1-won-1984.jpg
+
+south-korea-10-won-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/CoreiaDoSul/frente/south-korea-10-won-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/CoreiaDoSul/tras/south-korea-10-won-1999.jpg
+
+south-korea-10-won-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/CoreiaDoSul/frente/south-korea-10-won-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/CoreiaDoSul/tras/south-korea-10-won-2017.jpg
+
 south-korea-100-won-2003:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/CoreiaDoSul/frente/south-korea-100-won-2003.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/CoreiaDoSul/tras/south-korea-100-won-2003.jpg
+
+south-korea-5-won-1983:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/CoreiaDoSul/frente/south-korea-5-won-1983.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/CoreiaDoSul/tras/south-korea-5-won-1983.jpg
 
 south-korea-50-won-2005:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/CoreiaDoSul/frente/south-korea-50-won-2005.jpg

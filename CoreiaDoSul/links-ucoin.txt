@@ -1,6 +1,22 @@
+south-korea-1-won-1984:
+  frente: https://i.ucoin.net/coin/28/944/28944275-2s/south_korea-1-won-1984.jpg
+  tras: https://i.ucoin.net/coin/28/944/28944275-1s/south_korea-1-won-1984.jpg
+
+south-korea-10-won-1999:
+  frente: https://i.ucoin.net/coin/56/076/56076794-2s/south_korea-10-won-1999.jpg
+  tras: https://i.ucoin.net/coin/56/076/56076794-1s/south_korea-10-won-1999.jpg
+
+south-korea-10-won-2017:
+  frente: https://i.ucoin.net/coin/47/136/47136638-2s/south_korea-10-won-2017.jpg
+  tras: https://i.ucoin.net/coin/47/136/47136638-1s/south_korea-10-won-2017.jpg
+
 south-korea-100-won-2003:
   frente: https://i.ucoin.net/coin/83/473/83473581-2s/south_korea-100-won-2003.jpg
   tras: https://i.ucoin.net/coin/83/473/83473581-1s/south_korea-100-won-2003.jpg
+
+south-korea-5-won-1983:
+  frente: https://i.ucoin.net/coin/28/942/28942180-2s/south_korea-5-won-1983.jpg
+  tras: https://i.ucoin.net/coin/28/942/28942180-1s/south_korea-5-won-1983.jpg
 
 south-korea-50-won-2005:
   frente: https://i.ucoin.net/coin/54/007/54007196-2s/south_korea-50-won-2005.jpg
