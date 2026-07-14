@@ -42,7 +42,7 @@ Se precisares de forçar o slug de uma moeda específica:
 
 - `python3 sync_coin_images_api.py --country Polonia --name "1 grosz" --years 2018 --slug poland-1-grosz-2018`
 
-Para países com acentos ou nomes compostos, o script infere pastas sem acentos, por exemplo `EmiradosArabesUnidos`, `Japao`, `Malasia`, `Singapura` e `Taiwan`.
+Para países com acentos ou nomes compostos, o script infere pastas sem acentos, por exemplo `EmiradosArabesUnidos`, `Japao`, `Malasia`, `Singapura`, `Taiwan`, `Tailandia` e `Tunisia`.
 
 Por defeito, moedas que não tenham imagens do `i.ucoin.net` nos dois lados são saltadas e ficam como estão. Para incluir essas moedas explicitamente:
 

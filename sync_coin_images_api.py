@@ -36,6 +36,7 @@ COUNTRY_SLUG_ALIASES = {
     "macau": ["macau"],
     "malasia": ["malasia", "malaysia"],
     "malaysia": ["malaysia", "malasia"],
+    "seychelles": ["seychelles"],
     "singapura": ["singapura", "singapore"],
     "singapore": ["singapore", "singapura"],
     "sri-lanka": ["sri-lanka"],
@@ -43,6 +44,7 @@ COUNTRY_SLUG_ALIASES = {
     "thailand": ["thailand", "tailandia"],
     "hong-kong": ["hong-kong"],
     "taiwan": ["taiwan"],
+    "tunisia": ["tunisia"],
 }
 
 COUNTRY_FILE_SLUGS = {
@@ -60,6 +62,7 @@ COUNTRY_FILE_SLUGS = {
     "macau": "macau",
     "malasia": "malaysia",
     "malaysia": "malaysia",
+    "seychelles": "seychelles",
     "singapura": "singapore",
     "singapore": "singapore",
     "sri-lanka": "sri-lanka",
@@ -67,6 +70,7 @@ COUNTRY_FILE_SLUGS = {
     "thailand": "thailand",
     "hong-kong": "hong-kong",
     "taiwan": "taiwan",
+    "tunisia": "tunisia",
 }
 
 COUNTRY_FOLDERS = {
@@ -84,6 +88,7 @@ COUNTRY_FOLDERS = {
     "macau": "Macau",
     "malasia": "Malasia",
     "malaysia": "Malasia",
+    "seychelles": "Seychelles",
     "singapura": "Singapura",
     "singapore": "Singapura",
     "sri-lanka": "SriLanka",
@@ -91,6 +96,7 @@ COUNTRY_FOLDERS = {
     "thailand": "Tailandia",
     "hong-kong": "HongKong",
     "taiwan": "Taiwan",
+    "tunisia": "Tunisia",
 }
 
 
