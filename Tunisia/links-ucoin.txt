@@ -74,7 +74,11 @@ tunisia-200-millimes-2020:
   frente: https://i.ucoin.net/coin/55/538/55538373-2s/tunisia-200-millimes-2020.jpg
   tras: https://i.ucoin.net/coin/55/538/55538373-1s/tunisia-200-millimes-2020.jpg
 
-tunisia-5-dinars-2002:
+tunisia-5-dinars-2002-estrela-com-buraco:
+  frente: https://i.ucoin.net/coin/68/883/68883187-2s/tunisia-5-dinars-2002.jpg
+  tras: https://i.ucoin.net/coin/68/883/68883187-1s/tunisia-5-dinars-2002.jpg
+
+tunisia-5-dinars-2002-estrela-sem-buraco:
   frente: https://i.ucoin.net/coin/68/883/68883187-2s/tunisia-5-dinars-2002.jpg
   tras: https://i.ucoin.net/coin/68/883/68883187-1s/tunisia-5-dinars-2002.jpg
 
@@ -90,6 +94,10 @@ tunisia-50-millimes-2007:
   frente: https://i.ucoin.net/coin/46/528/46528943-2s/tunisia-50-millimes-2007.jpg
   tras: https://i.ucoin.net/coin/46/528/46528943-1s/tunisia-50-millimes-2007.jpg
 
-tunisia-50-millimes-2017:
+tunisia-50-millimes-2017-100-milim-1960-2018:
+  frente: https://i.ucoin.net/coin/27/135/27135438-2s/tunisia-50-millimes-2017.jpg
+  tras: https://i.ucoin.net/coin/27/135/27135438-1s/tunisia-50-millimes-2017.jpg
+
+tunisia-50-millimes-2017-50-milim-2013-2024:
   frente: https://i.ucoin.net/coin/27/135/27135438-2s/tunisia-50-millimes-2017.jpg
   tras: https://i.ucoin.net/coin/27/135/27135438-1s/tunisia-50-millimes-2017.jpg

@@ -48,6 +48,8 @@ Por defeito, moedas que não tenham imagens do `i.ucoin.net` nos dois lados são
 
 - `python3 sync_coin_images_api.py --country Tailândia --download-current --apply --include-without-ucoin`
 
+Quando duas moedas geram o mesmo nome de ficheiro a partir do URL original, o script acrescenta dados da moeda ao slug para manter ficheiros e links separados.
+
 Se a moeda não for encontrada pelos filtros, indica o ID diretamente:
 
 - `python3 sync_coin_images_api.py --coin-id "<Coin_id>" --country-folder Polonia --slug poland-1-grosz-2018`

@@ -74,9 +74,13 @@ tunisia-200-millimes-2020:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-200-millimes-2020.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-200-millimes-2020.jpg
 
-tunisia-5-dinars-2002:
-  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-5-dinars-2002.jpg
-  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-5-dinars-2002.jpg
+tunisia-5-dinars-2002-estrela-com-buraco:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-5-dinars-2002-estrela-com-buraco.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-5-dinars-2002-estrela-com-buraco.jpg
+
+tunisia-5-dinars-2002-estrela-sem-buraco:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-5-dinars-2002-estrela-sem-buraco.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-5-dinars-2002-estrela-sem-buraco.jpg
 
 tunisia-5-dinars-2021:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-5-dinars-2021.jpg
@@ -90,6 +94,10 @@ tunisia-50-millimes-2007:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-50-millimes-2007.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-50-millimes-2007.jpg
 
-tunisia-50-millimes-2017:
-  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-50-millimes-2017.jpg
-  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-50-millimes-2017.jpg
+tunisia-50-millimes-2017-100-milim-1960-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-50-millimes-2017-100-milim-1960-2018.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-50-millimes-2017-100-milim-1960-2018.jpg
+
+tunisia-50-millimes-2017-50-milim-2013-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-50-millimes-2017-50-milim-2013-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-50-millimes-2017-50-milim-2013-2024.jpg

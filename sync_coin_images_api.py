@@ -165,6 +165,39 @@ def coin_file_slug(coin: dict[str, object], manual_slug: str | None = None) -> s
     return slug
 
 
+def duplicate_coin_slug(base_slug: str, coin: dict[str, object]) -> str:
+    parts = [
+        slugify(str(coin.get("name") or "")),
+        slugify(str(coin.get("years") or "")),
+        slugify(str(coin.get("notes") or "")),
+    ]
+    suffix = "-".join(part for part in parts if part)
+    if suffix:
+        return f"{base_slug}-{suffix}"
+
+    coin_id = str(coin.get("id") or "")
+    if coin_id:
+        return f"{base_slug}-{coin_id[-8:]}"
+    return base_slug
+
+
+def unique_coin_slugs(coins: list[dict[str, object]], manual_slug: str | None = None) -> dict[str, str]:
+    base_slugs = [coin_file_slug(coin, manual_slug) for coin in coins]
+    duplicate_bases = {slug for slug in base_slugs if base_slugs.count(slug) > 1}
+    used_slugs: set[str] = set()
+    slugs: dict[str, str] = {}
+
+    for index, (coin, base_slug) in enumerate(zip(coins, base_slugs)):
+        coin_id = str(coin.get("id") or index)
+        slug = duplicate_coin_slug(base_slug, coin) if base_slug in duplicate_bases else base_slug
+        if slug in used_slugs:
+            slug = f"{slug}-{coin_id[-8:]}"
+        used_slugs.add(slug)
+        slugs[coin_id] = slug
+
+    return slugs
+
+
 def image_file_slug(url: str) -> str:
     if not url:
         return ""
@@ -174,9 +207,8 @@ def image_file_slug(url: str) -> str:
     return slugify(stem.replace("_", "-"))
 
 
-def generated_image_links(coin: dict[str, object], args: argparse.Namespace) -> dict[str, str]:
+def generated_image_links(coin: dict[str, object], args: argparse.Namespace, slug: str) -> dict[str, str]:
     folder = country_folder(str(coin.get("country") or args.country or ""), args.country_folder)
-    slug = coin_file_slug(coin, args.slug)
     base_url = args.raw_base_url.rstrip("/")
     return {
         "frente": f"{base_url}/{folder}/frente/{slug}.jpg",
@@ -475,6 +507,7 @@ def main() -> int:
         return 2
 
     pending_updates: list[tuple[str, dict[str, object]]] = []
+    coin_slugs = unique_coin_slugs(coins, args.slug)
 
     print(f"Moedas encontradas: {len(coins)}")
     for coin in coins:
@@ -483,8 +516,8 @@ def main() -> int:
             print(f"Moeda encontrada sem id: {coin!r}", file=sys.stderr)
             return 2
 
-        target_links = generated_image_links(coin, args)
-        coin_slug = coin_file_slug(coin, args.slug)
+        coin_slug = coin_slugs[coin_id]
+        target_links = generated_image_links(coin, args, coin_slug)
 
         print("")
         print(f"Moeda API: {coin_id} | {coin.get('country')} | {coin.get('name')} | {coin.get('years')}")
