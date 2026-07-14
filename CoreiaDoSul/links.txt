@@ -1,3 +1,7 @@
+south-korea-100-won-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/CoreiaDoSul/frente/south-korea-100-won-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/CoreiaDoSul/tras/south-korea-100-won-2003.jpg
+
 south-korea-500-won-2023:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/CoreiaDoSul/frente/south-korea-500-won-2023.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/CoreiaDoSul/tras/south-korea-500-won-2023.jpg
