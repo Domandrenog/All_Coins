@@ -1,0 +1,203 @@
+united-arab-emirates-1-dirham-1973:
+  frente: https://i.ucoin.net/coin/70/979/70979767-2/united_arab_emirates-1-dirham-1973.jpg
+  tras: https://i.ucoin.net/coin/70/979/70979767-1/united_arab_emirates-1-dirham-1973.jpg
+
+united-arab-emirates-1-dirham-1982:
+  frente: https://i.ucoin.net/coin/5/837/5837007-2/united_arab_emirates-1-dirham-1982.jpg
+  tras: https://i.ucoin.net/coin/5/837/5837007-1/united_arab_emirates-1-dirham-1982.jpg
+
+united-arab-emirates-1-dirham-1984:
+  frente: https://i.ucoin.net/coin/17/336/17336088-2/united_arab_emirates-1-dirham-1984.jpg
+  tras: https://i.ucoin.net/coin/17/336/17336088-1/united_arab_emirates-1-dirham-1984.jpg
+
+united-arab-emirates-1-dirham-1986:
+  frente: https://i.ucoin.net/coin/26/818/26818336-2/united_arab_emirates-1-dirham-1986.jpg
+  tras: https://i.ucoin.net/coin/26/818/26818336-1/united_arab_emirates-1-dirham-1986.jpg
+
+united-arab-emirates-1-dirham-1987:
+  frente: https://i.ucoin.net/coin/72/232/72232447-2/united_arab_emirates-1-dirham-1987.jpg
+  tras: https://i.ucoin.net/coin/72/232/72232447-1/united_arab_emirates-1-dirham-1987.jpg
+
+united-arab-emirates-1-dirham-1988:
+  frente: https://i.ucoin.net/coin/71/261/71261253-2/united_arab_emirates-1-dirham-1988.jpg
+  tras: https://i.ucoin.net/coin/71/261/71261253-1/united_arab_emirates-1-dirham-1988.jpg
+
+united-arab-emirates-1-dirham-1989:
+  frente: https://i.ucoin.net/coin/70/979/70979507-2/united_arab_emirates-1-dirham-1989.jpg
+  tras: https://i.ucoin.net/coin/70/979/70979507-1/united_arab_emirates-1-dirham-1989.jpg
+
+united-arab-emirates-1-dirham-1995:
+  frente: https://i.ucoin.net/coin/70/979/70979857-2/united_arab_emirates-1-dirham-1995.jpg
+  tras: https://i.ucoin.net/coin/70/979/70979857-1/united_arab_emirates-1-dirham-1995.jpg
+
+united-arab-emirates-1-dirham-1998:
+  frente: https://i.ucoin.net/coin/38/182/38182922-2/united_arab_emirates-1-dirham-1998.jpg
+  tras: https://i.ucoin.net/coin/38/182/38182922-1/united_arab_emirates-1-dirham-1998.jpg
+
+united-arab-emirates-1-dirham-2005:
+  frente: https://i.ucoin.net/coin/50/463/50463945-2/united_arab_emirates-1-dirham-2005.jpg
+  tras: https://i.ucoin.net/coin/50/463/50463945-1/united_arab_emirates-1-dirham-2005.jpg
+
+united-arab-emirates-1-dirham-2007:
+  frente: https://i.ucoin.net/coin/30/711/30711474-2/united_arab_emirates-1-dirham-2007.jpg
+  tras: https://i.ucoin.net/coin/30/711/30711474-1/united_arab_emirates-1-dirham-2007.jpg
+
+united-arab-emirates-1-dirham-2012:
+  frente: https://i.ucoin.net/coin/32/761/32761309-2/united_arab_emirates-1-dirham-2012.jpg
+  tras: https://i.ucoin.net/coin/32/761/32761309-1/united_arab_emirates-1-dirham-2012.jpg
+
+united-arab-emirates-1-dirham-2014:
+  frente: https://i.ucoin.net/coin/25/220/25220694-2/united_arab_emirates-1-dirham-2014.jpg
+  tras: https://i.ucoin.net/coin/25/220/25220694-1/united_arab_emirates-1-dirham-2014.jpg
+
+united-arab-emirates-1-dirham-2022:
+  frente: https://i.ucoin.net/coin/62/668/62668836-2/united_arab_emirates-1-dirham-2022.jpg
+  tras: https://i.ucoin.net/coin/62/668/62668836-1/united_arab_emirates-1-dirham-2022.jpg
+
+united-arab-emirates-1-dirham-2025:
+  frente: https://i.ucoin.net/coin/84/054/84054906-2/united_arab_emirates-1-dirham-2025.jpg
+  tras: https://i.ucoin.net/coin/84/054/84054906-1/united_arab_emirates-1-dirham-2025.jpg
+
+united-arab-emirates-1-fils-1989:
+  frente: https://i.ucoin.net/coin/13/096/13096734-2s/united_arab_emirates-1-fils-1989.jpg
+  tras: https://i.ucoin.net/coin/13/096/13096734-1s/united_arab_emirates-1-fils-1989.jpg
+
+united-arab-emirates-1-fils-2018:
+  frente: https://i.ucoin.net/coin/44/857/44857219-2s/united_arab_emirates-1-fils-2018.jpg
+  tras: https://i.ucoin.net/coin/44/857/44857219-1s/united_arab_emirates-1-fils-2018.jpg
+
+united-arab-emirates-10-fils-1973:
+  frente: https://i.ucoin.net/coin/19/904/19904645-2s/united_arab_emirates-10-fils-1973.jpg
+  tras: https://i.ucoin.net/coin/19/904/19904645-1s/united_arab_emirates-10-fils-1973.jpg
+
+united-arab-emirates-10-fils-2001:
+  frente: https://i.ucoin.net/coin/2/266/2266612-2s/united_arab_emirates-10-fils-2001.jpg
+  tras: https://i.ucoin.net/coin/2/266/2266612-1s/united_arab_emirates-10-fils-2001.jpg
+
+united-arab-emirates-10-fils-2017:
+  frente: https://i.ucoin.net/coin/22/442/22442402-2s/united_arab_emirates-10-fils-2017.jpg
+  tras: https://i.ucoin.net/coin/22/442/22442402-1s/united_arab_emirates-10-fils-2017.jpg
+
+united-arab-emirates-25-fils-1973:
+  frente: https://i.ucoin.net/coin/73/380/73380375-2/united_arab_emirates-25-fils-1973.jpg
+  tras: https://i.ucoin.net/coin/73/380/73380375-1/united_arab_emirates-25-fils-1973.jpg
+
+united-arab-emirates-25-fils-1982:
+  frente: https://i.ucoin.net/coin/67/777/67777843-2/united_arab_emirates-25-fils-1982.jpg
+  tras: https://i.ucoin.net/coin/67/777/67777843-1/united_arab_emirates-25-fils-1982.jpg
+
+united-arab-emirates-25-fils-1984:
+  frente: https://i.ucoin.net/coin/23/476/23476343-2/united_arab_emirates-25-fils-1984.jpg
+  tras: https://i.ucoin.net/coin/23/476/23476343-1/united_arab_emirates-25-fils-1984.jpg
+
+united-arab-emirates-25-fils-1986:
+  frente: https://i.ucoin.net/coin/1/728/1728499-2/united_arab_emirates-25-fils-1986.jpg
+  tras: https://i.ucoin.net/coin/1/728/1728499-1/united_arab_emirates-25-fils-1986.jpg
+
+united-arab-emirates-25-fils-1987:
+  frente: https://i.ucoin.net/coin/1/987/1987313-2/united_arab_emirates-25-fils-1987.jpg
+  tras: https://i.ucoin.net/coin/1/987/1987313-1/united_arab_emirates-25-fils-1987.jpg
+
+united-arab-emirates-25-fils-1988:
+  frente: https://i.ucoin.net/coin/23/476/23476597-2/united_arab_emirates-25-fils-1988.jpg
+  tras: https://i.ucoin.net/coin/23/476/23476597-1/united_arab_emirates-25-fils-1988.jpg
+
+united-arab-emirates-25-fils-1989:
+  frente: https://i.ucoin.net/coin/23/764/23764499-2/united_arab_emirates-25-fils-1989.jpg
+  tras: https://i.ucoin.net/coin/23/764/23764499-1/united_arab_emirates-25-fils-1989.jpg
+
+united-arab-emirates-25-fils-1995:
+  frente: https://i.ucoin.net/coin/32/761/32761080-2/united_arab_emirates-25-fils-1995.jpg
+  tras: https://i.ucoin.net/coin/32/761/32761080-1/united_arab_emirates-25-fils-1995.jpg
+
+united-arab-emirates-25-fils-1998:
+  frente: https://i.ucoin.net/coin/70/975/70975884-2/united_arab_emirates-25-fils-1998.jpg
+  tras: https://i.ucoin.net/coin/70/975/70975884-1/united_arab_emirates-25-fils-1998.jpg
+
+united-arab-emirates-25-fils-2005:
+  frente: https://i.ucoin.net/coin/0/1/1222-2/united_arab_emirates-25-fils-2005.jpg
+  tras: https://i.ucoin.net/coin/0/1/1222-1/united_arab_emirates-25-fils-2005.jpg
+
+united-arab-emirates-25-fils-2007:
+  frente: https://i.ucoin.net/coin/14/479/14479263-2/united_arab_emirates-25-fils-2007.jpg
+  tras: https://i.ucoin.net/coin/14/479/14479263-1/united_arab_emirates-25-fils-2007.jpg
+
+united-arab-emirates-25-fils-2011:
+  frente: https://i.ucoin.net/coin/64/539/64539536-2/united_arab_emirates-25-fils-2011.jpg
+  tras: https://i.ucoin.net/coin/64/539/64539536-1/united_arab_emirates-25-fils-2011.jpg
+
+united-arab-emirates-25-fils-2014:
+  frente: https://i.ucoin.net/coin/46/837/46837778-2/united_arab_emirates-25-fils-2014.jpg
+  tras: https://i.ucoin.net/coin/46/837/46837778-1/united_arab_emirates-25-fils-2014.jpg
+
+united-arab-emirates-25-fils-2017:
+  frente: https://i.ucoin.net/coin/80/583/80583818-2/united_arab_emirates-25-fils-2017.jpg
+  tras: https://i.ucoin.net/coin/80/583/80583818-1/united_arab_emirates-25-fils-2017.jpg
+
+united-arab-emirates-25-fils-2018:
+  frente: https://i.ucoin.net/coin/62/988/62988701-2/united_arab_emirates-25-fils-2018.jpg
+  tras: https://i.ucoin.net/coin/62/988/62988701-1/united_arab_emirates-25-fils-2018.jpg
+
+united-arab-emirates-25-fils-2022:
+  frente: https://i.ucoin.net/coin/62/668/62668679-2/united_arab_emirates-25-fils-2022.jpg
+  tras: https://i.ucoin.net/coin/62/668/62668679-1/united_arab_emirates-25-fils-2022.jpg
+
+united-arab-emirates-5-fils-1973:
+  frente: https://i.ucoin.net/coin/49/728/49728692-2s/united_arab_emirates-5-fils-1973.jpg
+  tras: https://i.ucoin.net/coin/49/728/49728692-1s/united_arab_emirates-5-fils-1973.jpg
+
+united-arab-emirates-5-fils-1996:
+  frente: https://i.ucoin.net/coin/70/972/70972210-2s/united_arab_emirates-5-fils-1996.jpg
+  tras: https://i.ucoin.net/coin/70/972/70972210-1s/united_arab_emirates-5-fils-1996.jpg
+
+united-arab-emirates-5-fils-2018:
+  frente: https://i.ucoin.net/coin/23/356/23356844-2s/united_arab_emirates-5-fils-2018.jpg
+  tras: https://i.ucoin.net/coin/23/356/23356844-1s/united_arab_emirates-5-fils-2018.jpg
+
+united-arab-emirates-50-fils-1973:
+  frente: https://i.ucoin.net/coin/70/979/70979701-2/united_arab_emirates-50-fils-1973.jpg
+  tras: https://i.ucoin.net/coin/70/979/70979701-1/united_arab_emirates-50-fils-1973.jpg
+
+united-arab-emirates-50-fils-1982:
+  frente: https://i.ucoin.net/coin/0/1/1224-2/united_arab_emirates-50-fils-1982.jpg
+  tras: https://i.ucoin.net/coin/0/1/1224-1/united_arab_emirates-50-fils-1982.jpg
+
+united-arab-emirates-50-fils-1984:
+  frente: https://i.ucoin.net/coin/1/504/1504545-2/united_arab_emirates-50-fils-1984.jpg
+  tras: https://i.ucoin.net/coin/1/504/1504545-1/united_arab_emirates-50-fils-1984.jpg
+
+united-arab-emirates-50-fils-1987:
+  frente: https://i.ucoin.net/coin/2/417/2417007-2/united_arab_emirates-50-fils-1987.jpg
+  tras: https://i.ucoin.net/coin/2/417/2417007-1/united_arab_emirates-50-fils-1987.jpg
+
+united-arab-emirates-50-fils-1988:
+  frente: https://i.ucoin.net/coin/74/509/74509901-2/united_arab_emirates-50-fils-1988.jpg
+  tras: https://i.ucoin.net/coin/74/509/74509901-1/united_arab_emirates-50-fils-1988.jpg
+
+united-arab-emirates-50-fils-1989:
+  frente: https://i.ucoin.net/coin/70/975/70975834-2/united_arab_emirates-50-fils-1989.jpg
+  tras: https://i.ucoin.net/coin/70/975/70975834-1/united_arab_emirates-50-fils-1989.jpg
+
+united-arab-emirates-50-fils-1995:
+  frente: https://i.ucoin.net/coin/71/261/71261198-2/united_arab_emirates-50-fils-1995.jpg
+  tras: https://i.ucoin.net/coin/71/261/71261198-1/united_arab_emirates-50-fils-1995.jpg
+
+united-arab-emirates-50-fils-1998:
+  frente: https://i.ucoin.net/coin/64/171/64171782-2/united_arab_emirates-50-fils-1998.jpg
+  tras: https://i.ucoin.net/coin/64/171/64171782-1/united_arab_emirates-50-fils-1998.jpg
+
+united-arab-emirates-50-fils-2005:
+  frente: https://i.ucoin.net/coin/17/342/17342647-2/united_arab_emirates-50-fils-2005.jpg
+  tras: https://i.ucoin.net/coin/17/342/17342647-1/united_arab_emirates-50-fils-2005.jpg
+
+united-arab-emirates-50-fils-2007:
+  frente: https://i.ucoin.net/coin/30/711/30711307-2/united_arab_emirates-50-fils-2007.jpg
+  tras: https://i.ucoin.net/coin/30/711/30711307-1/united_arab_emirates-50-fils-2007.jpg
+
+united-arab-emirates-50-fils-2013:
+  frente: https://i.ucoin.net/coin/14/479/14479310-2/united_arab_emirates-50-fils-2013.jpg
+  tras: https://i.ucoin.net/coin/14/479/14479310-1/united_arab_emirates-50-fils-2013.jpg
+
+united-arab-emirates-50-fils-2017:
+  frente: https://i.ucoin.net/coin/25/569/25569838-2/united_arab_emirates-50-fils-2017.jpg
+  tras: https://i.ucoin.net/coin/25/569/25569838-1/united_arab_emirates-50-fils-2017.jpg

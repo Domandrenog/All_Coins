@@ -1,0 +1,203 @@
+united-arab-emirates-1-dirham-1973:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-1-dirham-1973.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-1-dirham-1973.jpg
+
+united-arab-emirates-1-dirham-1982:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-1-dirham-1982.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-1-dirham-1982.jpg
+
+united-arab-emirates-1-dirham-1984:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-1-dirham-1984.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-1-dirham-1984.jpg
+
+united-arab-emirates-1-dirham-1986:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-1-dirham-1986.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-1-dirham-1986.jpg
+
+united-arab-emirates-1-dirham-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-1-dirham-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-1-dirham-1987.jpg
+
+united-arab-emirates-1-dirham-1988:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-1-dirham-1988.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-1-dirham-1988.jpg
+
+united-arab-emirates-1-dirham-1989:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-1-dirham-1989.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-1-dirham-1989.jpg
+
+united-arab-emirates-1-dirham-1995:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-1-dirham-1995.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-1-dirham-1995.jpg
+
+united-arab-emirates-1-dirham-1998:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-1-dirham-1998.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-1-dirham-1998.jpg
+
+united-arab-emirates-1-dirham-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-1-dirham-2005.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-1-dirham-2005.jpg
+
+united-arab-emirates-1-dirham-2007:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-1-dirham-2007.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-1-dirham-2007.jpg
+
+united-arab-emirates-1-dirham-2012:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-1-dirham-2012.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-1-dirham-2012.jpg
+
+united-arab-emirates-1-dirham-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-1-dirham-2014.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-1-dirham-2014.jpg
+
+united-arab-emirates-1-dirham-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-1-dirham-2022.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-1-dirham-2022.jpg
+
+united-arab-emirates-1-dirham-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-1-dirham-2025.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-1-dirham-2025.jpg
+
+united-arab-emirates-1-fils-1989:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-1-fils-1989.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-1-fils-1989.jpg
+
+united-arab-emirates-1-fils-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-1-fils-2018.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-1-fils-2018.jpg
+
+united-arab-emirates-10-fils-1973:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-10-fils-1973.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-10-fils-1973.jpg
+
+united-arab-emirates-10-fils-2001:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-10-fils-2001.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-10-fils-2001.jpg
+
+united-arab-emirates-10-fils-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-10-fils-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-10-fils-2017.jpg
+
+united-arab-emirates-25-fils-1973:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-25-fils-1973.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-25-fils-1973.jpg
+
+united-arab-emirates-25-fils-1982:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-25-fils-1982.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-25-fils-1982.jpg
+
+united-arab-emirates-25-fils-1984:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-25-fils-1984.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-25-fils-1984.jpg
+
+united-arab-emirates-25-fils-1986:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-25-fils-1986.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-25-fils-1986.jpg
+
+united-arab-emirates-25-fils-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-25-fils-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-25-fils-1987.jpg
+
+united-arab-emirates-25-fils-1988:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-25-fils-1988.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-25-fils-1988.jpg
+
+united-arab-emirates-25-fils-1989:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-25-fils-1989.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-25-fils-1989.jpg
+
+united-arab-emirates-25-fils-1995:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-25-fils-1995.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-25-fils-1995.jpg
+
+united-arab-emirates-25-fils-1998:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-25-fils-1998.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-25-fils-1998.jpg
+
+united-arab-emirates-25-fils-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-25-fils-2005.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-25-fils-2005.jpg
+
+united-arab-emirates-25-fils-2007:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-25-fils-2007.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-25-fils-2007.jpg
+
+united-arab-emirates-25-fils-2011:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-25-fils-2011.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-25-fils-2011.jpg
+
+united-arab-emirates-25-fils-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-25-fils-2014.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-25-fils-2014.jpg
+
+united-arab-emirates-25-fils-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-25-fils-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-25-fils-2017.jpg
+
+united-arab-emirates-25-fils-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-25-fils-2018.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-25-fils-2018.jpg
+
+united-arab-emirates-25-fils-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-25-fils-2022.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-25-fils-2022.jpg
+
+united-arab-emirates-5-fils-1973:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-5-fils-1973.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-5-fils-1973.jpg
+
+united-arab-emirates-5-fils-1996:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-5-fils-1996.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-5-fils-1996.jpg
+
+united-arab-emirates-5-fils-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-5-fils-2018.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-5-fils-2018.jpg
+
+united-arab-emirates-50-fils-1973:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-50-fils-1973.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-50-fils-1973.jpg
+
+united-arab-emirates-50-fils-1982:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-50-fils-1982.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-50-fils-1982.jpg
+
+united-arab-emirates-50-fils-1984:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-50-fils-1984.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-50-fils-1984.jpg
+
+united-arab-emirates-50-fils-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-50-fils-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-50-fils-1987.jpg
+
+united-arab-emirates-50-fils-1988:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-50-fils-1988.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-50-fils-1988.jpg
+
+united-arab-emirates-50-fils-1989:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-50-fils-1989.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-50-fils-1989.jpg
+
+united-arab-emirates-50-fils-1995:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-50-fils-1995.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-50-fils-1995.jpg
+
+united-arab-emirates-50-fils-1998:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-50-fils-1998.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-50-fils-1998.jpg
+
+united-arab-emirates-50-fils-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-50-fils-2005.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-50-fils-2005.jpg
+
+united-arab-emirates-50-fils-2007:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-50-fils-2007.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-50-fils-2007.jpg
+
+united-arab-emirates-50-fils-2013:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-50-fils-2013.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-50-fils-2013.jpg
+
+united-arab-emirates-50-fils-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/frente/united-arab-emirates-50-fils-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/EmiradosArabesUnidos/tras/united-arab-emirates-50-fils-2017.jpg
