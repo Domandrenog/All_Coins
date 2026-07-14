@@ -20,6 +20,20 @@ Os URLs são gerados neste formato:
 4. Quando o resultado estiver certo, aplica:
   - `python3 sync_coin_images_api.py --country Polonia --apply`
 
+Em execuções reais (`--apply` ou `--download-only`), o script faz automaticamente:
+
+- `git add .`
+- `git commit -m "Update coin image assets"`
+- `git push`
+
+Isto garante que as imagens ficam disponíveis no GitHub antes da API apontar para os URLs raw. Para desligar esse comportamento:
+
+- `python3 sync_coin_images_api.py --country Polonia --apply --no-git-push`
+
+Para escolher a mensagem do commit automático:
+
+- `python3 sync_coin_images_api.py --country Polonia --apply --git-commit-message "Add Poland coin images"`
+
 Se precisares de forçar o slug de uma moeda específica:
 
 - `python3 sync_coin_images_api.py --country Polonia --name "1 grosz" --years 2018 --slug poland-1-grosz-2018`

@@ -66,6 +66,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--download-only", action="store_true", help="Descarrega as imagens atuais, mas não atualiza a API.")
     parser.add_argument("--overwrite-images", action="store_true", help="Substitui imagens locais existentes ao descarregar.")
     parser.add_argument("--apply", action="store_true", help="Aplica a atualização na API. Sem isto, só mostra o plano.")
+    parser.add_argument("--no-git-push", action="store_true", help="Não faz git add/commit/push automático em execuções reais.")
+    parser.add_argument("--git-commit-message", default="Update coin image assets", help="Mensagem do commit automático.")
     return parser.parse_args()
 
 
@@ -290,6 +292,37 @@ def mutable_coin_payload(coin: dict[str, object], frente_url: str, tras_url: str
     return payload
 
 
+def run_git(command: list[str]) -> str:
+    proc = subprocess.run(["git", *command], capture_output=True, text=True)
+    if proc.returncode != 0:
+        details = (proc.stderr or proc.stdout or "erro desconhecido").strip()
+        raise RuntimeError(f"git {' '.join(command)} falhou: {details}")
+    return proc.stdout.strip()
+
+
+def git_has_changes() -> bool:
+    return bool(run_git(["status", "--porcelain"]))
+
+
+def git_commit_and_push(message: str) -> None:
+    if not git_has_changes():
+        print("Git: sem alterações para commit/push.")
+        return
+
+    print("Git: add .")
+    run_git(["add", "."])
+
+    if not git_has_changes():
+        print("Git: sem alterações staged para commit.")
+        return
+
+    print(f"Git: commit -m {message!r}")
+    run_git(["commit", "-m", message])
+    print("Git: push")
+    run_git(["push"])
+    print("Git: push concluído.")
+
+
 def main() -> int:
     args = parse_args()
     api_key = os.environ.get(args.api_key_env)
@@ -305,6 +338,8 @@ def main() -> int:
     if not coins:
         print("Nenhuma moeda encontrada para os filtros indicados.", file=sys.stderr)
         return 2
+
+    pending_updates: list[tuple[str, dict[str, object]]] = []
 
     print(f"Moedas encontradas: {len(coins)}")
     for coin in coins:
@@ -343,7 +378,13 @@ def main() -> int:
         if not args.apply:
             continue
 
-        payload = mutable_coin_payload(coin, target_links["frente"], target_links["tras"])
+        pending_updates.append((coin_id, mutable_coin_payload(coin, target_links["frente"], target_links["tras"])))
+
+    should_git_push = (args.apply or args.download_only) and not args.no_git_push
+    if should_git_push:
+        git_commit_and_push(args.git_commit_message)
+
+    for coin_id, payload in pending_updates:
         api_request("PUT", f"/entities/Coin/{coin_id}", api_key, payload=payload)
         updated_coin = api_request("GET", f"/entities/Coin/{coin_id}", api_key)
         if not isinstance(updated_coin, dict):
