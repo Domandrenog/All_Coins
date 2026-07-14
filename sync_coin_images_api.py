@@ -34,6 +34,9 @@ COUNTRY_SLUG_ALIASES = {
     "south-korea": ["south-korea", "coreia-do-sul"],
     "emirados-arabes-unidos": ["emirados-arabes-unidos", "united-arab-emirates"],
     "united-arab-emirates": ["united-arab-emirates", "emirados-arabes-unidos"],
+    "eua": ["eua", "united-states", "usa"],
+    "united-states": ["united-states", "eua", "usa"],
+    "usa": ["usa", "eua", "united-states"],
     "japao": ["japao", "japan"],
     "japan": ["japan", "japao"],
     "macau": ["macau"],
@@ -66,6 +69,9 @@ COUNTRY_FILE_SLUGS = {
     "south-korea": "south-korea",
     "emirados-arabes-unidos": "united-arab-emirates",
     "united-arab-emirates": "united-arab-emirates",
+    "eua": "united-states",
+    "united-states": "united-states",
+    "usa": "united-states",
     "japao": "japan",
     "japan": "japan",
     "macau": "macau",
@@ -98,6 +104,9 @@ COUNTRY_FOLDERS = {
     "south-korea": "CoreiaDoSul",
     "emirados-arabes-unidos": "EmiradosArabesUnidos",
     "united-arab-emirates": "EmiradosArabesUnidos",
+    "eua": "EUA",
+    "united-states": "EUA",
+    "usa": "EUA",
     "japao": "Japao",
     "japan": "Japao",
     "macau": "Macau",
@@ -554,11 +563,15 @@ def main() -> int:
             continue
 
         folder = Path(country_folder(str(coin.get("country") or args.country or ""), args.country_folder))
+        target_files = {
+            "frente": folder / "frente" / f"{coin_slug}.jpg",
+            "tras": folder / "tras" / f"{coin_slug}.jpg",
+        }
 
         if args.download_current or args.download_only:
             for side, api_field, subdir in (("frente", "image_frente", "frente"), ("tras", "image_verso", "tras")):
                 source_url = str(coin.get(api_field) or "")
-                destination = folder / subdir / f"{coin_slug}.jpg"
+                destination = target_files[side]
                 if not source_url:
                     print(f"Download {side}: sem URL atual na API")
                     continue
@@ -573,6 +586,12 @@ def main() -> int:
                     print(f"Download {side}: {status} -> {destination}")
                 else:
                     print(f"Download {side}: dry-run -> {destination}")
+
+        if args.apply and not args.download_current and not args.download_only:
+            missing_sides = [side for side, path in target_files.items() if not path.exists()]
+            if missing_sides:
+                print(f"Saltada: imagens locais em falta ({', '.join(missing_sides)}); fica como está.")
+                continue
 
         if args.apply or args.download_only:
             write_country_links(folder, coin_slug, target_links)

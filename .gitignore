@@ -1,4 +1,5 @@
 .ucoin-profile/
+.env
 ucoin_probe_output/
 ucoin_probe_verso/
 __pycache__/
