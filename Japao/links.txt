@@ -1,0 +1,95 @@
+japan-1-yen-1983:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/frente/japan-1-yen-1983.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/tras/japan-1-yen-1983.jpg
+
+japan-1-yen-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/frente/japan-1-yen-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/tras/japan-1-yen-1991.jpg
+
+japan-1-yen-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/frente/japan-1-yen-2019.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/tras/japan-1-yen-2019.jpg
+
+japan-10-yen-1955:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/frente/japan-10-yen-1955.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/tras/japan-10-yen-1955.jpg
+
+japan-10-yen-1963:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/frente/japan-10-yen-1963.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/tras/japan-10-yen-1963.jpg
+
+japan-10-yen-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/frente/japan-10-yen-2005.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/tras/japan-10-yen-2005.jpg
+
+japan-10-yen-2020:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/frente/japan-10-yen-2020.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/tras/japan-10-yen-2020.jpg
+
+japan-100-yen-1973:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/frente/japan-100-yen-1973.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/tras/japan-100-yen-1973.jpg
+
+japan-100-yen-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/frente/japan-100-yen-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/tras/japan-100-yen-1993.jpg
+
+japan-100-yen-2020:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/frente/japan-100-yen-2020.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/tras/japan-100-yen-2020.jpg
+
+japan-5-yen-1951:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/frente/japan-5-yen-1951.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/tras/japan-5-yen-1951.jpg
+
+japan-5-yen-1988:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/frente/japan-5-yen-1988.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/tras/japan-5-yen-1988.jpg
+
+japan-5-yen-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/frente/japan-5-yen-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/tras/japan-5-yen-2003.jpg
+
+japan-5-yen-2021:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/frente/japan-5-yen-2021.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/tras/japan-5-yen-2021.jpg
+
+japan-50-yen-1957:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/frente/japan-50-yen-1957.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/tras/japan-50-yen-1957.jpg
+
+japan-50-yen-1965:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/frente/japan-50-yen-1965.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/tras/japan-50-yen-1965.jpg
+
+japan-50-yen-1977:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/frente/japan-50-yen-1977.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/tras/japan-50-yen-1977.jpg
+
+japan-50-yen-1998:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/frente/japan-50-yen-1998.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/tras/japan-50-yen-1998.jpg
+
+japan-50-yen-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/frente/japan-50-yen-2019.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/tras/japan-50-yen-2019.jpg
+
+japan-500-yen-1982:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/frente/japan-500-yen-1982.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/tras/japan-500-yen-1982.jpg
+
+japan-500-yen-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/frente/japan-500-yen-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/tras/japan-500-yen-1993.jpg
+
+japan-500-yen-2004:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/frente/japan-500-yen-2004.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/tras/japan-500-yen-2004.jpg
+
+japan-500-yen-2021:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/frente/japan-500-yen-2021.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/tras/japan-500-yen-2021.jpg
+
+japan-500-yen-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/frente/japan-500-yen-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Japao/tras/japan-500-yen-2023.jpg

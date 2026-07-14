@@ -1,0 +1,95 @@
+japan-1-yen-1983:
+  frente: https://i.ucoin.net/coin/46/582/46582405-2s/japan-1-yen-1983.jpg
+  tras: https://i.ucoin.net/coin/46/582/46582405-1s/japan-1-yen-1983.jpg
+
+japan-1-yen-1991:
+  frente: https://i.ucoin.net/coin/48/256/48256521-2s/japan-1-yen-1991.jpg
+  tras: https://i.ucoin.net/coin/48/256/48256521-1s/japan-1-yen-1991.jpg
+
+japan-1-yen-2019:
+  frente: https://i.ucoin.net/coin/84/846/84846025-2s/japan-1-yen-2019.jpg
+  tras: https://i.ucoin.net/coin/84/846/84846025-1s/japan-1-yen-2019.jpg
+
+japan-10-yen-1955:
+  frente: https://i.ucoin.net/coin/46/602/46602052-2s/japan-10-yen-1955.jpg
+  tras: https://i.ucoin.net/coin/46/602/46602052-1s/japan-10-yen-1955.jpg
+
+japan-10-yen-1963:
+  frente: https://i.ucoin.net/coin/46/610/46610695-2s/japan-10-yen-1963.jpg
+  tras: https://i.ucoin.net/coin/46/610/46610695-1s/japan-10-yen-1963.jpg
+
+japan-10-yen-2005:
+  frente: https://i.ucoin.net/coin/46/614/46614125-2s/japan-10-yen-2005.jpg
+  tras: https://i.ucoin.net/coin/46/614/46614125-1s/japan-10-yen-2005.jpg
+
+japan-10-yen-2020:
+  frente: https://i.ucoin.net/coin/51/756/51756045-2s/japan-10-yen-2020.jpg
+  tras: https://i.ucoin.net/coin/51/756/51756045-1s/japan-10-yen-2020.jpg
+
+japan-100-yen-1973:
+  frente: https://i.ucoin.net/coin/46/569/46569172-2s/japan-100-yen-1973.jpg
+  tras: https://i.ucoin.net/coin/46/569/46569172-1s/japan-100-yen-1973.jpg
+
+japan-100-yen-1993:
+  frente: https://i.ucoin.net/coin/79/958/79958481-2s/japan-100-yen-1993.jpg
+  tras: https://i.ucoin.net/coin/79/958/79958481-1s/japan-100-yen-1993.jpg
+
+japan-100-yen-2020:
+  frente: https://i.ucoin.net/coin/84/618/84618093-2s/japan-100-yen-2020.jpg
+  tras: https://i.ucoin.net/coin/84/618/84618093-1s/japan-100-yen-2020.jpg
+
+japan-5-yen-1951:
+  frente: https://i.ucoin.net/coin/15/773/15773698-2s/japan-5-yen-1951.jpg
+  tras: https://i.ucoin.net/coin/15/773/15773698-1s/japan-5-yen-1951.jpg
+
+japan-5-yen-1988:
+  frente: https://i.ucoin.net/coin/42/497/42497453-2s/japan-5-yen-1988.jpg
+  tras: https://i.ucoin.net/coin/42/497/42497453-1s/japan-5-yen-1988.jpg
+
+japan-5-yen-2003:
+  frente: https://i.ucoin.net/coin/48/254/48254796-2s/japan-5-yen-2003.jpg
+  tras: https://i.ucoin.net/coin/48/254/48254796-1s/japan-5-yen-2003.jpg
+
+japan-5-yen-2021:
+  frente: https://i.ucoin.net/coin/52/370/52370648-2s/japan-5-yen-2021.jpg
+  tras: https://i.ucoin.net/coin/52/370/52370648-1s/japan-5-yen-2021.jpg
+
+japan-50-yen-1957:
+  frente: https://i.ucoin.net/coin/54/816/54816623-2s/japan-50-yen-1957.jpg
+  tras: https://i.ucoin.net/coin/54/816/54816623-1s/japan-50-yen-1957.jpg
+
+japan-50-yen-1965:
+  frente: https://i.ucoin.net/coin/28/311/28311583-2s/japan-50-yen-1965.jpg
+  tras: https://i.ucoin.net/coin/28/311/28311583-1s/japan-50-yen-1965.jpg
+
+japan-50-yen-1977:
+  frente: https://i.ucoin.net/coin/67/719/67719116-2s/japan-50-yen-1977.jpg
+  tras: https://i.ucoin.net/coin/67/719/67719116-1s/japan-50-yen-1977.jpg
+
+japan-50-yen-1998:
+  frente: https://i.ucoin.net/coin/51/241/51241487-2s/japan-50-yen-1998.jpg
+  tras: https://i.ucoin.net/coin/51/241/51241487-1s/japan-50-yen-1998.jpg
+
+japan-50-yen-2019:
+  frente: https://i.ucoin.net/coin/41/257/41257342-2s/japan-50-yen-2019.jpg
+  tras: https://i.ucoin.net/coin/41/257/41257342-1s/japan-50-yen-2019.jpg
+
+japan-500-yen-1982:
+  frente: https://i.ucoin.net/coin/2/189/2189898-2s/japan-500-yen-1982.jpg
+  tras: https://i.ucoin.net/coin/2/189/2189898-1s/japan-500-yen-1982.jpg
+
+japan-500-yen-1993:
+  frente: https://i.ucoin.net/coin/0/607/607820-2s/japan-500-yen-1993.jpg
+  tras: https://i.ucoin.net/coin/0/607/607820-1s/japan-500-yen-1993.jpg
+
+japan-500-yen-2004:
+  frente: https://i.ucoin.net/coin/51/576/51576756-2s/japan-500-yen-2004.jpg
+  tras: https://i.ucoin.net/coin/51/576/51576756-1s/japan-500-yen-2004.jpg
+
+japan-500-yen-2021:
+  frente: https://i.ucoin.net/coin/48/533/48533782-2s/japan-500-yen-2021.jpg
+  tras: https://i.ucoin.net/coin/48/533/48533782-1s/japan-500-yen-2021.jpg
+
+japan-500-yen-2023:
+  frente: https://i.ucoin.net/coin/59/474/59474834-2s/japan-500-yen-2023.jpg
+  tras: https://i.ucoin.net/coin/59/474/59474834-1s/japan-500-yen-2023.jpg
