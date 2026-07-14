@@ -1,0 +1,59 @@
+malaysia-1-sen-1973:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/frente/malaysia-1-sen-1973.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/tras/malaysia-1-sen-1973.jpg
+
+malaysia-1-sen-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/frente/malaysia-1-sen-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/tras/malaysia-1-sen-1987.jpg
+
+malaysia-1-sen-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/frente/malaysia-1-sen-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/tras/malaysia-1-sen-1991.jpg
+
+malaysia-10-sen-1981:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/frente/malaysia-10-sen-1981.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/tras/malaysia-10-sen-1981.jpg
+
+malaysia-10-sen-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/frente/malaysia-10-sen-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/tras/malaysia-10-sen-1999.jpg
+
+malaysia-10-sen-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/frente/malaysia-10-sen-2014.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/tras/malaysia-10-sen-2014.jpg
+
+malaysia-20-sen-1981:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/frente/malaysia-20-sen-1981.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/tras/malaysia-20-sen-1981.jpg
+
+malaysia-20-sen-2007:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/frente/malaysia-20-sen-2007.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/tras/malaysia-20-sen-2007.jpg
+
+malaysia-20-sen-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/frente/malaysia-20-sen-2014.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/tras/malaysia-20-sen-2014.jpg
+
+malaysia-5-sen-1982:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/frente/malaysia-5-sen-1982.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/tras/malaysia-5-sen-1982.jpg
+
+malaysia-5-sen-1995:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/frente/malaysia-5-sen-1995.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/tras/malaysia-5-sen-1995.jpg
+
+malaysia-5-sen-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/frente/malaysia-5-sen-2019.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/tras/malaysia-5-sen-2019.jpg
+
+malaysia-50-sen-1988:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/frente/malaysia-50-sen-1988.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/tras/malaysia-50-sen-1988.jpg
+
+malaysia-50-sen-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/frente/malaysia-50-sen-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/tras/malaysia-50-sen-2003.jpg
+
+malaysia-50-sen-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/frente/malaysia-50-sen-2014.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Malasia/tras/malaysia-50-sen-2014.jpg
