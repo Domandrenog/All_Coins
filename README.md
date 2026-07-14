@@ -11,6 +11,8 @@ Os URLs são gerados neste formato:
 - `https://raw.githubusercontent.com/Domandrenog/All_Coins/main/<Pais>/frente/<slug>.jpg`
 - `https://raw.githubusercontent.com/Domandrenog/All_Coins/main/<Pais>/tras/<slug>.jpg`
 
+Além de atualizar `links.txt` com os URLs raw, o script também mantém `links-ucoin.txt` na raiz do país com os URLs originais do `i.ucoin.net`, quando a moeda ainda vem da API com esses links.
+
 1. Define a API key fora do repo:
   - `export ALL_COINS_API_KEY="..."`
 2. Testa primeiro um país sem alterar a API:

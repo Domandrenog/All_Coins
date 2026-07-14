@@ -1,0 +1,7 @@
+south-korea-100-won-2003:
+  frente: https://i.ucoin.net/coin/83/473/83473581-2s/south_korea-100-won-2003.jpg
+  tras: https://i.ucoin.net/coin/83/473/83473581-1s/south_korea-100-won-2003.jpg
+
+south-korea-500-won-2023:
+  frente: https://i.ucoin.net/coin/60/231/60231984-2s/south_korea-500-won-2023.jpg
+  tras: https://i.ucoin.net/coin/60/231/60231984-1s/south_korea-500-won-2023.jpg

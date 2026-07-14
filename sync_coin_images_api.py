@@ -347,8 +347,8 @@ def parse_links_file(path: Path) -> dict[str, dict[str, str]]:
     return entries
 
 
-def write_country_links(folder: Path, slug: str, links: dict[str, str]) -> None:
-    path = folder / "links.txt"
+def write_country_links(folder: Path, slug: str, links: dict[str, str], filename: str = "links.txt") -> None:
+    path = folder / filename
     entries = parse_links_file(path)
     entries[slug] = {"frente": links["frente"], "tras": links["tras"]}
 
@@ -460,6 +460,15 @@ def main() -> int:
 
         if args.apply or args.download_only:
             write_country_links(folder, coin_slug, target_links)
+            source_links = {
+                "frente": str(coin.get("image_frente") or ""),
+                "tras": str(coin.get("image_verso") or ""),
+            }
+            if "i.ucoin.net" in source_links["frente"].lower() or "i.ucoin.net" in source_links["tras"].lower():
+                write_country_links(folder, coin_slug, source_links, "links-ucoin.txt")
+                print(f"Links uCoin: atualizado -> {folder / 'links-ucoin.txt'}")
+            else:
+                print("Links uCoin: mantido, porque a API já não aponta para i.ucoin.net")
             print(f"Links: atualizado -> {folder / 'links.txt'}")
 
         if args.download_only:
