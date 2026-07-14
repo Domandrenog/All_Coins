@@ -1,0 +1,51 @@
+china-1-fen-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/China/frente/china-1-fen-2015.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/China/tras/china-1-fen-2015.jpg
+
+china-1-jiao-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/China/frente/china-1-jiao-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/China/tras/china-1-jiao-1992.jpg
+
+china-1-jiao-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/China/frente/china-1-jiao-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/China/tras/china-1-jiao-1999.jpg
+
+china-1-jiao-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/China/frente/china-1-jiao-2005.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/China/tras/china-1-jiao-2005.jpg
+
+china-1-jiao-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/China/frente/china-1-jiao-2019.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/China/tras/china-1-jiao-2019.jpg
+
+china-1-yuan-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/China/frente/china-1-yuan-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/China/tras/china-1-yuan-1991.jpg
+
+china-1-yuan-2008:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/China/frente/china-1-yuan-2008.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/China/tras/china-1-yuan-2008.jpg
+
+china-1-yuan-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/China/frente/china-1-yuan-2019.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/China/tras/china-1-yuan-2019.jpg
+
+china-2-fen-1982:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/China/frente/china-2-fen-1982.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/China/tras/china-2-fen-1982.jpg
+
+china-5-fen-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/China/frente/china-5-fen-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/China/tras/china-5-fen-1992.jpg
+
+china-5-jiao-1997:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/China/frente/china-5-jiao-1997.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/China/tras/china-5-jiao-1997.jpg
+
+china-5-jiao-2013:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/China/frente/china-5-jiao-2013.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/China/tras/china-5-jiao-2013.jpg
+
+china-5-jiao-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/China/frente/china-5-jiao-2019.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/China/tras/china-5-jiao-2019.jpg
