@@ -22,6 +22,8 @@ Além de atualizar `links.txt` com os URLs raw, o script também mantém `links-
 4. Quando o resultado estiver certo, aplica:
   - `python3 sync_coin_images_api.py --country Polonia --apply`
 
+Quando usares `--name`, indica sempre `--years`; o script exige esse filtro para evitar atualizar a moeda errada quando o mesmo país tem várias moedas com o mesmo nome.
+
 Em execuções reais (`--apply` ou `--download-only`), o script faz automaticamente:
 
 - `git add .`

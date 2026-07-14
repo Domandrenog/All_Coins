@@ -413,6 +413,10 @@ def main() -> int:
         print("Indica --country para listar moedas, ou --coin-id para uma moeda específica.", file=sys.stderr)
         return 2
 
+    if args.name and not args.years and not args.coin_id:
+        print("Quando usas --name, indica também --years para evitar apanhar a moeda errada.", file=sys.stderr)
+        return 2
+
     coins = find_coins(api_key, args)
     if not coins:
         print("Nenhuma moeda encontrada para os filtros indicados.", file=sys.stderr)
