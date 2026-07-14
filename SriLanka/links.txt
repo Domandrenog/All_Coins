@@ -1,0 +1,99 @@
+sri-lanka-1-cent-1978:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-1-cent-1978.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-1-cent-1978.jpg
+
+sri-lanka-1-rupee-1972:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-1-rupee-1972.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-1-rupee-1972.jpg
+
+sri-lanka-1-rupee-1982:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-1-rupee-1982.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-1-rupee-1982.jpg
+
+sri-lanka-1-rupee-1996:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-1-rupee-1996.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-1-rupee-1996.jpg
+
+sri-lanka-1-rupee-2013:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-1-rupee-2013.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-1-rupee-2013.jpg
+
+sri-lanka-1-rupee-2016:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-1-rupee-2016.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-1-rupee-2016.jpg
+
+sri-lanka-1-rupee-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-1-rupee-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-1-rupee-2017.jpg
+
+sri-lanka-10-cents-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-10-cents-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-10-cents-1991.jpg
+
+sri-lanka-10-rupees-2011:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-10-rupees-2011.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-10-rupees-2011.jpg
+
+sri-lanka-10-rupees-2013:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-10-rupees-2013.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-10-rupees-2013.jpg
+
+sri-lanka-10-rupees-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-10-rupees-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-10-rupees-2017.jpg
+
+sri-lanka-2-cents-1978:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-2-cents-1978.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-2-cents-1978.jpg
+
+sri-lanka-2-rupees-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-2-rupees-2002.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-2-rupees-2002.jpg
+
+sri-lanka-2-rupees-2008:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-2-rupees-2008.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-2-rupees-2008.jpg
+
+sri-lanka-2-rupees-2013:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-2-rupees-2013.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-2-rupees-2013.jpg
+
+sri-lanka-2-rupees-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-2-rupees-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-2-rupees-2017.jpg
+
+sri-lanka-25-cents-2004:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-25-cents-2004.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-25-cents-2004.jpg
+
+sri-lanka-25-cents-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-25-cents-2009.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-25-cents-2009.jpg
+
+sri-lanka-5-cents-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-5-cents-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-5-cents-1991.jpg
+
+sri-lanka-5-rupees-2004:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-5-rupees-2004.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-5-rupees-2004.jpg
+
+sri-lanka-5-rupees-2013:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-5-rupees-2013.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-5-rupees-2013.jpg
+
+sri-lanka-5-rupees-2016:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-5-rupees-2016.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-5-rupees-2016.jpg
+
+sri-lanka-5-rupees-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-5-rupees-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-5-rupees-2017.jpg
+
+sri-lanka-50-cents-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-50-cents-2002.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-50-cents-2002.jpg
+
+sri-lanka-50-cents-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-50-cents-2005.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-50-cents-2005.jpg

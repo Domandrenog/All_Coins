@@ -1,0 +1,99 @@
+sri-lanka-1-cent-1978:
+  frente: https://i.ucoin.net/coin/72/270/72270685-2s/sri_lanka-1-cent-1978.jpg
+  tras: https://i.ucoin.net/coin/72/270/72270685-1s/sri_lanka-1-cent-1978.jpg
+
+sri-lanka-1-rupee-1972:
+  frente: https://i.ucoin.net/coin/56/778/56778044-2s/sri_lanka-1-rupee-1972.jpg
+  tras: https://i.ucoin.net/coin/56/778/56778044-1s/sri_lanka-1-rupee-1972.jpg
+
+sri-lanka-1-rupee-1982:
+  frente: https://i.ucoin.net/coin/37/451/37451852-2s/sri_lanka-1-rupee-1982.jpg
+  tras: https://i.ucoin.net/coin/37/451/37451852-1s/sri_lanka-1-rupee-1982.jpg
+
+sri-lanka-1-rupee-1996:
+  frente: https://i.ucoin.net/coin/56/796/56796557-2s/sri_lanka-1-rupee-1996.jpg
+  tras: https://i.ucoin.net/coin/56/796/56796557-1s/sri_lanka-1-rupee-1996.jpg
+
+sri-lanka-1-rupee-2013:
+  frente: https://i.ucoin.net/coin/37/451/37451705-2s/sri_lanka-1-rupee-2013.jpg
+  tras: https://i.ucoin.net/coin/37/451/37451705-1s/sri_lanka-1-rupee-2013.jpg
+
+sri-lanka-1-rupee-2016:
+  frente: https://i.ucoin.net/coin/72/270/72270795-2s/sri_lanka-1-rupee-2016.jpg
+  tras: https://i.ucoin.net/coin/72/270/72270795-1s/sri_lanka-1-rupee-2016.jpg
+
+sri-lanka-1-rupee-2017:
+  frente: https://i.ucoin.net/coin/51/947/51947441-2s/sri_lanka-1-rupee-2017.jpg
+  tras: https://i.ucoin.net/coin/51/947/51947441-1s/sri_lanka-1-rupee-2017.jpg
+
+sri-lanka-10-cents-1991:
+  frente: https://i.ucoin.net/coin/56/778/56778840-2s/sri_lanka-10-cents-1991.jpg
+  tras: https://i.ucoin.net/coin/56/778/56778840-1s/sri_lanka-10-cents-1991.jpg
+
+sri-lanka-10-rupees-2011:
+  frente: https://i.ucoin.net/coin/63/434/63434120-2s/sri_lanka-10-rupees-2011.jpg
+  tras: https://i.ucoin.net/coin/63/434/63434120-1s/sri_lanka-10-rupees-2011.jpg
+
+sri-lanka-10-rupees-2013:
+  frente: https://i.ucoin.net/coin/37/451/37451670-2s/sri_lanka-10-rupees-2013.jpg
+  tras: https://i.ucoin.net/coin/37/451/37451670-1s/sri_lanka-10-rupees-2013.jpg
+
+sri-lanka-10-rupees-2017:
+  frente: https://i.ucoin.net/coin/72/270/72270813-2s/sri_lanka-10-rupees-2017.jpg
+  tras: https://i.ucoin.net/coin/72/270/72270813-1s/sri_lanka-10-rupees-2017.jpg
+
+sri-lanka-2-cents-1978:
+  frente: https://i.ucoin.net/coin/56/776/56776684-2s/sri_lanka-2-cents-1978.jpg
+  tras: https://i.ucoin.net/coin/56/776/56776684-1s/sri_lanka-2-cents-1978.jpg
+
+sri-lanka-2-rupees-2002:
+  frente: https://i.ucoin.net/coin/56/797/56797869-2s/sri_lanka-2-rupees-2002.jpg
+  tras: https://i.ucoin.net/coin/56/797/56797869-1s/sri_lanka-2-rupees-2002.jpg
+
+sri-lanka-2-rupees-2008:
+  frente: https://i.ucoin.net/coin/56/813/56813817-2s/sri_lanka-2-rupees-2008.jpg
+  tras: https://i.ucoin.net/coin/56/813/56813817-1s/sri_lanka-2-rupees-2008.jpg
+
+sri-lanka-2-rupees-2013:
+  frente: https://i.ucoin.net/coin/37/451/37451671-2s/sri_lanka-2-rupees-2013.jpg
+  tras: https://i.ucoin.net/coin/37/451/37451671-1s/sri_lanka-2-rupees-2013.jpg
+
+sri-lanka-2-rupees-2017:
+  frente: https://i.ucoin.net/coin/62/751/62751647-2s/sri_lanka-2-rupees-2017.jpg
+  tras: https://i.ucoin.net/coin/62/751/62751647-1s/sri_lanka-2-rupees-2017.jpg
+
+sri-lanka-25-cents-2004:
+  frente: https://i.ucoin.net/coin/74/365/74365267-2s/sri_lanka-25-cents-2004.jpg
+  tras: https://i.ucoin.net/coin/74/365/74365267-1s/sri_lanka-25-cents-2004.jpg
+
+sri-lanka-25-cents-2009:
+  frente: https://i.ucoin.net/coin/44/518/44518870-2s/sri_lanka-25-cents-2009.jpg
+  tras: https://i.ucoin.net/coin/44/518/44518870-1s/sri_lanka-25-cents-2009.jpg
+
+sri-lanka-5-cents-1991:
+  frente: https://i.ucoin.net/coin/56/778/56778674-2s/sri_lanka-5-cents-1991.jpg
+  tras: https://i.ucoin.net/coin/56/778/56778674-1s/sri_lanka-5-cents-1991.jpg
+
+sri-lanka-5-rupees-2004:
+  frente: https://i.ucoin.net/coin/56/778/56778993-2s/sri_lanka-5-rupees-2004.jpg
+  tras: https://i.ucoin.net/coin/56/778/56778993-1s/sri_lanka-5-rupees-2004.jpg
+
+sri-lanka-5-rupees-2013:
+  frente: https://i.ucoin.net/coin/37/451/37451708-2s/sri_lanka-5-rupees-2013.jpg
+  tras: https://i.ucoin.net/coin/37/451/37451708-1s/sri_lanka-5-rupees-2013.jpg
+
+sri-lanka-5-rupees-2016:
+  frente: https://i.ucoin.net/coin/37/451/37451667-2s/sri_lanka-5-rupees-2016.jpg
+  tras: https://i.ucoin.net/coin/37/451/37451667-1s/sri_lanka-5-rupees-2016.jpg
+
+sri-lanka-5-rupees-2017:
+  frente: https://i.ucoin.net/coin/72/270/72270808-2s/sri_lanka-5-rupees-2017.jpg
+  tras: https://i.ucoin.net/coin/72/270/72270808-1s/sri_lanka-5-rupees-2017.jpg
+
+sri-lanka-50-cents-2002:
+  frente: https://i.ucoin.net/coin/67/842/67842557-2s/sri_lanka-50-cents-2002.jpg
+  tras: https://i.ucoin.net/coin/67/842/67842557-1s/sri_lanka-50-cents-2002.jpg
+
+sri-lanka-50-cents-2005:
+  frente: https://i.ucoin.net/coin/51/601/51601229-2s/sri_lanka-50-cents-2005.jpg
+  tras: https://i.ucoin.net/coin/51/601/51601229-1s/sri_lanka-50-cents-2005.jpg

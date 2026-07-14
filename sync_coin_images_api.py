@@ -28,6 +28,7 @@ COUNTRY_SLUG_ALIASES = {
     "belarus": ["belarus", "bielorrussia"],
     "coreia-do-sul": ["coreia-do-sul", "south-korea"],
     "south-korea": ["south-korea", "coreia-do-sul"],
+    "sri-lanka": ["sri-lanka"],
 }
 
 COUNTRY_FILE_SLUGS = {
@@ -37,6 +38,7 @@ COUNTRY_FILE_SLUGS = {
     "belarus": "belarus",
     "coreia-do-sul": "south-korea",
     "south-korea": "south-korea",
+    "sri-lanka": "sri-lanka",
 }
 
 COUNTRY_FOLDERS = {
@@ -46,6 +48,7 @@ COUNTRY_FOLDERS = {
     "belarus": "Bielorrussia",
     "coreia-do-sul": "CoreiaDoSul",
     "south-korea": "CoreiaDoSul",
+    "sri-lanka": "SriLanka",
 }
 
 
