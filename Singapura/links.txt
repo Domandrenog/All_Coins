@@ -1,0 +1,111 @@
+singapore-1-cent-1975:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/frente/singapore-1-cent-1975.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/tras/singapore-1-cent-1975.jpg
+
+singapore-1-cent-1981:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/frente/singapore-1-cent-1981.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/tras/singapore-1-cent-1981.jpg
+
+singapore-1-cent-1990:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/frente/singapore-1-cent-1990.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/tras/singapore-1-cent-1990.jpg
+
+singapore-1-cent-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/frente/singapore-1-cent-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/tras/singapore-1-cent-1991.jpg
+
+singapore-1-cent-2000:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/frente/singapore-1-cent-2000.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/tras/singapore-1-cent-2000.jpg
+
+singapore-1-dollar-1982:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/frente/singapore-1-dollar-1982.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/tras/singapore-1-dollar-1982.jpg
+
+singapore-1-dollar-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/frente/singapore-1-dollar-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/tras/singapore-1-dollar-1987.jpg
+
+singapore-1-dollar-1988:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/frente/singapore-1-dollar-1988.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/tras/singapore-1-dollar-1988.jpg
+
+singapore-1-dollar-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/frente/singapore-1-dollar-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/tras/singapore-1-dollar-2006.jpg
+
+singapore-1-dollar-2013:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/frente/singapore-1-dollar-2013.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/tras/singapore-1-dollar-2013.jpg
+
+singapore-10-cents-1976:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/frente/singapore-10-cents-1976.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/tras/singapore-10-cents-1976.jpg
+
+singapore-10-cents-1986:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/frente/singapore-10-cents-1986.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/tras/singapore-10-cents-1986.jpg
+
+singapore-10-cents-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/frente/singapore-10-cents-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/tras/singapore-10-cents-2003.jpg
+
+singapore-10-cents-2013:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/frente/singapore-10-cents-2013.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/tras/singapore-10-cents-2013.jpg
+
+singapore-20-cents-1982:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/frente/singapore-20-cents-1982.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/tras/singapore-20-cents-1982.jpg
+
+singapore-20-cents-1986:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/frente/singapore-20-cents-1986.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/tras/singapore-20-cents-1986.jpg
+
+singapore-20-cents-2011:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/frente/singapore-20-cents-2011.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/tras/singapore-20-cents-2011.jpg
+
+singapore-20-cents-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/frente/singapore-20-cents-2014.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/tras/singapore-20-cents-2014.jpg
+
+singapore-5-cents-1971:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/frente/singapore-5-cents-1971.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/tras/singapore-5-cents-1971.jpg
+
+singapore-5-cents-1982:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/frente/singapore-5-cents-1982.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/tras/singapore-5-cents-1982.jpg
+
+singapore-5-cents-1985:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/frente/singapore-5-cents-1985.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/tras/singapore-5-cents-1985.jpg
+
+singapore-5-cents-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/frente/singapore-5-cents-2005.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/tras/singapore-5-cents-2005.jpg
+
+singapore-5-cents-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/frente/singapore-5-cents-2015.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/tras/singapore-5-cents-2015.jpg
+
+singapore-50-cents-1982:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/frente/singapore-50-cents-1982.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/tras/singapore-50-cents-1982.jpg
+
+singapore-50-cents-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/frente/singapore-50-cents-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/tras/singapore-50-cents-1987.jpg
+
+singapore-50-cents-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/frente/singapore-50-cents-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/tras/singapore-50-cents-1991.jpg
+
+singapore-50-cents-2007:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/frente/singapore-50-cents-2007.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/tras/singapore-50-cents-2007.jpg
+
+singapore-50-cents-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/frente/singapore-50-cents-2015.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Singapura/tras/singapore-50-cents-2015.jpg
