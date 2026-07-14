@@ -1,0 +1,71 @@
+taiwan-1-2-dollar-1981:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/frente/taiwan-1-2-dollar-1981.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/tras/taiwan-1-2-dollar-1981.jpg
+
+taiwan-1-dollar-1974:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/frente/taiwan-1-dollar-1974.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/tras/taiwan-1-dollar-1974.jpg
+
+taiwan-1-dollar-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/frente/taiwan-1-dollar-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/tras/taiwan-1-dollar-2006.jpg
+
+taiwan-1-jiao-1949:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/frente/taiwan-1-jiao-1949.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/tras/taiwan-1-jiao-1949.jpg
+
+taiwan-1-jiao-1955:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/frente/taiwan-1-jiao-1955.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/tras/taiwan-1-jiao-1955.jpg
+
+taiwan-1-jiao-1967:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/frente/taiwan-1-jiao-1967.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/tras/taiwan-1-jiao-1967.jpg
+
+taiwan-10-dollars-1997:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/frente/taiwan-10-dollars-1997.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/tras/taiwan-10-dollars-1997.jpg
+
+taiwan-10-dollars-2021:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/frente/taiwan-10-dollars-2021.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/tras/taiwan-10-dollars-2021.jpg
+
+taiwan-2-jiao-1950:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/frente/taiwan-2-jiao-1950.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/tras/taiwan-2-jiao-1950.jpg
+
+taiwan-20-dollars-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/frente/taiwan-20-dollars-2005.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/tras/taiwan-20-dollars-2005.jpg
+
+taiwan-5-dollars-1979:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/frente/taiwan-5-dollars-1979.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/tras/taiwan-5-dollars-1979.jpg
+
+taiwan-5-dollars-1989:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/frente/taiwan-5-dollars-1989.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/tras/taiwan-5-dollars-1989.jpg
+
+taiwan-5-jiao-1949:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/frente/taiwan-5-jiao-1949.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/tras/taiwan-5-jiao-1949.jpg
+
+taiwan-5-jiao-1954:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/frente/taiwan-5-jiao-1954.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/tras/taiwan-5-jiao-1954.jpg
+
+taiwan-5-jiao-1973:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/frente/taiwan-5-jiao-1973.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/tras/taiwan-5-jiao-1973.jpg
+
+taiwan-50-dollars-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/frente/taiwan-50-dollars-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/tras/taiwan-50-dollars-1993.jpg
+
+taiwan-50-dollars-1997:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/frente/taiwan-50-dollars-1997.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/tras/taiwan-50-dollars-1997.jpg
+
+taiwan-50-dollars-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/frente/taiwan-50-dollars-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Taiwan/tras/taiwan-50-dollars-2006.jpg
