@@ -1,0 +1,91 @@
+poland-1-grosz-1999:
+  frente: https://i.ucoin.net/coin/84/224/84224506-2s/poland-1-grosz-1999.jpg
+  tras: https://i.ucoin.net/coin/84/224/84224506-1s/poland-1-grosz-1999.jpg
+
+poland-1-grosz-2014:
+  frente: https://i.ucoin.net/coin/27/328/27328784-2s/poland-1-grosz-2014.jpg
+  tras: https://i.ucoin.net/coin/27/328/27328784-1s/poland-1-grosz-2014.jpg
+
+poland-1-grosz-2018:
+  frente: https://i.ucoin.net/coin/38/731/38731762-2s/poland-1-grosz-2018.jpg
+  tras: https://i.ucoin.net/coin/38/731/38731762-1s/poland-1-grosz-2018.jpg
+
+poland-1-zloty-2008:
+  frente: https://i.ucoin.net/coin/62/726/62726440-2s/poland-1-zloty-2008.jpg
+  tras: https://i.ucoin.net/coin/62/726/62726440-1s/poland-1-zloty-2008.jpg
+
+poland-1-zloty-2017:
+  frente: https://i.ucoin.net/coin/72/205/72205880-2s/poland-1-zloty-2017.jpg
+  tras: https://i.ucoin.net/coin/72/205/72205880-1s/poland-1-zloty-2017.jpg
+
+poland-1-zloty-2022:
+  frente: https://i.ucoin.net/coin/82/772/82772927-2s/poland-1-zloty-2022.jpg
+  tras: https://i.ucoin.net/coin/82/772/82772927-1s/poland-1-zloty-2022.jpg
+
+poland-10-groszy-2014:
+  frente: https://i.ucoin.net/coin/49/506/49506501-2s/poland-10-groszy-2014.jpg
+  tras: https://i.ucoin.net/coin/49/506/49506501-1s/poland-10-groszy-2014.jpg
+
+poland-10-groszy-2017:
+  frente: https://i.ucoin.net/coin/10/475/10475256-2s/poland-10-groszy-2017.jpg
+  tras: https://i.ucoin.net/coin/10/475/10475256-1s/poland-10-groszy-2017.jpg
+
+poland-10-groszy-2021:
+  frente: https://i.ucoin.net/coin/61/810/61810832-2s/poland-10-groszy-2021.jpg
+  tras: https://i.ucoin.net/coin/61/810/61810832-1s/poland-10-groszy-2021.jpg
+
+poland-2-grosze-2008:
+  frente: https://i.ucoin.net/coin/62/732/62732004-2s/poland-2-grosze-2008.jpg
+  tras: https://i.ucoin.net/coin/62/732/62732004-1s/poland-2-grosze-2008.jpg
+
+poland-2-grosze-2016:
+  frente: https://i.ucoin.net/coin/49/505/49505279-2s/poland-2-grosze-2016.jpg
+  tras: https://i.ucoin.net/coin/49/505/49505279-1s/poland-2-grosze-2016.jpg
+
+poland-2-grosze-2017:
+  frente: https://i.ucoin.net/coin/50/478/50478519-2s/poland-2-grosze-2017.jpg
+  tras: https://i.ucoin.net/coin/50/478/50478519-1s/poland-2-grosze-2017.jpg
+
+poland-2-zlote-2009:
+  frente: https://i.ucoin.net/coin/62/731/62731850-2s/poland-2-zlote-2009.jpg
+  tras: https://i.ucoin.net/coin/62/731/62731850-1s/poland-2-zlote-2009.jpg
+
+poland-20-groszy-2014:
+  frente: https://i.ucoin.net/coin/38/963/38963251-2s/poland-20-groszy-2014.jpg
+  tras: https://i.ucoin.net/coin/38/963/38963251-1s/poland-20-groszy-2014.jpg
+
+poland-20-groszy-2019:
+  frente: https://i.ucoin.net/coin/56/334/56334122-2s/poland-20-groszy-2019.jpg
+  tras: https://i.ucoin.net/coin/56/334/56334122-1s/poland-20-groszy-2019.jpg
+
+poland-20-groszy-2022:
+  frente: https://i.ucoin.net/coin/82/500/82500215-2s/poland-20-groszy-2022.jpg
+  tras: https://i.ucoin.net/coin/82/500/82500215-1s/poland-20-groszy-2022.jpg
+
+poland-5-groszy-2000:
+  frente: https://i.ucoin.net/coin/84/225/84225423-2s/poland-5-groszy-2000.jpg
+  tras: https://i.ucoin.net/coin/84/225/84225423-1s/poland-5-groszy-2000.jpg
+
+poland-5-groszy-2015:
+  frente: https://i.ucoin.net/coin/49/505/49505401-2s/poland-5-groszy-2015.jpg
+  tras: https://i.ucoin.net/coin/49/505/49505401-1s/poland-5-groszy-2015.jpg
+
+poland-5-groszy-2017:
+  frente: https://i.ucoin.net/coin/10/732/10732022-2s/poland-5-groszy-2017.jpg
+  tras: https://i.ucoin.net/coin/10/732/10732022-1s/poland-5-groszy-2017.jpg
+
+poland-5-zlotych-2008:
+  frente: https://i.ucoin.net/coin/78/906/78906530-2s/poland-5-zlotych-2008.jpg
+  tras: https://i.ucoin.net/coin/78/906/78906530-1s/poland-5-zlotych-2008.jpg
+
+poland-50-groszy-1995:
+  frente: https://i.ucoin.net/coin/56/366/56366726-2s/poland-50-groszy-1995.jpg
+  tras: https://i.ucoin.net/coin/56/366/56366726-1s/poland-50-groszy-1995.jpg
+
+poland-50-groszy-2017:
+  frente: https://i.ucoin.net/coin/10/732/10732014-2s/poland-50-groszy-2017.jpg
+  tras: https://i.ucoin.net/coin/10/732/10732014-1s/poland-50-groszy-2017.jpg
+
+poland-50-groszy-2022:
+  frente: https://i.ucoin.net/coin/66/733/66733404-2s/poland-50-groszy-2022.jpg
+  tras: https://i.ucoin.net/coin/66/733/66733404-1s/poland-50-groszy-2022.jpg

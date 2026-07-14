@@ -22,10 +22,13 @@ DEFAULT_RAW_BASE_URL = "https://raw.githubusercontent.com/Domandrenog/All_Coins/
 READ_ONLY_FIELDS = {"id", "created_date", "updated_date", "created_by_id"}
 
 COUNTRY_SLUG_ALIASES = {
+    "bahamas": ["bahamas"],
     "polonia": ["polonia", "poland"],
     "poland": ["poland", "polonia"],
     "bielorrussia": ["bielorrussia", "belarus"],
     "belarus": ["belarus", "bielorrussia"],
+    "brasil": ["brasil", "brazil"],
+    "brazil": ["brazil", "brasil"],
     "china": ["china"],
     "coreia-do-sul": ["coreia-do-sul", "south-korea"],
     "south-korea": ["south-korea", "coreia-do-sul"],
@@ -37,6 +40,9 @@ COUNTRY_SLUG_ALIASES = {
     "malasia": ["malasia", "malaysia"],
     "malaysia": ["malaysia", "malasia"],
     "seychelles": ["seychelles"],
+    "romenia": ["romenia", "romania"],
+    "romania": ["romania", "romenia"],
+    "russia": ["russia"],
     "singapura": ["singapura", "singapore"],
     "singapore": ["singapore", "singapura"],
     "sri-lanka": ["sri-lanka"],
@@ -48,10 +54,13 @@ COUNTRY_SLUG_ALIASES = {
 }
 
 COUNTRY_FILE_SLUGS = {
+    "bahamas": "bahamas",
     "polonia": "poland",
     "poland": "poland",
     "bielorrussia": "belarus",
     "belarus": "belarus",
+    "brasil": "brazil",
+    "brazil": "brazil",
     "china": "china",
     "coreia-do-sul": "south-korea",
     "south-korea": "south-korea",
@@ -63,6 +72,9 @@ COUNTRY_FILE_SLUGS = {
     "malasia": "malaysia",
     "malaysia": "malaysia",
     "seychelles": "seychelles",
+    "romenia": "romania",
+    "romania": "romania",
+    "russia": "russia",
     "singapura": "singapore",
     "singapore": "singapore",
     "sri-lanka": "sri-lanka",
@@ -74,10 +86,13 @@ COUNTRY_FILE_SLUGS = {
 }
 
 COUNTRY_FOLDERS = {
+    "bahamas": "Bahamas",
     "polonia": "Polonia",
     "poland": "Polonia",
     "bielorrussia": "Bielorrussia",
     "belarus": "Bielorrussia",
+    "brasil": "Brasil",
+    "brazil": "Brasil",
     "china": "China",
     "coreia-do-sul": "CoreiaDoSul",
     "south-korea": "CoreiaDoSul",
@@ -89,6 +104,9 @@ COUNTRY_FOLDERS = {
     "malasia": "Malasia",
     "malaysia": "Malasia",
     "seychelles": "Seychelles",
+    "romenia": "Romenia",
+    "romania": "Romenia",
+    "russia": "Russia",
     "singapura": "Singapura",
     "singapore": "Singapura",
     "sri-lanka": "SriLanka",

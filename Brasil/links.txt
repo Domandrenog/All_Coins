@@ -1,0 +1,55 @@
+brazil-1-centavo-1996:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Brasil/frente/brazil-1-centavo-1996.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Brasil/tras/brazil-1-centavo-1996.jpg
+
+brazil-1-centavo-2004:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Brasil/frente/brazil-1-centavo-2004.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Brasil/tras/brazil-1-centavo-2004.jpg
+
+brazil-1-real-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Brasil/frente/brazil-1-real-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Brasil/tras/brazil-1-real-1994.jpg
+
+brazil-1-real-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Brasil/frente/brazil-1-real-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Brasil/tras/brazil-1-real-1999.jpg
+
+brazil-1-real-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Brasil/frente/brazil-1-real-2022.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Brasil/tras/brazil-1-real-2022.jpg
+
+brazil-10-centavos-1996:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Brasil/frente/brazil-10-centavos-1996.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Brasil/tras/brazil-10-centavos-1996.jpg
+
+brazil-10-centavos-2004:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Brasil/frente/brazil-10-centavos-2004.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Brasil/tras/brazil-10-centavos-2004.jpg
+
+brazil-25-centavos-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Brasil/frente/brazil-25-centavos-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Brasil/tras/brazil-25-centavos-1994.jpg
+
+brazil-25-centavos-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Brasil/frente/brazil-25-centavos-2002.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Brasil/tras/brazil-25-centavos-2002.jpg
+
+brazil-5-centavos-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Brasil/frente/brazil-5-centavos-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Brasil/tras/brazil-5-centavos-1994.jpg
+
+brazil-5-centavos-2007:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Brasil/frente/brazil-5-centavos-2007.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Brasil/tras/brazil-5-centavos-2007.jpg
+
+brazil-50-centavos-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Brasil/frente/brazil-50-centavos-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Brasil/tras/brazil-50-centavos-1994.jpg
+
+brazil-50-centavos-1998:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Brasil/frente/brazil-50-centavos-1998.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Brasil/tras/brazil-50-centavos-1998.jpg
+
+brazil-50-centavos-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Brasil/frente/brazil-50-centavos-2005.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Brasil/tras/brazil-50-centavos-2005.jpg

@@ -1,0 +1,79 @@
+russia-1-kopek-2005:
+  frente: https://i.ucoin.net/coin/59/771/59771905-2s/russia-1-kopek-2005.jpg
+  tras: https://i.ucoin.net/coin/59/771/59771905-1s/russia-1-kopek-2005.jpg
+
+russia-1-ruble-1999:
+  frente: https://i.ucoin.net/coin/27/891/27891654-2s/russia-1-ruble-1999.jpg
+  tras: https://i.ucoin.net/coin/27/891/27891654-1s/russia-1-ruble-1999.jpg
+
+russia-1-ruble-2009:
+  frente: https://i.ucoin.net/coin/43/427/43427738-2s/russia-1-ruble-2009.jpg
+  tras: https://i.ucoin.net/coin/43/427/43427738-1s/russia-1-ruble-2009.jpg
+
+russia-1-ruble-2013:
+  frente: https://i.ucoin.net/coin/12/495/12495513-2s/russia-1-ruble-2013.jpg
+  tras: https://i.ucoin.net/coin/12/495/12495513-1s/russia-1-ruble-2013.jpg
+
+russia-1-ruble-2021:
+  frente: https://i.ucoin.net/coin/47/957/47957938-2s/russia-1-ruble-2021.jpg
+  tras: https://i.ucoin.net/coin/47/957/47957938-1s/russia-1-ruble-2021.jpg
+
+russia-10-kopeks-2006-10-kopeks-1997-2006-nao-magnetica:
+  frente: https://i.ucoin.net/coin/39/022/39022089-2s/russia-10-kopeks-2006.jpg
+  tras: https://i.ucoin.net/coin/39/022/39022089-1s/russia-10-kopeks-2006.jpg
+
+russia-10-kopeks-2006-10-kopeks-2006-2025-magnetica:
+  frente: https://i.ucoin.net/coin/27/013/27013261-2s/russia-10-kopeks-2006.jpg
+  tras: https://i.ucoin.net/coin/27/013/27013261-1s/russia-10-kopeks-2006.jpg
+
+russia-10-rubles-2012:
+  frente: https://i.ucoin.net/coin/27/013/27013093-2s/russia-10-rubles-2012.jpg
+  tras: https://i.ucoin.net/coin/27/013/27013093-1s/russia-10-rubles-2012.jpg
+
+russia-10-rubles-2019:
+  frente: https://i.ucoin.net/coin/18/432/18432003-2s/russia-10-rubles-2019.jpg
+  tras: https://i.ucoin.net/coin/18/432/18432003-1s/russia-10-rubles-2019.jpg
+
+russia-2-rubles-1999:
+  frente: https://i.ucoin.net/coin/36/882/36882469-2s/russia-2-rubles-1999.jpg
+  tras: https://i.ucoin.net/coin/36/882/36882469-1s/russia-2-rubles-1999.jpg
+
+russia-2-rubles-2002:
+  frente: https://i.ucoin.net/coin/27/868/27868496-2s/russia-2-rubles-2002.jpg
+  tras: https://i.ucoin.net/coin/27/868/27868496-1s/russia-2-rubles-2002.jpg
+
+russia-2-rubles-2014:
+  frente: https://i.ucoin.net/coin/27/466/27466311-2s/russia-2-rubles-2014.jpg
+  tras: https://i.ucoin.net/coin/27/466/27466311-1s/russia-2-rubles-2014.jpg
+
+russia-2-rubles-2016:
+  frente: https://i.ucoin.net/coin/43/438/43438624-2s/russia-2-rubles-2016.jpg
+  tras: https://i.ucoin.net/coin/43/438/43438624-1s/russia-2-rubles-2016.jpg
+
+russia-5-kopeks-2003:
+  frente: https://i.ucoin.net/coin/43/529/43529393-2s/russia-5-kopeks-2003.jpg
+  tras: https://i.ucoin.net/coin/43/529/43529393-1s/russia-5-kopeks-2003.jpg
+
+russia-5-rubles-1998:
+  frente: https://i.ucoin.net/coin/39/022/39022004-2s/russia-5-rubles-1998.jpg
+  tras: https://i.ucoin.net/coin/39/022/39022004-1s/russia-5-rubles-1998.jpg
+
+russia-5-rubles-2008:
+  frente: https://i.ucoin.net/coin/43/786/43786950-2s/russia-5-rubles-2008.jpg
+  tras: https://i.ucoin.net/coin/43/786/43786950-1s/russia-5-rubles-2008.jpg
+
+russia-5-rubles-2012:
+  frente: https://i.ucoin.net/coin/44/693/44693775-2s/russia-5-rubles-2012.jpg
+  tras: https://i.ucoin.net/coin/44/693/44693775-1s/russia-5-rubles-2012.jpg
+
+russia-5-rubles-2026:
+  frente: https://i.ucoin.net/coin/85/276/85276537-2s/russia-5-rubles-2026.jpg
+  tras: https://i.ucoin.net/coin/85/276/85276537-1s/russia-5-rubles-2026.jpg
+
+russia-50-kopeks-1999:
+  frente: https://i.ucoin.net/coin/42/581/42581183-2s/russia-50-kopeks-1999.jpg
+  tras: https://i.ucoin.net/coin/42/581/42581183-1s/russia-50-kopeks-1999.jpg
+
+russia-50-kopeks-2013:
+  frente: https://i.ucoin.net/coin/42/643/42643333-2s/russia-50-kopeks-2013.jpg
+  tras: https://i.ucoin.net/coin/42/643/42643333-1s/russia-50-kopeks-2013.jpg

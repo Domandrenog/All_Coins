@@ -1,0 +1,27 @@
+belarus-1-ruble-2009:
+  frente: https://i.ucoin.net/coin/41/809/41809447-2s/belarus-1-ruble-2009.jpg
+  tras: https://i.ucoin.net/coin/41/809/41809447-1s/belarus-1-ruble-2009.jpg
+
+belarus-10-kopeks-2009:
+  frente: https://i.ucoin.net/coin/41/809/41809434-2s/belarus-10-kopeks-2009.jpg
+  tras: https://i.ucoin.net/coin/41/809/41809434-1s/belarus-10-kopeks-2009.jpg
+
+belarus-2-kopeks-2009:
+  frente: https://i.ucoin.net/coin/68/359/68359967-2s/belarus-2-kopeks-2009.jpg
+  tras: https://i.ucoin.net/coin/68/359/68359967-1s/belarus-2-kopeks-2009.jpg
+
+belarus-2-rubles-2009:
+  frente: https://i.ucoin.net/coin/41/809/41809451-2s/belarus-2-rubles-2009.jpg
+  tras: https://i.ucoin.net/coin/41/809/41809451-1s/belarus-2-rubles-2009.jpg
+
+belarus-20-kopeks-2009:
+  frente: https://i.ucoin.net/coin/41/809/41809439-2s/belarus-20-kopeks-2009.jpg
+  tras: https://i.ucoin.net/coin/41/809/41809439-1s/belarus-20-kopeks-2009.jpg
+
+belarus-5-kopeks-2009:
+  frente: https://i.ucoin.net/coin/41/809/41809431-2s/belarus-5-kopeks-2009.jpg
+  tras: https://i.ucoin.net/coin/41/809/41809431-1s/belarus-5-kopeks-2009.jpg
+
+belarus-50-kopeks-2009:
+  frente: https://i.ucoin.net/coin/68/339/68339346-2s/belarus-50-kopeks-2009.jpg
+  tras: https://i.ucoin.net/coin/68/339/68339346-1s/belarus-50-kopeks-2009.jpg

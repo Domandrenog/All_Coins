@@ -1,0 +1,31 @@
+romania-1-ban-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Romenia/frente/romania-1-ban-2005.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Romenia/tras/romania-1-ban-2005.jpg
+
+romania-1-ban-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Romenia/frente/romania-1-ban-2019.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Romenia/tras/romania-1-ban-2019.jpg
+
+romania-10-bani-2012:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Romenia/frente/romania-10-bani-2012.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Romenia/tras/romania-10-bani-2012.jpg
+
+romania-10-bani-2020:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Romenia/frente/romania-10-bani-2020.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Romenia/tras/romania-10-bani-2020.jpg
+
+romania-5-bani-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Romenia/frente/romania-5-bani-2014.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Romenia/tras/romania-5-bani-2014.jpg
+
+romania-5-bani-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Romenia/frente/romania-5-bani-2018.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Romenia/tras/romania-5-bani-2018.jpg
+
+romania-50-bani-2012:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Romenia/frente/romania-50-bani-2012.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Romenia/tras/romania-50-bani-2012.jpg
+
+romania-50-bani-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Romenia/frente/romania-50-bani-2018.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Romenia/tras/romania-50-bani-2018.jpg

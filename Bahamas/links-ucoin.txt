@@ -1,0 +1,95 @@
+bahamas-1-cent-2015:
+  frente: https://i.ucoin.net/coin/27/163/27163414-2s/bahamas-1-cent-2015.jpg
+  tras: https://i.ucoin.net/coin/27/163/27163414-1s/bahamas-1-cent-2015.jpg
+
+bahamas-1-dollar-1976:
+  frente: https://i.ucoin.net/coin/18/956/18956382-2s/bahamas-1-dollar-1976.jpg
+  tras: https://i.ucoin.net/coin/18/956/18956382-1s/bahamas-1-dollar-1976.jpg
+
+bahamas-1-dollar-1984:
+  frente: https://i.ucoin.net/coin/67/069/67069716-2s/bahamas-1-dollar-1984.jpg
+  tras: https://i.ucoin.net/coin/67/069/67069716-1s/bahamas-1-dollar-1984.jpg
+
+bahamas-1-dollar-1989:
+  frente: https://i.ucoin.net/coin/53/305/53305668-2s/bahamas-1-dollar-1989.jpg
+  tras: https://i.ucoin.net/coin/53/305/53305668-1s/bahamas-1-dollar-1989.jpg
+
+bahamas-10-cents-1969:
+  frente: https://i.ucoin.net/coin/77/940/77940096-2s/bahamas-10-cents-1969.jpg
+  tras: https://i.ucoin.net/coin/77/940/77940096-1s/bahamas-10-cents-1969.jpg
+
+bahamas-10-cents-1973-10-cent-1971-1973:
+  frente: https://i.ucoin.net/coin/62/081/62081827-2s/bahamas-10-cents-1973.jpg
+  tras: https://i.ucoin.net/coin/62/081/62081827-1s/bahamas-10-cents-1973.jpg
+
+bahamas-10-cents-1973-10-cent-1973:
+  frente: https://i.ucoin.net/coin/7/192/7192523-2s/bahamas-10-cents-1973.jpg
+  tras: https://i.ucoin.net/coin/7/192/7192523-1s/bahamas-10-cents-1973.jpg
+
+bahamas-10-cents-1976:
+  frente: https://i.ucoin.net/coin/77/921/77921203-2s/bahamas-10-cents-1976.jpg
+  tras: https://i.ucoin.net/coin/77/921/77921203-1s/bahamas-10-cents-1976.jpg
+
+bahamas-10-cents-2007:
+  frente: https://i.ucoin.net/coin/46/962/46962917-2s/bahamas-10-cents-2007.jpg
+  tras: https://i.ucoin.net/coin/46/962/46962917-1s/bahamas-10-cents-2007.jpg
+
+bahamas-15-cents-1969:
+  frente: https://i.ucoin.net/coin/46/960/46960788-2s/bahamas-15-cents-1969.jpg
+  tras: https://i.ucoin.net/coin/46/960/46960788-1s/bahamas-15-cents-1969.jpg
+
+bahamas-15-cents-1972:
+  frente: https://i.ucoin.net/coin/76/005/76005990-2s/bahamas-15-cents-1972.jpg
+  tras: https://i.ucoin.net/coin/76/005/76005990-1s/bahamas-15-cents-1972.jpg
+
+bahamas-15-cents-1975:
+  frente: https://i.ucoin.net/coin/46/962/46962481-2s/bahamas-15-cents-1975.jpg
+  tras: https://i.ucoin.net/coin/46/962/46962481-1s/bahamas-15-cents-1975.jpg
+
+bahamas-15-cents-2018:
+  frente: https://i.ucoin.net/coin/26/990/26990029-2s/bahamas-15-cents-2018.jpg
+  tras: https://i.ucoin.net/coin/26/990/26990029-1s/bahamas-15-cents-2018.jpg
+
+bahamas-25-cents-1970:
+  frente: https://i.ucoin.net/coin/9/787/9787095-2s/bahamas-25-cents-1970.jpg
+  tras: https://i.ucoin.net/coin/9/787/9787095-1s/bahamas-25-cents-1970.jpg
+
+bahamas-25-cents-1973:
+  frente: https://i.ucoin.net/coin/66/608/66608287-2s/bahamas-25-cents-1973.jpg
+  tras: https://i.ucoin.net/coin/66/608/66608287-1s/bahamas-25-cents-1973.jpg
+
+bahamas-25-cents-1977:
+  frente: https://i.ucoin.net/coin/85/427/85427398-2s/bahamas-25-cents-1977.jpg
+  tras: https://i.ucoin.net/coin/85/427/85427398-1s/bahamas-25-cents-1977.jpg
+
+bahamas-25-cents-2005:
+  frente: https://i.ucoin.net/coin/44/059/44059775-2s/bahamas-25-cents-2005.jpg
+  tras: https://i.ucoin.net/coin/44/059/44059775-1s/bahamas-25-cents-2005.jpg
+
+bahamas-25-cents-2007:
+  frente: https://i.ucoin.net/coin/85/427/85427761-2s/bahamas-25-cents-2007.jpg
+  tras: https://i.ucoin.net/coin/85/427/85427761-1s/bahamas-25-cents-2007.jpg
+
+bahamas-5-cents-1970:
+  frente: https://i.ucoin.net/coin/1/780/1780454-2s/bahamas-5-cents-1970.jpg
+  tras: https://i.ucoin.net/coin/1/780/1780454-1s/bahamas-5-cents-1970.jpg
+
+bahamas-5-cents-1973-5-cent-1971-1973:
+  frente: https://i.ucoin.net/coin/80/070/80070982-2s/bahamas-5-cents-1973.jpg
+  tras: https://i.ucoin.net/coin/80/070/80070982-1s/bahamas-5-cents-1973.jpg
+
+bahamas-5-cents-1973-5-cent-1973:
+  frente: https://i.ucoin.net/coin/74/640/74640382-2s/bahamas-5-cents-1973.jpg
+  tras: https://i.ucoin.net/coin/74/640/74640382-1s/bahamas-5-cents-1973.jpg
+
+bahamas-5-cents-2005:
+  frente: https://i.ucoin.net/coin/46/962/46962301-2s/bahamas-5-cents-2005.jpg
+  tras: https://i.ucoin.net/coin/46/962/46962301-1s/bahamas-5-cents-2005.jpg
+
+bahamas-5-cents-2015:
+  frente: https://i.ucoin.net/coin/27/163/27163602-2s/bahamas-5-cents-2015.jpg
+  tras: https://i.ucoin.net/coin/27/163/27163602-1s/bahamas-5-cents-2015.jpg
+
+bahamas-50-cents-1989:
+  frente: https://i.ucoin.net/coin/18/036/18036159-2s/bahamas-50-cents-1989.jpg
+  tras: https://i.ucoin.net/coin/18/036/18036159-1s/bahamas-50-cents-1989.jpg
