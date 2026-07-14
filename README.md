@@ -2,6 +2,36 @@
 
 ## Como ir buscar as imagens (rápido)
 
+### Opção 0: Atualizar URLs na API para o raw do GitHub
+
+O script `sync_coin_images_api.py` procura moedas na API e atualiza `image_frente`/`image_verso` para apontarem para o raw do GitHub.
+
+Os URLs são gerados neste formato:
+
+- `https://raw.githubusercontent.com/Domandrenog/All_Coins/main/<Pais>/frente/<slug>.jpg`
+- `https://raw.githubusercontent.com/Domandrenog/All_Coins/main/<Pais>/tras/<slug>.jpg`
+
+1. Define a API key fora do repo:
+  - `export ALL_COINS_API_KEY="..."`
+2. Testa primeiro um país sem alterar a API:
+  - `python3 sync_coin_images_api.py --country Polonia`
+3. Se quiseres limitar a uma moeda:
+  - `python3 sync_coin_images_api.py --country Polonia --name "1 grosz" --years 2018`
+4. Quando o resultado estiver certo, aplica:
+  - `python3 sync_coin_images_api.py --country Polonia --apply`
+
+Se precisares de forçar o slug de uma moeda específica:
+
+- `python3 sync_coin_images_api.py --country Polonia --name "1 grosz" --years 2018 --slug poland-1-grosz-2018`
+
+Se a moeda não for encontrada pelos filtros, indica o ID diretamente:
+
+- `python3 sync_coin_images_api.py --coin-id "<Coin_id>" --country-folder Polonia --slug poland-1-grosz-2018`
+
+Para descarregar as imagens atuais da API antes de trocar os links:
+
+- `python3 sync_coin_images_api.py --country Polonia --name "1 grosz" --years 2018 --download-current --apply`
+
 ### Opção 1: Gerar localmente com o script
 
 1. Corre o script:
@@ -24,6 +54,18 @@ Este projeto usa o `download_images.py` para recolher e guardar imagens de moeda
 2. Recolher apenas links que contenham `i.ucoin.net`.
 3. Descarregar as imagens para uma pasta de destino (ex.: `Bielorrussia`).
 4. Manter o nome do ficheiro vindo do URL.
+
+## Diagnóstico de downloads uCoin
+
+Para descobrir se uma imagem `i.ucoin.net` pode ser descarregada neste ambiente, usa o probe:
+
+- `python3 probe_ucoin_download.py "https://i.ucoin.net/coin/.../imagem.jpg"`
+
+O script testa `urllib`, `curl`, headers de browser e referers derivados do nome da imagem. Para testar também via Chromium/Playwright:
+
+- `python3 probe_ucoin_download.py "https://i.ucoin.net/coin/.../imagem.jpg" --playwright`
+
+Um download só é tratado como sucesso quando o HTTP é `2xx`, o `Content-Type` contém `image` e o ficheiro tem conteúdo. Se o resultado mostrar `403` com `Just a moment...`, o servidor devolveu a página de proteção Cloudflare em vez da imagem.
 
 ## Lógica do script
 

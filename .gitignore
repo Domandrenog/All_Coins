@@ -1,0 +1,5 @@
+.ucoin-profile/
+ucoin_probe_output/
+ucoin_probe_verso/
+__pycache__/
+*.pyc
