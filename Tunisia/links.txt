@@ -1,0 +1,95 @@
+tunisia-1-2-dinar-1968:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-1-2-dinar-1968.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-1-2-dinar-1968.jpg
+
+tunisia-1-2-dinar-1976:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-1-2-dinar-1976.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-1-2-dinar-1976.jpg
+
+tunisia-1-2-dinar-1988:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-1-2-dinar-1988.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-1-2-dinar-1988.jpg
+
+tunisia-1-2-dinar-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-1-2-dinar-2009.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-1-2-dinar-2009.jpg
+
+tunisia-1-2-dinar-2021:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-1-2-dinar-2021.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-1-2-dinar-2021.jpg
+
+tunisia-1-dinar-1983:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-1-dinar-1983.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-1-dinar-1983.jpg
+
+tunisia-1-dinar-1988:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-1-dinar-1988.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-1-dinar-1988.jpg
+
+tunisia-1-dinar-2007:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-1-dinar-2007.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-1-dinar-2007.jpg
+
+tunisia-1-dinar-2020:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-1-dinar-2020.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-1-dinar-2020.jpg
+
+tunisia-1-millim-1960:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-1-millim-1960.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-1-millim-1960.jpg
+
+tunisia-10-millimes-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-10-millimes-2005.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-10-millimes-2005.jpg
+
+tunisia-10-millimes-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-10-millimes-2009.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-10-millimes-2009.jpg
+
+tunisia-100-millimes-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-100-millimes-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-100-millimes-2024.jpg
+
+tunisia-2-dinars-2013:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-2-dinars-2013.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-2-dinars-2013.jpg
+
+tunisia-2-dinars-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-2-dinars-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-2-dinars-2024.jpg
+
+tunisia-2-millimes-1960:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-2-millimes-1960.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-2-millimes-1960.jpg
+
+tunisia-20-millimes-1983:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-20-millimes-1983.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-20-millimes-1983.jpg
+
+tunisia-20-millimes-2011:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-20-millimes-2011.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-20-millimes-2011.jpg
+
+tunisia-200-millimes-2020:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-200-millimes-2020.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-200-millimes-2020.jpg
+
+tunisia-5-dinars-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-5-dinars-2002.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-5-dinars-2002.jpg
+
+tunisia-5-dinars-2021:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-5-dinars-2021.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-5-dinars-2021.jpg
+
+tunisia-5-millimes-1960:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-5-millimes-1960.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-5-millimes-1960.jpg
+
+tunisia-50-millimes-2007:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-50-millimes-2007.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-50-millimes-2007.jpg
+
+tunisia-50-millimes-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/frente/tunisia-50-millimes-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tunisia/tras/tunisia-50-millimes-2017.jpg
