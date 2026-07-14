@@ -1,0 +1,67 @@
+thailand-1-baht-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/frente/thailand-1-baht-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/tras/thailand-1-baht-1992.jpg
+
+thailand-1-baht-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/frente/thailand-1-baht-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/tras/thailand-1-baht-2017.jpg
+
+thailand-1-baht-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/frente/thailand-1-baht-2018.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/tras/thailand-1-baht-2018.jpg
+
+thailand-10-baht-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/frente/thailand-10-baht-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/tras/thailand-10-baht-2006.jpg
+
+thailand-10-baht-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/frente/thailand-10-baht-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/tras/thailand-10-baht-2017.jpg
+
+thailand-10-baht-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/frente/thailand-10-baht-2018.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/tras/thailand-10-baht-2018.jpg
+
+thailand-2-baht-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/frente/thailand-2-baht-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/tras/thailand-2-baht-2006.jpg
+
+thailand-2-baht-2011:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/frente/thailand-2-baht-2011.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/tras/thailand-2-baht-2011.jpg
+
+thailand-2-baht-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/frente/thailand-2-baht-2018.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/tras/thailand-2-baht-2018.jpg
+
+thailand-25-satang-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/frente/thailand-25-satang-2018.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/tras/thailand-25-satang-2018.jpg
+
+thailand-5-baht-1988:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/frente/thailand-5-baht-1988.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/tras/thailand-5-baht-1988.jpg
+
+thailand-5-baht-2001:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/frente/thailand-5-baht-2001.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/tras/thailand-5-baht-2001.jpg
+
+thailand-5-baht-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/frente/thailand-5-baht-2015.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/tras/thailand-5-baht-2015.jpg
+
+thailand-5-baht-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/frente/thailand-5-baht-2018.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/tras/thailand-5-baht-2018.jpg
+
+thailand-50-satang-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/frente/thailand-50-satang-2005.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/tras/thailand-50-satang-2005.jpg
+
+thailand-50-satang-2016:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/frente/thailand-50-satang-2016.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/tras/thailand-50-satang-2016.jpg
+
+thailand-50-satang-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/frente/thailand-50-satang-2018.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Tailandia/tras/thailand-50-satang-2018.jpg

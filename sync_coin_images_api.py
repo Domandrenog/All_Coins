@@ -39,6 +39,8 @@ COUNTRY_SLUG_ALIASES = {
     "singapura": ["singapura", "singapore"],
     "singapore": ["singapore", "singapura"],
     "sri-lanka": ["sri-lanka"],
+    "tailandia": ["tailandia", "thailand"],
+    "thailand": ["thailand", "tailandia"],
     "hong-kong": ["hong-kong"],
     "taiwan": ["taiwan"],
 }
@@ -61,6 +63,8 @@ COUNTRY_FILE_SLUGS = {
     "singapura": "singapore",
     "singapore": "singapore",
     "sri-lanka": "sri-lanka",
+    "tailandia": "thailand",
+    "thailand": "thailand",
     "hong-kong": "hong-kong",
     "taiwan": "taiwan",
 }
@@ -83,6 +87,8 @@ COUNTRY_FOLDERS = {
     "singapura": "Singapura",
     "singapore": "Singapura",
     "sri-lanka": "SriLanka",
+    "tailandia": "Tailandia",
+    "thailand": "Tailandia",
     "hong-kong": "HongKong",
     "taiwan": "Taiwan",
 }
@@ -104,6 +110,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--download-current", action="store_true", help="Descarrega as imagens atuais da API antes de atualizar.")
     parser.add_argument("--download-only", action="store_true", help="Descarrega as imagens atuais, mas não atualiza a API.")
     parser.add_argument("--overwrite-images", action="store_true", help="Substitui imagens locais existentes ao descarregar.")
+    parser.add_argument("--include-without-ucoin", action="store_true", help="Inclui moedas que não tenham links i.ucoin.net nos dois lados.")
     parser.add_argument("--ucoin-browser-profile", default=".ucoin-profile", help="Perfil Chromium com sessão uCoin para fallback de download.")
     parser.add_argument("--no-ucoin-browser-fallback", action="store_true", help="Não usa Chromium/Playwright quando o download i.ucoin.net via curl falha.")
     parser.add_argument("--apply", action="store_true", help="Aplica a atualização na API. Sem isto, só mostra o plano.")
@@ -480,6 +487,15 @@ def main() -> int:
         print(f"Atual tras:   {coin.get('image_verso') or ''}")
         print(f"Nova tras:    {target_links['tras']}")
 
+        source_links = {
+            "frente": str(coin.get("image_frente") or ""),
+            "tras": str(coin.get("image_verso") or ""),
+        }
+        has_ucoin_links = "i.ucoin.net" in source_links["frente"].lower() and "i.ucoin.net" in source_links["tras"].lower()
+        if not args.include_without_ucoin and not has_ucoin_links:
+            print("Saltada: não tem links i.ucoin.net nos dois lados; fica como está.")
+            continue
+
         folder = Path(country_folder(str(coin.get("country") or args.country or ""), args.country_folder))
 
         if args.download_current or args.download_only:
@@ -503,10 +519,6 @@ def main() -> int:
 
         if args.apply or args.download_only:
             write_country_links(folder, coin_slug, target_links)
-            source_links = {
-                "frente": str(coin.get("image_frente") or ""),
-                "tras": str(coin.get("image_verso") or ""),
-            }
             if "i.ucoin.net" in source_links["frente"].lower() or "i.ucoin.net" in source_links["tras"].lower():
                 write_country_links(folder, coin_slug, source_links, "links-ucoin.txt")
                 print(f"Links uCoin: atualizado -> {folder / 'links-ucoin.txt'}")

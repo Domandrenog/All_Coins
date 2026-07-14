@@ -1,0 +1,67 @@
+thailand-1-baht-1992:
+  frente: https://i.ucoin.net/coin/76/143/76143291-1s/thailand-1-baht-1992.jpg
+  tras: https://i.ucoin.net/coin/76/143/76143291-2s/thailand-1-baht-1992.jpg
+
+thailand-1-baht-2017:
+  frente: https://i.ucoin.net/coin/37/685/37685749-1s/thailand-1-baht-2017.jpg
+  tras: https://i.ucoin.net/coin/37/685/37685749-2s/thailand-1-baht-2017.jpg
+
+thailand-1-baht-2018:
+  frente: https://i.ucoin.net/coin/24/149/24149363-1s/thailand-1-baht-2018.jpg
+  tras: https://i.ucoin.net/coin/24/149/24149363-2s/thailand-1-baht-2018.jpg
+
+thailand-10-baht-2006:
+  frente: https://i.ucoin.net/coin/57/121/57121371-1s/thailand-10-baht-2006.jpg
+  tras: https://i.ucoin.net/coin/57/121/57121371-2s/thailand-10-baht-2006.jpg
+
+thailand-10-baht-2017:
+  frente: https://i.ucoin.net/coin/37/686/37686225-1s/thailand-10-baht-2017.jpg
+  tras: https://i.ucoin.net/coin/37/686/37686225-2s/thailand-10-baht-2017.jpg
+
+thailand-10-baht-2018:
+  frente: https://i.ucoin.net/coin/37/686/37686299-1s/thailand-10-baht-2018.jpg
+  tras: https://i.ucoin.net/coin/37/686/37686299-2s/thailand-10-baht-2018.jpg
+
+thailand-2-baht-2006:
+  frente: https://i.ucoin.net/coin/45/048/45048911-1s/thailand-2-baht-2006.jpg
+  tras: https://i.ucoin.net/coin/45/048/45048911-2s/thailand-2-baht-2006.jpg
+
+thailand-2-baht-2011:
+  frente: https://i.ucoin.net/coin/53/949/53949562-1s/thailand-2-baht-2011.jpg
+  tras: https://i.ucoin.net/coin/53/949/53949562-2s/thailand-2-baht-2011.jpg
+
+thailand-2-baht-2018:
+  frente: https://i.ucoin.net/coin/53/949/53949693-1s/thailand-2-baht-2018.jpg
+  tras: https://i.ucoin.net/coin/53/949/53949693-2s/thailand-2-baht-2018.jpg
+
+thailand-25-satang-2018:
+  frente: https://i.ucoin.net/coin/25/627/25627883-1s/thailand-25-satang-2018.jpg
+  tras: https://i.ucoin.net/coin/25/627/25627883-2s/thailand-25-satang-2018.jpg
+
+thailand-5-baht-1988:
+  frente: https://i.ucoin.net/coin/0/15/15863-1s/thailand-5-baht-1988.jpg
+  tras: https://i.ucoin.net/coin/0/15/15863-2s/thailand-5-baht-1988.jpg
+
+thailand-5-baht-2001:
+  frente: https://i.ucoin.net/coin/69/629/69629185-1s/thailand-5-baht-2001.jpg
+  tras: https://i.ucoin.net/coin/69/629/69629185-2s/thailand-5-baht-2001.jpg
+
+thailand-5-baht-2015:
+  frente: https://i.ucoin.net/coin/53/949/53949634-1s/thailand-5-baht-2015.jpg
+  tras: https://i.ucoin.net/coin/53/949/53949634-2s/thailand-5-baht-2015.jpg
+
+thailand-5-baht-2018:
+  frente: https://i.ucoin.net/coin/24/150/24150665-1s/thailand-5-baht-2018.jpg
+  tras: https://i.ucoin.net/coin/24/150/24150665-2s/thailand-5-baht-2018.jpg
+
+thailand-50-satang-2005:
+  frente: https://i.ucoin.net/coin/45/049/45049016-1s/thailand-50-satang-2005.jpg
+  tras: https://i.ucoin.net/coin/45/049/45049016-2s/thailand-50-satang-2005.jpg
+
+thailand-50-satang-2016:
+  frente: https://i.ucoin.net/coin/37/686/37686147-1s/thailand-50-satang-2016.jpg
+  tras: https://i.ucoin.net/coin/37/686/37686147-2s/thailand-50-satang-2016.jpg
+
+thailand-50-satang-2018:
+  frente: https://i.ucoin.net/coin/25/627/25627893-1s/thailand-50-satang-2018.jpg
+  tras: https://i.ucoin.net/coin/25/627/25627893-2s/thailand-50-satang-2018.jpg
