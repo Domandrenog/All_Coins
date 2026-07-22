@@ -163,11 +163,15 @@ def country_file_slug(country: str) -> str:
     return COUNTRY_FILE_SLUGS.get(country_slug, country_slug)
 
 
+def default_country_folder(country_slug: str) -> str:
+    return "".join(part.capitalize() for part in country_slug.split("-") if part)
+
+
 def country_folder(country: str, explicit_folder: str | None) -> str:
     if explicit_folder:
         return explicit_folder.strip("/")
     country_slug = slugify(country)
-    return COUNTRY_FOLDERS.get(country_slug, country)
+    return COUNTRY_FOLDERS.get(country_slug, default_country_folder(country_slug))
 
 
 def coin_file_slug(coin: dict[str, object], manual_slug: str | None = None) -> str:

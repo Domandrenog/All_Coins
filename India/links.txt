@@ -1,0 +1,359 @@
+india-1-naya-paisa-1961:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-1-naya-paisa-1961.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-1-naya-paisa-1961.jpg
+
+india-1-naya-paisa-1963:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-1-naya-paisa-1963.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-1-naya-paisa-1963.jpg
+
+india-1-paisa-1964:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-1-paisa-1964.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-1-paisa-1964.jpg
+
+india-1-paisa-1967:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-1-paisa-1967.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-1-paisa-1967.jpg
+
+india-1-rupee-1962:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-1-rupee-1962.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-1-rupee-1962.jpg
+
+india-1-rupee-1970:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-1-rupee-1970.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-1-rupee-1970.jpg
+
+india-1-rupee-1977:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-1-rupee-1977.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-1-rupee-1977.jpg
+
+india-1-rupee-1981:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-1-rupee-1981.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-1-rupee-1981.jpg
+
+india-1-rupee-1989-1-rupia-1982-1990-republica-da-india:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-1-rupee-1989-1-rupia-1982-1990-republica-da-india.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-1-rupee-1989-1-rupia-1982-1990-republica-da-india.jpg
+
+india-1-rupee-1989-1-rupia-1988-1990-republica-da-india:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-1-rupee-1989-1-rupia-1988-1990-republica-da-india.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-1-rupee-1989-1-rupia-1988-1990-republica-da-india.jpg
+
+india-1-rupee-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-1-rupee-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-1-rupee-1991.jpg
+
+india-1-rupee-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-1-rupee-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-1-rupee-1993.jpg
+
+india-1-rupee-1996:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-1-rupee-1996.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-1-rupee-1996.jpg
+
+india-1-rupee-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-1-rupee-2005.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-1-rupee-2005.jpg
+
+india-1-rupee-2010:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-1-rupee-2010.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-1-rupee-2010.jpg
+
+india-1-rupee-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-1-rupee-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-1-rupee-2017.jpg
+
+india-1-rupee-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-1-rupee-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-1-rupee-2023.jpg
+
+india-10-naye-paise-1957:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-10-naye-paise-1957.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-10-naye-paise-1957.jpg
+
+india-10-naye-paise-1961:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-10-naye-paise-1961.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-10-naye-paise-1961.jpg
+
+india-10-paise-1965:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-10-paise-1965.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-10-paise-1965.jpg
+
+india-10-paise-1968:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-10-paise-1968.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-10-paise-1968.jpg
+
+india-10-paise-1970:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-10-paise-1970.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-10-paise-1970.jpg
+
+india-10-paise-1972:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-10-paise-1972.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-10-paise-1972.jpg
+
+india-10-paise-1979:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-10-paise-1979.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-10-paise-1979.jpg
+
+india-10-paise-1980:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-10-paise-1980.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-10-paise-1980.jpg
+
+india-10-paise-1986:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-10-paise-1986.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-10-paise-1986.jpg
+
+india-10-paise-1990:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-10-paise-1990.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-10-paise-1990.jpg
+
+india-10-rupees-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-10-rupees-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-10-rupees-2006.jpg
+
+india-10-rupees-2010:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-10-rupees-2010.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-10-rupees-2010.jpg
+
+india-10-rupees-2012:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-10-rupees-2012.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-10-rupees-2012.jpg
+
+india-10-rupees-2020:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-10-rupees-2020.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-10-rupees-2020.jpg
+
+india-10-rupees-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-10-rupees-2022.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-10-rupees-2022.jpg
+
+india-2-naye-paise-1962:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-2-naye-paise-1962.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-2-naye-paise-1962.jpg
+
+india-2-paise-1964:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-2-paise-1964.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-2-paise-1964.jpg
+
+india-2-paise-1966:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-2-paise-1966.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-2-paise-1966.jpg
+
+india-2-paise-1970:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-2-paise-1970.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-2-paise-1970.jpg
+
+india-2-paise-1976:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-2-paise-1976.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-2-paise-1976.jpg
+
+india-2-rupees-1982:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-2-rupees-1982.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-2-rupees-1982.jpg
+
+india-2-rupees-1990:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-2-rupees-1990.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-2-rupees-1990.jpg
+
+india-2-rupees-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-2-rupees-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-2-rupees-2003.jpg
+
+india-2-rupees-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-2-rupees-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-2-rupees-2006.jpg
+
+india-2-rupees-2010:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-2-rupees-2010.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-2-rupees-2010.jpg
+
+india-2-rupees-2013:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-2-rupees-2013.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-2-rupees-2013.jpg
+
+india-2-rupees-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-2-rupees-2019.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-2-rupees-2019.jpg
+
+india-2-rupees-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-2-rupees-2022.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-2-rupees-2022.jpg
+
+india-20-paise-1970:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-20-paise-1970.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-20-paise-1970.jpg
+
+india-20-paise-1983:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-20-paise-1983.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-20-paise-1983.jpg
+
+india-20-rupees-2020:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-20-rupees-2020.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-20-rupees-2020.jpg
+
+india-20-rupees-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-20-rupees-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-20-rupees-2023.jpg
+
+india-25-naye-paise-1959:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-25-naye-paise-1959.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-25-naye-paise-1959.jpg
+
+india-25-naye-paise-1962:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-25-naye-paise-1962.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-25-naye-paise-1962.jpg
+
+india-25-paise-1964:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-25-paise-1964.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-25-paise-1964.jpg
+
+india-25-paise-1967:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-25-paise-1967.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-25-paise-1967.jpg
+
+india-25-paise-1968:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-25-paise-1968.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-25-paise-1968.jpg
+
+india-25-paise-1975:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-25-paise-1975.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-25-paise-1975.jpg
+
+india-25-paise-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-25-paise-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-25-paise-1994.jpg
+
+india-3-paise-1965:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-3-paise-1965.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-3-paise-1965.jpg
+
+india-3-paise-1971:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-3-paise-1971.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-3-paise-1971.jpg
+
+india-3-paise-1973:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-3-paise-1973.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-3-paise-1973.jpg
+
+india-5-naye-paise-1962:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-5-naye-paise-1962.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-5-naye-paise-1962.jpg
+
+india-5-paise-1965:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-5-paise-1965.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-5-paise-1965.jpg
+
+india-5-paise-1967:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-5-paise-1967.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-5-paise-1967.jpg
+
+india-5-paise-1968:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-5-paise-1968.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-5-paise-1968.jpg
+
+india-5-paise-1970:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-5-paise-1970.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-5-paise-1970.jpg
+
+india-5-paise-1972:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-5-paise-1972.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-5-paise-1972.jpg
+
+india-5-paise-1978:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-5-paise-1978.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-5-paise-1978.jpg
+
+india-5-paise-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-5-paise-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-5-paise-1991.jpg
+
+india-5-rupees-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-5-rupees-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-5-rupees-1994.jpg
+
+india-5-rupees-1998:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-5-rupees-1998.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-5-rupees-1998.jpg
+
+india-5-rupees-2007-5-rupias-2007-2008-republica-da-india:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-5-rupees-2007-5-rupias-2007-2008-republica-da-india.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-5-rupees-2007-5-rupias-2007-2008-republica-da-india.jpg
+
+india-5-rupees-2007-5-rupias-2007-republica-da-india:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-5-rupees-2007-5-rupias-2007-republica-da-india.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-5-rupees-2007-5-rupias-2007-republica-da-india.jpg
+
+india-5-rupees-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-5-rupees-2009.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-5-rupees-2009.jpg
+
+india-5-rupees-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-5-rupees-2015.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-5-rupees-2015.jpg
+
+india-5-rupees-2021:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-5-rupees-2021.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-5-rupees-2021.jpg
+
+india-5-rupees-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-5-rupees-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-5-rupees-2024.jpg
+
+india-50-naye-paise-1963:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-50-naye-paise-1963.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-50-naye-paise-1963.jpg
+
+india-50-paise-1967:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-50-paise-1967.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-50-paise-1967.jpg
+
+india-50-paise-1970:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-50-paise-1970.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-50-paise-1970.jpg
+
+india-50-paise-1972:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-50-paise-1972.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-50-paise-1972.jpg
+
+india-50-paise-1975:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-50-paise-1975.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-50-paise-1975.jpg
+
+india-50-paise-1984:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-50-paise-1984.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-50-paise-1984.jpg
+
+india-50-paise-1988:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-50-paise-1988.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-50-paise-1988.jpg
+
+india-50-paise-2008:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-50-paise-2008.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-50-paise-2008.jpg
+
+india-50-paise-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/india-50-paise-2015.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/india-50-paise-2015.jpg
+
+portuguese-india-1-escudo-1958:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/portuguese-india-1-escudo-1958.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/portuguese-india-1-escudo-1958.jpg
+
+portuguese-india-10-centavos-1958:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/portuguese-india-10-centavos-1958.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/portuguese-india-10-centavos-1958.jpg
+
+portuguese-india-3-escudos-1959:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/portuguese-india-3-escudos-1959.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/portuguese-india-3-escudos-1959.jpg
+
+portuguese-india-30-centavos-1958:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/portuguese-india-30-centavos-1958.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/portuguese-india-30-centavos-1958.jpg
+
+portuguese-india-6-escudos-1959:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/portuguese-india-6-escudos-1959.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/portuguese-india-6-escudos-1959.jpg
+
+portuguese-india-60-centavos-1958:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/frente/portuguese-india-60-centavos-1958.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/India/tras/portuguese-india-60-centavos-1958.jpg
