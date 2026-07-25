@@ -1,0 +1,211 @@
+australia-1-2-penny-1954:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-1-2-penny-1954.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-1-2-penny-1954.jpg
+
+australia-1-2-penny-1962:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-1-2-penny-1962.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-1-2-penny-1962.jpg
+
+australia-1-cent-1978:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-1-cent-1978.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-1-cent-1978.jpg
+
+australia-1-cent-1990:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-1-cent-1990.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-1-cent-1990.jpg
+
+australia-1-cent-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-1-cent-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-1-cent-2006.jpg
+
+australia-1-dollar-1984:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-1-dollar-1984.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-1-dollar-1984.jpg
+
+australia-1-dollar-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-1-dollar-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-1-dollar-1987.jpg
+
+australia-1-dollar-2013:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-1-dollar-2013.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-1-dollar-2013.jpg
+
+australia-1-dollar-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-1-dollar-2022.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-1-dollar-2022.jpg
+
+australia-1-dollar-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-1-dollar-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-1-dollar-2023.jpg
+
+australia-1-penny-1953:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-1-penny-1953.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-1-penny-1953.jpg
+
+australia-1-penny-1959:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-1-penny-1959.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-1-penny-1959.jpg
+
+australia-1-shilling-1954:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-1-shilling-1954.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-1-shilling-1954.jpg
+
+australia-1-shilling-1960:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-1-shilling-1960.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-1-shilling-1960.jpg
+
+australia-10-cents-1982:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-10-cents-1982.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-10-cents-1982.jpg
+
+australia-10-cents-1990:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-10-cents-1990.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-10-cents-1990.jpg
+
+australia-10-cents-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-10-cents-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-10-cents-2006.jpg
+
+australia-10-cents-2021:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-10-cents-2021.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-10-cents-2021.jpg
+
+australia-10-cents-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-10-cents-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-10-cents-2023.jpg
+
+australia-10-cents-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-10-cents-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-10-cents-2024.jpg
+
+australia-2-cents-1978:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-2-cents-1978.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-2-cents-1978.jpg
+
+australia-2-cents-1986:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-2-cents-1986.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-2-cents-1986.jpg
+
+australia-2-cents-2016:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-2-cents-2016.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-2-cents-2016.jpg
+
+australia-2-dollars-1989:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-2-dollars-1989.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-2-dollars-1989.jpg
+
+australia-2-dollars-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-2-dollars-2019.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-2-dollars-2019.jpg
+
+australia-2-dollars-2021:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-2-dollars-2021.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-2-dollars-2021.jpg
+
+australia-2-dollars-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-2-dollars-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-2-dollars-2023.jpg
+
+australia-2-dollars-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-2-dollars-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-2-dollars-2024.jpg
+
+australia-2-shillings-1953:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-2-shillings-1953.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-2-shillings-1953.jpg
+
+australia-2-shillings-1961:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-2-shillings-1961.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-2-shillings-1961.jpg
+
+australia-20-cents-1974:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-20-cents-1974.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-20-cents-1974.jpg
+
+australia-20-cents-1997:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-20-cents-1997.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-20-cents-1997.jpg
+
+australia-20-cents-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-20-cents-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-20-cents-1999.jpg
+
+australia-20-cents-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-20-cents-2019.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-20-cents-2019.jpg
+
+australia-20-cents-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-20-cents-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-20-cents-2023.jpg
+
+australia-20-cents-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-20-cents-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-20-cents-2024.jpg
+
+australia-3-pence-1953:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-3-pence-1953.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-3-pence-1953.jpg
+
+australia-3-pence-1960:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-3-pence-1960.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-3-pence-1960.jpg
+
+australia-5-cents-1982:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-5-cents-1982.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-5-cents-1982.jpg
+
+australia-5-cents-1997:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-5-cents-1997.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-5-cents-1997.jpg
+
+australia-5-cents-2010:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-5-cents-2010.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-5-cents-2010.jpg
+
+australia-5-cents-2021:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-5-cents-2021.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-5-cents-2021.jpg
+
+australia-5-cents-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-5-cents-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-5-cents-2023.jpg
+
+australia-5-cents-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-5-cents-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-5-cents-2024.jpg
+
+australia-50-cents-1966:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-50-cents-1966.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-50-cents-1966.jpg
+
+australia-50-cents-1975:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-50-cents-1975.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-50-cents-1975.jpg
+
+australia-50-cents-1997:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-50-cents-1997.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-50-cents-1997.jpg
+
+australia-50-cents-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-50-cents-2015.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-50-cents-2015.jpg
+
+australia-50-cents-2021:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-50-cents-2021.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-50-cents-2021.jpg
+
+australia-50-cents-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-50-cents-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-50-cents-2023.jpg
+
+australia-50-cents-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-50-cents-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-50-cents-2024.jpg
+
+australia-6-pence-1954:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-6-pence-1954.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-6-pence-1954.jpg
+
+australia-6-pence-1963:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/frente/australia-6-pence-1963.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Australia/tras/australia-6-pence-1963.jpg

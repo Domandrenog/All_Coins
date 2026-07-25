@@ -77,6 +77,8 @@ def ucoin_sides(coin: dict[str, object]) -> list[str]:
 def build_report(coins: list[dict[str, object]]) -> dict[str, object]:
     country_totals: dict[str, int] = defaultdict(int)
     countries: dict[str, list[dict[str, object]]] = defaultdict(list)
+    full_countries: dict[str, list[dict[str, object]]] = defaultdict(list)
+    partial_countries: dict[str, list[dict[str, object]]] = defaultdict(list)
 
     for coin in coins:
         country = str(coin.get("country") or "(sem pais)")
@@ -92,34 +94,79 @@ def build_report(coins: list[dict[str, object]]) -> dict[str, object]:
                 "sides": sides,
             }
         )
+        if len(sides) == 1:
+            partial_countries[country].append(
+                {
+                    "id": coin.get("id"),
+                    "name": coin.get("name"),
+                    "years": coin.get("years"),
+                    "sides": sides,
+                }
+            )
+        else:
+            full_countries[country].append(
+                {
+                    "id": coin.get("id"),
+                    "name": coin.get("name"),
+                    "years": coin.get("years"),
+                    "sides": sides,
+                }
+            )
 
     return {
         "total_coins": len(coins),
         "countries": len(country_totals),
         "countries_with_ucoin": len(countries),
         "coins_with_ucoin": sum(len(rows) for rows in countries.values()),
+        "countries_with_full_ucoin": len(full_countries),
+        "coins_with_full_ucoin": sum(len(rows) for rows in full_countries.values()),
+        "countries_with_partial_ucoin": len(partial_countries),
+        "coins_with_partial_ucoin": sum(len(rows) for rows in partial_countries.values()),
         "by_country": dict(sorted(countries.items())),
+        "full_by_country": dict(sorted(full_countries.items())),
+        "partial_by_country": dict(sorted(partial_countries.items())),
         "country_totals": dict(sorted(country_totals.items())),
     }
 
 
 def print_report(report: dict[str, object]) -> None:
     by_country = report["by_country"]
+    full_by_country = report["full_by_country"]
+    partial_by_country = report["partial_by_country"]
     country_totals = report["country_totals"]
     assert isinstance(by_country, dict)
+    assert isinstance(full_by_country, dict)
+    assert isinstance(partial_by_country, dict)
     assert isinstance(country_totals, dict)
 
     print(f"total_coins={report['total_coins']}")
     print(f"countries={report['countries']}")
     print(f"countries_with_ucoin={report['countries_with_ucoin']}")
     print(f"coins_with_ucoin={report['coins_with_ucoin']}")
+    print(f"countries_with_full_ucoin={report['countries_with_full_ucoin']}")
+    print(f"coins_with_full_ucoin={report['coins_with_full_ucoin']}")
+    print(f"countries_with_partial_ucoin={report['countries_with_partial_ucoin']}")
+    print(f"coins_with_partial_ucoin={report['coins_with_partial_ucoin']}")
 
     if not by_country:
         print("\nOK: nenhuma moeda ainda aponta para i.ucoin.net.")
         return
 
-    print("")
-    for country, rows in by_country.items():
+    if partial_by_country:
+        print("\nParciais: moedas com uCoin só num dos lados")
+        for country, rows in partial_by_country.items():
+            total = country_totals.get(country, "?")
+            print(f"{country}: {len(rows)} / {total}")
+            for row in rows:
+                sides = ",".join(row["sides"])
+                print(f"  - {row['name']} | {row['years']} | {row['id']} | {sides}")
+            print("")
+
+    if not full_by_country:
+        return
+
+    print("Moedas com uCoin nos dois lados")
+    for country, rows in full_by_country.items():
         total = country_totals.get(country, "?")
         print(f"{country}: {len(rows)} / {total}")
         for row in rows:

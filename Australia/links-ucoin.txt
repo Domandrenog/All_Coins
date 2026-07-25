@@ -1,0 +1,211 @@
+australia-1-2-penny-1954:
+  frente: https://i.ucoin.net/coin/29/554/29554005-1s/australia-1-2-penny-1954.jpg
+  tras: https://i.ucoin.net/coin/29/554/29554005-2s/australia-1-2-penny-1954.jpg
+
+australia-1-2-penny-1962:
+  frente: https://i.ucoin.net/coin/29/532/29532795-1s/australia-1-2-penny-1962.jpg
+  tras: https://i.ucoin.net/coin/29/532/29532795-2s/australia-1-2-penny-1962.jpg
+
+australia-1-cent-1978:
+  frente: https://i.ucoin.net/coin/85/329/85329641-1s/australia-1-cent-1978.jpg
+  tras: https://i.ucoin.net/coin/85/329/85329641-2s/australia-1-cent-1978.jpg
+
+australia-1-cent-1990:
+  frente: https://i.ucoin.net/coin/29/556/29556790-1s/australia-1-cent-1990.jpg
+  tras: https://i.ucoin.net/coin/29/556/29556790-2s/australia-1-cent-1990.jpg
+
+australia-1-cent-2006:
+  frente: https://i.ucoin.net/coin/23/253/23253379-1s/australia-1-cent-2006.jpg
+  tras: https://i.ucoin.net/coin/23/253/23253379-2s/australia-1-cent-2006.jpg
+
+australia-1-dollar-1984:
+  frente: https://i.ucoin.net/coin/23/253/23253440-1s/australia-1-dollar-1984.jpg
+  tras: https://i.ucoin.net/coin/23/253/23253440-2s/australia-1-dollar-1984.jpg
+
+australia-1-dollar-1987:
+  frente: https://i.ucoin.net/coin/29/562/29562361-1s/australia-1-dollar-1987.jpg
+  tras: https://i.ucoin.net/coin/29/562/29562361-2s/australia-1-dollar-1987.jpg
+
+australia-1-dollar-2013:
+  frente: https://i.ucoin.net/coin/29/562/29562723-1s/australia-1-dollar-2013.jpg
+  tras: https://i.ucoin.net/coin/29/562/29562723-2s/australia-1-dollar-2013.jpg
+
+australia-1-dollar-2022:
+  frente: https://i.ucoin.net/coin/57/938/57938084-1s/australia-1-dollar-2022.jpg
+  tras: https://i.ucoin.net/coin/57/938/57938084-2s/australia-1-dollar-2022.jpg
+
+australia-1-dollar-2023:
+  frente: https://i.ucoin.net/coin/66/015/66015792-1s/australia-1-dollar-2023.jpg
+  tras: https://i.ucoin.net/coin/66/015/66015792-2s/australia-1-dollar-2023.jpg
+
+australia-1-penny-1953:
+  frente: https://i.ucoin.net/coin/29/553/29553947-1s/australia-1-penny-1953.jpg
+  tras: https://i.ucoin.net/coin/29/553/29553947-2s/australia-1-penny-1953.jpg
+
+australia-1-penny-1959:
+  frente: https://i.ucoin.net/coin/29/531/29531556-1s/australia-1-penny-1959.jpg
+  tras: https://i.ucoin.net/coin/29/531/29531556-2s/australia-1-penny-1959.jpg
+
+australia-1-shilling-1954:
+  frente: https://i.ucoin.net/coin/5/603/5603671-1s/australia-1-shilling-1954.jpg
+  tras: https://i.ucoin.net/coin/5/603/5603671-2s/australia-1-shilling-1954.jpg
+
+australia-1-shilling-1960:
+  frente: https://i.ucoin.net/coin/23/059/23059893-1s/australia-1-shilling-1960.jpg
+  tras: https://i.ucoin.net/coin/23/059/23059893-2s/australia-1-shilling-1960.jpg
+
+australia-10-cents-1982:
+  frente: https://i.ucoin.net/coin/23/233/23233408-1s/australia-10-cents-1982.jpg
+  tras: https://i.ucoin.net/coin/23/233/23233408-2s/australia-10-cents-1982.jpg
+
+australia-10-cents-1990:
+  frente: https://i.ucoin.net/coin/29/557/29557246-1s/australia-10-cents-1990.jpg
+  tras: https://i.ucoin.net/coin/29/557/29557246-2s/australia-10-cents-1990.jpg
+
+australia-10-cents-2006:
+  frente: https://i.ucoin.net/coin/29/557/29557310-1s/australia-10-cents-2006.jpg
+  tras: https://i.ucoin.net/coin/29/557/29557310-2s/australia-10-cents-2006.jpg
+
+australia-10-cents-2021:
+  frente: https://i.ucoin.net/coin/39/305/39305165-1s/australia-10-cents-2021.jpg
+  tras: https://i.ucoin.net/coin/39/305/39305165-2s/australia-10-cents-2021.jpg
+
+australia-10-cents-2023:
+  frente: https://i.ucoin.net/coin/70/075/70075599-1s/australia-10-cents-2023.jpg
+  tras: https://i.ucoin.net/coin/70/075/70075599-2s/australia-10-cents-2023.jpg
+
+australia-10-cents-2024:
+  frente: https://i.ucoin.net/coin/79/943/79943681-1s/australia-10-cents-2024.jpg
+  tras: https://i.ucoin.net/coin/79/943/79943681-2s/australia-10-cents-2024.jpg
+
+australia-2-cents-1978:
+  frente: https://i.ucoin.net/coin/85/329/85329545-1s/australia-2-cents-1978.jpg
+  tras: https://i.ucoin.net/coin/85/329/85329545-2s/australia-2-cents-1978.jpg
+
+australia-2-cents-1986:
+  frente: https://i.ucoin.net/coin/23/252/23252800-1s/australia-2-cents-1986.jpg
+  tras: https://i.ucoin.net/coin/23/252/23252800-2s/australia-2-cents-1986.jpg
+
+australia-2-cents-2016:
+  frente: https://i.ucoin.net/coin/23/252/23252811-1s/australia-2-cents-2016.jpg
+  tras: https://i.ucoin.net/coin/23/252/23252811-2s/australia-2-cents-2016.jpg
+
+australia-2-dollars-1989:
+  frente: https://i.ucoin.net/coin/29/562/29562931-1s/australia-2-dollars-1989.jpg
+  tras: https://i.ucoin.net/coin/29/562/29562931-2s/australia-2-dollars-1989.jpg
+
+australia-2-dollars-2019:
+  frente: https://i.ucoin.net/coin/29/563/29563259-1s/australia-2-dollars-2019.jpg
+  tras: https://i.ucoin.net/coin/29/563/29563259-2s/australia-2-dollars-2019.jpg
+
+australia-2-dollars-2021:
+  frente: https://i.ucoin.net/coin/73/853/73853054-1s/australia-2-dollars-2021.jpg
+  tras: https://i.ucoin.net/coin/73/853/73853054-2s/australia-2-dollars-2021.jpg
+
+australia-2-dollars-2023:
+  frente: https://i.ucoin.net/coin/69/265/69265456-1s/australia-2-dollars-2023.jpg
+  tras: https://i.ucoin.net/coin/69/265/69265456-2s/australia-2-dollars-2023.jpg
+
+australia-2-dollars-2024:
+  frente: https://i.ucoin.net/coin/79/943/79943742-1s/australia-2-dollars-2024.jpg
+  tras: https://i.ucoin.net/coin/79/943/79943742-2s/australia-2-dollars-2024.jpg
+
+australia-2-shillings-1953:
+  frente: https://i.ucoin.net/coin/29/484/29484717-1s/australia-2-shillings-1953.jpg
+  tras: https://i.ucoin.net/coin/29/484/29484717-2s/australia-2-shillings-1953.jpg
+
+australia-2-shillings-1961:
+  frente: https://i.ucoin.net/coin/23/253/23253719-1s/australia-2-shillings-1961.jpg
+  tras: https://i.ucoin.net/coin/23/253/23253719-2s/australia-2-shillings-1961.jpg
+
+australia-20-cents-1974:
+  frente: https://i.ucoin.net/coin/70/795/70795795-1s/australia-20-cents-1974.jpg
+  tras: https://i.ucoin.net/coin/70/795/70795795-2s/australia-20-cents-1974.jpg
+
+australia-20-cents-1997:
+  frente: https://i.ucoin.net/coin/29/560/29560958-1s/australia-20-cents-1997.jpg
+  tras: https://i.ucoin.net/coin/29/560/29560958-2s/australia-20-cents-1997.jpg
+
+australia-20-cents-1999:
+  frente: https://i.ucoin.net/coin/29/561/29561473-1s/australia-20-cents-1999.jpg
+  tras: https://i.ucoin.net/coin/29/561/29561473-2s/australia-20-cents-1999.jpg
+
+australia-20-cents-2019:
+  frente: https://i.ucoin.net/coin/71/670/71670212-1s/australia-20-cents-2019.jpg
+  tras: https://i.ucoin.net/coin/71/670/71670212-2s/australia-20-cents-2019.jpg
+
+australia-20-cents-2023:
+  frente: https://i.ucoin.net/coin/70/075/70075614-1s/australia-20-cents-2023.jpg
+  tras: https://i.ucoin.net/coin/70/075/70075614-2s/australia-20-cents-2023.jpg
+
+australia-20-cents-2024:
+  frente: https://i.ucoin.net/coin/79/943/79943696-1s/australia-20-cents-2024.jpg
+  tras: https://i.ucoin.net/coin/79/943/79943696-2s/australia-20-cents-2024.jpg
+
+australia-3-pence-1953:
+  frente: https://i.ucoin.net/coin/29/537/29537656-1s/australia-3-pence-1953.jpg
+  tras: https://i.ucoin.net/coin/29/537/29537656-2s/australia-3-pence-1953.jpg
+
+australia-3-pence-1960:
+  frente: https://i.ucoin.net/coin/29/531/29531610-1s/australia-3-pence-1960.jpg
+  tras: https://i.ucoin.net/coin/29/531/29531610-2s/australia-3-pence-1960.jpg
+
+australia-5-cents-1982:
+  frente: https://i.ucoin.net/coin/23/252/23252986-1s/australia-5-cents-1982.jpg
+  tras: https://i.ucoin.net/coin/23/252/23252986-2s/australia-5-cents-1982.jpg
+
+australia-5-cents-1997:
+  frente: https://i.ucoin.net/coin/29/554/29554366-1s/australia-5-cents-1997.jpg
+  tras: https://i.ucoin.net/coin/29/554/29554366-2s/australia-5-cents-1997.jpg
+
+australia-5-cents-2010:
+  frente: https://i.ucoin.net/coin/29/554/29554335-1s/australia-5-cents-2010.jpg
+  tras: https://i.ucoin.net/coin/29/554/29554335-2s/australia-5-cents-2010.jpg
+
+australia-5-cents-2021:
+  frente: https://i.ucoin.net/coin/39/305/39305174-1s/australia-5-cents-2021.jpg
+  tras: https://i.ucoin.net/coin/39/305/39305174-2s/australia-5-cents-2021.jpg
+
+australia-5-cents-2023:
+  frente: https://i.ucoin.net/coin/69/265/69265463-1s/australia-5-cents-2023.jpg
+  tras: https://i.ucoin.net/coin/69/265/69265463-2s/australia-5-cents-2023.jpg
+
+australia-5-cents-2024:
+  frente: https://i.ucoin.net/coin/68/910/68910906-1s/australia-5-cents-2024.jpg
+  tras: https://i.ucoin.net/coin/68/910/68910906-2s/australia-5-cents-2024.jpg
+
+australia-50-cents-1966:
+  frente: https://i.ucoin.net/coin/0/948/948698-1s/australia-50-cents-1966.jpg
+  tras: https://i.ucoin.net/coin/0/948/948698-2s/australia-50-cents-1966.jpg
+
+australia-50-cents-1975:
+  frente: https://i.ucoin.net/coin/23/253/23253066-1s/australia-50-cents-1975.jpg
+  tras: https://i.ucoin.net/coin/23/253/23253066-2s/australia-50-cents-1975.jpg
+
+australia-50-cents-1997:
+  frente: https://i.ucoin.net/coin/29/561/29561757-1s/australia-50-cents-1997.jpg
+  tras: https://i.ucoin.net/coin/29/561/29561757-2s/australia-50-cents-1997.jpg
+
+australia-50-cents-2015:
+  frente: https://i.ucoin.net/coin/29/561/29561811-1s/australia-50-cents-2015.jpg
+  tras: https://i.ucoin.net/coin/29/561/29561811-2s/australia-50-cents-2015.jpg
+
+australia-50-cents-2021:
+  frente: https://i.ucoin.net/coin/39/305/39305151-1s/australia-50-cents-2021.jpg
+  tras: https://i.ucoin.net/coin/39/305/39305151-2s/australia-50-cents-2021.jpg
+
+australia-50-cents-2023:
+  frente: https://i.ucoin.net/coin/69/265/69265461-1s/australia-50-cents-2023.jpg
+  tras: https://i.ucoin.net/coin/69/265/69265461-2s/australia-50-cents-2023.jpg
+
+australia-50-cents-2024:
+  frente: https://i.ucoin.net/coin/79/943/79943713-1s/australia-50-cents-2024.jpg
+  tras: https://i.ucoin.net/coin/79/943/79943713-2s/australia-50-cents-2024.jpg
+
+australia-6-pence-1954:
+  frente: https://i.ucoin.net/coin/29/531/29531105-1s/australia-6-pence-1954.jpg
+  tras: https://i.ucoin.net/coin/29/531/29531105-2s/australia-6-pence-1954.jpg
+
+australia-6-pence-1963:
+  frente: https://i.ucoin.net/coin/80/027/80027396-1s/australia-6-pence-1963.jpg
+  tras: https://i.ucoin.net/coin/80/027/80027396-2s/australia-6-pence-1963.jpg
