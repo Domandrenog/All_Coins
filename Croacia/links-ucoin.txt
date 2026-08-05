@@ -1,0 +1,111 @@
+croatia-1-euro-2024:
+  frente: https://i.ucoin.net/coin/68/873/68873755-1s/croatia-1-euro-2024.jpg
+  tras: https://i.ucoin.net/coin/68/873/68873755-2s/croatia-1-euro-2024.jpg
+
+croatia-1-euro-cent-2025:
+  frente: https://i.ucoin.net/coin/85/129/85129588-1s/croatia-1-euro-cent-2025.jpg
+  tras: https://i.ucoin.net/coin/85/129/85129588-2s/croatia-1-euro-cent-2025.jpg
+
+croatia-1-kuna-1994:
+  frente: https://i.ucoin.net/coin/76/404/76404098-1s/croatia-1-kuna-1994.jpg
+  tras: https://i.ucoin.net/coin/76/404/76404098-2s/croatia-1-kuna-1994.jpg
+
+croatia-1-kuna-2015:
+  frente: https://i.ucoin.net/coin/39/120/39120107-1s/croatia-1-kuna-2015.jpg
+  tras: https://i.ucoin.net/coin/39/120/39120107-2s/croatia-1-kuna-2015.jpg
+
+croatia-1-kuna-2022:
+  frente: https://i.ucoin.net/coin/66/145/66145241-1s/croatia-1-kuna-2022.jpg
+  tras: https://i.ucoin.net/coin/66/145/66145241-2s/croatia-1-kuna-2022.jpg
+
+croatia-1-lipa-1997:
+  frente: https://i.ucoin.net/coin/31/459/31459023-1s/croatia-1-lipa-1997.jpg
+  tras: https://i.ucoin.net/coin/31/459/31459023-2s/croatia-1-lipa-1997.jpg
+
+croatia-1-lipa-2022:
+  frente: https://i.ucoin.net/coin/66/144/66144648-1s/croatia-1-lipa-2022.jpg
+  tras: https://i.ucoin.net/coin/66/144/66144648-2s/croatia-1-lipa-2022.jpg
+
+croatia-10-euro-cent-2024:
+  frente: https://i.ucoin.net/coin/68/873/68873718-1s/croatia-10-euro-cent-2024.jpg
+  tras: https://i.ucoin.net/coin/68/873/68873718-2s/croatia-10-euro-cent-2024.jpg
+
+croatia-10-lipa-2003:
+  frente: https://i.ucoin.net/coin/46/218/46218137-1s/croatia-10-lipa-2003.jpg
+  tras: https://i.ucoin.net/coin/46/218/46218137-2s/croatia-10-lipa-2003.jpg
+
+croatia-10-lipa-2006:
+  frente: https://i.ucoin.net/coin/0/331/331212-1s/croatia-10-lipa-2006.jpg
+  tras: https://i.ucoin.net/coin/0/331/331212-2s/croatia-10-lipa-2006.jpg
+
+croatia-2-euro-2023:
+  frente: https://i.ucoin.net/coin/61/757/61757829-1s/croatia-2-euro-2023.jpg
+  tras: https://i.ucoin.net/coin/61/757/61757829-2s/croatia-2-euro-2023.jpg
+
+croatia-2-euro-cent-2023:
+  frente: https://i.ucoin.net/coin/59/929/59929082-1s/croatia-2-euro-cent-2023.jpg
+  tras: https://i.ucoin.net/coin/59/929/59929082-2s/croatia-2-euro-cent-2023.jpg
+
+croatia-2-kune-1941:
+  frente: https://i.ucoin.net/coin/78/049/78049722-1s/croatia-2-kune-1941.jpg
+  tras: https://i.ucoin.net/coin/78/049/78049722-2s/croatia-2-kune-1941.jpg
+
+croatia-2-kune-2003:
+  frente: https://i.ucoin.net/coin/46/270/46270234-1s/croatia-2-kune-2003.jpg
+  tras: https://i.ucoin.net/coin/46/270/46270234-2s/croatia-2-kune-2003.jpg
+
+croatia-2-kune-2022:
+  frente: https://i.ucoin.net/coin/66/145/66145254-1s/croatia-2-kune-2022.jpg
+  tras: https://i.ucoin.net/coin/66/145/66145254-2s/croatia-2-kune-2022.jpg
+
+croatia-2-lipa-1995:
+  frente: https://i.ucoin.net/coin/39/099/39099828-1s/croatia-2-lipa-1995.jpg
+  tras: https://i.ucoin.net/coin/39/099/39099828-2s/croatia-2-lipa-1995.jpg
+
+croatia-2-lipa-1998:
+  frente: https://i.ucoin.net/coin/48/033/48033294-1s/croatia-2-lipa-1998.jpg
+  tras: https://i.ucoin.net/coin/48/033/48033294-2s/croatia-2-lipa-1998.jpg
+
+croatia-20-euro-cent-2024:
+  frente: https://i.ucoin.net/coin/72/205/72205814-1s/croatia-20-euro-cent-2024.jpg
+  tras: https://i.ucoin.net/coin/72/205/72205814-2s/croatia-20-euro-cent-2024.jpg
+
+croatia-20-lipa-1996:
+  frente: https://i.ucoin.net/coin/53/983/53983944-1s/croatia-20-lipa-1996.jpg
+  tras: https://i.ucoin.net/coin/53/983/53983944-2s/croatia-20-lipa-1996.jpg
+
+croatia-20-lipa-2015:
+  frente: https://i.ucoin.net/coin/46/270/46270427-1s/croatia-20-lipa-2015.jpg
+  tras: https://i.ucoin.net/coin/46/270/46270427-2s/croatia-20-lipa-2015.jpg
+
+croatia-5-euro-cent-2023:
+  frente: https://i.ucoin.net/coin/75/527/75527801-1s/croatia-5-euro-cent-2023.jpg
+  tras: https://i.ucoin.net/coin/75/527/75527801-2s/croatia-5-euro-cent-2023.jpg
+
+croatia-5-kuna-2000:
+  frente: https://i.ucoin.net/coin/46/226/46226058-1s/croatia-5-kuna-2000.jpg
+  tras: https://i.ucoin.net/coin/46/226/46226058-2s/croatia-5-kuna-2000.jpg
+
+croatia-5-kuna-2019:
+  frente: https://i.ucoin.net/coin/77/016/77016173-1s/croatia-5-kuna-2019.jpg
+  tras: https://i.ucoin.net/coin/77/016/77016173-2s/croatia-5-kuna-2019.jpg
+
+croatia-5-lipa-2007:
+  frente: https://i.ucoin.net/coin/46/300/46300397-1s/croatia-5-lipa-2007.jpg
+  tras: https://i.ucoin.net/coin/46/300/46300397-2s/croatia-5-lipa-2007.jpg
+
+croatia-5-lipa-2010:
+  frente: https://i.ucoin.net/coin/66/144/66144686-1s/croatia-5-lipa-2010.jpg
+  tras: https://i.ucoin.net/coin/66/144/66144686-2s/croatia-5-lipa-2010.jpg
+
+croatia-50-euro-cent-2023:
+  frente: https://i.ucoin.net/coin/61/757/61757840-1s/croatia-50-euro-cent-2023.jpg
+  tras: https://i.ucoin.net/coin/61/757/61757840-2s/croatia-50-euro-cent-2023.jpg
+
+croatia-50-lipa-1993:
+  frente: https://i.ucoin.net/coin/39/110/39110222-1s/croatia-50-lipa-1993.jpg
+  tras: https://i.ucoin.net/coin/39/110/39110222-2s/croatia-50-lipa-1993.jpg
+
+croatia-50-lipa-2004:
+  frente: https://i.ucoin.net/coin/66/308/66308571-1s/croatia-50-lipa-2004.jpg
+  tras: https://i.ucoin.net/coin/66/308/66308571-2s/croatia-50-lipa-2004.jpg

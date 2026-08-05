@@ -21,6 +21,22 @@ API_KEY_ENV = "ALL_COINS_API_KEY"
 DEFAULT_RAW_BASE_URL = "https://raw.githubusercontent.com/Domandrenog/All_Coins/main"
 READ_ONLY_FIELDS = {"id", "created_date", "updated_date", "created_by_id"}
 
+
+def load_dotenv(path: Path = Path(".env")) -> None:
+    if not path.exists():
+        return
+
+    for raw_line in path.read_text(encoding="utf-8").splitlines():
+        line = raw_line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+
+        key, value = line.split("=", 1)
+        key = key.strip()
+        value = value.strip().strip("\"").strip("'")
+        if key and key not in os.environ:
+            os.environ[key] = value
+
 COUNTRY_SLUG_ALIASES = {
     "bahamas": ["bahamas"],
     "polonia": ["polonia", "poland"],
@@ -142,6 +158,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--api-key-env", default=API_KEY_ENV, help="Nome da variável de ambiente com a API key.")
     parser.add_argument("--download-current", action="store_true", help="Descarrega as imagens atuais da API antes de atualizar.")
     parser.add_argument("--download-only", action="store_true", help="Descarrega as imagens atuais, mas não atualiza a API.")
+    parser.add_argument("--api-only", action="store_true", help="Atualiza só a API; não descarrega, não escreve links e não faz Git.")
     parser.add_argument("--overwrite-images", action="store_true", help="Substitui imagens locais existentes ao descarregar.")
     parser.add_argument("--include-without-ucoin", action="store_true", help="Inclui moedas que não tenham links i.ucoin.net nos dois lados.")
     parser.add_argument("--ucoin-browser-profile", default=".ucoin-profile", help="Perfil Chromium com sessão uCoin para fallback de download.")
@@ -519,9 +536,10 @@ def git_commit_and_push(message: str) -> None:
 
 def main() -> int:
     args = parse_args()
+    load_dotenv()
     api_key = os.environ.get(args.api_key_env)
     if not api_key:
-        print(f"Define a API key antes de correr: export {args.api_key_env}=\"...\"", file=sys.stderr)
+        print(f"Define a API key em .env ou antes de correr: export {args.api_key_env}=\"...\"", file=sys.stderr)
         return 2
 
     if not args.coin_id and not args.country:
@@ -530,6 +548,10 @@ def main() -> int:
 
     if args.name and not args.years and not args.coin_id:
         print("Quando usas --name, indica também --years para evitar apanhar a moeda errada.", file=sys.stderr)
+        return 2
+
+    if args.api_only and (args.download_current or args.download_only):
+        print("--api-only não pode ser usado com --download-current ou --download-only.", file=sys.stderr)
         return 2
 
     coins = find_coins(api_key, args)
@@ -579,7 +601,7 @@ def main() -> int:
                 if not source_url:
                     print(f"Download {side}: sem URL atual na API")
                     continue
-                if args.apply or args.download_only:
+                if (args.apply or args.download_only) and not args.api_only:
                     status = download_image(
                         source_url,
                         destination,
@@ -597,7 +619,7 @@ def main() -> int:
                 print(f"Saltada: imagens locais em falta ({', '.join(missing_sides)}); fica como está.")
                 continue
 
-        if args.apply or args.download_only:
+        if (args.apply or args.download_only) and not args.api_only:
             write_country_links(folder, coin_slug, target_links)
             if "i.ucoin.net" in source_links["frente"].lower() or "i.ucoin.net" in source_links["tras"].lower():
                 write_country_links(folder, coin_slug, source_links, "links-ucoin.txt")
@@ -614,7 +636,7 @@ def main() -> int:
 
         pending_updates.append((coin_id, mutable_coin_payload(coin, target_links["frente"], target_links["tras"])))
 
-    should_git_push = (args.apply or args.download_only) and not args.no_git_push
+    should_git_push = (args.apply or args.download_only) and not args.no_git_push and not args.api_only
     if should_git_push:
         git_commit_and_push(args.git_commit_message)
 

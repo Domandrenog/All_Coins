@@ -1,0 +1,111 @@
+croatia-1-euro-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/frente/croatia-1-euro-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/tras/croatia-1-euro-2024.jpg
+
+croatia-1-euro-cent-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/frente/croatia-1-euro-cent-2025.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/tras/croatia-1-euro-cent-2025.jpg
+
+croatia-1-kuna-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/frente/croatia-1-kuna-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/tras/croatia-1-kuna-1994.jpg
+
+croatia-1-kuna-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/frente/croatia-1-kuna-2015.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/tras/croatia-1-kuna-2015.jpg
+
+croatia-1-kuna-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/frente/croatia-1-kuna-2022.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/tras/croatia-1-kuna-2022.jpg
+
+croatia-1-lipa-1997:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/frente/croatia-1-lipa-1997.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/tras/croatia-1-lipa-1997.jpg
+
+croatia-1-lipa-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/frente/croatia-1-lipa-2022.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/tras/croatia-1-lipa-2022.jpg
+
+croatia-10-euro-cent-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/frente/croatia-10-euro-cent-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/tras/croatia-10-euro-cent-2024.jpg
+
+croatia-10-lipa-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/frente/croatia-10-lipa-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/tras/croatia-10-lipa-2003.jpg
+
+croatia-10-lipa-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/frente/croatia-10-lipa-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/tras/croatia-10-lipa-2006.jpg
+
+croatia-2-euro-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/frente/croatia-2-euro-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/tras/croatia-2-euro-2023.jpg
+
+croatia-2-euro-cent-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/frente/croatia-2-euro-cent-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/tras/croatia-2-euro-cent-2023.jpg
+
+croatia-2-kune-1941:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/frente/croatia-2-kune-1941.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/tras/croatia-2-kune-1941.jpg
+
+croatia-2-kune-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/frente/croatia-2-kune-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/tras/croatia-2-kune-2003.jpg
+
+croatia-2-kune-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/frente/croatia-2-kune-2022.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/tras/croatia-2-kune-2022.jpg
+
+croatia-2-lipa-1995:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/frente/croatia-2-lipa-1995.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/tras/croatia-2-lipa-1995.jpg
+
+croatia-2-lipa-1998:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/frente/croatia-2-lipa-1998.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/tras/croatia-2-lipa-1998.jpg
+
+croatia-20-euro-cent-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/frente/croatia-20-euro-cent-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/tras/croatia-20-euro-cent-2024.jpg
+
+croatia-20-lipa-1996:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/frente/croatia-20-lipa-1996.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/tras/croatia-20-lipa-1996.jpg
+
+croatia-20-lipa-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/frente/croatia-20-lipa-2015.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/tras/croatia-20-lipa-2015.jpg
+
+croatia-5-euro-cent-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/frente/croatia-5-euro-cent-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/tras/croatia-5-euro-cent-2023.jpg
+
+croatia-5-kuna-2000:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/frente/croatia-5-kuna-2000.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/tras/croatia-5-kuna-2000.jpg
+
+croatia-5-kuna-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/frente/croatia-5-kuna-2019.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/tras/croatia-5-kuna-2019.jpg
+
+croatia-5-lipa-2007:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/frente/croatia-5-lipa-2007.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/tras/croatia-5-lipa-2007.jpg
+
+croatia-5-lipa-2010:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/frente/croatia-5-lipa-2010.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/tras/croatia-5-lipa-2010.jpg
+
+croatia-50-euro-cent-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/frente/croatia-50-euro-cent-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/tras/croatia-50-euro-cent-2023.jpg
+
+croatia-50-lipa-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/frente/croatia-50-lipa-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/tras/croatia-50-lipa-1993.jpg
+
+croatia-50-lipa-2004:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/frente/croatia-50-lipa-2004.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Croacia/tras/croatia-50-lipa-2004.jpg
