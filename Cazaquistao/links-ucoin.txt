@@ -1,0 +1,155 @@
+kazakhstan-1-tenge-1993:
+  frente: https://i.ucoin.net/coin/60/613/60613829-1s/kazakhstan-1-tenge-1993.jpg
+  tras: https://i.ucoin.net/coin/60/613/60613829-2s/kazakhstan-1-tenge-1993.jpg
+
+kazakhstan-1-tenge-2004:
+  frente: https://i.ucoin.net/coin/45/454/45454404-1s/kazakhstan-1-tenge-2004.jpg
+  tras: https://i.ucoin.net/coin/45/454/45454404-2s/kazakhstan-1-tenge-2004.jpg
+
+kazakhstan-1-tenge-2014:
+  frente: https://i.ucoin.net/coin/45/453/45453182-1s/kazakhstan-1-tenge-2014.jpg
+  tras: https://i.ucoin.net/coin/45/453/45453182-2s/kazakhstan-1-tenge-2014.jpg
+
+kazakhstan-1-tenge-2016:
+  frente: https://i.ucoin.net/coin/28/332/28332959-1s/kazakhstan-1-tenge-2016.jpg
+  tras: https://i.ucoin.net/coin/28/332/28332959-2s/kazakhstan-1-tenge-2016.jpg
+
+kazakhstan-1-tenge-2019:
+  frente: https://i.ucoin.net/coin/32/696/32696894-1s/kazakhstan-1-tenge-2019.jpg
+  tras: https://i.ucoin.net/coin/32/696/32696894-2s/kazakhstan-1-tenge-2019.jpg
+
+kazakhstan-10-tenge-1993:
+  frente: https://i.ucoin.net/coin/66/407/66407443-1s/kazakhstan-10-tenge-1993.jpg
+  tras: https://i.ucoin.net/coin/66/407/66407443-2s/kazakhstan-10-tenge-1993.jpg
+
+kazakhstan-10-tenge-2012:
+  frente: https://i.ucoin.net/coin/45/453/45453600-1s/kazakhstan-10-tenge-2012.jpg
+  tras: https://i.ucoin.net/coin/45/453/45453600-2s/kazakhstan-10-tenge-2012.jpg
+
+kazakhstan-10-tenge-2013:
+  frente: https://i.ucoin.net/coin/62/768/62768013-1s/kazakhstan-10-tenge-2013.jpg
+  tras: https://i.ucoin.net/coin/62/768/62768013-2s/kazakhstan-10-tenge-2013.jpg
+
+kazakhstan-10-tenge-2017:
+  frente: https://i.ucoin.net/coin/27/908/27908281-1s/kazakhstan-10-tenge-2017.jpg
+  tras: https://i.ucoin.net/coin/27/908/27908281-2s/kazakhstan-10-tenge-2017.jpg
+
+kazakhstan-10-tenge-2019:
+  frente: https://i.ucoin.net/coin/32/696/32696921-1s/kazakhstan-10-tenge-2019.jpg
+  tras: https://i.ucoin.net/coin/32/696/32696921-2s/kazakhstan-10-tenge-2019.jpg
+
+kazakhstan-10-tiyn-1993-10-tiyn-republica-do-cazaquistao:
+  frente: https://i.ucoin.net/coin/27/908/27908209-1s/kazakhstan-10-tiyn-1993.jpg
+  tras: https://i.ucoin.net/coin/27/908/27908209-2s/kazakhstan-10-tiyn-1993.jpg
+
+kazakhstan-10-tiyn-1993-10-tiyn-republica-do-cazaquistao-baac66a0:
+  frente: https://i.ucoin.net/coin/27/908/27908134-1s/kazakhstan-10-tiyn-1993.jpg
+  tras: https://i.ucoin.net/coin/27/908/27908134-2s/kazakhstan-10-tiyn-1993.jpg
+
+kazakhstan-100-tenge-2005:
+  frente: https://i.ucoin.net/coin/27/018/27018720-1s/kazakhstan-100-tenge-2005.jpg
+  tras: https://i.ucoin.net/coin/27/018/27018720-2s/kazakhstan-100-tenge-2005.jpg
+
+kazakhstan-100-tenge-2025:
+  frente: https://i.ucoin.net/coin/86/237/86237006-1s/kazakhstan-100-tenge-2025.jpg
+  tras: https://i.ucoin.net/coin/86/237/86237006-2s/kazakhstan-100-tenge-2025.jpg
+
+kazakhstan-2-tenge-2006:
+  frente: https://i.ucoin.net/coin/45/454/45454012-1s/kazakhstan-2-tenge-2006.jpg
+  tras: https://i.ucoin.net/coin/45/454/45454012-2s/kazakhstan-2-tenge-2006.jpg
+
+kazakhstan-2-tenge-2021:
+  frente: https://i.ucoin.net/coin/67/887/67887968-1s/kazakhstan-2-tenge-2021.jpg
+  tras: https://i.ucoin.net/coin/67/887/67887968-2s/kazakhstan-2-tenge-2021.jpg
+
+kazakhstan-2-tiyn-1993-2-tiyn-republica-do-cazaquistao:
+  frente: https://i.ucoin.net/coin/27/908/27908124-1s/kazakhstan-2-tiyn-1993.jpg
+  tras: https://i.ucoin.net/coin/27/908/27908124-2s/kazakhstan-2-tiyn-1993.jpg
+
+kazakhstan-2-tiyn-1993-2-tiyn-republica-do-cazaquistao-fbbf0c45:
+  frente: https://i.ucoin.net/coin/75/918/75918350-1s/kazakhstan-2-tiyn-1993.jpg
+  tras: https://i.ucoin.net/coin/75/918/75918350-2s/kazakhstan-2-tiyn-1993.jpg
+
+kazakhstan-20-tenge-1993:
+  frente: https://i.ucoin.net/coin/45/456/45456954-1s/kazakhstan-20-tenge-1993.jpg
+  tras: https://i.ucoin.net/coin/45/456/45456954-2s/kazakhstan-20-tenge-1993.jpg
+
+kazakhstan-20-tenge-1997:
+  frente: https://i.ucoin.net/coin/63/086/63086994-1s/kazakhstan-20-tenge-1997.jpg
+  tras: https://i.ucoin.net/coin/63/086/63086994-2s/kazakhstan-20-tenge-1997.jpg
+
+kazakhstan-20-tenge-2014:
+  frente: https://i.ucoin.net/coin/27/918/27918622-1s/kazakhstan-20-tenge-2014.jpg
+  tras: https://i.ucoin.net/coin/27/918/27918622-2s/kazakhstan-20-tenge-2014.jpg
+
+kazakhstan-20-tenge-2016:
+  frente: https://i.ucoin.net/coin/27/018/27018837-1s/kazakhstan-20-tenge-2016.jpg
+  tras: https://i.ucoin.net/coin/27/018/27018837-2s/kazakhstan-20-tenge-2016.jpg
+
+kazakhstan-20-tenge-2019:
+  frente: https://i.ucoin.net/coin/45/452/45452961-1s/kazakhstan-20-tenge-2019.jpg
+  tras: https://i.ucoin.net/coin/45/452/45452961-2s/kazakhstan-20-tenge-2019.jpg
+
+kazakhstan-20-tiyn-1993-20-tiyn-republica-do-cazaquistao:
+  frente: https://i.ucoin.net/coin/1/230/1230953-1s/kazakhstan-20-tiyn-1993.jpg
+  tras: https://i.ucoin.net/coin/1/230/1230953-2s/kazakhstan-20-tiyn-1993.jpg
+
+kazakhstan-20-tiyn-1993-20-tiyn-republica-do-cazaquistao-f3db4a1f:
+  frente: https://i.ucoin.net/coin/27/018/27018810-1s/kazakhstan-20-tiyn-1993.jpg
+  tras: https://i.ucoin.net/coin/27/018/27018810-2s/kazakhstan-20-tiyn-1993.jpg
+
+kazakhstan-200-tenge-2020:
+  frente: https://i.ucoin.net/coin/36/885/36885415-1s/kazakhstan-200-tenge-2020.jpg
+  tras: https://i.ucoin.net/coin/36/885/36885415-2s/kazakhstan-200-tenge-2020.jpg
+
+kazakhstan-3-tenge-1993:
+  frente: https://i.ucoin.net/coin/66/475/66475110-1s/kazakhstan-3-tenge-1993.jpg
+  tras: https://i.ucoin.net/coin/66/475/66475110-2s/kazakhstan-3-tenge-1993.jpg
+
+kazakhstan-5-tenge-1993:
+  frente: https://i.ucoin.net/coin/45/456/45456917-1s/kazakhstan-5-tenge-1993.jpg
+  tras: https://i.ucoin.net/coin/45/456/45456917-2s/kazakhstan-5-tenge-1993.jpg
+
+kazakhstan-5-tenge-2002:
+  frente: https://i.ucoin.net/coin/45/456/45456276-1s/kazakhstan-5-tenge-2002.jpg
+  tras: https://i.ucoin.net/coin/45/456/45456276-2s/kazakhstan-5-tenge-2002.jpg
+
+kazakhstan-5-tenge-2014:
+  frente: https://i.ucoin.net/coin/62/768/62768017-1s/kazakhstan-5-tenge-2014.jpg
+  tras: https://i.ucoin.net/coin/62/768/62768017-2s/kazakhstan-5-tenge-2014.jpg
+
+kazakhstan-5-tenge-2017:
+  frente: https://i.ucoin.net/coin/27/908/27908279-1s/kazakhstan-5-tenge-2017.jpg
+  tras: https://i.ucoin.net/coin/27/908/27908279-2s/kazakhstan-5-tenge-2017.jpg
+
+kazakhstan-5-tenge-2019:
+  frente: https://i.ucoin.net/coin/45/452/45452913-1s/kazakhstan-5-tenge-2019.jpg
+  tras: https://i.ucoin.net/coin/45/452/45452913-2s/kazakhstan-5-tenge-2019.jpg
+
+kazakhstan-5-tiyn-1993-5-tiyn-republica-do-cazaquistao:
+  frente: https://i.ucoin.net/coin/27/908/27908126-1s/kazakhstan-5-tiyn-1993.jpg
+  tras: https://i.ucoin.net/coin/27/908/27908126-2s/kazakhstan-5-tiyn-1993.jpg
+
+kazakhstan-5-tiyn-1993-5-tiyn-republica-do-cazaquistao-0f3a7bf3:
+  frente: https://i.ucoin.net/coin/27/908/27908128-1s/kazakhstan-5-tiyn-1993.jpg
+  tras: https://i.ucoin.net/coin/27/908/27908128-2s/kazakhstan-5-tiyn-1993.jpg
+
+kazakhstan-50-tenge-2006:
+  frente: https://i.ucoin.net/coin/45/453/45453810-1s/kazakhstan-50-tenge-2006.jpg
+  tras: https://i.ucoin.net/coin/45/453/45453810-2s/kazakhstan-50-tenge-2006.jpg
+
+kazakhstan-50-tenge-2018:
+  frente: https://i.ucoin.net/coin/62/768/62768065-1s/kazakhstan-50-tenge-2018.jpg
+  tras: https://i.ucoin.net/coin/62/768/62768065-2s/kazakhstan-50-tenge-2018.jpg
+
+kazakhstan-50-tenge-2021:
+  frente: https://i.ucoin.net/coin/62/768/62768401-1s/kazakhstan-50-tenge-2021.jpg
+  tras: https://i.ucoin.net/coin/62/768/62768401-2s/kazakhstan-50-tenge-2021.jpg
+
+kazakhstan-50-tiyn-1993-50-tiyn-republica-do-cazaquistao:
+  frente: https://i.ucoin.net/coin/1/230/1230956-1s/kazakhstan-50-tiyn-1993.jpg
+  tras: https://i.ucoin.net/coin/1/230/1230956-2s/kazakhstan-50-tiyn-1993.jpg
+
+kazakhstan-50-tiyn-1993-50-tiyn-republica-do-cazaquistao-9490eb65:
+  frente: https://i.ucoin.net/coin/27/908/27908226-1s/kazakhstan-50-tiyn-1993.jpg
+  tras: https://i.ucoin.net/coin/27/908/27908226-2s/kazakhstan-50-tiyn-1993.jpg

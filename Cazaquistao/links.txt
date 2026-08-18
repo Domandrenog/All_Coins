@@ -1,0 +1,155 @@
+kazakhstan-1-tenge-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-1-tenge-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-1-tenge-1993.jpg
+
+kazakhstan-1-tenge-2004:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-1-tenge-2004.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-1-tenge-2004.jpg
+
+kazakhstan-1-tenge-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-1-tenge-2014.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-1-tenge-2014.jpg
+
+kazakhstan-1-tenge-2016:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-1-tenge-2016.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-1-tenge-2016.jpg
+
+kazakhstan-1-tenge-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-1-tenge-2019.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-1-tenge-2019.jpg
+
+kazakhstan-10-tenge-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-10-tenge-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-10-tenge-1993.jpg
+
+kazakhstan-10-tenge-2012:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-10-tenge-2012.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-10-tenge-2012.jpg
+
+kazakhstan-10-tenge-2013:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-10-tenge-2013.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-10-tenge-2013.jpg
+
+kazakhstan-10-tenge-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-10-tenge-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-10-tenge-2017.jpg
+
+kazakhstan-10-tenge-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-10-tenge-2019.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-10-tenge-2019.jpg
+
+kazakhstan-10-tiyn-1993-10-tiyn-republica-do-cazaquistao:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-10-tiyn-1993-10-tiyn-republica-do-cazaquistao.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-10-tiyn-1993-10-tiyn-republica-do-cazaquistao.jpg
+
+kazakhstan-10-tiyn-1993-10-tiyn-republica-do-cazaquistao-baac66a0:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-10-tiyn-1993-10-tiyn-republica-do-cazaquistao-baac66a0.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-10-tiyn-1993-10-tiyn-republica-do-cazaquistao-baac66a0.jpg
+
+kazakhstan-100-tenge-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-100-tenge-2005.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-100-tenge-2005.jpg
+
+kazakhstan-100-tenge-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-100-tenge-2025.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-100-tenge-2025.jpg
+
+kazakhstan-2-tenge-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-2-tenge-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-2-tenge-2006.jpg
+
+kazakhstan-2-tenge-2021:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-2-tenge-2021.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-2-tenge-2021.jpg
+
+kazakhstan-2-tiyn-1993-2-tiyn-republica-do-cazaquistao:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-2-tiyn-1993-2-tiyn-republica-do-cazaquistao.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-2-tiyn-1993-2-tiyn-republica-do-cazaquistao.jpg
+
+kazakhstan-2-tiyn-1993-2-tiyn-republica-do-cazaquistao-fbbf0c45:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-2-tiyn-1993-2-tiyn-republica-do-cazaquistao-fbbf0c45.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-2-tiyn-1993-2-tiyn-republica-do-cazaquistao-fbbf0c45.jpg
+
+kazakhstan-20-tenge-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-20-tenge-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-20-tenge-1993.jpg
+
+kazakhstan-20-tenge-1997:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-20-tenge-1997.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-20-tenge-1997.jpg
+
+kazakhstan-20-tenge-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-20-tenge-2014.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-20-tenge-2014.jpg
+
+kazakhstan-20-tenge-2016:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-20-tenge-2016.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-20-tenge-2016.jpg
+
+kazakhstan-20-tenge-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-20-tenge-2019.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-20-tenge-2019.jpg
+
+kazakhstan-20-tiyn-1993-20-tiyn-republica-do-cazaquistao:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-20-tiyn-1993-20-tiyn-republica-do-cazaquistao.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-20-tiyn-1993-20-tiyn-republica-do-cazaquistao.jpg
+
+kazakhstan-20-tiyn-1993-20-tiyn-republica-do-cazaquistao-f3db4a1f:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-20-tiyn-1993-20-tiyn-republica-do-cazaquistao-f3db4a1f.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-20-tiyn-1993-20-tiyn-republica-do-cazaquistao-f3db4a1f.jpg
+
+kazakhstan-200-tenge-2020:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-200-tenge-2020.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-200-tenge-2020.jpg
+
+kazakhstan-3-tenge-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-3-tenge-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-3-tenge-1993.jpg
+
+kazakhstan-5-tenge-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-5-tenge-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-5-tenge-1993.jpg
+
+kazakhstan-5-tenge-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-5-tenge-2002.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-5-tenge-2002.jpg
+
+kazakhstan-5-tenge-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-5-tenge-2014.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-5-tenge-2014.jpg
+
+kazakhstan-5-tenge-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-5-tenge-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-5-tenge-2017.jpg
+
+kazakhstan-5-tenge-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-5-tenge-2019.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-5-tenge-2019.jpg
+
+kazakhstan-5-tiyn-1993-5-tiyn-republica-do-cazaquistao:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-5-tiyn-1993-5-tiyn-republica-do-cazaquistao.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-5-tiyn-1993-5-tiyn-republica-do-cazaquistao.jpg
+
+kazakhstan-5-tiyn-1993-5-tiyn-republica-do-cazaquistao-0f3a7bf3:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-5-tiyn-1993-5-tiyn-republica-do-cazaquistao-0f3a7bf3.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-5-tiyn-1993-5-tiyn-republica-do-cazaquistao-0f3a7bf3.jpg
+
+kazakhstan-50-tenge-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-50-tenge-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-50-tenge-2006.jpg
+
+kazakhstan-50-tenge-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-50-tenge-2018.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-50-tenge-2018.jpg
+
+kazakhstan-50-tenge-2021:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-50-tenge-2021.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-50-tenge-2021.jpg
+
+kazakhstan-50-tiyn-1993-50-tiyn-republica-do-cazaquistao:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-50-tiyn-1993-50-tiyn-republica-do-cazaquistao.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-50-tiyn-1993-50-tiyn-republica-do-cazaquistao.jpg
+
+kazakhstan-50-tiyn-1993-50-tiyn-republica-do-cazaquistao-9490eb65:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/frente/kazakhstan-50-tiyn-1993-50-tiyn-republica-do-cazaquistao-9490eb65.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Cazaquistao/tras/kazakhstan-50-tiyn-1993-50-tiyn-republica-do-cazaquistao-9490eb65.jpg
