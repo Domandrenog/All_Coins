@@ -1,0 +1,227 @@
+sudan-1-dinar-1994:
+  frente: https://i.ucoin.net/coin/75/444/75444481-1s/sudan-1-dinar-1994.jpg
+  tras: https://i.ucoin.net/coin/75/444/75444481-2s/sudan-1-dinar-1994.jpg
+
+sudan-1-millim-1956:
+  frente: https://i.ucoin.net/coin/74/309/74309097-1s/sudan-1-millim-1956.jpg
+  tras: https://i.ucoin.net/coin/74/309/74309097-2s/sudan-1-millim-1956.jpg
+
+sudan-1-millim-1970:
+  frente: https://i.ucoin.net/coin/84/658/84658836-1s/sudan-1-millim-1970.jpg
+  tras: https://i.ucoin.net/coin/84/658/84658836-2s/sudan-1-millim-1970.jpg
+
+sudan-1-piastre-2006:
+  frente: https://i.ucoin.net/coin/74/307/74307832-1s/sudan-1-piastre-2006.jpg
+  tras: https://i.ucoin.net/coin/74/307/74307832-2s/sudan-1-piastre-2006.jpg
+
+sudan-1-pound-1987:
+  frente: https://i.ucoin.net/coin/76/164/76164179-1s/sudan-1-pound-1987.jpg
+  tras: https://i.ucoin.net/coin/76/164/76164179-2s/sudan-1-pound-1987.jpg
+
+sudan-1-pound-1989:
+  frente: https://i.ucoin.net/coin/24/248/24248705-1s/sudan-1-pound-1989.jpg
+  tras: https://i.ucoin.net/coin/24/248/24248705-2s/sudan-1-pound-1989.jpg
+
+sudan-1-pound-2011:
+  frente: https://i.ucoin.net/coin/36/963/36963986-1s/sudan-1-pound-2011.jpg
+  tras: https://i.ucoin.net/coin/36/963/36963986-2s/sudan-1-pound-2011.jpg
+
+sudan-1-qirsh-1983:
+  frente: https://i.ucoin.net/coin/77/419/77419166-1s/sudan-1-qirsh-1983.jpg
+  tras: https://i.ucoin.net/coin/77/419/77419166-2s/sudan-1-qirsh-1983.jpg
+
+sudan-1-qirsh-1987:
+  frente: https://i.ucoin.net/coin/60/915/60915234-1s/sudan-1-qirsh-1987.jpg
+  tras: https://i.ucoin.net/coin/60/915/60915234-2s/sudan-1-qirsh-1987.jpg
+
+sudan-10-dinars-1996:
+  frente: https://i.ucoin.net/coin/84/658/84658829-1s/sudan-10-dinars-1996.jpg
+  tras: https://i.ucoin.net/coin/84/658/84658829-2s/sudan-10-dinars-1996.jpg
+
+sudan-10-dinars-2003:
+  frente: https://i.ucoin.net/coin/53/213/53213908-1s/sudan-10-dinars-2003.jpg
+  tras: https://i.ucoin.net/coin/53/213/53213908-2s/sudan-10-dinars-2003.jpg
+
+sudan-10-millimes-1968:
+  frente: https://i.ucoin.net/coin/5/998/5998478-1s/sudan-10-millimes-1968.jpg
+  tras: https://i.ucoin.net/coin/5/998/5998478-2s/sudan-10-millimes-1968.jpg
+
+sudan-10-millimes-1970:
+  frente: https://i.ucoin.net/coin/52/588/52588964-1s/sudan-10-millimes-1970.jpg
+  tras: https://i.ucoin.net/coin/52/588/52588964-2s/sudan-10-millimes-1970.jpg
+
+sudan-10-millimes-1972:
+  frente: https://i.ucoin.net/coin/84/690/84690679-1s/sudan-10-millimes-1972.jpg
+  tras: https://i.ucoin.net/coin/84/690/84690679-2s/sudan-10-millimes-1972.jpg
+
+sudan-10-millimes-1978:
+  frente: https://i.ucoin.net/coin/36/963/36963955-1s/sudan-10-millimes-1978.jpg
+  tras: https://i.ucoin.net/coin/36/963/36963955-2s/sudan-10-millimes-1978.jpg
+
+sudan-10-millimes-1980:
+  frente: https://i.ucoin.net/coin/68/314/68314312-1s/sudan-10-millimes-1980.jpg
+  tras: https://i.ucoin.net/coin/68/314/68314312-2s/sudan-10-millimes-1980.jpg
+
+sudan-10-piastres-2006:
+  frente: https://i.ucoin.net/coin/80/021/80021013-1s/sudan-10-piastres-2006.jpg
+  tras: https://i.ucoin.net/coin/80/021/80021013-2s/sudan-10-piastres-2006.jpg
+
+sudan-10-qirsh-1967:
+  frente: https://i.ucoin.net/coin/7/945/7945186-1s/sudan-10-qirsh-1967.jpg
+  tras: https://i.ucoin.net/coin/7/945/7945186-2s/sudan-10-qirsh-1967.jpg
+
+sudan-10-qirsh-1970:
+  frente: https://i.ucoin.net/coin/69/526/69526293-1s/sudan-10-qirsh-1970.jpg
+  tras: https://i.ucoin.net/coin/69/526/69526293-2s/sudan-10-qirsh-1970.jpg
+
+sudan-10-qirsh-1980:
+  frente: https://i.ucoin.net/coin/18/008/18008943-1s/sudan-10-qirsh-1980.jpg
+  tras: https://i.ucoin.net/coin/18/008/18008943-2s/sudan-10-qirsh-1980.jpg
+
+sudan-10-qirsh-1983:
+  frente: https://i.ucoin.net/coin/19/462/19462387-1s/sudan-10-qirsh-1983.jpg
+  tras: https://i.ucoin.net/coin/19/462/19462387-2s/sudan-10-qirsh-1983.jpg
+
+sudan-10-qirsh-1987:
+  frente: https://i.ucoin.net/coin/5/768/5768279-1s/sudan-10-qirsh-1987.jpg
+  tras: https://i.ucoin.net/coin/5/768/5768279-2s/sudan-10-qirsh-1987.jpg
+
+sudan-2-dinars-1994:
+  frente: https://i.ucoin.net/coin/19/462/19462040-1s/sudan-2-dinars-1994.jpg
+  tras: https://i.ucoin.net/coin/19/462/19462040-2s/sudan-2-dinars-1994.jpg
+
+sudan-2-millimes-1967:
+  frente: https://i.ucoin.net/coin/7/945/7945299-1s/sudan-2-millimes-1967.jpg
+  tras: https://i.ucoin.net/coin/7/945/7945299-2s/sudan-2-millimes-1967.jpg
+
+sudan-2-millimes-1970:
+  frente: https://i.ucoin.net/coin/84/658/84658840-1s/sudan-2-millimes-1970.jpg
+  tras: https://i.ucoin.net/coin/84/658/84658840-2s/sudan-2-millimes-1970.jpg
+
+sudan-2-qirsh-1962:
+  frente: https://i.ucoin.net/coin/82/455/82455633-1s/sudan-2-qirsh-1962.jpg
+  tras: https://i.ucoin.net/coin/82/455/82455633-2s/sudan-2-qirsh-1962.jpg
+
+sudan-2-qirsh-1963:
+  frente: https://i.ucoin.net/coin/19/462/19462157-1s/sudan-2-qirsh-1963.jpg
+  tras: https://i.ucoin.net/coin/19/462/19462157-2s/sudan-2-qirsh-1963.jpg
+
+sudan-2-qirsh-1968:
+  frente: https://i.ucoin.net/coin/43/553/43553595-1s/sudan-2-qirsh-1968.jpg
+  tras: https://i.ucoin.net/coin/43/553/43553595-2s/sudan-2-qirsh-1968.jpg
+
+sudan-2-qirsh-1971:
+  frente: https://i.ucoin.net/coin/37/140/37140070-1s/sudan-2-qirsh-1971.jpg
+  tras: https://i.ucoin.net/coin/37/140/37140070-2s/sudan-2-qirsh-1971.jpg
+
+sudan-2-qirsh-1979:
+  frente: https://i.ucoin.net/coin/45/892/45892543-1s/sudan-2-qirsh-1979.jpg
+  tras: https://i.ucoin.net/coin/45/892/45892543-2s/sudan-2-qirsh-1979.jpg
+
+sudan-2-qirsh-1983:
+  frente: https://i.ucoin.net/coin/10/561/10561827-1s/sudan-2-qirsh-1983.jpg
+  tras: https://i.ucoin.net/coin/10/561/10561827-2s/sudan-2-qirsh-1983.jpg
+
+sudan-20-dinars-1999:
+  frente: https://i.ucoin.net/coin/71/132/71132561-1s/sudan-20-dinars-1999.jpg
+  tras: https://i.ucoin.net/coin/71/132/71132561-2s/sudan-20-dinars-1999.jpg
+
+sudan-20-piastres-2006-20-piastres-2006-libra-nova:
+  frente: https://i.ucoin.net/coin/23/246/23246532-1s/sudan-20-piastres-2006.jpg
+  tras: https://i.ucoin.net/coin/23/246/23246532-2s/sudan-20-piastres-2006.jpg
+
+sudan-20-piastres-2006-20-piastres-2006-libra-nova-fae9ab25:
+  frente: https://i.ucoin.net/coin/74/308/74308066-1s/sudan-20-piastres-2006.jpg
+  tras: https://i.ucoin.net/coin/74/308/74308066-2s/sudan-20-piastres-2006.jpg
+
+sudan-20-qirsh-1967:
+  frente: https://i.ucoin.net/coin/70/028/70028273-1s/sudan-20-qirsh-1967.jpg
+  tras: https://i.ucoin.net/coin/70/028/70028273-2s/sudan-20-qirsh-1967.jpg
+
+sudan-20-qirsh-1971:
+  frente: https://i.ucoin.net/coin/53/159/53159456-1s/sudan-20-qirsh-1971.jpg
+  tras: https://i.ucoin.net/coin/53/159/53159456-2s/sudan-20-qirsh-1971.jpg
+
+sudan-20-qirsh-1983:
+  frente: https://i.ucoin.net/coin/67/388/67388388-1s/sudan-20-qirsh-1983.jpg
+  tras: https://i.ucoin.net/coin/67/388/67388388-2s/sudan-20-qirsh-1983.jpg
+
+sudan-20-qirsh-1987:
+  frente: https://i.ucoin.net/coin/56/287/56287488-1s/sudan-20-qirsh-1987.jpg
+  tras: https://i.ucoin.net/coin/56/287/56287488-2s/sudan-20-qirsh-1987.jpg
+
+sudan-25-qirsh-1987:
+  frente: https://i.ucoin.net/coin/80/259/80259402-1s/sudan-25-qirsh-1987.jpg
+  tras: https://i.ucoin.net/coin/80/259/80259402-2s/sudan-25-qirsh-1987.jpg
+
+sudan-25-qirsh-1989:
+  frente: https://i.ucoin.net/coin/45/893/45893594-1s/sudan-25-qirsh-1989.jpg
+  tras: https://i.ucoin.net/coin/45/893/45893594-2s/sudan-25-qirsh-1989.jpg
+
+sudan-5-dinars-1996:
+  frente: https://i.ucoin.net/coin/84/658/84658804-1s/sudan-5-dinars-1996.jpg
+  tras: https://i.ucoin.net/coin/84/658/84658804-2s/sudan-5-dinars-1996.jpg
+
+sudan-5-dinars-2003:
+  frente: https://i.ucoin.net/coin/11/760/11760506-1s/sudan-5-dinars-2003.jpg
+  tras: https://i.ucoin.net/coin/11/760/11760506-2s/sudan-5-dinars-2003.jpg
+
+sudan-5-millimes-1967:
+  frente: https://i.ucoin.net/coin/34/332/34332685-1s/sudan-5-millimes-1967.jpg
+  tras: https://i.ucoin.net/coin/34/332/34332685-2s/sudan-5-millimes-1967.jpg
+
+sudan-5-millimes-1970:
+  frente: https://i.ucoin.net/coin/84/658/84658842-1s/sudan-5-millimes-1970.jpg
+  tras: https://i.ucoin.net/coin/84/658/84658842-2s/sudan-5-millimes-1970.jpg
+
+sudan-5-millimes-1972:
+  frente: https://i.ucoin.net/coin/71/473/71473376-1s/sudan-5-millimes-1972.jpg
+  tras: https://i.ucoin.net/coin/71/473/71473376-2s/sudan-5-millimes-1972.jpg
+
+sudan-5-millimes-1975:
+  frente: https://i.ucoin.net/coin/12/013/12013470-1s/sudan-5-millimes-1975.jpg
+  tras: https://i.ucoin.net/coin/12/013/12013470-2s/sudan-5-millimes-1975.jpg
+
+sudan-5-piastres-2006:
+  frente: https://i.ucoin.net/coin/75/444/75444451-1s/sudan-5-piastres-2006.jpg
+  tras: https://i.ucoin.net/coin/75/444/75444451-2s/sudan-5-piastres-2006.jpg
+
+sudan-5-qirsh-1956:
+  frente: https://i.ucoin.net/coin/75/444/75444418-1s/sudan-5-qirsh-1956.jpg
+  tras: https://i.ucoin.net/coin/75/444/75444418-2s/sudan-5-qirsh-1956.jpg
+
+sudan-5-qirsh-1970:
+  frente: https://i.ucoin.net/coin/43/552/43552793-1s/sudan-5-qirsh-1970.jpg
+  tras: https://i.ucoin.net/coin/43/552/43552793-2s/sudan-5-qirsh-1970.jpg
+
+sudan-5-qirsh-1980:
+  frente: https://i.ucoin.net/coin/36/963/36963812-1s/sudan-5-qirsh-1980.jpg
+  tras: https://i.ucoin.net/coin/36/963/36963812-2s/sudan-5-qirsh-1980.jpg
+
+sudan-5-qirsh-1983:
+  frente: https://i.ucoin.net/coin/36/964/36964020-1s/sudan-5-qirsh-1983.jpg
+  tras: https://i.ucoin.net/coin/36/964/36964020-2s/sudan-5-qirsh-1983.jpg
+
+sudan-5-qirsh-1987:
+  frente: https://i.ucoin.net/coin/77/749/77749192-1s/sudan-5-qirsh-1987.jpg
+  tras: https://i.ucoin.net/coin/77/749/77749192-2s/sudan-5-qirsh-1987.jpg
+
+sudan-50-dinars-2002:
+  frente: https://i.ucoin.net/coin/74/308/74308867-1s/sudan-50-dinars-2002.jpg
+  tras: https://i.ucoin.net/coin/74/308/74308867-2s/sudan-50-dinars-2002.jpg
+
+sudan-50-piastres-2006-50-piastres-2006-libra-nova:
+  frente: https://i.ucoin.net/coin/86/368/86368963-1s/sudan-50-piastres-2006.jpg
+  tras: https://i.ucoin.net/coin/86/368/86368963-2s/sudan-50-piastres-2006.jpg
+
+sudan-50-piastres-2006-50-piastres-2006-libra-nova-5d1077ae:
+  frente: https://i.ucoin.net/coin/36/963/36963919-1s/sudan-50-piastres-2006.jpg
+  tras: https://i.ucoin.net/coin/36/963/36963919-2s/sudan-50-piastres-2006.jpg
+
+sudan-50-qirsh-1987:
+  frente: https://i.ucoin.net/coin/10/212/10212391-1s/sudan-50-qirsh-1987.jpg
+  tras: https://i.ucoin.net/coin/10/212/10212391-2s/sudan-50-qirsh-1987.jpg
+
+sudan-50-qirsh-1989:
+  frente: https://i.ucoin.net/coin/71/270/71270970-1s/sudan-50-qirsh-1989.jpg
+  tras: https://i.ucoin.net/coin/71/270/71270970-2s/sudan-50-qirsh-1989.jpg

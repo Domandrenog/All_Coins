@@ -1,0 +1,227 @@
+sudan-1-dinar-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-1-dinar-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-1-dinar-1994.jpg
+
+sudan-1-millim-1956:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-1-millim-1956.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-1-millim-1956.jpg
+
+sudan-1-millim-1970:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-1-millim-1970.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-1-millim-1970.jpg
+
+sudan-1-piastre-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-1-piastre-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-1-piastre-2006.jpg
+
+sudan-1-pound-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-1-pound-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-1-pound-1987.jpg
+
+sudan-1-pound-1989:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-1-pound-1989.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-1-pound-1989.jpg
+
+sudan-1-pound-2011:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-1-pound-2011.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-1-pound-2011.jpg
+
+sudan-1-qirsh-1983:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-1-qirsh-1983.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-1-qirsh-1983.jpg
+
+sudan-1-qirsh-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-1-qirsh-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-1-qirsh-1987.jpg
+
+sudan-10-dinars-1996:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-10-dinars-1996.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-10-dinars-1996.jpg
+
+sudan-10-dinars-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-10-dinars-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-10-dinars-2003.jpg
+
+sudan-10-millimes-1968:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-10-millimes-1968.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-10-millimes-1968.jpg
+
+sudan-10-millimes-1970:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-10-millimes-1970.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-10-millimes-1970.jpg
+
+sudan-10-millimes-1972:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-10-millimes-1972.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-10-millimes-1972.jpg
+
+sudan-10-millimes-1978:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-10-millimes-1978.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-10-millimes-1978.jpg
+
+sudan-10-millimes-1980:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-10-millimes-1980.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-10-millimes-1980.jpg
+
+sudan-10-piastres-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-10-piastres-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-10-piastres-2006.jpg
+
+sudan-10-qirsh-1967:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-10-qirsh-1967.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-10-qirsh-1967.jpg
+
+sudan-10-qirsh-1970:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-10-qirsh-1970.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-10-qirsh-1970.jpg
+
+sudan-10-qirsh-1980:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-10-qirsh-1980.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-10-qirsh-1980.jpg
+
+sudan-10-qirsh-1983:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-10-qirsh-1983.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-10-qirsh-1983.jpg
+
+sudan-10-qirsh-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-10-qirsh-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-10-qirsh-1987.jpg
+
+sudan-2-dinars-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-2-dinars-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-2-dinars-1994.jpg
+
+sudan-2-millimes-1967:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-2-millimes-1967.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-2-millimes-1967.jpg
+
+sudan-2-millimes-1970:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-2-millimes-1970.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-2-millimes-1970.jpg
+
+sudan-2-qirsh-1962:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-2-qirsh-1962.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-2-qirsh-1962.jpg
+
+sudan-2-qirsh-1963:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-2-qirsh-1963.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-2-qirsh-1963.jpg
+
+sudan-2-qirsh-1968:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-2-qirsh-1968.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-2-qirsh-1968.jpg
+
+sudan-2-qirsh-1971:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-2-qirsh-1971.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-2-qirsh-1971.jpg
+
+sudan-2-qirsh-1979:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-2-qirsh-1979.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-2-qirsh-1979.jpg
+
+sudan-2-qirsh-1983:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-2-qirsh-1983.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-2-qirsh-1983.jpg
+
+sudan-20-dinars-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-20-dinars-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-20-dinars-1999.jpg
+
+sudan-20-piastres-2006-20-piastres-2006-libra-nova:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-20-piastres-2006-20-piastres-2006-libra-nova.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-20-piastres-2006-20-piastres-2006-libra-nova.jpg
+
+sudan-20-piastres-2006-20-piastres-2006-libra-nova-fae9ab25:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-20-piastres-2006-20-piastres-2006-libra-nova-fae9ab25.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-20-piastres-2006-20-piastres-2006-libra-nova-fae9ab25.jpg
+
+sudan-20-qirsh-1967:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-20-qirsh-1967.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-20-qirsh-1967.jpg
+
+sudan-20-qirsh-1971:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-20-qirsh-1971.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-20-qirsh-1971.jpg
+
+sudan-20-qirsh-1983:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-20-qirsh-1983.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-20-qirsh-1983.jpg
+
+sudan-20-qirsh-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-20-qirsh-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-20-qirsh-1987.jpg
+
+sudan-25-qirsh-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-25-qirsh-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-25-qirsh-1987.jpg
+
+sudan-25-qirsh-1989:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-25-qirsh-1989.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-25-qirsh-1989.jpg
+
+sudan-5-dinars-1996:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-5-dinars-1996.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-5-dinars-1996.jpg
+
+sudan-5-dinars-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-5-dinars-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-5-dinars-2003.jpg
+
+sudan-5-millimes-1967:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-5-millimes-1967.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-5-millimes-1967.jpg
+
+sudan-5-millimes-1970:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-5-millimes-1970.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-5-millimes-1970.jpg
+
+sudan-5-millimes-1972:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-5-millimes-1972.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-5-millimes-1972.jpg
+
+sudan-5-millimes-1975:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-5-millimes-1975.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-5-millimes-1975.jpg
+
+sudan-5-piastres-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-5-piastres-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-5-piastres-2006.jpg
+
+sudan-5-qirsh-1956:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-5-qirsh-1956.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-5-qirsh-1956.jpg
+
+sudan-5-qirsh-1970:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-5-qirsh-1970.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-5-qirsh-1970.jpg
+
+sudan-5-qirsh-1980:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-5-qirsh-1980.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-5-qirsh-1980.jpg
+
+sudan-5-qirsh-1983:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-5-qirsh-1983.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-5-qirsh-1983.jpg
+
+sudan-5-qirsh-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-5-qirsh-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-5-qirsh-1987.jpg
+
+sudan-50-dinars-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-50-dinars-2002.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-50-dinars-2002.jpg
+
+sudan-50-piastres-2006-50-piastres-2006-libra-nova:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-50-piastres-2006-50-piastres-2006-libra-nova.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-50-piastres-2006-50-piastres-2006-libra-nova.jpg
+
+sudan-50-piastres-2006-50-piastres-2006-libra-nova-5d1077ae:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-50-piastres-2006-50-piastres-2006-libra-nova-5d1077ae.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-50-piastres-2006-50-piastres-2006-libra-nova-5d1077ae.jpg
+
+sudan-50-qirsh-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-50-qirsh-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-50-qirsh-1987.jpg
+
+sudan-50-qirsh-1989:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/frente/sudan-50-qirsh-1989.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Sudao/tras/sudan-50-qirsh-1989.jpg
