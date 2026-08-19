@@ -1,0 +1,211 @@
+turkey-1-kurus-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-1-kurus-2014.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-1-kurus-2014.jpg
+
+turkey-1-kurus-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-1-kurus-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-1-kurus-2023.jpg
+
+turkey-1-lira-1981:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-1-lira-1981.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-1-lira-1981.jpg
+
+turkey-1-lira-1982:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-1-lira-1982.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-1-lira-1982.jpg
+
+turkey-1-lira-1984:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-1-lira-1984.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-1-lira-1984.jpg
+
+turkey-1-lira-1986:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-1-lira-1986.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-1-lira-1986.jpg
+
+turkey-1-lira-2021:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-1-lira-2021.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-1-lira-2021.jpg
+
+turkey-1-lira-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-1-lira-2025.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-1-lira-2025.jpg
+
+turkey-1-new-kurus-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-1-new-kurus-2005.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-1-new-kurus-2005.jpg
+
+turkey-1-new-lira-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-1-new-lira-2005.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-1-new-lira-2005.jpg
+
+turkey-10-kurus-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-10-kurus-2015.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-10-kurus-2015.jpg
+
+turkey-10-kurus-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-10-kurus-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-10-kurus-2023.jpg
+
+turkey-10-lira-1981:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-10-lira-1981.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-10-lira-1981.jpg
+
+turkey-10-lira-1982:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-10-lira-1982.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-10-lira-1982.jpg
+
+turkey-10-lira-1983:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-10-lira-1983.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-10-lira-1983.jpg
+
+turkey-10-lira-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-10-lira-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-10-lira-1987.jpg
+
+turkey-10-new-kurus-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-10-new-kurus-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-10-new-kurus-2006.jpg
+
+turkey-100-lira-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-100-lira-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-100-lira-1987.jpg
+
+turkey-100-lira-1990:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-100-lira-1990.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-100-lira-1990.jpg
+
+turkey-1000-lira-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-1000-lira-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-1000-lira-1993.jpg
+
+turkey-1000-lira-1996:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-1000-lira-1996.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-1000-lira-1996.jpg
+
+turkey-10000-lira-1996:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-10000-lira-1996.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-10000-lira-1996.jpg
+
+turkey-10000-lira-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-10000-lira-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-10000-lira-1999.jpg
+
+turkey-100000-lira-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-100000-lira-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-100000-lira-1999.jpg
+
+turkey-100000-lira-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-100000-lira-2002.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-100000-lira-2002.jpg
+
+turkey-20-lira-1984:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-20-lira-1984.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-20-lira-1984.jpg
+
+turkey-25-kurus-2020:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-25-kurus-2020.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-25-kurus-2020.jpg
+
+turkey-25-kurus-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-25-kurus-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-25-kurus-2023.jpg
+
+turkey-25-lira-1988:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-25-lira-1988.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-25-lira-1988.jpg
+
+turkey-25-new-kurus-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-25-new-kurus-2005.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-25-new-kurus-2005.jpg
+
+turkey-2500-lira-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-2500-lira-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-2500-lira-1991.jpg
+
+turkey-25000-lira-1995:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-25000-lira-1995.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-25000-lira-1995.jpg
+
+turkey-25000-lira-2001:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-25000-lira-2001.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-25000-lira-2001.jpg
+
+turkey-250000-lira-2004:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-250000-lira-2004.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-250000-lira-2004.jpg
+
+turkey-5-000-lira-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-5-000-lira-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-5-000-lira-1994.jpg
+
+turkey-5-000-lira-1997:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-5-000-lira-1997.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-5-000-lira-1997.jpg
+
+turkey-5-000-lira-1998:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-5-000-lira-1998.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-5-000-lira-1998.jpg
+
+turkey-5-kurus-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-5-kurus-2018.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-5-kurus-2018.jpg
+
+turkey-5-kurus-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-5-kurus-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-5-kurus-2023.jpg
+
+turkey-5-lira-1981:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-5-lira-1981.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-5-lira-1981.jpg
+
+turkey-5-lira-1982:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-5-lira-1982.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-5-lira-1982.jpg
+
+turkey-5-lira-1983:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-5-lira-1983.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-5-lira-1983.jpg
+
+turkey-5-lira-1986:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-5-lira-1986.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-5-lira-1986.jpg
+
+turkey-5-lira-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-5-lira-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-5-lira-2024.jpg
+
+turkey-5-new-kurus-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-5-new-kurus-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-5-new-kurus-2006.jpg
+
+turkey-50-kurus-2020:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-50-kurus-2020.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-50-kurus-2020.jpg
+
+turkey-50-kurus-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-50-kurus-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-50-kurus-2023.jpg
+
+turkey-50-lira-1985:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-50-lira-1985.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-50-lira-1985.jpg
+
+turkey-50-lira-1989:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-50-lira-1989.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-50-lira-1989.jpg
+
+turkey-50-new-kurus-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-50-new-kurus-2005.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-50-new-kurus-2005.jpg
+
+turkey-500-lira-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-500-lira-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-500-lira-1991.jpg
+
+turkey-50000-lira-1998:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-50000-lira-1998.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-50000-lira-1998.jpg
+
+turkey-50000-lira-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/frente/turkey-50000-lira-2002.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Turquia/tras/turkey-50000-lira-2002.jpg

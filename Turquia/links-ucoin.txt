@@ -1,0 +1,211 @@
+turkey-1-kurus-2014:
+  frente: https://i.ucoin.net/coin/47/311/47311516-1s/turkey-1-kurus-2014.jpg
+  tras: https://i.ucoin.net/coin/47/311/47311516-2s/turkey-1-kurus-2014.jpg
+
+turkey-1-kurus-2023:
+  frente: https://i.ucoin.net/coin/70/204/70204181-1s/turkey-1-kurus-2023.jpg
+  tras: https://i.ucoin.net/coin/70/204/70204181-2s/turkey-1-kurus-2023.jpg
+
+turkey-1-lira-1981:
+  frente: https://i.ucoin.net/coin/75/421/75421918-1s/turkey-1-lira-1981.jpg
+  tras: https://i.ucoin.net/coin/75/421/75421918-2s/turkey-1-lira-1981.jpg
+
+turkey-1-lira-1982:
+  frente: https://i.ucoin.net/coin/56/543/56543920-1s/turkey-1-lira-1982.jpg
+  tras: https://i.ucoin.net/coin/56/543/56543920-2s/turkey-1-lira-1982.jpg
+
+turkey-1-lira-1984:
+  frente: https://i.ucoin.net/coin/73/133/73133279-1s/turkey-1-lira-1984.jpg
+  tras: https://i.ucoin.net/coin/73/133/73133279-2s/turkey-1-lira-1984.jpg
+
+turkey-1-lira-1986:
+  frente: https://i.ucoin.net/coin/1/038/1038356-1s/turkey-1-lira-1986.jpg
+  tras: https://i.ucoin.net/coin/1/038/1038356-2s/turkey-1-lira-1986.jpg
+
+turkey-1-lira-2021:
+  frente: https://i.ucoin.net/coin/87/031/87031222-1s/turkey-1-lira-2021.jpg
+  tras: https://i.ucoin.net/coin/87/031/87031222-2s/turkey-1-lira-2021.jpg
+
+turkey-1-lira-2025:
+  frente: https://i.ucoin.net/coin/86/314/86314704-1s/turkey-1-lira-2025.jpg
+  tras: https://i.ucoin.net/coin/86/314/86314704-2s/turkey-1-lira-2025.jpg
+
+turkey-1-new-kurus-2005:
+  frente: https://i.ucoin.net/coin/55/210/55210049-1s/turkey-1-new-kurus-2005.jpg
+  tras: https://i.ucoin.net/coin/55/210/55210049-2s/turkey-1-new-kurus-2005.jpg
+
+turkey-1-new-lira-2005:
+  frente: https://i.ucoin.net/coin/55/209/55209988-1s/turkey-1-new-lira-2005.jpg
+  tras: https://i.ucoin.net/coin/55/209/55209988-2s/turkey-1-new-lira-2005.jpg
+
+turkey-10-kurus-2015:
+  frente: https://i.ucoin.net/coin/53/963/53963460-1s/turkey-10-kurus-2015.jpg
+  tras: https://i.ucoin.net/coin/53/963/53963460-2s/turkey-10-kurus-2015.jpg
+
+turkey-10-kurus-2023:
+  frente: https://i.ucoin.net/coin/66/324/66324922-1s/turkey-10-kurus-2023.jpg
+  tras: https://i.ucoin.net/coin/66/324/66324922-2s/turkey-10-kurus-2023.jpg
+
+turkey-10-lira-1981:
+  frente: https://i.ucoin.net/coin/17/492/17492455-1s/turkey-10-lira-1981.jpg
+  tras: https://i.ucoin.net/coin/17/492/17492455-2s/turkey-10-lira-1981.jpg
+
+turkey-10-lira-1982:
+  frente: https://i.ucoin.net/coin/62/260/62260910-1s/turkey-10-lira-1982.jpg
+  tras: https://i.ucoin.net/coin/62/260/62260910-2s/turkey-10-lira-1982.jpg
+
+turkey-10-lira-1983:
+  frente: https://i.ucoin.net/coin/22/281/22281646-1s/turkey-10-lira-1983.jpg
+  tras: https://i.ucoin.net/coin/22/281/22281646-2s/turkey-10-lira-1983.jpg
+
+turkey-10-lira-1987:
+  frente: https://i.ucoin.net/coin/46/540/46540797-1s/turkey-10-lira-1987.jpg
+  tras: https://i.ucoin.net/coin/46/540/46540797-2s/turkey-10-lira-1987.jpg
+
+turkey-10-new-kurus-2006:
+  frente: https://i.ucoin.net/coin/55/209/55209902-1s/turkey-10-new-kurus-2006.jpg
+  tras: https://i.ucoin.net/coin/55/209/55209902-2s/turkey-10-new-kurus-2006.jpg
+
+turkey-100-lira-1987:
+  frente: https://i.ucoin.net/coin/46/540/46540748-1s/turkey-100-lira-1987.jpg
+  tras: https://i.ucoin.net/coin/46/540/46540748-2s/turkey-100-lira-1987.jpg
+
+turkey-100-lira-1990:
+  frente: https://i.ucoin.net/coin/19/837/19837116-1s/turkey-100-lira-1990.jpg
+  tras: https://i.ucoin.net/coin/19/837/19837116-2s/turkey-100-lira-1990.jpg
+
+turkey-1000-lira-1993:
+  frente: https://i.ucoin.net/coin/82/523/82523734-1s/turkey-1000-lira-1993.jpg
+  tras: https://i.ucoin.net/coin/82/523/82523734-2s/turkey-1000-lira-1993.jpg
+
+turkey-1000-lira-1996:
+  frente: https://i.ucoin.net/coin/22/231/22231241-1s/turkey-1000-lira-1996.jpg
+  tras: https://i.ucoin.net/coin/22/231/22231241-2s/turkey-1000-lira-1996.jpg
+
+turkey-10000-lira-1996:
+  frente: https://i.ucoin.net/coin/55/232/55232220-1s/turkey-10000-lira-1996.jpg
+  tras: https://i.ucoin.net/coin/55/232/55232220-2s/turkey-10000-lira-1996.jpg
+
+turkey-10000-lira-1999:
+  frente: https://i.ucoin.net/coin/53/963/53963380-1s/turkey-10000-lira-1999.jpg
+  tras: https://i.ucoin.net/coin/53/963/53963380-2s/turkey-10000-lira-1999.jpg
+
+turkey-100000-lira-1999:
+  frente: https://i.ucoin.net/coin/37/482/37482647-1s/turkey-100000-lira-1999.jpg
+  tras: https://i.ucoin.net/coin/37/482/37482647-2s/turkey-100000-lira-1999.jpg
+
+turkey-100000-lira-2002:
+  frente: https://i.ucoin.net/coin/55/229/55229485-1s/turkey-100000-lira-2002.jpg
+  tras: https://i.ucoin.net/coin/55/229/55229485-2s/turkey-100000-lira-2002.jpg
+
+turkey-20-lira-1984:
+  frente: https://i.ucoin.net/coin/80/486/80486081-1s/turkey-20-lira-1984.jpg
+  tras: https://i.ucoin.net/coin/80/486/80486081-2s/turkey-20-lira-1984.jpg
+
+turkey-25-kurus-2020:
+  frente: https://i.ucoin.net/coin/41/805/41805892-1s/turkey-25-kurus-2020.jpg
+  tras: https://i.ucoin.net/coin/41/805/41805892-2s/turkey-25-kurus-2020.jpg
+
+turkey-25-kurus-2023:
+  frente: https://i.ucoin.net/coin/85/121/85121320-1s/turkey-25-kurus-2023.jpg
+  tras: https://i.ucoin.net/coin/85/121/85121320-2s/turkey-25-kurus-2023.jpg
+
+turkey-25-lira-1988:
+  frente: https://i.ucoin.net/coin/37/482/37482583-1s/turkey-25-lira-1988.jpg
+  tras: https://i.ucoin.net/coin/37/482/37482583-2s/turkey-25-lira-1988.jpg
+
+turkey-25-new-kurus-2005:
+  frente: https://i.ucoin.net/coin/55/210/55210067-1s/turkey-25-new-kurus-2005.jpg
+  tras: https://i.ucoin.net/coin/55/210/55210067-2s/turkey-25-new-kurus-2005.jpg
+
+turkey-2500-lira-1991:
+  frente: https://i.ucoin.net/coin/0/895/895453-1s/turkey-2500-lira-1991.jpg
+  tras: https://i.ucoin.net/coin/0/895/895453-2s/turkey-2500-lira-1991.jpg
+
+turkey-25000-lira-1995:
+  frente: https://i.ucoin.net/coin/55/207/55207706-1s/turkey-25000-lira-1995.jpg
+  tras: https://i.ucoin.net/coin/55/207/55207706-2s/turkey-25000-lira-1995.jpg
+
+turkey-25000-lira-2001:
+  frente: https://i.ucoin.net/coin/1/263/1263547-1s/turkey-25000-lira-2001.jpg
+  tras: https://i.ucoin.net/coin/1/263/1263547-2s/turkey-25000-lira-2001.jpg
+
+turkey-250000-lira-2004:
+  frente: https://i.ucoin.net/coin/55/229/55229342-1s/turkey-250000-lira-2004.jpg
+  tras: https://i.ucoin.net/coin/55/229/55229342-2s/turkey-250000-lira-2004.jpg
+
+turkey-5-000-lira-1994:
+  frente: https://i.ucoin.net/coin/66/131/66131683-1s/turkey-5.000-lira-1994.jpg
+  tras: https://i.ucoin.net/coin/66/131/66131683-2s/turkey-5.000-lira-1994.jpg
+
+turkey-5-000-lira-1997:
+  frente: https://i.ucoin.net/coin/55/210/55210155-1s/turkey-5.000-lira-1997.jpg
+  tras: https://i.ucoin.net/coin/55/210/55210155-2s/turkey-5.000-lira-1997.jpg
+
+turkey-5-000-lira-1998:
+  frente: https://i.ucoin.net/coin/5/689/5689246-1s/turkey-5.000-lira-1998.jpg
+  tras: https://i.ucoin.net/coin/5/689/5689246-2s/turkey-5.000-lira-1998.jpg
+
+turkey-5-kurus-2018:
+  frente: https://i.ucoin.net/coin/59/387/59387461-1s/turkey-5-kurus-2018.jpg
+  tras: https://i.ucoin.net/coin/59/387/59387461-2s/turkey-5-kurus-2018.jpg
+
+turkey-5-kurus-2023:
+  frente: https://i.ucoin.net/coin/70/204/70204766-1s/turkey-5-kurus-2023.jpg
+  tras: https://i.ucoin.net/coin/70/204/70204766-2s/turkey-5-kurus-2023.jpg
+
+turkey-5-lira-1981:
+  frente: https://i.ucoin.net/coin/56/619/56619582-1s/turkey-5-lira-1981.jpg
+  tras: https://i.ucoin.net/coin/56/619/56619582-2s/turkey-5-lira-1981.jpg
+
+turkey-5-lira-1982:
+  frente: https://i.ucoin.net/coin/23/184/23184277-1s/turkey-5-lira-1982.jpg
+  tras: https://i.ucoin.net/coin/23/184/23184277-2s/turkey-5-lira-1982.jpg
+
+turkey-5-lira-1983:
+  frente: https://i.ucoin.net/coin/37/482/37482537-1s/turkey-5-lira-1983.jpg
+  tras: https://i.ucoin.net/coin/37/482/37482537-2s/turkey-5-lira-1983.jpg
+
+turkey-5-lira-1986:
+  frente: https://i.ucoin.net/coin/71/057/71057853-1s/turkey-5-lira-1986.jpg
+  tras: https://i.ucoin.net/coin/71/057/71057853-2s/turkey-5-lira-1986.jpg
+
+turkey-5-lira-2024:
+  frente: https://i.ucoin.net/coin/81/792/81792567-1s/turkey-5-lira-2024.jpg
+  tras: https://i.ucoin.net/coin/81/792/81792567-2s/turkey-5-lira-2024.jpg
+
+turkey-5-new-kurus-2006:
+  frente: https://i.ucoin.net/coin/1/080/1080502-1s/turkey-5-new-kurus-2006.jpg
+  tras: https://i.ucoin.net/coin/1/080/1080502-2s/turkey-5-new-kurus-2006.jpg
+
+turkey-50-kurus-2020:
+  frente: https://i.ucoin.net/coin/55/131/55131143-1s/turkey-50-kurus-2020.jpg
+  tras: https://i.ucoin.net/coin/55/131/55131143-2s/turkey-50-kurus-2020.jpg
+
+turkey-50-kurus-2023:
+  frente: https://i.ucoin.net/coin/70/205/70205555-1s/turkey-50-kurus-2023.jpg
+  tras: https://i.ucoin.net/coin/70/205/70205555-2s/turkey-50-kurus-2023.jpg
+
+turkey-50-lira-1985:
+  frente: https://i.ucoin.net/coin/80/325/80325413-1s/turkey-50-lira-1985.jpg
+  tras: https://i.ucoin.net/coin/80/325/80325413-2s/turkey-50-lira-1985.jpg
+
+turkey-50-lira-1989:
+  frente: https://i.ucoin.net/coin/56/619/56619010-1s/turkey-50-lira-1989.jpg
+  tras: https://i.ucoin.net/coin/56/619/56619010-2s/turkey-50-lira-1989.jpg
+
+turkey-50-new-kurus-2005:
+  frente: https://i.ucoin.net/coin/55/210/55210012-1s/turkey-50-new-kurus-2005.jpg
+  tras: https://i.ucoin.net/coin/55/210/55210012-2s/turkey-50-new-kurus-2005.jpg
+
+turkey-500-lira-1991:
+  frente: https://i.ucoin.net/coin/55/233/55233998-1s/turkey-500-lira-1991.jpg
+  tras: https://i.ucoin.net/coin/55/233/55233998-2s/turkey-500-lira-1991.jpg
+
+turkey-50000-lira-1998:
+  frente: https://i.ucoin.net/coin/53/963/53963396-1s/turkey-50000-lira-1998.jpg
+  tras: https://i.ucoin.net/coin/53/963/53963396-2s/turkey-50000-lira-1998.jpg
+
+turkey-50000-lira-2002:
+  frente: https://i.ucoin.net/coin/37/484/37484990-1s/turkey-50000-lira-2002.jpg
+  tras: https://i.ucoin.net/coin/37/484/37484990-2s/turkey-50000-lira-2002.jpg
