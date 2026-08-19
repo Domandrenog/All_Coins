@@ -1,0 +1,207 @@
+egypt-1-millieme-1954:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-1-millieme-1954.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-1-millieme-1954.jpg
+
+egypt-1-millieme-1956:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-1-millieme-1956.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-1-millieme-1956.jpg
+
+egypt-1-millieme-1957:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-1-millieme-1957.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-1-millieme-1957.jpg
+
+egypt-1-millieme-1966:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-1-millieme-1966.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-1-millieme-1966.jpg
+
+egypt-1-millieme-1972:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-1-millieme-1972.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-1-millieme-1972.jpg
+
+egypt-1-piastre-1984:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-1-piastre-1984.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-1-piastre-1984.jpg
+
+egypt-1-pound-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-1-pound-2005.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-1-pound-2005.jpg
+
+egypt-1-pound-2010:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-1-pound-2010.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-1-pound-2010.jpg
+
+egypt-1-pound-2026:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-1-pound-2026.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-1-pound-2026.jpg
+
+egypt-10-milliemes-1955:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-10-milliemes-1955.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-10-milliemes-1955.jpg
+
+egypt-10-milliemes-1958-10-milesimos-1955-1958-republica-do-egito:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-10-milliemes-1958-10-milesimos-1955-1958-republica-do-egito.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-10-milliemes-1958-10-milesimos-1955-1958-republica-do-egito.jpg
+
+egypt-10-milliemes-1958-10-milesimos-1958-republica-arabe-unida:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-10-milliemes-1958-10-milesimos-1958-republica-arabe-unida.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-10-milliemes-1958-10-milesimos-1958-republica-arabe-unida.jpg
+
+egypt-10-milliemes-1960:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-10-milliemes-1960.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-10-milliemes-1960.jpg
+
+egypt-10-milliemes-1967:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-10-milliemes-1967.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-10-milliemes-1967.jpg
+
+egypt-10-milliemes-1972:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-10-milliemes-1972.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-10-milliemes-1972.jpg
+
+egypt-10-milliemes-1976:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-10-milliemes-1976.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-10-milliemes-1976.jpg
+
+egypt-10-piastres-1955:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-10-piastres-1955.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-10-piastres-1955.jpg
+
+egypt-10-piastres-1956:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-10-piastres-1956.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-10-piastres-1956.jpg
+
+egypt-10-piastres-1960:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-10-piastres-1960.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-10-piastres-1960.jpg
+
+egypt-10-piastres-1967:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-10-piastres-1967.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-10-piastres-1967.jpg
+
+egypt-10-piastres-1972:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-10-piastres-1972.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-10-piastres-1972.jpg
+
+egypt-10-piastres-1984:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-10-piastres-1984.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-10-piastres-1984.jpg
+
+egypt-10-piastres-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-10-piastres-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-10-piastres-1992.jpg
+
+egypt-10-piastres-2008:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-10-piastres-2008.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-10-piastres-2008.jpg
+
+egypt-2-milliemes-1962:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-2-milliemes-1962.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-2-milliemes-1962.jpg
+
+egypt-2-piastres-1980:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-2-piastres-1980.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-2-piastres-1980.jpg
+
+egypt-2-piastres-1984:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-2-piastres-1984.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-2-piastres-1984.jpg
+
+egypt-20-piastres-1956:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-20-piastres-1956.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-20-piastres-1956.jpg
+
+egypt-20-piastres-1966:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-20-piastres-1966.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-20-piastres-1966.jpg
+
+egypt-20-piastres-1980:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-20-piastres-1980.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-20-piastres-1980.jpg
+
+egypt-20-piastres-1984:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-20-piastres-1984.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-20-piastres-1984.jpg
+
+egypt-20-piastres-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-20-piastres-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-20-piastres-1992.jpg
+
+egypt-25-piastres-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-25-piastres-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-25-piastres-1993.jpg
+
+egypt-25-piastres-2011:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-25-piastres-2011.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-25-piastres-2011.jpg
+
+egypt-5-milliemes-1954:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-5-milliemes-1954.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-5-milliemes-1954.jpg
+
+egypt-5-milliemes-1958:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-5-milliemes-1958.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-5-milliemes-1958.jpg
+
+egypt-5-milliemes-1966:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-5-milliemes-1966.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-5-milliemes-1966.jpg
+
+egypt-5-milliemes-1967:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-5-milliemes-1967.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-5-milliemes-1967.jpg
+
+egypt-5-milliemes-1972:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-5-milliemes-1972.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-5-milliemes-1972.jpg
+
+egypt-5-milliemes-1973:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-5-milliemes-1973.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-5-milliemes-1973.jpg
+
+egypt-5-piastres-1957:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-5-piastres-1957.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-5-piastres-1957.jpg
+
+egypt-5-piastres-1966:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-5-piastres-1966.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-5-piastres-1966.jpg
+
+egypt-5-piastres-1967:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-5-piastres-1967.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-5-piastres-1967.jpg
+
+egypt-5-piastres-1972:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-5-piastres-1972.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-5-piastres-1972.jpg
+
+egypt-5-piastres-1976:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-5-piastres-1976.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-5-piastres-1976.jpg
+
+egypt-5-piastres-1984-5-piastres-1984-republica-arabe-do-egito:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-5-piastres-1984-5-piastres-1984-republica-arabe-do-egito.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-5-piastres-1984-5-piastres-1984-republica-arabe-do-egito.jpg
+
+egypt-5-piastres-1984-5-piastres-1984-republica-arabe-do-egito-0529f258:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-5-piastres-1984-5-piastres-1984-republica-arabe-do-egito-0529f258.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-5-piastres-1984-5-piastres-1984-republica-arabe-do-egito-0529f258.jpg
+
+egypt-5-piastres-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-5-piastres-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-5-piastres-1992.jpg
+
+egypt-5-piastres-2004:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-5-piastres-2004.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-5-piastres-2004.jpg
+
+egypt-5-piastres-2008:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-5-piastres-2008.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-5-piastres-2008.jpg
+
+egypt-50-piastres-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-50-piastres-2005.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-50-piastres-2005.jpg
+
+egypt-50-piastres-2010:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/frente/egypt-50-piastres-2010.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Egito/tras/egypt-50-piastres-2010.jpg
