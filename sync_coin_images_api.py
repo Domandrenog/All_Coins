@@ -9,6 +9,7 @@ import os
 import re
 import subprocess
 import sys
+import time
 import unicodedata
 from pathlib import Path
 from shutil import which
@@ -456,6 +457,10 @@ def download_image_with_browser(url: str, destination: Path, user_data_dir: str)
             return False
         finally:
             context.close()
+            # Chromium keeps its ProcessSingleton briefly after close().  The
+            # fallback starts a persistent context for each protected image,
+            # so wait for it to release the profile before the next image.
+            time.sleep(15)
 
 
 def parse_links_file(path: Path) -> dict[str, dict[str, str]]:

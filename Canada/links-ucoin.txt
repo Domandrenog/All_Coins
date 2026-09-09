@@ -1,0 +1,803 @@
+canada-1-cent-1858:
+  frente: https://i.ucoin.net/coin/36/787/36787746-1s/canada-1-cent-1858.jpg
+  tras: https://i.ucoin.net/coin/36/787/36787746-2s/canada-1-cent-1858.jpg
+
+canada-1-cent-1887:
+  frente: https://i.ucoin.net/coin/36/787/36787850-1s/canada-1-cent-1887.jpg
+  tras: https://i.ucoin.net/coin/36/787/36787850-2s/canada-1-cent-1887.jpg
+
+canada-1-cent-1902:
+  frente: https://i.ucoin.net/coin/36/847/36847593-1s/canada-1-cent-1902.jpg
+  tras: https://i.ucoin.net/coin/36/847/36847593-2s/canada-1-cent-1902.jpg
+
+canada-1-cent-1911:
+  frente: https://i.ucoin.net/coin/45/068/45068015-1s/canada-1-cent-1911.jpg
+  tras: https://i.ucoin.net/coin/45/068/45068015-2s/canada-1-cent-1911.jpg
+
+canada-1-cent-1912:
+  frente: https://i.ucoin.net/coin/36/675/36675169-1s/canada-1-cent-1912.jpg
+  tras: https://i.ucoin.net/coin/36/675/36675169-2s/canada-1-cent-1912.jpg
+
+canada-1-cent-1933:
+  frente: https://i.ucoin.net/coin/36/788/36788138-1s/canada-1-cent-1933.jpg
+  tras: https://i.ucoin.net/coin/36/788/36788138-2s/canada-1-cent-1933.jpg
+
+canada-1-cent-1939:
+  frente: https://i.ucoin.net/coin/36/788/36788266-1s/canada-1-cent-1939.jpg
+  tras: https://i.ucoin.net/coin/36/788/36788266-2s/canada-1-cent-1939.jpg
+
+canada-1-cent-1951:
+  frente: https://i.ucoin.net/coin/44/764/44764209-1s/canada-1-cent-1951.jpg
+  tras: https://i.ucoin.net/coin/44/764/44764209-2s/canada-1-cent-1951.jpg
+
+canada-1-cent-1963:
+  frente: https://i.ucoin.net/coin/44/764/44764430-1s/canada-1-cent-1963.jpg
+  tras: https://i.ucoin.net/coin/44/764/44764430-2s/canada-1-cent-1963.jpg
+
+canada-1-cent-1973:
+  frente: https://i.ucoin.net/coin/11/945/11945105-1s/canada-1-cent-1973.jpg
+  tras: https://i.ucoin.net/coin/11/945/11945105-2s/canada-1-cent-1973.jpg
+
+canada-1-cent-1979:
+  frente: https://i.ucoin.net/coin/49/024/49024737-1s/canada-1-cent-1979.jpg
+  tras: https://i.ucoin.net/coin/49/024/49024737-2s/canada-1-cent-1979.jpg
+
+canada-1-cent-1981:
+  frente: https://i.ucoin.net/coin/33/116/33116043-1s/canada-1-cent-1981.jpg
+  tras: https://i.ucoin.net/coin/33/116/33116043-2s/canada-1-cent-1981.jpg
+
+canada-1-cent-1985:
+  frente: https://i.ucoin.net/coin/49/030/49030643-1s/canada-1-cent-1985.jpg
+  tras: https://i.ucoin.net/coin/49/030/49030643-2s/canada-1-cent-1985.jpg
+
+canada-1-cent-1992:
+  frente: https://i.ucoin.net/coin/49/057/49057922-1s/canada-1-cent-1992.jpg
+  tras: https://i.ucoin.net/coin/49/057/49057922-2s/canada-1-cent-1992.jpg
+
+canada-1-cent-1995:
+  frente: https://i.ucoin.net/coin/49/057/49057995-1s/canada-1-cent-1995.jpg
+  tras: https://i.ucoin.net/coin/49/057/49057995-2s/canada-1-cent-1995.jpg
+
+canada-1-cent-1999:
+  frente: https://i.ucoin.net/coin/49/058/49058518-1s/canada-1-cent-1999.jpg
+  tras: https://i.ucoin.net/coin/49/058/49058518-2s/canada-1-cent-1999.jpg
+
+canada-1-cent-2001:
+  frente: https://i.ucoin.net/coin/14/566/14566787-1s/canada-1-cent-2001.jpg
+  tras: https://i.ucoin.net/coin/14/566/14566787-2s/canada-1-cent-2001.jpg
+
+canada-1-cent-2002-1-centimo-2002-rainha-isabel-ii:
+  frente: https://i.ucoin.net/coin/71/541/71541588-1s/canada-1-cent-2002.jpg
+  tras: https://i.ucoin.net/coin/71/541/71541588-2s/canada-1-cent-2002.jpg
+
+canada-1-cent-2002-1-centimo-2002-rainha-isabel-ii-cd9b71b5:
+  frente: https://i.ucoin.net/coin/36/675/36675508-1s/canada-1-cent-2002.jpg
+  tras: https://i.ucoin.net/coin/36/675/36675508-2s/canada-1-cent-2002.jpg
+
+canada-1-cent-2007:
+  frente: https://i.ucoin.net/coin/11/946/11946451-1s/canada-1-cent-2007.jpg
+  tras: https://i.ucoin.net/coin/11/946/11946451-2s/canada-1-cent-2007.jpg
+
+canada-1-cent-2012:
+  frente: https://i.ucoin.net/coin/11/946/11946780-1s/canada-1-cent-2012.jpg
+  tras: https://i.ucoin.net/coin/11/946/11946780-2s/canada-1-cent-2012.jpg
+
+canada-1-dollar-1936:
+  frente: https://i.ucoin.net/coin/36/811/36811343-1s/canada-1-dollar-1936.jpg
+  tras: https://i.ucoin.net/coin/36/811/36811343-2s/canada-1-dollar-1936.jpg
+
+canada-1-dollar-1945:
+  frente: https://i.ucoin.net/coin/10/610/10610245-1s/canada-1-dollar-1945.jpg
+  tras: https://i.ucoin.net/coin/10/610/10610245-2s/canada-1-dollar-1945.jpg
+
+canada-1-dollar-1952:
+  frente: https://i.ucoin.net/coin/36/828/36828145-1s/canada-1-dollar-1952.jpg
+  tras: https://i.ucoin.net/coin/36/828/36828145-2s/canada-1-dollar-1952.jpg
+
+canada-1-dollar-1963:
+  frente: https://i.ucoin.net/coin/36/853/36853953-1s/canada-1-dollar-1963.jpg
+  tras: https://i.ucoin.net/coin/36/853/36853953-2s/canada-1-dollar-1963.jpg
+
+canada-1-dollar-1966:
+  frente: https://i.ucoin.net/coin/1/587/1587884-1s/canada-1-dollar-1966.jpg
+  tras: https://i.ucoin.net/coin/1/587/1587884-2s/canada-1-dollar-1966.jpg
+
+canada-1-dollar-1968:
+  frente: https://i.ucoin.net/coin/2/734/2734076-1s/canada-1-dollar-1968.jpg
+  tras: https://i.ucoin.net/coin/2/734/2734076-2s/canada-1-dollar-1968.jpg
+
+canada-1-dollar-1975:
+  frente: https://i.ucoin.net/coin/2/734/2734172-1s/canada-1-dollar-1975.jpg
+  tras: https://i.ucoin.net/coin/2/734/2734172-2s/canada-1-dollar-1975.jpg
+
+canada-1-dollar-1977:
+  frente: https://i.ucoin.net/coin/62/425/62425167-1s/canada-1-dollar-1977.jpg
+  tras: https://i.ucoin.net/coin/62/425/62425167-2s/canada-1-dollar-1977.jpg
+
+canada-1-dollar-1987:
+  frente: https://i.ucoin.net/coin/64/840/64840581-1s/canada-1-dollar-1987.jpg
+  tras: https://i.ucoin.net/coin/64/840/64840581-2s/canada-1-dollar-1987.jpg
+
+canada-1-dollar-1989:
+  frente: https://i.ucoin.net/coin/79/487/79487202-1s/canada-1-dollar-1989.jpg
+  tras: https://i.ucoin.net/coin/79/487/79487202-2s/canada-1-dollar-1989.jpg
+
+canada-1-dollar-1990:
+  frente: https://i.ucoin.net/coin/53/395/53395242-1s/canada-1-dollar-1990.jpg
+  tras: https://i.ucoin.net/coin/53/395/53395242-2s/canada-1-dollar-1990.jpg
+
+canada-1-dollar-1992:
+  frente: https://i.ucoin.net/coin/22/708/22708841-1s/canada-1-dollar-1992.jpg
+  tras: https://i.ucoin.net/coin/22/708/22708841-2s/canada-1-dollar-1992.jpg
+
+canada-1-dollar-2002:
+  frente: https://i.ucoin.net/coin/48/899/48899552-1s/canada-1-dollar-2002.jpg
+  tras: https://i.ucoin.net/coin/48/899/48899552-2s/canada-1-dollar-2002.jpg
+
+canada-1-dollar-2005:
+  frente: https://i.ucoin.net/coin/22/261/22261765-1s/canada-1-dollar-2005.jpg
+  tras: https://i.ucoin.net/coin/22/261/22261765-2s/canada-1-dollar-2005.jpg
+
+canada-1-dollar-2012:
+  frente: https://i.ucoin.net/coin/27/509/27509659-1s/canada-1-dollar-2012.jpg
+  tras: https://i.ucoin.net/coin/27/509/27509659-2s/canada-1-dollar-2012.jpg
+
+canada-1-dollar-2023:
+  frente: https://i.ucoin.net/coin/59/577/59577983-1s/canada-1-dollar-2023.jpg
+  tras: https://i.ucoin.net/coin/59/577/59577983-2s/canada-1-dollar-2023.jpg
+
+canada-1-dollar-2026:
+  frente: https://i.ucoin.net/coin/84/184/84184631-1s/canada-1-dollar-2026.jpg
+  tras: https://i.ucoin.net/coin/84/184/84184631-2s/canada-1-dollar-2026.jpg
+
+canada-10-cents-1871:
+  frente: https://i.ucoin.net/coin/77/334/77334722-1s/canada-10-cents-1871.jpg
+  tras: https://i.ucoin.net/coin/77/334/77334722-2s/canada-10-cents-1871.jpg
+
+canada-10-cents-1908:
+  frente: https://i.ucoin.net/coin/36/849/36849477-1s/canada-10-cents-1908.jpg
+  tras: https://i.ucoin.net/coin/36/849/36849477-2s/canada-10-cents-1908.jpg
+
+canada-10-cents-1911:
+  frente: https://i.ucoin.net/coin/13/400/13400382-1s/canada-10-cents-1911.jpg
+  tras: https://i.ucoin.net/coin/13/400/13400382-2s/canada-10-cents-1911.jpg
+
+canada-10-cents-1919:
+  frente: https://i.ucoin.net/coin/51/329/51329828-1s/canada-10-cents-1919.jpg
+  tras: https://i.ucoin.net/coin/51/329/51329828-2s/canada-10-cents-1919.jpg
+
+canada-10-cents-1930:
+  frente: https://i.ucoin.net/coin/36/737/36737438-1s/canada-10-cents-1930.jpg
+  tras: https://i.ucoin.net/coin/36/737/36737438-2s/canada-10-cents-1930.jpg
+
+canada-10-cents-1942:
+  frente: https://i.ucoin.net/coin/59/698/59698363-1s/canada-10-cents-1942.jpg
+  tras: https://i.ucoin.net/coin/59/698/59698363-2s/canada-10-cents-1942.jpg
+
+canada-10-cents-1948:
+  frente: https://i.ucoin.net/coin/36/737/36737506-1s/canada-10-cents-1948.jpg
+  tras: https://i.ucoin.net/coin/36/737/36737506-2s/canada-10-cents-1948.jpg
+
+canada-10-cents-1954:
+  frente: https://i.ucoin.net/coin/36/854/36854253-1s/canada-10-cents-1954.jpg
+  tras: https://i.ucoin.net/coin/36/854/36854253-2s/canada-10-cents-1954.jpg
+
+canada-10-cents-1966:
+  frente: https://i.ucoin.net/coin/25/659/25659742-1s/canada-10-cents-1966.jpg
+  tras: https://i.ucoin.net/coin/25/659/25659742-2s/canada-10-cents-1966.jpg
+
+canada-10-cents-1968-10-centimos-1968-rainha-isabel-ii:
+  frente: https://i.ucoin.net/coin/44/766/44766122-1s/canada-10-cents-1968.jpg
+  tras: https://i.ucoin.net/coin/44/766/44766122-2s/canada-10-cents-1968.jpg
+
+canada-10-cents-1968-10-centimos-1968-rainha-isabel-ii-17719cb0:
+  frente: https://i.ucoin.net/coin/25/659/25659675-1s/canada-10-cents-1968.jpg
+  tras: https://i.ucoin.net/coin/25/659/25659675-2s/canada-10-cents-1968.jpg
+
+canada-10-cents-1981:
+  frente: https://i.ucoin.net/coin/67/858/67858039-1s/canada-10-cents-1981.jpg
+  tras: https://i.ucoin.net/coin/67/858/67858039-2s/canada-10-cents-1981.jpg
+
+canada-10-cents-1992:
+  frente: https://i.ucoin.net/coin/22/708/22708819-1s/canada-10-cents-1992.jpg
+  tras: https://i.ucoin.net/coin/22/708/22708819-2s/canada-10-cents-1992.jpg
+
+canada-10-cents-2000:
+  frente: https://i.ucoin.net/coin/37/240/37240563-1s/canada-10-cents-2000.jpg
+  tras: https://i.ucoin.net/coin/37/240/37240563-2s/canada-10-cents-2000.jpg
+
+canada-10-cents-2001:
+  frente: https://i.ucoin.net/coin/49/435/49435080-1s/canada-10-cents-2001.jpg
+  tras: https://i.ucoin.net/coin/49/435/49435080-2s/canada-10-cents-2001.jpg
+
+canada-10-cents-2002:
+  frente: https://i.ucoin.net/coin/8/316/8316682-1s/canada-10-cents-2002.jpg
+  tras: https://i.ucoin.net/coin/8/316/8316682-2s/canada-10-cents-2002.jpg
+
+canada-10-cents-2020:
+  frente: https://i.ucoin.net/coin/36/647/36647160-1s/canada-10-cents-2020.jpg
+  tras: https://i.ucoin.net/coin/36/647/36647160-2s/canada-10-cents-2020.jpg
+
+canada-10-cents-2023:
+  frente: https://i.ucoin.net/coin/58/856/58856170-1s/canada-10-cents-2023.jpg
+  tras: https://i.ucoin.net/coin/58/856/58856170-2s/canada-10-cents-2023.jpg
+
+canada-10-cents-2026:
+  frente: https://i.ucoin.net/coin/84/184/84184625-1s/canada-10-cents-2026.jpg
+  tras: https://i.ucoin.net/coin/84/184/84184625-2s/canada-10-cents-2026.jpg
+
+canada-10-dollars-1913:
+  frente: https://i.ucoin.net/coin/36/741/36741392-1s/canada-10-dollars-1913.jpg
+  tras: https://i.ucoin.net/coin/36/741/36741392-2s/canada-10-dollars-1913.jpg
+
+canada-2-dollars-1996:
+  frente: https://i.ucoin.net/coin/0/2/2664-1s/canada-2-dollars-1996.jpg
+  tras: https://i.ucoin.net/coin/0/2/2664-2s/canada-2-dollars-1996.jpg
+
+canada-2-dollars-2002:
+  frente: https://i.ucoin.net/coin/36/645/36645087-1s/canada-2-dollars-2002.jpg
+  tras: https://i.ucoin.net/coin/36/645/36645087-2s/canada-2-dollars-2002.jpg
+
+canada-2-dollars-2006:
+  frente: https://i.ucoin.net/coin/36/741/36741791-1s/canada-2-dollars-2006.jpg
+  tras: https://i.ucoin.net/coin/36/741/36741791-2s/canada-2-dollars-2006.jpg
+
+canada-2-dollars-2011:
+  frente: https://i.ucoin.net/coin/51/689/51689360-1s/canada-2-dollars-2011.jpg
+  tras: https://i.ucoin.net/coin/51/689/51689360-2s/canada-2-dollars-2011.jpg
+
+canada-2-dollars-2020:
+  frente: https://i.ucoin.net/coin/36/646/36646724-1s/canada-2-dollars-2020.jpg
+  tras: https://i.ucoin.net/coin/36/646/36646724-2s/canada-2-dollars-2020.jpg
+
+canada-2-dollars-2023-2-dolares-2023-2026-rei-charles-iii:
+  frente: https://i.ucoin.net/coin/70/530/70530136-1s/canada-2-dollars-2023.jpg
+  tras: https://i.ucoin.net/coin/70/530/70530136-2s/canada-2-dollars-2023.jpg
+
+canada-2-dollars-2023-2-dolares-2023-rainha-isabel-ii:
+  frente: https://i.ucoin.net/coin/58/856/58856201-1s/canada-2-dollars-2023.jpg
+  tras: https://i.ucoin.net/coin/58/856/58856201-2s/canada-2-dollars-2023.jpg
+
+canada-20-cents-1858:
+  frente: https://i.ucoin.net/coin/36/741/36741906-1s/canada-20-cents-1858.jpg
+  tras: https://i.ucoin.net/coin/36/741/36741906-2s/canada-20-cents-1858.jpg
+
+canada-25-cents-1899:
+  frente: https://i.ucoin.net/coin/76/361/76361983-1s/canada-25-cents-1899.jpg
+  tras: https://i.ucoin.net/coin/76/361/76361983-2s/canada-25-cents-1899.jpg
+
+canada-25-cents-1908:
+  frente: https://i.ucoin.net/coin/23/060/23060361-1s/canada-25-cents-1908.jpg
+  tras: https://i.ucoin.net/coin/23/060/23060361-2s/canada-25-cents-1908.jpg
+
+canada-25-cents-1910:
+  frente: https://i.ucoin.net/coin/36/813/36813735-1s/canada-25-cents-1910.jpg
+  tras: https://i.ucoin.net/coin/36/813/36813735-2s/canada-25-cents-1910.jpg
+
+canada-25-cents-1911:
+  frente: https://i.ucoin.net/coin/61/633/61633206-1s/canada-25-cents-1911.jpg
+  tras: https://i.ucoin.net/coin/61/633/61633206-2s/canada-25-cents-1911.jpg
+
+canada-25-cents-1918:
+  frente: https://i.ucoin.net/coin/86/044/86044032-1s/canada-25-cents-1918.jpg
+  tras: https://i.ucoin.net/coin/86/044/86044032-2s/canada-25-cents-1918.jpg
+
+canada-25-cents-1935:
+  frente: https://i.ucoin.net/coin/36/742/36742260-1s/canada-25-cents-1935.jpg
+  tras: https://i.ucoin.net/coin/36/742/36742260-2s/canada-25-cents-1935.jpg
+
+canada-25-cents-1945:
+  frente: https://i.ucoin.net/coin/45/064/45064440-1s/canada-25-cents-1945.jpg
+  tras: https://i.ucoin.net/coin/45/064/45064440-2s/canada-25-cents-1945.jpg
+
+canada-25-cents-1951:
+  frente: https://i.ucoin.net/coin/23/060/23060388-1s/canada-25-cents-1951.jpg
+  tras: https://i.ucoin.net/coin/23/060/23060388-2s/canada-25-cents-1951.jpg
+
+canada-25-cents-1953:
+  frente: https://i.ucoin.net/coin/36/742/36742277-1s/canada-25-cents-1953.jpg
+  tras: https://i.ucoin.net/coin/36/742/36742277-2s/canada-25-cents-1953.jpg
+
+canada-25-cents-1966:
+  frente: https://i.ucoin.net/coin/25/659/25659802-1s/canada-25-cents-1966.jpg
+  tras: https://i.ucoin.net/coin/25/659/25659802-2s/canada-25-cents-1966.jpg
+
+canada-25-cents-1968:
+  frente: https://i.ucoin.net/coin/21/667/21667367-1s/canada-25-cents-1968.jpg
+  tras: https://i.ucoin.net/coin/21/667/21667367-2s/canada-25-cents-1968.jpg
+
+canada-25-cents-1970:
+  frente: https://i.ucoin.net/coin/36/856/36856041-1s/canada-25-cents-1970.jpg
+  tras: https://i.ucoin.net/coin/36/856/36856041-2s/canada-25-cents-1970.jpg
+
+canada-25-cents-1988:
+  frente: https://i.ucoin.net/coin/65/033/65033571-1s/canada-25-cents-1988.jpg
+  tras: https://i.ucoin.net/coin/65/033/65033571-2s/canada-25-cents-1988.jpg
+
+canada-25-cents-1991:
+  frente: https://i.ucoin.net/coin/65/028/65028497-1s/canada-25-cents-1991.jpg
+  tras: https://i.ucoin.net/coin/65/028/65028497-2s/canada-25-cents-1991.jpg
+
+canada-25-cents-1992:
+  frente: https://i.ucoin.net/coin/60/626/60626430-1s/canada-25-cents-1992.jpg
+  tras: https://i.ucoin.net/coin/60/626/60626430-2s/canada-25-cents-1992.jpg
+
+canada-25-cents-2001:
+  frente: https://i.ucoin.net/coin/74/921/74921473-1s/canada-25-cents-2001.jpg
+  tras: https://i.ucoin.net/coin/74/921/74921473-2s/canada-25-cents-2001.jpg
+
+canada-25-cents-2002:
+  frente: https://i.ucoin.net/coin/46/983/46983066-1s/canada-25-cents-2002.jpg
+  tras: https://i.ucoin.net/coin/46/983/46983066-2s/canada-25-cents-2002.jpg
+
+canada-25-cents-2020:
+  frente: https://i.ucoin.net/coin/36/647/36647204-1s/canada-25-cents-2020.jpg
+  tras: https://i.ucoin.net/coin/36/647/36647204-2s/canada-25-cents-2020.jpg
+
+canada-25-cents-2023-25-centimos-2023-2026-rei-charles-iii:
+  frente: https://i.ucoin.net/coin/70/594/70594683-1s/canada-25-cents-2023.jpg
+  tras: https://i.ucoin.net/coin/70/594/70594683-2s/canada-25-cents-2023.jpg
+
+canada-25-cents-2023-25-centimos-2023-rainha-isabel-ii:
+  frente: https://i.ucoin.net/coin/58/856/58856186-1s/canada-25-cents-2023.jpg
+  tras: https://i.ucoin.net/coin/58/856/58856186-2s/canada-25-cents-2023.jpg
+
+canada-5-cents-1901:
+  frente: https://i.ucoin.net/coin/36/784/36784192-1s/canada-5-cents-1901.jpg
+  tras: https://i.ucoin.net/coin/36/784/36784192-2s/canada-5-cents-1901.jpg
+
+canada-5-cents-1902:
+  frente: https://i.ucoin.net/coin/79/616/79616763-1s/canada-5-cents-1902.jpg
+  tras: https://i.ucoin.net/coin/79/616/79616763-2s/canada-5-cents-1902.jpg
+
+canada-5-cents-1908:
+  frente: https://i.ucoin.net/coin/36/847/36847973-1s/canada-5-cents-1908.jpg
+  tras: https://i.ucoin.net/coin/36/847/36847973-2s/canada-5-cents-1908.jpg
+
+canada-5-cents-1911:
+  frente: https://i.ucoin.net/coin/81/682/81682040-1s/canada-5-cents-1911.jpg
+  tras: https://i.ucoin.net/coin/81/682/81682040-2s/canada-5-cents-1911.jpg
+
+canada-5-cents-1913:
+  frente: https://i.ucoin.net/coin/23/060/23060186-1s/canada-5-cents-1913.jpg
+  tras: https://i.ucoin.net/coin/23/060/23060186-2s/canada-5-cents-1913.jpg
+
+canada-5-cents-1920:
+  frente: https://i.ucoin.net/coin/76/361/76361230-1s/canada-5-cents-1920.jpg
+  tras: https://i.ucoin.net/coin/76/361/76361230-2s/canada-5-cents-1920.jpg
+
+canada-5-cents-1922:
+  frente: https://i.ucoin.net/coin/36/784/36784396-1s/canada-5-cents-1922.jpg
+  tras: https://i.ucoin.net/coin/36/784/36784396-2s/canada-5-cents-1922.jpg
+
+canada-5-cents-1940:
+  frente: https://i.ucoin.net/coin/45/064/45064400-1s/canada-5-cents-1940.jpg
+  tras: https://i.ucoin.net/coin/45/064/45064400-2s/canada-5-cents-1940.jpg
+
+canada-5-cents-1942:
+  frente: https://i.ucoin.net/coin/36/784/36784508-1s/canada-5-cents-1942.jpg
+  tras: https://i.ucoin.net/coin/36/784/36784508-2s/canada-5-cents-1942.jpg
+
+canada-5-cents-1943:
+  frente: https://i.ucoin.net/coin/22/068/22068688-1s/canada-5-cents-1943.jpg
+  tras: https://i.ucoin.net/coin/22/068/22068688-2s/canada-5-cents-1943.jpg
+
+canada-5-cents-1944:
+  frente: https://i.ucoin.net/coin/36/784/36784628-1s/canada-5-cents-1944.jpg
+  tras: https://i.ucoin.net/coin/36/784/36784628-2s/canada-5-cents-1944.jpg
+
+canada-5-cents-1947:
+  frente: https://i.ucoin.net/coin/59/698/59698046-1s/canada-5-cents-1947.jpg
+  tras: https://i.ucoin.net/coin/59/698/59698046-2s/canada-5-cents-1947.jpg
+
+canada-5-cents-1949:
+  frente: https://i.ucoin.net/coin/59/698/59698178-1s/canada-5-cents-1949.jpg
+  tras: https://i.ucoin.net/coin/59/698/59698178-2s/canada-5-cents-1949.jpg
+
+canada-5-cents-1952:
+  frente: https://i.ucoin.net/coin/36/829/36829044-1s/canada-5-cents-1952.jpg
+  tras: https://i.ucoin.net/coin/36/829/36829044-2s/canada-5-cents-1952.jpg
+
+canada-5-cents-1953:
+  frente: https://i.ucoin.net/coin/7/522/7522844-1s/canada-5-cents-1953.jpg
+  tras: https://i.ucoin.net/coin/7/522/7522844-2s/canada-5-cents-1953.jpg
+
+canada-5-cents-1961:
+  frente: https://i.ucoin.net/coin/44/765/44765364-1s/canada-5-cents-1961.jpg
+  tras: https://i.ucoin.net/coin/44/765/44765364-2s/canada-5-cents-1961.jpg
+
+canada-5-cents-1964:
+  frente: https://i.ucoin.net/coin/44/765/44765298-1s/canada-5-cents-1964.jpg
+  tras: https://i.ucoin.net/coin/44/765/44765298-2s/canada-5-cents-1964.jpg
+
+canada-5-cents-1968:
+  frente: https://i.ucoin.net/coin/44/765/44765483-1s/canada-5-cents-1968.jpg
+  tras: https://i.ucoin.net/coin/44/765/44765483-2s/canada-5-cents-1968.jpg
+
+canada-5-cents-1980:
+  frente: https://i.ucoin.net/coin/46/968/46968894-1s/canada-5-cents-1980.jpg
+  tras: https://i.ucoin.net/coin/46/968/46968894-2s/canada-5-cents-1980.jpg
+
+canada-5-cents-1984:
+  frente: https://i.ucoin.net/coin/46/974/46974204-1s/canada-5-cents-1984.jpg
+  tras: https://i.ucoin.net/coin/46/974/46974204-2s/canada-5-cents-1984.jpg
+
+canada-5-cents-1992:
+  frente: https://i.ucoin.net/coin/60/626/60626700-1s/canada-5-cents-1992.jpg
+  tras: https://i.ucoin.net/coin/60/626/60626700-2s/canada-5-cents-1992.jpg
+
+canada-5-cents-1996:
+  frente: https://i.ucoin.net/coin/37/240/37240686-1s/canada-5-cents-1996.jpg
+  tras: https://i.ucoin.net/coin/37/240/37240686-2s/canada-5-cents-1996.jpg
+
+canada-5-cents-2001:
+  frente: https://i.ucoin.net/coin/46/975/46975744-1s/canada-5-cents-2001.jpg
+  tras: https://i.ucoin.net/coin/46/975/46975744-2s/canada-5-cents-2001.jpg
+
+canada-5-cents-2002:
+  frente: https://i.ucoin.net/coin/46/976/46976310-1s/canada-5-cents-2002.jpg
+  tras: https://i.ucoin.net/coin/46/976/46976310-2s/canada-5-cents-2002.jpg
+
+canada-5-cents-2006:
+  frente: https://i.ucoin.net/coin/83/892/83892931-1s/canada-5-cents-2006.jpg
+  tras: https://i.ucoin.net/coin/83/892/83892931-2s/canada-5-cents-2006.jpg
+
+canada-5-cents-2017:
+  frente: https://i.ucoin.net/coin/46/978/46978397-1s/canada-5-cents-2017.jpg
+  tras: https://i.ucoin.net/coin/46/978/46978397-2s/canada-5-cents-2017.jpg
+
+canada-5-cents-2023-5-centimos-2023-2026-rei-charles-iii:
+  frente: https://i.ucoin.net/coin/70/575/70575318-1s/canada-5-cents-2023.jpg
+  tras: https://i.ucoin.net/coin/70/575/70575318-2s/canada-5-cents-2023.jpg
+
+canada-5-cents-2023-5-centimos-2023-rainha-isabel-ii:
+  frente: https://i.ucoin.net/coin/58/856/58856148-1s/canada-5-cents-2023.jpg
+  tras: https://i.ucoin.net/coin/58/856/58856148-2s/canada-5-cents-2023.jpg
+
+canada-5-dollars-1913:
+  frente: https://i.ucoin.net/coin/81/258/81258318-1s/canada-5-dollars-1913.jpg
+  tras: https://i.ucoin.net/coin/81/258/81258318-2s/canada-5-dollars-1913.jpg
+
+canada-50-cents-1881:
+  frente: https://i.ucoin.net/coin/76/361/76361452-1s/canada-50-cents-1881.jpg
+  tras: https://i.ucoin.net/coin/76/361/76361452-2s/canada-50-cents-1881.jpg
+
+canada-50-cents-1908:
+  frente: https://i.ucoin.net/coin/36/824/36824565-1s/canada-50-cents-1908.jpg
+  tras: https://i.ucoin.net/coin/36/824/36824565-2s/canada-50-cents-1908.jpg
+
+canada-50-cents-1911:
+  frente: https://i.ucoin.net/coin/59/709/59709965-1s/canada-50-cents-1911.jpg
+  tras: https://i.ucoin.net/coin/59/709/59709965-2s/canada-50-cents-1911.jpg
+
+canada-50-cents-1918:
+  frente: https://i.ucoin.net/coin/23/105/23105511-1s/canada-50-cents-1918.jpg
+  tras: https://i.ucoin.net/coin/23/105/23105511-2s/canada-50-cents-1918.jpg
+
+canada-50-cents-1931:
+  frente: https://i.ucoin.net/coin/73/741/73741612-1s/canada-50-cents-1931.jpg
+  tras: https://i.ucoin.net/coin/73/741/73741612-2s/canada-50-cents-1931.jpg
+
+canada-50-cents-1944:
+  frente: https://i.ucoin.net/coin/66/867/66867027-1s/canada-50-cents-1944.jpg
+  tras: https://i.ucoin.net/coin/66/867/66867027-2s/canada-50-cents-1944.jpg
+
+canada-50-cents-1952:
+  frente: https://i.ucoin.net/coin/36/829/36829325-1s/canada-50-cents-1952.jpg
+  tras: https://i.ucoin.net/coin/36/829/36829325-2s/canada-50-cents-1952.jpg
+
+canada-50-cents-1958:
+  frente: https://i.ucoin.net/coin/1/090/1090332-1s/canada-50-cents-1958.jpg
+  tras: https://i.ucoin.net/coin/1/090/1090332-2s/canada-50-cents-1958.jpg
+
+canada-50-cents-1964:
+  frente: https://i.ucoin.net/coin/22/894/22894518-1s/canada-50-cents-1964.jpg
+  tras: https://i.ucoin.net/coin/22/894/22894518-2s/canada-50-cents-1964.jpg
+
+canada-50-cents-1965:
+  frente: https://i.ucoin.net/coin/79/468/79468671-1s/canada-50-cents-1965.jpg
+  tras: https://i.ucoin.net/coin/79/468/79468671-2s/canada-50-cents-1965.jpg
+
+canada-50-cents-1970:
+  frente: https://i.ucoin.net/coin/36/856/36856058-1s/canada-50-cents-1970.jpg
+  tras: https://i.ucoin.net/coin/36/856/36856058-2s/canada-50-cents-1970.jpg
+
+canada-50-cents-1977:
+  frente: https://i.ucoin.net/coin/49/425/49425064-1s/canada-50-cents-1977.jpg
+  tras: https://i.ucoin.net/coin/49/425/49425064-2s/canada-50-cents-1977.jpg
+
+canada-50-cents-1981:
+  frente: https://i.ucoin.net/coin/74/921/74921529-1s/canada-50-cents-1981.jpg
+  tras: https://i.ucoin.net/coin/74/921/74921529-2s/canada-50-cents-1981.jpg
+
+canada-50-cents-1992:
+  frente: https://i.ucoin.net/coin/22/708/22708825-1s/canada-50-cents-1992.jpg
+  tras: https://i.ucoin.net/coin/22/708/22708825-2s/canada-50-cents-1992.jpg
+
+canada-50-cents-1993:
+  frente: https://i.ucoin.net/coin/36/786/36786659-1s/canada-50-cents-1993.jpg
+  tras: https://i.ucoin.net/coin/36/786/36786659-2s/canada-50-cents-1993.jpg
+
+canada-50-cents-1999:
+  frente: https://i.ucoin.net/coin/74/977/74977526-1s/canada-50-cents-1999.jpg
+  tras: https://i.ucoin.net/coin/74/977/74977526-2s/canada-50-cents-1999.jpg
+
+canada-50-cents-2001:
+  frente: https://i.ucoin.net/coin/37/140/37140794-1s/canada-50-cents-2001.jpg
+  tras: https://i.ucoin.net/coin/37/140/37140794-2s/canada-50-cents-2001.jpg
+
+canada-50-cents-2002:
+  frente: https://i.ucoin.net/coin/54/508/54508435-1s/canada-50-cents-2002.jpg
+  tras: https://i.ucoin.net/coin/54/508/54508435-2s/canada-50-cents-2002.jpg
+
+canada-50-cents-2018:
+  frente: https://i.ucoin.net/coin/22/708/22708472-1s/canada-50-cents-2018.jpg
+  tras: https://i.ucoin.net/coin/22/708/22708472-2s/canada-50-cents-2018.jpg
+
+canada-50-cents-2023-50-centimos-2023-2026-rei-charles-iii:
+  frente: https://i.ucoin.net/coin/70/575/70575060-1s/canada-50-cents-2023.jpg
+  tras: https://i.ucoin.net/coin/70/575/70575060-2s/canada-50-cents-2023.jpg
+
+canada-50-cents-2023-50-centimos-2023-rainha-isabel-ii:
+  frente: https://i.ucoin.net/coin/59/578/59578058-1s/canada-50-cents-2023.jpg
+  tras: https://i.ucoin.net/coin/59/578/59578058-2s/canada-50-cents-2023.jpg
+
+canadian-provinces-1-2-cent-1861-12-centimo-1861-1864-nova-escocia:
+  frente: https://i.ucoin.net/coin/32/819/32819074-1s/canadian_provinces-1-2-cent-1861.jpg
+  tras: https://i.ucoin.net/coin/32/819/32819074-2s/canadian_provinces-1-2-cent-1861.jpg
+
+canadian-provinces-1-2-cent-1861-12-centimo-1861-nova-brunswick:
+  frente: https://i.ucoin.net/coin/32/819/32819344-1s/canadian_provinces-1-2-cent-1861.jpg
+  tras: https://i.ucoin.net/coin/32/819/32819344-2s/canadian_provinces-1-2-cent-1861.jpg
+
+canadian-provinces-1-2-penny-1832-12-pence-1823-1832-nova-escocia:
+  frente: https://i.ucoin.net/coin/60/444/60444402-1s/canadian_provinces-1-2-penny-1832.jpg
+  tras: https://i.ucoin.net/coin/60/444/60444402-2s/canadian_provinces-1-2-penny-1832.jpg
+
+canadian-provinces-1-2-penny-1832-12-pence-1832-canada-superior:
+  frente: https://i.ucoin.net/coin/80/810/80810897-1s/canadian_provinces-1-2-penny-1832.jpg
+  tras: https://i.ucoin.net/coin/80/810/80810897-2s/canadian_provinces-1-2-penny-1832.jpg
+
+canadian-provinces-1-2-penny-1837:
+  frente: https://i.ucoin.net/coin/83/785/83785666-1s/canadian_provinces-1-2-penny-1837.jpg
+  tras: https://i.ucoin.net/coin/83/785/83785666-2s/canadian_provinces-1-2-penny-1837.jpg
+
+canadian-provinces-1-2-penny-1837-12-pence-1837-baixo-canada:
+  frente: https://i.ucoin.net/coin/78/754/78754212-1s/canadian_provinces-1-2-penny-1837.jpg
+  tras: https://i.ucoin.net/coin/78/754/78754212-2s/canadian_provinces-1-2-penny-1837.jpg
+
+canadian-provinces-1-2-penny-1837-12-pence-1837-baixo-canada-185cbcca:
+  frente: https://i.ucoin.net/coin/78/386/78386770-1s/canadian_provinces-1-2-penny-1837.jpg
+  tras: https://i.ucoin.net/coin/78/386/78386770-2s/canadian_provinces-1-2-penny-1837.jpg
+
+canadian-provinces-1-2-penny-1837-12-pence-1837-baixo-canada-d412895d:
+  frente: https://i.ucoin.net/coin/49/275/49275168-1s/canadian_provinces-1-2-penny-1837.jpg
+  tras: https://i.ucoin.net/coin/49/275/49275168-2s/canadian_provinces-1-2-penny-1837.jpg
+
+canadian-provinces-1-2-penny-1837-12-pence-1837-baixo-canada-fbb7669e:
+  frente: https://i.ucoin.net/coin/83/785/83785666-1s/canadian_provinces-1-2-penny-1837.jpg
+  tras: https://i.ucoin.net/coin/83/785/83785666-2s/canadian_provinces-1-2-penny-1837.jpg
+
+canadian-provinces-1-2-penny-1839:
+  frente: https://i.ucoin.net/coin/79/328/79328377-1s/canadian_provinces-1-2-penny-1839.jpg
+  tras: https://i.ucoin.net/coin/79/328/79328377-2s/canadian_provinces-1-2-penny-1839.jpg
+
+canadian-provinces-1-2-penny-1840:
+  frente: https://i.ucoin.net/coin/63/486/63486104-1s/canadian_provinces-1-2-penny-1840.jpg
+  tras: https://i.ucoin.net/coin/63/486/63486104-2s/canadian_provinces-1-2-penny-1840.jpg
+
+canadian-provinces-1-2-penny-1842:
+  frente: https://i.ucoin.net/coin/74/926/74926519-1s/canadian_provinces-1-2-penny-1842.jpg
+  tras: https://i.ucoin.net/coin/74/926/74926519-2s/canadian_provinces-1-2-penny-1842.jpg
+
+canadian-provinces-1-2-penny-1843:
+  frente: https://i.ucoin.net/coin/67/526/67526725-1s/canadian_provinces-1-2-penny-1843.jpg
+  tras: https://i.ucoin.net/coin/67/526/67526725-2s/canadian_provinces-1-2-penny-1843.jpg
+
+canadian-provinces-1-2-penny-1852:
+  frente: https://i.ucoin.net/coin/49/403/49403509-1s/canadian_provinces-1-2-penny-1852.jpg
+  tras: https://i.ucoin.net/coin/49/403/49403509-2s/canadian_provinces-1-2-penny-1852.jpg
+
+canadian-provinces-1-2-penny-1854:
+  frente: https://i.ucoin.net/coin/54/418/54418240-1s/canadian_provinces-1-2-penny-1854.jpg
+  tras: https://i.ucoin.net/coin/54/418/54418240-2s/canadian_provinces-1-2-penny-1854.jpg
+
+canadian-provinces-1-2-penny-1856:
+  frente: https://i.ucoin.net/coin/86/633/86633934-1s/canadian_provinces-1-2-penny-1856.jpg
+  tras: https://i.ucoin.net/coin/86/633/86633934-2s/canadian_provinces-1-2-penny-1856.jpg
+
+canadian-provinces-1-2-penny-1857:
+  frente: https://i.ucoin.net/coin/74/926/74926508-1s/canadian_provinces-1-2-penny-1857.jpg
+  tras: https://i.ucoin.net/coin/74/926/74926508-2s/canadian_provinces-1-2-penny-1857.jpg
+
+canadian-provinces-1-cent-1861:
+  frente: https://i.ucoin.net/coin/33/080/33080941-1s/canadian_provinces-1-cent-1861.jpg
+  tras: https://i.ucoin.net/coin/33/080/33080941-2s/canadian_provinces-1-cent-1861.jpg
+
+canadian-provinces-1-cent-1864:
+  frente: https://i.ucoin.net/coin/33/080/33080856-1s/canadian_provinces-1-cent-1864.jpg
+  tras: https://i.ucoin.net/coin/33/080/33080856-2s/canadian_provinces-1-cent-1864.jpg
+
+canadian-provinces-1-cent-1871:
+  frente: https://i.ucoin.net/coin/36/831/36831575-1s/canadian_provinces-1-cent-1871.jpg
+  tras: https://i.ucoin.net/coin/36/831/36831575-2s/canadian_provinces-1-cent-1871.jpg
+
+canadian-provinces-1-penny-1824:
+  frente: https://i.ucoin.net/coin/52/978/52978037-1s/canadian_provinces-1-penny-1824.jpg
+  tras: https://i.ucoin.net/coin/52/978/52978037-2s/canadian_provinces-1-penny-1824.jpg
+
+canadian-provinces-1-penny-1837-1-penny-1837-baixo-canada:
+  frente: https://i.ucoin.net/coin/77/946/77946671-1s/canadian_provinces-1-penny-1837.jpg
+  tras: https://i.ucoin.net/coin/77/946/77946671-2s/canadian_provinces-1-penny-1837.jpg
+
+canadian-provinces-1-penny-1837-1-penny-1837-baixo-canada-4bda74e9:
+  frente: https://i.ucoin.net/coin/49/275/49275715-1s/canadian_provinces-1-penny-1837.jpg
+  tras: https://i.ucoin.net/coin/49/275/49275715-2s/canadian_provinces-1-penny-1837.jpg
+
+canadian-provinces-1-penny-1837-1-penny-1837-baixo-canada-c6b0d2a6:
+  frente: https://i.ucoin.net/coin/49/275/49275724-1s/canadian_provinces-1-penny-1837.jpg
+  tras: https://i.ucoin.net/coin/49/275/49275724-2s/canadian_provinces-1-penny-1837.jpg
+
+canadian-provinces-1-penny-1837-1-penny-1837-baixo-canada-f86d935b:
+  frente: https://i.ucoin.net/coin/69/659/69659965-1s/canadian_provinces-1-penny-1837.jpg
+  tras: https://i.ucoin.net/coin/69/659/69659965-2s/canadian_provinces-1-penny-1837.jpg
+
+canadian-provinces-1-penny-1838:
+  frente: https://i.ucoin.net/coin/79/328/79328346-1s/canadian_provinces-1-penny-1838.jpg
+  tras: https://i.ucoin.net/coin/79/328/79328346-2s/canadian_provinces-1-penny-1838.jpg
+
+canadian-provinces-1-penny-1840:
+  frente: https://i.ucoin.net/coin/49/031/49031602-1s/canadian_provinces-1-penny-1840.jpg
+  tras: https://i.ucoin.net/coin/49/031/49031602-2s/canadian_provinces-1-penny-1840.jpg
+
+canadian-provinces-1-penny-1842:
+  frente: https://i.ucoin.net/coin/81/933/81933769-1s/canadian_provinces-1-penny-1842.jpg
+  tras: https://i.ucoin.net/coin/81/933/81933769-2s/canadian_provinces-1-penny-1842.jpg
+
+canadian-provinces-1-penny-1843:
+  frente: https://i.ucoin.net/coin/70/986/70986720-1s/canadian_provinces-1-penny-1843.jpg
+  tras: https://i.ucoin.net/coin/70/986/70986720-2s/canadian_provinces-1-penny-1843.jpg
+
+canadian-provinces-1-penny-1852:
+  frente: https://i.ucoin.net/coin/46/825/46825501-1s/canadian_provinces-1-penny-1852.jpg
+  tras: https://i.ucoin.net/coin/46/825/46825501-2s/canadian_provinces-1-penny-1852.jpg
+
+canadian-provinces-1-penny-1854:
+  frente: https://i.ucoin.net/coin/80/160/80160094-1s/canadian_provinces-1-penny-1854.jpg
+  tras: https://i.ucoin.net/coin/80/160/80160094-2s/canadian_provinces-1-penny-1854.jpg
+
+canadian-provinces-1-penny-1856:
+  frente: https://i.ucoin.net/coin/59/232/59232651-1s/canadian_provinces-1-penny-1856.jpg
+  tras: https://i.ucoin.net/coin/59/232/59232651-2s/canadian_provinces-1-penny-1856.jpg
+
+canadian-provinces-1-penny-1857:
+  frente: https://i.ucoin.net/coin/46/825/46825868-1s/canadian_provinces-1-penny-1857.jpg
+  tras: https://i.ucoin.net/coin/46/825/46825868-2s/canadian_provinces-1-penny-1857.jpg
+
+canadian-provinces-1-sou-1835:
+  frente: https://i.ucoin.net/coin/65/921/65921870-1s/canadian_provinces-1-sou-1835.jpg
+  tras: https://i.ucoin.net/coin/65/921/65921870-2s/canadian_provinces-1-sou-1835.jpg
+
+canadian-provinces-1-sou-1836:
+  frente: https://i.ucoin.net/coin/64/611/64611534-1s/canadian_provinces-1-sou-1836.jpg
+  tras: https://i.ucoin.net/coin/64/611/64611534-2s/canadian_provinces-1-sou-1836.jpg
+
+canadian-provinces-1-sou-1837:
+  frente: https://i.ucoin.net/coin/67/722/67722109-1s/canadian_provinces-1-sou-1837.jpg
+  tras: https://i.ucoin.net/coin/67/722/67722109-2s/canadian_provinces-1-sou-1837.jpg
+
+canadian-provinces-1-sou-1838-1-sou-1838-baixo-canada:
+  frente: https://i.ucoin.net/coin/84/156/84156361-1s/canadian_provinces-1-sou-1838.jpg
+  tras: https://i.ucoin.net/coin/84/156/84156361-2s/canadian_provinces-1-sou-1838.jpg
+
+canadian-provinces-1-sou-1838-1-sou-1838-baixo-canada-54e9190e:
+  frente: https://i.ucoin.net/coin/86/633/86633964-1s/canadian_provinces-1-sou-1838.jpg
+  tras: https://i.ucoin.net/coin/86/633/86633964-2s/canadian_provinces-1-sou-1838.jpg
+
+canadian-provinces-1-sou-1838-1-sou-1838-baixo-canada-9ad8ff6e:
+  frente: https://i.ucoin.net/coin/79/731/79731095-1s/canadian_provinces-1-sou-1838.jpg
+  tras: https://i.ucoin.net/coin/79/731/79731095-2s/canadian_provinces-1-sou-1838.jpg
+
+canadian-provinces-1-sou-1838-1-sou-1838-baixo-canada-b2ecfdba:
+  frente: https://i.ucoin.net/coin/58/050/58050865-1s/canadian_provinces-1-sou-1838.jpg
+  tras: https://i.ucoin.net/coin/58/050/58050865-2s/canadian_provinces-1-sou-1838.jpg
+
+canadian-provinces-10-cents-1864:
+  frente: https://i.ucoin.net/coin/32/819/32819456-1s/canadian_provinces-10-cents-1864.jpg
+  tras: https://i.ucoin.net/coin/32/819/32819456-2s/canadian_provinces-10-cents-1864.jpg
+
+canadian-provinces-20-cents-1862:
+  frente: https://i.ucoin.net/coin/67/989/67989349-1s/canadian_provinces-20-cents-1862.jpg
+  tras: https://i.ucoin.net/coin/67/989/67989349-2s/canadian_provinces-20-cents-1862.jpg
+
+canadian-provinces-5-cents-1864:
+  frente: https://i.ucoin.net/coin/67/989/67989400-1s/canadian_provinces-5-cents-1864.jpg
+  tras: https://i.ucoin.net/coin/67/989/67989400-2s/canadian_provinces-5-cents-1864.jpg
+
+newfoundland-1-cent-1890:
+  frente: https://i.ucoin.net/coin/33/145/33145728-1s/newfoundland-1-cent-1890.jpg
+  tras: https://i.ucoin.net/coin/33/145/33145728-2s/newfoundland-1-cent-1890.jpg
+
+newfoundland-1-cent-1904:
+  frente: https://i.ucoin.net/coin/33/144/33144837-1s/newfoundland-1-cent-1904.jpg
+  tras: https://i.ucoin.net/coin/33/144/33144837-2s/newfoundland-1-cent-1904.jpg
+
+newfoundland-1-cent-1919:
+  frente: https://i.ucoin.net/coin/33/141/33141940-1s/newfoundland-1-cent-1919.jpg
+  tras: https://i.ucoin.net/coin/33/141/33141940-2s/newfoundland-1-cent-1919.jpg
+
+newfoundland-1-cent-1938:
+  frente: https://i.ucoin.net/coin/73/184/73184536-1s/newfoundland-1-cent-1938.jpg
+  tras: https://i.ucoin.net/coin/73/184/73184536-2s/newfoundland-1-cent-1938.jpg
+
+newfoundland-10-cents-1890:
+  frente: https://i.ucoin.net/coin/33/149/33149835-1s/newfoundland-10-cents-1890.jpg
+  tras: https://i.ucoin.net/coin/33/149/33149835-2s/newfoundland-10-cents-1890.jpg
+
+newfoundland-10-cents-1904:
+  frente: https://i.ucoin.net/coin/33/099/33099470-1s/newfoundland-10-cents-1904.jpg
+  tras: https://i.ucoin.net/coin/33/099/33099470-2s/newfoundland-10-cents-1904.jpg
+
+newfoundland-10-cents-1912:
+  frente: https://i.ucoin.net/coin/33/100/33100948-1s/newfoundland-10-cents-1912.jpg
+  tras: https://i.ucoin.net/coin/33/100/33100948-2s/newfoundland-10-cents-1912.jpg
+
+newfoundland-10-cents-1943:
+  frente: https://i.ucoin.net/coin/12/772/12772629-1s/newfoundland-10-cents-1943.jpg
+  tras: https://i.ucoin.net/coin/12/772/12772629-2s/newfoundland-10-cents-1943.jpg
+
+newfoundland-10-cents-1947:
+  frente: https://i.ucoin.net/coin/32/882/32882799-1s/newfoundland-10-cents-1947.jpg
+  tras: https://i.ucoin.net/coin/32/882/32882799-2s/newfoundland-10-cents-1947.jpg
+
+newfoundland-2-dollars-1881:
+  frente: https://i.ucoin.net/coin/73/076/73076970-1s/newfoundland-2-dollars-1881.jpg
+  tras: https://i.ucoin.net/coin/73/076/73076970-2s/newfoundland-2-dollars-1881.jpg
+
+newfoundland-20-cents-1888:
+  frente: https://i.ucoin.net/coin/33/146/33146460-1s/newfoundland-20-cents-1888.jpg
+  tras: https://i.ucoin.net/coin/33/146/33146460-2s/newfoundland-20-cents-1888.jpg
+
+newfoundland-20-cents-1904:
+  frente: https://i.ucoin.net/coin/33/144/33144920-1s/newfoundland-20-cents-1904.jpg
+  tras: https://i.ucoin.net/coin/33/144/33144920-2s/newfoundland-20-cents-1904.jpg
+
+newfoundland-20-cents-1912:
+  frente: https://i.ucoin.net/coin/13/316/13316060-1s/newfoundland-20-cents-1912.jpg
+  tras: https://i.ucoin.net/coin/13/316/13316060-2s/newfoundland-20-cents-1912.jpg
+
+newfoundland-25-cents-1917:
+  frente: https://i.ucoin.net/coin/73/184/73184499-1s/newfoundland-25-cents-1917.jpg
+  tras: https://i.ucoin.net/coin/73/184/73184499-2s/newfoundland-25-cents-1917.jpg
+
+newfoundland-5-cents-1872:
+  frente: https://i.ucoin.net/coin/33/148/33148837-1s/newfoundland-5-cents-1872.jpg
+  tras: https://i.ucoin.net/coin/33/148/33148837-2s/newfoundland-5-cents-1872.jpg
+
+newfoundland-5-cents-1908:
+  frente: https://i.ucoin.net/coin/33/144/33144633-1s/newfoundland-5-cents-1908.jpg
+  tras: https://i.ucoin.net/coin/33/144/33144633-2s/newfoundland-5-cents-1908.jpg
+
+newfoundland-5-cents-1917:
+  frente: https://i.ucoin.net/coin/33/100/33100507-1s/newfoundland-5-cents-1917.jpg
+  tras: https://i.ucoin.net/coin/33/100/33100507-2s/newfoundland-5-cents-1917.jpg
+
+newfoundland-5-cents-1938:
+  frente: https://i.ucoin.net/coin/33/085/33085342-1s/newfoundland-5-cents-1938.jpg
+  tras: https://i.ucoin.net/coin/33/085/33085342-2s/newfoundland-5-cents-1938.jpg
+
+newfoundland-5-cents-1945:
+  frente: https://i.ucoin.net/coin/73/184/73184564-1s/newfoundland-5-cents-1945.jpg
+  tras: https://i.ucoin.net/coin/73/184/73184564-2s/newfoundland-5-cents-1945.jpg
+
+newfoundland-50-cents-1894:
+  frente: https://i.ucoin.net/coin/33/098/33098504-1s/newfoundland-50-cents-1894.jpg
+  tras: https://i.ucoin.net/coin/33/098/33098504-2s/newfoundland-50-cents-1894.jpg
+
+newfoundland-50-cents-1907:
+  frente: https://i.ucoin.net/coin/33/144/33144736-1s/newfoundland-50-cents-1907.jpg
+  tras: https://i.ucoin.net/coin/33/144/33144736-2s/newfoundland-50-cents-1907.jpg
+
+newfoundland-50-cents-1917:
+  frente: https://i.ucoin.net/coin/33/144/33144174-1s/newfoundland-50-cents-1917.jpg
+  tras: https://i.ucoin.net/coin/33/144/33144174-2s/newfoundland-50-cents-1917.jpg
