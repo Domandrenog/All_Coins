@@ -1,0 +1,179 @@
+mauritius-1-2-rupee-1934:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-1-2-rupee-1934.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-1-2-rupee-1934.jpg
+
+mauritius-1-2-rupee-1946:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-1-2-rupee-1946.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-1-2-rupee-1946.jpg
+
+mauritius-1-2-rupee-1950:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-1-2-rupee-1950.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-1-2-rupee-1950.jpg
+
+mauritius-1-2-rupee-1971:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-1-2-rupee-1971.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-1-2-rupee-1971.jpg
+
+mauritius-1-2-rupee-2010:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-1-2-rupee-2010.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-1-2-rupee-2010.jpg
+
+mauritius-1-4-rupee-1935:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-1-4-rupee-1935.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-1-4-rupee-1935.jpg
+
+mauritius-1-4-rupee-1938:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-1-4-rupee-1938.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-1-4-rupee-1938.jpg
+
+mauritius-1-4-rupee-1946:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-1-4-rupee-1946.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-1-4-rupee-1946.jpg
+
+mauritius-1-4-rupee-1951:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-1-4-rupee-1951.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-1-4-rupee-1951.jpg
+
+mauritius-1-4-rupee-1975:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-1-4-rupee-1975.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-1-4-rupee-1975.jpg
+
+mauritius-1-cent-1897:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-1-cent-1897.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-1-cent-1897.jpg
+
+mauritius-1-cent-1924:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-1-cent-1924.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-1-cent-1924.jpg
+
+mauritius-1-cent-1946:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-1-cent-1946.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-1-cent-1946.jpg
+
+mauritius-1-cent-1949:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-1-cent-1949.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-1-cent-1949.jpg
+
+mauritius-1-cent-1971:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-1-cent-1971.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-1-cent-1971.jpg
+
+mauritius-1-cent-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-1-cent-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-1-cent-1987.jpg
+
+mauritius-1-rupee-1934:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-1-rupee-1934.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-1-rupee-1934.jpg
+
+mauritius-1-rupee-1938:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-1-rupee-1938.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-1-rupee-1938.jpg
+
+mauritius-1-rupee-1951:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-1-rupee-1951.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-1-rupee-1951.jpg
+
+mauritius-1-rupee-1971:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-1-rupee-1971.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-1-rupee-1971.jpg
+
+mauritius-1-rupee-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-1-rupee-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-1-rupee-1993.jpg
+
+mauritius-1-rupee-2012:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-1-rupee-2012.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-1-rupee-2012.jpg
+
+mauritius-10-cents-1889:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-10-cents-1889.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-10-cents-1889.jpg
+
+mauritius-10-cents-1947:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-10-cents-1947.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-10-cents-1947.jpg
+
+mauritius-10-cents-1952:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-10-cents-1952.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-10-cents-1952.jpg
+
+mauritius-10-cents-1971:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-10-cents-1971.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-10-cents-1971.jpg
+
+mauritius-10-rupees-2000:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-10-rupees-2000.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-10-rupees-2000.jpg
+
+mauritius-10-rupees-2016:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-10-rupees-2016.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-10-rupees-2016.jpg
+
+mauritius-2-cents-1883:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-2-cents-1883.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-2-cents-1883.jpg
+
+mauritius-2-cents-1924:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-2-cents-1924.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-2-cents-1924.jpg
+
+mauritius-2-cents-1947:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-2-cents-1947.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-2-cents-1947.jpg
+
+mauritius-2-cents-1952:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-2-cents-1952.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-2-cents-1952.jpg
+
+mauritius-2-cents-1971:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-2-cents-1971.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-2-cents-1971.jpg
+
+mauritius-20-cents-1877:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-20-cents-1877.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-20-cents-1877.jpg
+
+mauritius-20-cents-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-20-cents-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-20-cents-1991.jpg
+
+mauritius-20-rupees-2020:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-20-rupees-2020.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-20-rupees-2020.jpg
+
+mauritius-25-sous-1822:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-25-sous-1822.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-25-sous-1822.jpg
+
+mauritius-5-cents-1882:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-5-cents-1882.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-5-cents-1882.jpg
+
+mauritius-5-cents-1917:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-5-cents-1917.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-5-cents-1917.jpg
+
+mauritius-5-cents-1942:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-5-cents-1942.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-5-cents-1942.jpg
+
+mauritius-5-cents-1978:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-5-cents-1978.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-5-cents-1978.jpg
+
+mauritius-5-cents-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-5-cents-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-5-cents-1999.jpg
+
+mauritius-5-rupees-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-5-rupees-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-5-rupees-1987.jpg
+
+mauritius-5-rupees-2012:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-5-rupees-2012.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-5-rupees-2012.jpg
+
+mauritius-50-sous-1822:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/frente/mauritius-50-sous-1822.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Mauricias/tras/mauritius-50-sous-1822.jpg

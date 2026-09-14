@@ -1,0 +1,179 @@
+mauritius-1-2-rupee-1934:
+  frente: https://i.ucoin.net/coin/37/101/37101949-1s/mauritius-1-2-rupee-1934.jpg
+  tras: https://i.ucoin.net/coin/37/101/37101949-2s/mauritius-1-2-rupee-1934.jpg
+
+mauritius-1-2-rupee-1946:
+  frente: https://i.ucoin.net/coin/68/740/68740273-1s/mauritius-1-2-rupee-1946.jpg
+  tras: https://i.ucoin.net/coin/68/740/68740273-2s/mauritius-1-2-rupee-1946.jpg
+
+mauritius-1-2-rupee-1950:
+  frente: https://i.ucoin.net/coin/37/101/37101967-1s/mauritius-1-2-rupee-1950.jpg
+  tras: https://i.ucoin.net/coin/37/101/37101967-2s/mauritius-1-2-rupee-1950.jpg
+
+mauritius-1-2-rupee-1971:
+  frente: https://i.ucoin.net/coin/6/879/6879916-1s/mauritius-1-2-rupee-1971.jpg
+  tras: https://i.ucoin.net/coin/6/879/6879916-2s/mauritius-1-2-rupee-1971.jpg
+
+mauritius-1-2-rupee-2010:
+  frente: https://i.ucoin.net/coin/74/175/74175707-1s/mauritius-1-2-rupee-2010.jpg
+  tras: https://i.ucoin.net/coin/74/175/74175707-2s/mauritius-1-2-rupee-2010.jpg
+
+mauritius-1-4-rupee-1935:
+  frente: https://i.ucoin.net/coin/82/748/82748642-1s/mauritius-1-4-rupee-1935.jpg
+  tras: https://i.ucoin.net/coin/82/748/82748642-2s/mauritius-1-4-rupee-1935.jpg
+
+mauritius-1-4-rupee-1938:
+  frente: https://i.ucoin.net/coin/67/433/67433215-1s/mauritius-1-4-rupee-1938.jpg
+  tras: https://i.ucoin.net/coin/67/433/67433215-2s/mauritius-1-4-rupee-1938.jpg
+
+mauritius-1-4-rupee-1946:
+  frente: https://i.ucoin.net/coin/68/386/68386105-1s/mauritius-1-4-rupee-1946.jpg
+  tras: https://i.ucoin.net/coin/68/386/68386105-2s/mauritius-1-4-rupee-1946.jpg
+
+mauritius-1-4-rupee-1951:
+  frente: https://i.ucoin.net/coin/37/101/37101989-1s/mauritius-1-4-rupee-1951.jpg
+  tras: https://i.ucoin.net/coin/37/101/37101989-2s/mauritius-1-4-rupee-1951.jpg
+
+mauritius-1-4-rupee-1975:
+  frente: https://i.ucoin.net/coin/83/477/83477247-1s/mauritius-1-4-rupee-1975.jpg
+  tras: https://i.ucoin.net/coin/83/477/83477247-2s/mauritius-1-4-rupee-1975.jpg
+
+mauritius-1-cent-1897:
+  frente: https://i.ucoin.net/coin/37/102/37102471-1s/mauritius-1-cent-1897.jpg
+  tras: https://i.ucoin.net/coin/37/102/37102471-2s/mauritius-1-cent-1897.jpg
+
+mauritius-1-cent-1924:
+  frente: https://i.ucoin.net/coin/37/102/37102492-1s/mauritius-1-cent-1924.jpg
+  tras: https://i.ucoin.net/coin/37/102/37102492-2s/mauritius-1-cent-1924.jpg
+
+mauritius-1-cent-1946:
+  frente: https://i.ucoin.net/coin/37/102/37102517-1s/mauritius-1-cent-1946.jpg
+  tras: https://i.ucoin.net/coin/37/102/37102517-2s/mauritius-1-cent-1946.jpg
+
+mauritius-1-cent-1949:
+  frente: https://i.ucoin.net/coin/36/927/36927604-1s/mauritius-1-cent-1949.jpg
+  tras: https://i.ucoin.net/coin/36/927/36927604-2s/mauritius-1-cent-1949.jpg
+
+mauritius-1-cent-1971:
+  frente: https://i.ucoin.net/coin/37/102/37102564-1s/mauritius-1-cent-1971.jpg
+  tras: https://i.ucoin.net/coin/37/102/37102564-2s/mauritius-1-cent-1971.jpg
+
+mauritius-1-cent-1987:
+  frente: https://i.ucoin.net/coin/36/914/36914610-1s/mauritius-1-cent-1987.jpg
+  tras: https://i.ucoin.net/coin/36/914/36914610-2s/mauritius-1-cent-1987.jpg
+
+mauritius-1-rupee-1934:
+  frente: https://i.ucoin.net/coin/85/675/85675556-1s/mauritius-1-rupee-1934.jpg
+  tras: https://i.ucoin.net/coin/85/675/85675556-2s/mauritius-1-rupee-1934.jpg
+
+mauritius-1-rupee-1938:
+  frente: https://i.ucoin.net/coin/67/433/67433223-1s/mauritius-1-rupee-1938.jpg
+  tras: https://i.ucoin.net/coin/67/433/67433223-2s/mauritius-1-rupee-1938.jpg
+
+mauritius-1-rupee-1951:
+  frente: https://i.ucoin.net/coin/6/870/6870933-1s/mauritius-1-rupee-1951.jpg
+  tras: https://i.ucoin.net/coin/6/870/6870933-2s/mauritius-1-rupee-1951.jpg
+
+mauritius-1-rupee-1971:
+  frente: https://i.ucoin.net/coin/24/480/24480031-1s/mauritius-1-rupee-1971.jpg
+  tras: https://i.ucoin.net/coin/24/480/24480031-2s/mauritius-1-rupee-1971.jpg
+
+mauritius-1-rupee-1993:
+  frente: https://i.ucoin.net/coin/69/159/69159247-1s/mauritius-1-rupee-1993.jpg
+  tras: https://i.ucoin.net/coin/69/159/69159247-2s/mauritius-1-rupee-1993.jpg
+
+mauritius-1-rupee-2012:
+  frente: https://i.ucoin.net/coin/27/093/27093573-1s/mauritius-1-rupee-2012.jpg
+  tras: https://i.ucoin.net/coin/27/093/27093573-2s/mauritius-1-rupee-2012.jpg
+
+mauritius-10-cents-1889:
+  frente: https://i.ucoin.net/coin/37/102/37102014-1s/mauritius-10-cents-1889.jpg
+  tras: https://i.ucoin.net/coin/37/102/37102014-2s/mauritius-10-cents-1889.jpg
+
+mauritius-10-cents-1947:
+  frente: https://i.ucoin.net/coin/74/251/74251087-1s/mauritius-10-cents-1947.jpg
+  tras: https://i.ucoin.net/coin/74/251/74251087-2s/mauritius-10-cents-1947.jpg
+
+mauritius-10-cents-1952:
+  frente: https://i.ucoin.net/coin/37/102/37102037-1s/mauritius-10-cents-1952.jpg
+  tras: https://i.ucoin.net/coin/37/102/37102037-2s/mauritius-10-cents-1952.jpg
+
+mauritius-10-cents-1971:
+  frente: https://i.ucoin.net/coin/37/349/37349825-1s/mauritius-10-cents-1971.jpg
+  tras: https://i.ucoin.net/coin/37/349/37349825-2s/mauritius-10-cents-1971.jpg
+
+mauritius-10-rupees-2000:
+  frente: https://i.ucoin.net/coin/58/954/58954126-1s/mauritius-10-rupees-2000.jpg
+  tras: https://i.ucoin.net/coin/58/954/58954126-2s/mauritius-10-rupees-2000.jpg
+
+mauritius-10-rupees-2016:
+  frente: https://i.ucoin.net/coin/85/777/85777999-1s/mauritius-10-rupees-2016.jpg
+  tras: https://i.ucoin.net/coin/85/777/85777999-2s/mauritius-10-rupees-2016.jpg
+
+mauritius-2-cents-1883:
+  frente: https://i.ucoin.net/coin/37/102/37102135-1s/mauritius-2-cents-1883.jpg
+  tras: https://i.ucoin.net/coin/37/102/37102135-2s/mauritius-2-cents-1883.jpg
+
+mauritius-2-cents-1924:
+  frente: https://i.ucoin.net/coin/71/602/71602028-1s/mauritius-2-cents-1924.jpg
+  tras: https://i.ucoin.net/coin/71/602/71602028-2s/mauritius-2-cents-1924.jpg
+
+mauritius-2-cents-1947:
+  frente: https://i.ucoin.net/coin/41/390/41390538-1s/mauritius-2-cents-1947.jpg
+  tras: https://i.ucoin.net/coin/41/390/41390538-2s/mauritius-2-cents-1947.jpg
+
+mauritius-2-cents-1952:
+  frente: https://i.ucoin.net/coin/22/840/22840131-1s/mauritius-2-cents-1952.jpg
+  tras: https://i.ucoin.net/coin/22/840/22840131-2s/mauritius-2-cents-1952.jpg
+
+mauritius-2-cents-1971:
+  frente: https://i.ucoin.net/coin/37/102/37102189-1s/mauritius-2-cents-1971.jpg
+  tras: https://i.ucoin.net/coin/37/102/37102189-2s/mauritius-2-cents-1971.jpg
+
+mauritius-20-cents-1877:
+  frente: https://i.ucoin.net/coin/37/102/37102223-1s/mauritius-20-cents-1877.jpg
+  tras: https://i.ucoin.net/coin/37/102/37102223-2s/mauritius-20-cents-1877.jpg
+
+mauritius-20-cents-1991:
+  frente: https://i.ucoin.net/coin/62/840/62840856-1s/mauritius-20-cents-1991.jpg
+  tras: https://i.ucoin.net/coin/62/840/62840856-2s/mauritius-20-cents-1991.jpg
+
+mauritius-20-rupees-2020:
+  frente: https://i.ucoin.net/coin/74/175/74175724-1s/mauritius-20-rupees-2020.jpg
+  tras: https://i.ucoin.net/coin/74/175/74175724-2s/mauritius-20-rupees-2020.jpg
+
+mauritius-25-sous-1822:
+  frente: https://i.ucoin.net/coin/65/190/65190365-1s/mauritius-25-sous-1822.jpg
+  tras: https://i.ucoin.net/coin/65/190/65190365-2s/mauritius-25-sous-1822.jpg
+
+mauritius-5-cents-1882:
+  frente: https://i.ucoin.net/coin/37/102/37102319-1s/mauritius-5-cents-1882.jpg
+  tras: https://i.ucoin.net/coin/37/102/37102319-2s/mauritius-5-cents-1882.jpg
+
+mauritius-5-cents-1917:
+  frente: https://i.ucoin.net/coin/73/304/73304054-1s/mauritius-5-cents-1917.jpg
+  tras: https://i.ucoin.net/coin/73/304/73304054-2s/mauritius-5-cents-1917.jpg
+
+mauritius-5-cents-1942:
+  frente: https://i.ucoin.net/coin/71/063/71063478-1s/mauritius-5-cents-1942.jpg
+  tras: https://i.ucoin.net/coin/71/063/71063478-2s/mauritius-5-cents-1942.jpg
+
+mauritius-5-cents-1978:
+  frente: https://i.ucoin.net/coin/69/125/69125591-1s/mauritius-5-cents-1978.jpg
+  tras: https://i.ucoin.net/coin/69/125/69125591-2s/mauritius-5-cents-1978.jpg
+
+mauritius-5-cents-1999:
+  frente: https://i.ucoin.net/coin/69/125/69125487-1s/mauritius-5-cents-1999.jpg
+  tras: https://i.ucoin.net/coin/69/125/69125487-2s/mauritius-5-cents-1999.jpg
+
+mauritius-5-rupees-1987:
+  frente: https://i.ucoin.net/coin/56/079/56079706-1s/mauritius-5-rupees-1987.jpg
+  tras: https://i.ucoin.net/coin/56/079/56079706-2s/mauritius-5-rupees-1987.jpg
+
+mauritius-5-rupees-2012:
+  frente: https://i.ucoin.net/coin/36/927/36927581-1s/mauritius-5-rupees-2012.jpg
+  tras: https://i.ucoin.net/coin/36/927/36927581-2s/mauritius-5-rupees-2012.jpg
+
+mauritius-50-sous-1822:
+  frente: https://i.ucoin.net/coin/65/393/65393663-1s/mauritius-50-sous-1822.jpg
+  tras: https://i.ucoin.net/coin/65/393/65393663-2s/mauritius-50-sous-1822.jpg
