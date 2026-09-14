@@ -509,10 +509,16 @@ def mutable_coin_payload(coin: dict[str, object], frente_url: str, tras_url: str
 
 
 def run_git(command: list[str]) -> str:
-    proc = subprocess.run(["git", *command], capture_output=True, text=True)
+    # No WSL, the Windows Git Credential Manager may hold the GitHub session
+    # while the Linux credential cache is empty. Prefer its git.exe when it is
+    # available, so an automatic push has the same authentication as a manual
+    # push from Windows Git.
+    git_executable = which("git.exe") if "microsoft" in os.uname().release.lower() else None
+    git_executable = git_executable or "git"
+    proc = subprocess.run([git_executable, *command], capture_output=True, text=True)
     if proc.returncode != 0:
         details = (proc.stderr or proc.stdout or "erro desconhecido").strip()
-        raise RuntimeError(f"git {' '.join(command)} falhou: {details}")
+        raise RuntimeError(f"{git_executable} {' '.join(command)} falhou: {details}")
     return proc.stdout.strip()
 
 

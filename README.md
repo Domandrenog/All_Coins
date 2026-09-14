@@ -1,5 +1,17 @@
 # All_Coins
 
+## Menu principal
+
+Para o fluxo normal, usa:
+
+```bash
+python3 main.py
+```
+
+O menu permite verificar a API, preparar imagens, executar a migração completa
+ou alterar apenas os URLs da Base44, escolhendo um país ou todos os pendentes.
+Os comandos técnicos estão em [docs/COMMANDS.md](docs/COMMANDS.md).
+
 Este repositório guarda imagens de moedas por país e atualiza a API `Coin` para deixar de apontar para `i.ucoin.net`, passando a usar URLs raw do GitHub.
 
 ## Fluxo
@@ -46,7 +58,7 @@ Também funciona com `chromium`, `chromium-browser`, `google-chrome` ou `google-
 Antes de processar países novos, vê se ainda há alguma moeda na API com links uCoin:
 
 ```bash
-python3 check_ucoin_links_api.py
+python3 scripts/check_ucoin_links_api.py
 ```
 
 Resultado esperado quando está tudo migrado:
@@ -60,7 +72,7 @@ OK: nenhuma moeda ainda aponta para i.ucoin.net.
 Para verificar só um país:
 
 ```bash
-python3 check_ucoin_links_api.py --country "EUA"
+python3 scripts/check_ucoin_links_api.py --country "EUA"
 ```
 
 ## Processar Um País
@@ -68,7 +80,7 @@ python3 check_ucoin_links_api.py --country "EUA"
 O fluxo normal para um país é:
 
 ```bash
-python3 sync_coin_images_api.py --country "Polónia" --download-current --apply --git-commit-message "Add Poland coin images"
+python3 scripts/sync_coin_images_api.py --country "Polónia" --download-current --apply --git-commit-message "Add Poland coin images"
 ```
 
 Isto faz, por ordem:
@@ -80,6 +92,10 @@ Isto faz, por ordem:
 5. Atualiza `<Pais>/links.txt` com URLs raw do GitHub.
 6. Atualiza `<Pais>/links-ucoin.txt` com os URLs originais do uCoin.
 7. Faz `git add .`, `git commit` e `git push`.
+
+   Em WSL, se `git.exe` estiver disponível, o script usa-o automaticamente
+   para estas operações. Assim reutiliza a sessão do Git Credential Manager do
+   Windows; nos restantes ambientes usa o `git` normal.
 8. Atualiza `image_frente` e `image_verso` na API.
 9. Volta a consultar a API para verificar a atualização.
 
@@ -95,13 +111,13 @@ https://raw.githubusercontent.com/Domandrenog/All_Coins/main/<Pais>/tras/<slug>.
 Para ver o plano sem descarregar, sem commit e sem atualizar a API:
 
 ```bash
-python3 sync_coin_images_api.py --country "Polónia" --no-git-push
+python3 scripts/sync_coin_images_api.py --country "Polónia" --no-git-push
 ```
 
 Para descarregar e criar links locais, mas sem atualizar a API nem fazer commit/push:
 
 ```bash
-python3 sync_coin_images_api.py --country "Polónia" --download-only --no-git-push
+python3 scripts/sync_coin_images_api.py --country "Polónia" --download-only --no-git-push
 ```
 
 Este modo é útil para países grandes. Depois de validar os ficheiros locais, faz commit/push e só então atualiza a API.
@@ -111,19 +127,19 @@ Este modo é útil para países grandes. Depois de validar os ficheiros locais, 
 Quando filtras por `--name`, usa sempre `--years` para não apanhar a moeda errada:
 
 ```bash
-python3 sync_coin_images_api.py --country "Polónia" --name "1 grosz" --years 2018 --download-current --apply
+python3 scripts/sync_coin_images_api.py --country "Polónia" --name "1 grosz" --years 2018 --download-current --apply
 ```
 
 Se precisares de forçar um slug específico:
 
 ```bash
-python3 sync_coin_images_api.py --country "Polónia" --name "1 grosz" --years 2018 --slug poland-1-grosz-2018 --download-current --apply
+python3 scripts/sync_coin_images_api.py --country "Polónia" --name "1 grosz" --years 2018 --slug poland-1-grosz-2018 --download-current --apply
 ```
 
 Se já sabes o ID da moeda:
 
 ```bash
-python3 sync_coin_images_api.py --coin-id "<Coin_id>" --country-folder Polonia --slug poland-1-grosz-2018 --download-current --apply
+python3 scripts/sync_coin_images_api.py --coin-id "<Coin_id>" --country-folder Polonia --slug poland-1-grosz-2018 --download-current --apply
 ```
 
 ## Regras Importantes
@@ -133,7 +149,7 @@ Moedas sem `i.ucoin.net` nos dois lados ficam como estão por defeito. Isto evit
 Para forçar inclusão dessas moedas:
 
 ```bash
-python3 sync_coin_images_api.py --country "Tailândia" --download-current --apply --include-without-ucoin
+python3 scripts/sync_coin_images_api.py --country "Tailândia" --download-current --apply --include-without-ucoin
 ```
 
 Se duas moedas gerarem o mesmo nome de ficheiro a partir do URL original, o script acrescenta dados da moeda ao slug para manter ficheiros e links separados.
@@ -161,7 +177,7 @@ Alguns países têm mapeamentos explícitos quando o nome da API não deve ser u
 Depois de processar um país, confirma primeiro a API:
 
 ```bash
-python3 check_ucoin_links_api.py --country "Polónia"
+python3 scripts/check_ucoin_links_api.py --country "Polónia"
 ```
 
 Para uma verificação rápida dos ficheiros locais de um país:
@@ -212,13 +228,13 @@ Cada país processado fica com:
 Se um download uCoin falhar, testa o URL isoladamente:
 
 ```bash
-python3 probe_ucoin_download.py "https://i.ucoin.net/coin/.../imagem.jpg"
+python3 scripts/probe_ucoin_download.py "https://i.ucoin.net/coin/.../imagem.jpg"
 ```
 
 Para testar com Chromium/Playwright:
 
 ```bash
-python3 probe_ucoin_download.py "https://i.ucoin.net/coin/.../imagem.jpg" --playwright
+python3 scripts/probe_ucoin_download.py "https://i.ucoin.net/coin/.../imagem.jpg" --playwright
 ```
 
 Um download só conta como sucesso quando:
@@ -233,22 +249,22 @@ Se o resultado for `404` no Chromium autenticado, o link do uCoin provavelmente 
 
 ## Ferramentas Antigas
 
-`download_images.py` ainda existe para recolher imagens a partir de uma página ou ficheiro de input, mas o fluxo principal hoje é `sync_coin_images_api.py`.
+`scripts/download_images.py` ainda existe para recolher imagens a partir de uma página ou ficheiro de input, mas o fluxo principal hoje é `scripts/sync_coin_images_api.py`.
 
 Exemplo com URL:
 
 ```bash
-python3 download_images.py --url "https://track-coin-collection.base44.app/country?continent=Europa&country=Bielorr%C3%BAssia" --output Bielorrussia
+python3 scripts/download_images.py --url "https://track-coin-collection.base44.app/country?continent=Europa&country=Bielorr%C3%BAssia" --output Bielorrussia
 ```
 
 Exemplo com login manual no Chromium:
 
 ```bash
-python3 download_images.py --url "https://track-coin-collection.base44.app/country?continent=Europa&country=Bielorr%C3%BAssia" --output Bielorrussia --headful --manual-login
+python3 scripts/download_images.py --url "https://track-coin-collection.base44.app/country?continent=Europa&country=Bielorr%C3%BAssia" --output Bielorrussia --headful --manual-login
 ```
 
 Exemplo com ficheiro de links:
 
 ```bash
-python3 download_images.py --input links.txt --output Bielorrussia
+python3 scripts/download_images.py --input links.txt --output Bielorrussia
 ```
