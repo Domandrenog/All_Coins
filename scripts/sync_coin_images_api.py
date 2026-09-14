@@ -11,6 +11,7 @@ import subprocess
 import sys
 import time
 import unicodedata
+from collections import deque
 from pathlib import Path
 from shutil import which
 from urllib.error import HTTPError, URLError
@@ -41,6 +42,17 @@ def load_dotenv(path: Path = Path(".env")) -> None:
         value = value.strip().strip("\"").strip("'")
         if key and key not in os.environ:
             os.environ[key] = value
+
+
+def format_duration(seconds: float) -> str:
+    total_seconds = max(0, round(seconds))
+    hours, remainder = divmod(total_seconds, 3600)
+    minutes, seconds = divmod(remainder, 60)
+    if hours:
+        return f"{hours}h {minutes:02d}m"
+    if minutes:
+        return f"{minutes}m {seconds:02d}s"
+    return f"{seconds}s"
 
 COUNTRY_SLUG_ALIASES = {
     "bahamas": ["bahamas"],
@@ -601,8 +613,31 @@ def main() -> int:
     pending_updates: list[tuple[str, dict[str, object]]] = []
     coin_slugs = unique_coin_slugs(coins, args.slug)
 
-    print(f"Moedas encontradas: {len(coins)}")
-    for coin in coins:
+    total_coins = len(coins)
+    started_at = time.monotonic()
+    coin_started_at: float | None = None
+    recent_coin_durations: deque[float] = deque(maxlen=10)
+
+    print(f"Moedas encontradas: {total_coins}")
+    for index, coin in enumerate(coins, start=1):
+        now = time.monotonic()
+        if coin_started_at is not None:
+            recent_coin_durations.append(now - coin_started_at)
+        coin_started_at = now
+
+        completed = index - 1
+        percent = completed / total_coins * 100
+        elapsed = now - started_at
+        if len(recent_coin_durations) >= 3:
+            eta = sum(recent_coin_durations) / len(recent_coin_durations) * (total_coins - completed)
+            eta_text = f"ETA imagens: ~{format_duration(eta)}"
+        else:
+            eta_text = "ETA imagens: a calcular"
+        print(
+            f"\n[Progresso imagens: {completed}/{total_coins} ({percent:.0f}%) | "
+            f"decorrido: {format_duration(elapsed)} | {eta_text}]"
+        )
+
         coin_id = str(coin.get("id") or "")
         if not coin_id:
             print(f"Moeda encontrada sem id: {coin!r}", file=sys.stderr)
@@ -693,6 +728,11 @@ def main() -> int:
         print("\nDownload-only: imagens descarregadas, nenhuma alteração foi enviada para a API.")
     elif not args.apply:
         print("\nDry-run: nenhuma alteração foi enviada para a API. Usa --apply para atualizar.")
+    else:
+        print(
+            f"\nProgresso imagens concluído: {total_coins}/{total_coins} (100%) | "
+            f"tempo total: {format_duration(time.monotonic() - started_at)}"
+        )
     return 0
 
 
