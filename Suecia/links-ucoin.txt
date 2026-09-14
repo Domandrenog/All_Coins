@@ -1,0 +1,379 @@
+sweden-1-krona-1876:
+  frente: https://i.ucoin.net/coin/56/738/56738478-1s/sweden-1-krona-1876.jpg
+  tras: https://i.ucoin.net/coin/56/738/56738478-2s/sweden-1-krona-1876.jpg
+
+sweden-1-krona-1887:
+  frente: https://i.ucoin.net/coin/74/275/74275665-1s/sweden-1-krona-1887.jpg
+  tras: https://i.ucoin.net/coin/74/275/74275665-2s/sweden-1-krona-1887.jpg
+
+sweden-1-krona-1890:
+  frente: https://i.ucoin.net/coin/67/302/67302735-1s/sweden-1-krona-1890.jpg
+  tras: https://i.ucoin.net/coin/67/302/67302735-2s/sweden-1-krona-1890.jpg
+
+sweden-1-krona-1906:
+  frente: https://i.ucoin.net/coin/34/081/34081085-1s/sweden-1-krona-1906.jpg
+  tras: https://i.ucoin.net/coin/34/081/34081085-2s/sweden-1-krona-1906.jpg
+
+sweden-1-krona-1940:
+  frente: https://i.ucoin.net/coin/7/439/7439360-1s/sweden-1-krona-1940.jpg
+  tras: https://i.ucoin.net/coin/7/439/7439360-2s/sweden-1-krona-1940.jpg
+
+sweden-1-krona-1950:
+  frente: https://i.ucoin.net/coin/4/278/4278778-1s/sweden-1-krona-1950.jpg
+  tras: https://i.ucoin.net/coin/4/278/4278778-2s/sweden-1-krona-1950.jpg
+
+sweden-1-krona-1954:
+  frente: https://i.ucoin.net/coin/7/236/7236533-1s/sweden-1-krona-1954.jpg
+  tras: https://i.ucoin.net/coin/7/236/7236533-2s/sweden-1-krona-1954.jpg
+
+sweden-1-krona-1973:
+  frente: https://i.ucoin.net/coin/46/829/46829940-1s/sweden-1-krona-1973.jpg
+  tras: https://i.ucoin.net/coin/46/829/46829940-2s/sweden-1-krona-1973.jpg
+
+sweden-1-krona-1976:
+  frente: https://i.ucoin.net/coin/46/837/46837747-1s/sweden-1-krona-1976.jpg
+  tras: https://i.ucoin.net/coin/46/837/46837747-2s/sweden-1-krona-1976.jpg
+
+sweden-1-krona-1994:
+  frente: https://i.ucoin.net/coin/46/839/46839601-1s/sweden-1-krona-1994.jpg
+  tras: https://i.ucoin.net/coin/46/839/46839601-2s/sweden-1-krona-1994.jpg
+
+sweden-1-krona-2001:
+  frente: https://i.ucoin.net/coin/12/545/12545144-1s/sweden-1-krona-2001.jpg
+  tras: https://i.ucoin.net/coin/12/545/12545144-2s/sweden-1-krona-2001.jpg
+
+sweden-1-krona-2016:
+  frente: https://i.ucoin.net/coin/8/466/8466858-1s/sweden-1-krona-2016.jpg
+  tras: https://i.ucoin.net/coin/8/466/8466858-2s/sweden-1-krona-2016.jpg
+
+sweden-1-ore-1873:
+  frente: https://i.ucoin.net/coin/66/708/66708532-1s/sweden-1-ore-1873.jpg
+  tras: https://i.ucoin.net/coin/66/708/66708532-2s/sweden-1-ore-1873.jpg
+
+sweden-1-ore-1875:
+  frente: https://i.ucoin.net/coin/29/542/29542516-1s/sweden-1-ore-1875.jpg
+  tras: https://i.ucoin.net/coin/29/542/29542516-2s/sweden-1-ore-1875.jpg
+
+sweden-1-ore-1878:
+  frente: https://i.ucoin.net/coin/29/542/29542506-1s/sweden-1-ore-1878.jpg
+  tras: https://i.ucoin.net/coin/29/542/29542506-2s/sweden-1-ore-1878.jpg
+
+sweden-1-ore-1895:
+  frente: https://i.ucoin.net/coin/29/245/29245350-1s/sweden-1-ore-1895.jpg
+  tras: https://i.ucoin.net/coin/29/245/29245350-2s/sweden-1-ore-1895.jpg
+
+sweden-1-ore-1906:
+  frente: https://i.ucoin.net/coin/37/794/37794405-1s/sweden-1-ore-1906.jpg
+  tras: https://i.ucoin.net/coin/37/794/37794405-2s/sweden-1-ore-1906.jpg
+
+sweden-1-ore-1909:
+  frente: https://i.ucoin.net/coin/62/528/62528687-1s/sweden-1-ore-1909.jpg
+  tras: https://i.ucoin.net/coin/62/528/62528687-2s/sweden-1-ore-1909.jpg
+
+sweden-1-ore-1915:
+  frente: https://i.ucoin.net/coin/83/650/83650256-1s/sweden-1-ore-1915.jpg
+  tras: https://i.ucoin.net/coin/83/650/83650256-2s/sweden-1-ore-1915.jpg
+
+sweden-1-ore-1917:
+  frente: https://i.ucoin.net/coin/85/969/85969982-1s/sweden-1-ore-1917.jpg
+  tras: https://i.ucoin.net/coin/85/969/85969982-2s/sweden-1-ore-1917.jpg
+
+sweden-1-ore-1949:
+  frente: https://i.ucoin.net/coin/53/987/53987947-1s/sweden-1-ore-1949.jpg
+  tras: https://i.ucoin.net/coin/53/987/53987947-2s/sweden-1-ore-1949.jpg
+
+sweden-1-ore-1961:
+  frente: https://i.ucoin.net/coin/55/363/55363632-1s/sweden-1-ore-1961.jpg
+  tras: https://i.ucoin.net/coin/55/363/55363632-2s/sweden-1-ore-1961.jpg
+
+sweden-1-riksdaler-riksmynt-1873:
+  frente: https://i.ucoin.net/coin/73/532/73532414-1s/sweden-1-riksdaler-riksmynt-1873.jpg
+  tras: https://i.ucoin.net/coin/73/532/73532414-2s/sweden-1-riksdaler-riksmynt-1873.jpg
+
+sweden-10-kronor-1874:
+  frente: https://i.ucoin.net/coin/78/525/78525161-1s/sweden-10-kronor-1874.jpg
+  tras: https://i.ucoin.net/coin/78/525/78525161-2s/sweden-10-kronor-1874.jpg
+
+sweden-10-kronor-1876:
+  frente: https://i.ucoin.net/coin/78/525/78525168-1s/sweden-10-kronor-1876.jpg
+  tras: https://i.ucoin.net/coin/78/525/78525168-2s/sweden-10-kronor-1876.jpg
+
+sweden-10-kronor-1901:
+  frente: https://i.ucoin.net/coin/80/157/80157139-1s/sweden-10-kronor-1901.jpg
+  tras: https://i.ucoin.net/coin/80/157/80157139-2s/sweden-10-kronor-1901.jpg
+
+sweden-10-kronor-1991:
+  frente: https://i.ucoin.net/coin/46/842/46842300-1s/sweden-10-kronor-1991.jpg
+  tras: https://i.ucoin.net/coin/46/842/46842300-2s/sweden-10-kronor-1991.jpg
+
+sweden-10-kronor-2005:
+  frente: https://i.ucoin.net/coin/46/809/46809351-1s/sweden-10-kronor-2005.jpg
+  tras: https://i.ucoin.net/coin/46/809/46809351-2s/sweden-10-kronor-2005.jpg
+
+sweden-10-ore-1876:
+  frente: https://i.ucoin.net/coin/43/581/43581611-1s/sweden-10-ore-1876.jpg
+  tras: https://i.ucoin.net/coin/43/581/43581611-2s/sweden-10-ore-1876.jpg
+
+sweden-10-ore-1903:
+  frente: https://i.ucoin.net/coin/73/302/73302622-1s/sweden-10-ore-1903.jpg
+  tras: https://i.ucoin.net/coin/73/302/73302622-2s/sweden-10-ore-1903.jpg
+
+sweden-10-ore-1907:
+  frente: https://i.ucoin.net/coin/77/951/77951156-1s/sweden-10-ore-1907.jpg
+  tras: https://i.ucoin.net/coin/77/951/77951156-2s/sweden-10-ore-1907.jpg
+
+sweden-10-ore-1924:
+  frente: https://i.ucoin.net/coin/83/650/83650466-1s/sweden-10-ore-1924.jpg
+  tras: https://i.ucoin.net/coin/83/650/83650466-2s/sweden-10-ore-1924.jpg
+
+sweden-10-ore-1930:
+  frente: https://i.ucoin.net/coin/53/987/53987683-1s/sweden-10-ore-1930.jpg
+  tras: https://i.ucoin.net/coin/53/987/53987683-2s/sweden-10-ore-1930.jpg
+
+sweden-10-ore-1947:
+  frente: https://i.ucoin.net/coin/86/603/86603797-1s/sweden-10-ore-1947.jpg
+  tras: https://i.ucoin.net/coin/86/603/86603797-2s/sweden-10-ore-1947.jpg
+
+sweden-10-ore-1957:
+  frente: https://i.ucoin.net/coin/46/805/46805741-1s/sweden-10-ore-1957.jpg
+  tras: https://i.ucoin.net/coin/46/805/46805741-2s/sweden-10-ore-1957.jpg
+
+sweden-10-ore-1964:
+  frente: https://i.ucoin.net/coin/46/828/46828222-1s/sweden-10-ore-1964.jpg
+  tras: https://i.ucoin.net/coin/46/828/46828222-2s/sweden-10-ore-1964.jpg
+
+sweden-10-ore-1979:
+  frente: https://i.ucoin.net/coin/46/830/46830785-1s/sweden-10-ore-1979.jpg
+  tras: https://i.ucoin.net/coin/46/830/46830785-2s/sweden-10-ore-1979.jpg
+
+sweden-2-kronor-1880-2-coroas-1876-1880-rei-oscar-ii:
+  frente: https://i.ucoin.net/coin/77/630/77630982-1s/sweden-2-kronor-1880.jpg
+  tras: https://i.ucoin.net/coin/77/630/77630982-2s/sweden-2-kronor-1880.jpg
+
+sweden-2-kronor-1880-2-coroas-1878-1880-rei-oscar-ii:
+  frente: https://i.ucoin.net/coin/77/960/77960526-1s/sweden-2-kronor-1880.jpg
+  tras: https://i.ucoin.net/coin/77/960/77960526-2s/sweden-2-kronor-1880.jpg
+
+sweden-2-kronor-1898:
+  frente: https://i.ucoin.net/coin/77/395/77395223-1s/sweden-2-kronor-1898.jpg
+  tras: https://i.ucoin.net/coin/77/395/77395223-2s/sweden-2-kronor-1898.jpg
+
+sweden-2-kronor-1906:
+  frente: https://i.ucoin.net/coin/73/488/73488339-1s/sweden-2-kronor-1906.jpg
+  tras: https://i.ucoin.net/coin/73/488/73488339-2s/sweden-2-kronor-1906.jpg
+
+sweden-2-kronor-1939:
+  frente: https://i.ucoin.net/coin/87/050/87050085-1s/sweden-2-kronor-1939.jpg
+  tras: https://i.ucoin.net/coin/87/050/87050085-2s/sweden-2-kronor-1939.jpg
+
+sweden-2-kronor-1945:
+  frente: https://i.ucoin.net/coin/1/165/1165513-1s/sweden-2-kronor-1945.jpg
+  tras: https://i.ucoin.net/coin/1/165/1165513-2s/sweden-2-kronor-1945.jpg
+
+sweden-2-kronor-1955:
+  frente: https://i.ucoin.net/coin/0/82/82078-1s/sweden-2-kronor-1955.jpg
+  tras: https://i.ucoin.net/coin/0/82/82078-2s/sweden-2-kronor-1955.jpg
+
+sweden-2-kronor-1969:
+  frente: https://i.ucoin.net/coin/29/836/29836165-1s/sweden-2-kronor-1969.jpg
+  tras: https://i.ucoin.net/coin/29/836/29836165-2s/sweden-2-kronor-1969.jpg
+
+sweden-2-kronor-2016:
+  frente: https://i.ucoin.net/coin/8/466/8466894-1s/sweden-2-kronor-2016.jpg
+  tras: https://i.ucoin.net/coin/8/466/8466894-2s/sweden-2-kronor-2016.jpg
+
+sweden-2-ore-1873:
+  frente: https://i.ucoin.net/coin/73/524/73524727-1s/sweden-2-ore-1873.jpg
+  tras: https://i.ucoin.net/coin/73/524/73524727-2s/sweden-2-ore-1873.jpg
+
+sweden-2-ore-1876:
+  frente: https://i.ucoin.net/coin/29/836/29836348-1s/sweden-2-ore-1876.jpg
+  tras: https://i.ucoin.net/coin/29/836/29836348-2s/sweden-2-ore-1876.jpg
+
+sweden-2-ore-1899:
+  frente: https://i.ucoin.net/coin/29/836/29836879-1s/sweden-2-ore-1899.jpg
+  tras: https://i.ucoin.net/coin/29/836/29836879-2s/sweden-2-ore-1899.jpg
+
+sweden-2-ore-1906:
+  frente: https://i.ucoin.net/coin/77/951/77951339-1s/sweden-2-ore-1906.jpg
+  tras: https://i.ucoin.net/coin/77/951/77951339-2s/sweden-2-ore-1906.jpg
+
+sweden-2-ore-1917:
+  frente: https://i.ucoin.net/coin/31/614/31614621-1s/sweden-2-ore-1917.jpg
+  tras: https://i.ucoin.net/coin/31/614/31614621-2s/sweden-2-ore-1917.jpg
+
+sweden-2-ore-1926:
+  frente: https://i.ucoin.net/coin/55/345/55345267-1s/sweden-2-ore-1926.jpg
+  tras: https://i.ucoin.net/coin/55/345/55345267-2s/sweden-2-ore-1926.jpg
+
+sweden-2-ore-1950:
+  frente: https://i.ucoin.net/coin/46/794/46794574-1s/sweden-2-ore-1950.jpg
+  tras: https://i.ucoin.net/coin/46/794/46794574-2s/sweden-2-ore-1950.jpg
+
+sweden-2-ore-1965:
+  frente: https://i.ucoin.net/coin/55/350/55350120-1s/sweden-2-ore-1965.jpg
+  tras: https://i.ucoin.net/coin/55/350/55350120-2s/sweden-2-ore-1965.jpg
+
+sweden-20-kronor-1875:
+  frente: https://i.ucoin.net/coin/78/525/78525172-1s/sweden-20-kronor-1875.jpg
+  tras: https://i.ucoin.net/coin/78/525/78525172-2s/sweden-20-kronor-1875.jpg
+
+sweden-20-kronor-1877:
+  frente: https://i.ucoin.net/coin/48/173/48173869-1s/sweden-20-kronor-1877.jpg
+  tras: https://i.ucoin.net/coin/48/173/48173869-2s/sweden-20-kronor-1877.jpg
+
+sweden-20-kronor-1884:
+  frente: https://i.ucoin.net/coin/78/525/78525184-1s/sweden-20-kronor-1884.jpg
+  tras: https://i.ucoin.net/coin/78/525/78525184-2s/sweden-20-kronor-1884.jpg
+
+sweden-20-kronor-1902:
+  frente: https://i.ucoin.net/coin/78/525/78525186-1s/sweden-20-kronor-1902.jpg
+  tras: https://i.ucoin.net/coin/78/525/78525186-2s/sweden-20-kronor-1902.jpg
+
+sweden-20-kronor-1925:
+  frente: https://i.ucoin.net/coin/1/056/1056721-1s/sweden-20-kronor-1925.jpg
+  tras: https://i.ucoin.net/coin/1/056/1056721-2s/sweden-20-kronor-1925.jpg
+
+sweden-25-ore-1876:
+  frente: https://i.ucoin.net/coin/50/168/50168468-1s/sweden-25-ore-1876.jpg
+  tras: https://i.ucoin.net/coin/50/168/50168468-2s/sweden-25-ore-1876.jpg
+
+sweden-25-ore-1896:
+  frente: https://i.ucoin.net/coin/11/851/11851310-1s/sweden-25-ore-1896.jpg
+  tras: https://i.ucoin.net/coin/11/851/11851310-2s/sweden-25-ore-1896.jpg
+
+sweden-25-ore-1907:
+  frente: https://i.ucoin.net/coin/81/398/81398187-1s/sweden-25-ore-1907.jpg
+  tras: https://i.ucoin.net/coin/81/398/81398187-2s/sweden-25-ore-1907.jpg
+
+sweden-25-ore-1937:
+  frente: https://i.ucoin.net/coin/3/723/3723351-1s/sweden-25-ore-1937.jpg
+  tras: https://i.ucoin.net/coin/3/723/3723351-2s/sweden-25-ore-1937.jpg
+
+sweden-25-ore-1943:
+  frente: https://i.ucoin.net/coin/83/650/83650325-1s/sweden-25-ore-1943.jpg
+  tras: https://i.ucoin.net/coin/83/650/83650325-2s/sweden-25-ore-1943.jpg
+
+sweden-25-ore-1946:
+  frente: https://i.ucoin.net/coin/83/650/83650415-1s/sweden-25-ore-1946.jpg
+  tras: https://i.ucoin.net/coin/83/650/83650415-2s/sweden-25-ore-1946.jpg
+
+sweden-25-ore-1953:
+  frente: https://i.ucoin.net/coin/85/299/85299174-1s/sweden-25-ore-1953.jpg
+  tras: https://i.ucoin.net/coin/85/299/85299174-2s/sweden-25-ore-1953.jpg
+
+sweden-25-ore-1967:
+  frente: https://i.ucoin.net/coin/46/828/46828384-1s/sweden-25-ore-1967.jpg
+  tras: https://i.ucoin.net/coin/46/828/46828384-2s/sweden-25-ore-1967.jpg
+
+sweden-25-ore-1981:
+  frente: https://i.ucoin.net/coin/46/838/46838622-1s/sweden-25-ore-1981.jpg
+  tras: https://i.ucoin.net/coin/46/838/46838622-2s/sweden-25-ore-1981.jpg
+
+sweden-5-kronor-1882:
+  frente: https://i.ucoin.net/coin/78/525/78525099-1s/sweden-5-kronor-1882.jpg
+  tras: https://i.ucoin.net/coin/78/525/78525099-2s/sweden-5-kronor-1882.jpg
+
+sweden-5-kronor-1901:
+  frente: https://i.ucoin.net/coin/78/525/78525104-1s/sweden-5-kronor-1901.jpg
+  tras: https://i.ucoin.net/coin/78/525/78525104-2s/sweden-5-kronor-1901.jpg
+
+sweden-5-kronor-1920:
+  frente: https://i.ucoin.net/coin/24/616/24616378-1s/sweden-5-kronor-1920.jpg
+  tras: https://i.ucoin.net/coin/24/616/24616378-2s/sweden-5-kronor-1920.jpg
+
+sweden-5-kronor-1955:
+  frente: https://i.ucoin.net/coin/52/527/52527457-1s/sweden-5-kronor-1955.jpg
+  tras: https://i.ucoin.net/coin/52/527/52527457-2s/sweden-5-kronor-1955.jpg
+
+sweden-5-kronor-1972:
+  frente: https://i.ucoin.net/coin/46/829/46829247-1s/sweden-5-kronor-1972.jpg
+  tras: https://i.ucoin.net/coin/46/829/46829247-2s/sweden-5-kronor-1972.jpg
+
+sweden-5-kronor-1982:
+  frente: https://i.ucoin.net/coin/46/832/46832351-1s/sweden-5-kronor-1982.jpg
+  tras: https://i.ucoin.net/coin/46/832/46832351-2s/sweden-5-kronor-1982.jpg
+
+sweden-5-kronor-2000:
+  frente: https://i.ucoin.net/coin/48/608/48608883-1s/sweden-5-kronor-2000.jpg
+  tras: https://i.ucoin.net/coin/48/608/48608883-2s/sweden-5-kronor-2000.jpg
+
+sweden-5-kronor-2016:
+  frente: https://i.ucoin.net/coin/8/466/8466926-1s/sweden-5-kronor-2016.jpg
+  tras: https://i.ucoin.net/coin/8/466/8466926-2s/sweden-5-kronor-2016.jpg
+
+sweden-5-ore-1873:
+  frente: https://i.ucoin.net/coin/14/803/14803481-1s/sweden-5-ore-1873.jpg
+  tras: https://i.ucoin.net/coin/14/803/14803481-2s/sweden-5-ore-1873.jpg
+
+sweden-5-ore-1876:
+  frente: https://i.ucoin.net/coin/77/925/77925377-1s/sweden-5-ore-1876.jpg
+  tras: https://i.ucoin.net/coin/77/925/77925377-2s/sweden-5-ore-1876.jpg
+
+sweden-5-ore-1896:
+  frente: https://i.ucoin.net/coin/70/628/70628519-1s/sweden-5-ore-1896.jpg
+  tras: https://i.ucoin.net/coin/70/628/70628519-2s/sweden-5-ore-1896.jpg
+
+sweden-5-ore-1907:
+  frente: https://i.ucoin.net/coin/77/924/77924859-1s/sweden-5-ore-1907.jpg
+  tras: https://i.ucoin.net/coin/77/924/77924859-2s/sweden-5-ore-1907.jpg
+
+sweden-5-ore-1919:
+  frente: https://i.ucoin.net/coin/85/801/85801164-1s/sweden-5-ore-1919.jpg
+  tras: https://i.ucoin.net/coin/85/801/85801164-2s/sweden-5-ore-1919.jpg
+
+sweden-5-ore-1920:
+  frente: https://i.ucoin.net/coin/55/349/55349567-1s/sweden-5-ore-1920.jpg
+  tras: https://i.ucoin.net/coin/55/349/55349567-2s/sweden-5-ore-1920.jpg
+
+sweden-5-ore-1946:
+  frente: https://i.ucoin.net/coin/55/354/55354518-1s/sweden-5-ore-1946.jpg
+  tras: https://i.ucoin.net/coin/55/354/55354518-2s/sweden-5-ore-1946.jpg
+
+sweden-5-ore-1969:
+  frente: https://i.ucoin.net/coin/55/353/55353408-1s/sweden-5-ore-1969.jpg
+  tras: https://i.ucoin.net/coin/55/353/55353408-2s/sweden-5-ore-1969.jpg
+
+sweden-5-ore-1972:
+  frente: https://i.ucoin.net/coin/46/827/46827992-1s/sweden-5-ore-1972.jpg
+  tras: https://i.ucoin.net/coin/46/827/46827992-2s/sweden-5-ore-1972.jpg
+
+sweden-5-ore-1976:
+  frente: https://i.ucoin.net/coin/46/830/46830577-1s/sweden-5-ore-1976.jpg
+  tras: https://i.ucoin.net/coin/46/830/46830577-2s/sweden-5-ore-1976.jpg
+
+sweden-50-ore-1898:
+  frente: https://i.ucoin.net/coin/10/350/10350353-1s/sweden-50-ore-1898.jpg
+  tras: https://i.ucoin.net/coin/10/350/10350353-2s/sweden-50-ore-1898.jpg
+
+sweden-50-ore-1906:
+  frente: https://i.ucoin.net/coin/67/301/67301850-1s/sweden-50-ore-1906.jpg
+  tras: https://i.ucoin.net/coin/67/301/67301850-2s/sweden-50-ore-1906.jpg
+
+sweden-50-ore-1935:
+  frente: https://i.ucoin.net/coin/8/217/8217745-1s/sweden-50-ore-1935.jpg
+  tras: https://i.ucoin.net/coin/8/217/8217745-2s/sweden-50-ore-1935.jpg
+
+sweden-50-ore-1940:
+  frente: https://i.ucoin.net/coin/46/794/46794075-1s/sweden-50-ore-1940.jpg
+  tras: https://i.ucoin.net/coin/46/794/46794075-2s/sweden-50-ore-1940.jpg
+
+sweden-50-ore-1945:
+  frente: https://i.ucoin.net/coin/2/891/2891199-1s/sweden-50-ore-1945.jpg
+  tras: https://i.ucoin.net/coin/2/891/2891199-2s/sweden-50-ore-1945.jpg
+
+sweden-50-ore-1956:
+  frente: https://i.ucoin.net/coin/86/509/86509495-1s/sweden-50-ore-1956.jpg
+  tras: https://i.ucoin.net/coin/86/509/86509495-2s/sweden-50-ore-1956.jpg
+
+sweden-50-ore-1972:
+  frente: https://i.ucoin.net/coin/62/292/62292948-1s/sweden-50-ore-1972.jpg
+  tras: https://i.ucoin.net/coin/62/292/62292948-2s/sweden-50-ore-1972.jpg
+
+sweden-50-ore-1982:
+  frente: https://i.ucoin.net/coin/46/837/46837797-1s/sweden-50-ore-1982.jpg
+  tras: https://i.ucoin.net/coin/46/837/46837797-2s/sweden-50-ore-1982.jpg
+
+sweden-50-ore-1992:
+  frente: https://i.ucoin.net/coin/46/843/46843837-1s/sweden-50-ore-1992.jpg
+  tras: https://i.ucoin.net/coin/46/843/46843837-2s/sweden-50-ore-1992.jpg
