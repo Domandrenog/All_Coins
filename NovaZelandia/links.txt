@@ -1,0 +1,295 @@
+new-zealand-1-2-crown-1934:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-1-2-crown-1934.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-1-2-crown-1934.jpg
+
+new-zealand-1-2-crown-1941:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-1-2-crown-1941.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-1-2-crown-1941.jpg
+
+new-zealand-1-2-crown-1947:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-1-2-crown-1947.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-1-2-crown-1947.jpg
+
+new-zealand-1-2-crown-1951:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-1-2-crown-1951.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-1-2-crown-1951.jpg
+
+new-zealand-1-2-crown-1953:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-1-2-crown-1953.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-1-2-crown-1953.jpg
+
+new-zealand-1-2-crown-1965:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-1-2-crown-1965.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-1-2-crown-1965.jpg
+
+new-zealand-1-2-penny-1945:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-1-2-penny-1945.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-1-2-penny-1945.jpg
+
+new-zealand-1-2-penny-1949:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-1-2-penny-1949.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-1-2-penny-1949.jpg
+
+new-zealand-1-2-penny-1954:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-1-2-penny-1954.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-1-2-penny-1954.jpg
+
+new-zealand-1-2-penny-1960:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-1-2-penny-1960.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-1-2-penny-1960.jpg
+
+new-zealand-1-cent-1968:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-1-cent-1968.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-1-cent-1968.jpg
+
+new-zealand-1-cent-1988:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-1-cent-1988.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-1-cent-1988.jpg
+
+new-zealand-1-crown-1949:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-1-crown-1949.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-1-crown-1949.jpg
+
+new-zealand-1-crown-1953:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-1-crown-1953.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-1-crown-1953.jpg
+
+new-zealand-1-dollar-1976:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-1-dollar-1976.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-1-dollar-1976.jpg
+
+new-zealand-1-dollar-1979:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-1-dollar-1979.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-1-dollar-1979.jpg
+
+new-zealand-1-dollar-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-1-dollar-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-1-dollar-1991.jpg
+
+new-zealand-1-dollar-2008:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-1-dollar-2008.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-1-dollar-2008.jpg
+
+new-zealand-1-dollar-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-1-dollar-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-1-dollar-2024.jpg
+
+new-zealand-1-penny-1940:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-1-penny-1940.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-1-penny-1940.jpg
+
+new-zealand-1-penny-1951:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-1-penny-1951.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-1-penny-1951.jpg
+
+new-zealand-1-penny-1953:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-1-penny-1953.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-1-penny-1953.jpg
+
+new-zealand-1-penny-1965:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-1-penny-1965.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-1-penny-1965.jpg
+
+new-zealand-1-shilling-1934:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-1-shilling-1934.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-1-shilling-1934.jpg
+
+new-zealand-1-shilling-1943:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-1-shilling-1943.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-1-shilling-1943.jpg
+
+new-zealand-1-shilling-1947:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-1-shilling-1947.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-1-shilling-1947.jpg
+
+new-zealand-1-shilling-1952:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-1-shilling-1952.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-1-shilling-1952.jpg
+
+new-zealand-1-shilling-1955:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-1-shilling-1955.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-1-shilling-1955.jpg
+
+new-zealand-1-shilling-1964:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-1-shilling-1964.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-1-shilling-1964.jpg
+
+new-zealand-10-cents-1969:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-10-cents-1969.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-10-cents-1969.jpg
+
+new-zealand-10-cents-1977:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-10-cents-1977.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-10-cents-1977.jpg
+
+new-zealand-10-cents-1989:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-10-cents-1989.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-10-cents-1989.jpg
+
+new-zealand-10-cents-2004:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-10-cents-2004.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-10-cents-2004.jpg
+
+new-zealand-10-cents-2012:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-10-cents-2012.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-10-cents-2012.jpg
+
+new-zealand-10-cents-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-10-cents-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-10-cents-2024.jpg
+
+new-zealand-2-cents-1967:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-2-cents-1967.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-2-cents-1967.jpg
+
+new-zealand-2-cents-1979:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-2-cents-1979.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-2-cents-1979.jpg
+
+new-zealand-2-cents-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-2-cents-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-2-cents-1987.jpg
+
+new-zealand-2-dollars-1996:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-2-dollars-1996.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-2-dollars-1996.jpg
+
+new-zealand-2-dollars-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-2-dollars-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-2-dollars-2023.jpg
+
+new-zealand-2-dollars-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-2-dollars-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-2-dollars-2024.jpg
+
+new-zealand-2-shillings-1935:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-2-shillings-1935.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-2-shillings-1935.jpg
+
+new-zealand-2-shillings-1940:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-2-shillings-1940.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-2-shillings-1940.jpg
+
+new-zealand-2-shillings-1947:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-2-shillings-1947.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-2-shillings-1947.jpg
+
+new-zealand-2-shillings-1949:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-2-shillings-1949.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-2-shillings-1949.jpg
+
+new-zealand-2-shillings-1953:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-2-shillings-1953.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-2-shillings-1953.jpg
+
+new-zealand-2-shillings-1965:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-2-shillings-1965.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-2-shillings-1965.jpg
+
+new-zealand-20-cents-1982:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-20-cents-1982.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-20-cents-1982.jpg
+
+new-zealand-20-cents-1988:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-20-cents-1988.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-20-cents-1988.jpg
+
+new-zealand-20-cents-1990:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-20-cents-1990.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-20-cents-1990.jpg
+
+new-zealand-20-cents-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-20-cents-2002.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-20-cents-2002.jpg
+
+new-zealand-20-cents-2008:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-20-cents-2008.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-20-cents-2008.jpg
+
+new-zealand-20-cents-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-20-cents-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-20-cents-2024.jpg
+
+new-zealand-3-pence-1936:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-3-pence-1936.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-3-pence-1936.jpg
+
+new-zealand-3-pence-1943:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-3-pence-1943.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-3-pence-1943.jpg
+
+new-zealand-3-pence-1947:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-3-pence-1947.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-3-pence-1947.jpg
+
+new-zealand-3-pence-1950:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-3-pence-1950.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-3-pence-1950.jpg
+
+new-zealand-3-pence-1953:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-3-pence-1953.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-3-pence-1953.jpg
+
+new-zealand-3-pence-1964:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-3-pence-1964.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-3-pence-1964.jpg
+
+new-zealand-5-cents-1982:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-5-cents-1982.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-5-cents-1982.jpg
+
+new-zealand-5-cents-1995:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-5-cents-1995.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-5-cents-1995.jpg
+
+new-zealand-5-cents-2004:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-5-cents-2004.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-5-cents-2004.jpg
+
+new-zealand-50-cents-1967:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-50-cents-1967.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-50-cents-1967.jpg
+
+new-zealand-50-cents-1969:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-50-cents-1969.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-50-cents-1969.jpg
+
+new-zealand-50-cents-1989:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-50-cents-1989.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-50-cents-1989.jpg
+
+new-zealand-50-cents-2004:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-50-cents-2004.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-50-cents-2004.jpg
+
+new-zealand-50-cents-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-50-cents-2009.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-50-cents-2009.jpg
+
+new-zealand-50-cents-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-50-cents-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-50-cents-2024.jpg
+
+new-zealand-6-pence-1934:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-6-pence-1934.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-6-pence-1934.jpg
+
+new-zealand-6-pence-1942:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-6-pence-1942.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-6-pence-1942.jpg
+
+new-zealand-6-pence-1947:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-6-pence-1947.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-6-pence-1947.jpg
+
+new-zealand-6-pence-1948:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-6-pence-1948.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-6-pence-1948.jpg
+
+new-zealand-6-pence-1954:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-6-pence-1954.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-6-pence-1954.jpg
+
+new-zealand-6-pence-1962:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/frente/new-zealand-6-pence-1962.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/NovaZelandia/tras/new-zealand-6-pence-1962.jpg
