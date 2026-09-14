@@ -6,6 +6,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import time
 from collections import defaultdict
 from pathlib import Path
 from urllib.error import HTTPError, URLError
@@ -15,6 +16,8 @@ from urllib.request import Request, urlopen
 API_BASE_URL = "https://track-coin-collection.base44.app/api"
 API_KEY_ENV = "ALL_COINS_API_KEY"
 UCOIN_DOMAIN = "i.ucoin.net"
+API_REQUEST_ATTEMPTS = 3
+API_RETRY_DELAY_SECONDS = 5
 
 
 def load_dotenv(path: Path = Path(".env")) -> None:
@@ -44,15 +47,24 @@ def parse_args() -> argparse.Namespace:
 def api_request(path: str, api_key: str, query: dict[str, object]) -> object:
     url = f"{API_BASE_URL}{path}?{urlencode(query)}"
     request = Request(url, headers={"api_key": api_key, "Accept": "application/json"})
-    try:
-        with urlopen(request, timeout=120) as response:
-            body = response.read().decode("utf-8")
-            return json.loads(body) if body else {}
-    except HTTPError as exc:
-        details = exc.read().decode("utf-8", errors="replace")
-        raise RuntimeError(f"API GET {path} falhou com HTTP {exc.code}: {details}") from exc
-    except URLError as exc:
-        raise RuntimeError(f"API GET {path} falhou: {exc.reason}") from exc
+    for attempt in range(1, API_REQUEST_ATTEMPTS + 1):
+        try:
+            with urlopen(request, timeout=120) as response:
+                body = response.read().decode("utf-8")
+                return json.loads(body) if body else {}
+        except HTTPError as exc:
+            details = exc.read().decode("utf-8", errors="replace")
+            raise RuntimeError(f"API GET {path} falhou com HTTP {exc.code}: {details}") from exc
+        except URLError as exc:
+            if attempt == API_REQUEST_ATTEMPTS:
+                raise RuntimeError(f"API GET {path} falhou após {attempt} tentativas: {exc.reason}") from exc
+            print(
+                f"API: tentativa {attempt}/{API_REQUEST_ATTEMPTS} falhou: {exc.reason}. "
+                f"A repetir em {API_RETRY_DELAY_SECONDS}s."
+            )
+            time.sleep(API_RETRY_DELAY_SECONDS)
+
+    raise RuntimeError(f"API GET {path} falhou sem resposta.")
 
 
 def list_coins(api_key: str, limit: int, country: str | None = None) -> list[dict[str, object]]:

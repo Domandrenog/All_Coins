@@ -8,6 +8,8 @@ import subprocess
 import sys
 from pathlib import Path
 
+from scripts.sync_coin_images_api import country_folder
+
 
 ROOT = Path(__file__).resolve().parent
 SCRIPTS = ROOT / "scripts"
@@ -66,17 +68,19 @@ def confirm(message: str) -> bool:
     return input(f"{message}\nEscreve ATUALIZAR para continuar: ").strip() == "ATUALIZAR"
 
 
-def worktree_is_clean() -> bool:
+def worktree_has_only_country_changes(countries: list[str]) -> bool:
     result = subprocess.run(
         ["git", "status", "--porcelain"], cwd=ROOT, capture_output=True, text=True
     )
     if result.returncode != 0:
         print(result.stderr or "Não foi possível verificar o estado do Git.")
         return False
-    if result.stdout.strip():
+    allowed_folders = {country_folder(country, None) for country in countries}
+    changed_paths = [line[3:] for line in result.stdout.splitlines() if len(line) > 3]
+    if any(not any(path.startswith(f"{folder}/") for folder in allowed_folders) for path in changed_paths):
         print(
-            "O repositório tem alterações locais. Faz commit, guarda-as de outra forma, "
-            "ou usa as operações separadas antes da migração completa."
+            "O repositório tem alterações locais fora dos países selecionados. Faz commit ou "
+            "guarda-as de outra forma antes da migração completa."
         )
         return False
     return True
@@ -94,7 +98,7 @@ def process_countries(countries: list[str], mode: str) -> None:
         confirmation = "Altera image_frente e image_verso na Base44; não descarrega imagens nem faz push."
 
     print(f"\nPaíses selecionados: {', '.join(countries)}")
-    if mode == "full" and not worktree_is_clean():
+    if mode == "full" and not worktree_has_only_country_changes(countries):
         return
     if mode != "download" and not confirm(confirmation):
         print("Operação cancelada.")

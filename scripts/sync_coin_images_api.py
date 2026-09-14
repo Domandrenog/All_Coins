@@ -21,6 +21,10 @@ API_BASE_URL = "https://track-coin-collection.base44.app/api"
 API_KEY_ENV = "ALL_COINS_API_KEY"
 DEFAULT_RAW_BASE_URL = "https://raw.githubusercontent.com/Domandrenog/All_Coins/main"
 READ_ONLY_FIELDS = {"id", "created_date", "updated_date", "created_by_id"}
+BROWSER_DOWNLOAD_ATTEMPTS = 3
+BROWSER_RETRY_DELAY_SECONDS = 5
+API_REQUEST_ATTEMPTS = 3
+API_RETRY_DELAY_SECONDS = 5
 
 
 def load_dotenv(path: Path = Path(".env")) -> None:
@@ -281,15 +285,26 @@ def api_request(method: str, path: str, api_key: str, payload: object | None = N
         headers={"api_key": api_key, "Content-Type": "application/json"},
     )
 
-    try:
-        with urlopen(request, timeout=30) as response:
-            response_body = response.read().decode("utf-8")
-            return json.loads(response_body) if response_body else {}
-    except HTTPError as exc:
-        details = exc.read().decode("utf-8", errors="replace")
-        raise RuntimeError(f"API {method} {path} falhou com HTTP {exc.code}: {details}") from exc
-    except URLError as exc:
-        raise RuntimeError(f"API {method} {path} falhou: {exc.reason}") from exc
+    for attempt in range(1, API_REQUEST_ATTEMPTS + 1):
+        try:
+            with urlopen(request, timeout=30) as response:
+                response_body = response.read().decode("utf-8")
+                return json.loads(response_body) if response_body else {}
+        except HTTPError as exc:
+            details = exc.read().decode("utf-8", errors="replace")
+            raise RuntimeError(f"API {method} {path} falhou com HTTP {exc.code}: {details}") from exc
+        except URLError as exc:
+            if attempt == API_REQUEST_ATTEMPTS:
+                raise RuntimeError(
+                    f"API {method} {path} falhou após {attempt} tentativas: {exc.reason}"
+                ) from exc
+            print(
+                f"API: tentativa {attempt}/{API_REQUEST_ATTEMPTS} falhou: {exc.reason}. "
+                f"A repetir em {API_RETRY_DELAY_SECONDS}s."
+            )
+            time.sleep(API_RETRY_DELAY_SECONDS)
+
+    raise RuntimeError(f"API {method} {path} falhou sem resposta.")
 
 
 def list_coins(api_key: str, args: argparse.Namespace) -> list[dict[str, object]]:
@@ -433,34 +448,47 @@ def download_image_with_browser(url: str, destination: Path, user_data_dir: str)
     destination.parent.mkdir(parents=True, exist_ok=True)
 
     with sync_playwright() as playwright:
-        try:
-            context = playwright.chromium.launch_persistent_context(
-                user_data_dir,
-                headless=True,
-                accept_downloads=True,
-                ignore_https_errors=True,
-                **launch_options,
-            )
-        except Exception as exc:  # noqa: BLE001
-            raise RuntimeError(f"Não consegui abrir Chromium/Playwright: {str(exc).splitlines()[0]}") from exc
+        for attempt in range(1, BROWSER_DOWNLOAD_ATTEMPTS + 1):
+            context = None
+            try:
+                context = playwright.chromium.launch_persistent_context(
+                    user_data_dir,
+                    headless=True,
+                    accept_downloads=True,
+                    ignore_https_errors=True,
+                    **launch_options,
+                )
+                page = context.new_page()
+                response = page.goto(url, wait_until="domcontentloaded", timeout=60_000)
+                if response is None:
+                    raise RuntimeError("o servidor não devolveu resposta")
+                content_type = response.headers.get("content-type", "")
+                body = response.body()
+                if 200 <= response.status < 300 and "image" in content_type.lower() and body:
+                    destination.write_bytes(body)
+                    return True
+                raise RuntimeError(f"resposta sem imagem válida ({response.status}, {content_type or 'sem content-type'})")
+            except Exception as exc:  # noqa: BLE001
+                details = str(exc).splitlines()[0] or type(exc).__name__
+                if attempt == BROWSER_DOWNLOAD_ATTEMPTS:
+                    print(f"Chromium: falhou após {attempt} tentativas: {details}")
+                    return False
+                print(
+                    f"Chromium: tentativa {attempt}/{BROWSER_DOWNLOAD_ATTEMPTS} falhou: {details}. "
+                    f"A repetir em {BROWSER_RETRY_DELAY_SECONDS}s."
+                )
+            finally:
+                if context is not None:
+                    try:
+                        context.close()
+                    except Exception:  # noqa: BLE001
+                        pass
+                # Chromium keeps its ProcessSingleton briefly after close().
+                # Wait before the next protected image or retry can reuse it.
+                time.sleep(15)
 
-        page = context.new_page()
-        try:
-            response = page.goto(url, wait_until="domcontentloaded", timeout=60_000)
-            if response is None:
-                return False
-            content_type = response.headers.get("content-type", "")
-            body = response.body()
-            if 200 <= response.status < 300 and "image" in content_type.lower() and body:
-                destination.write_bytes(body)
-                return True
-            return False
-        finally:
-            context.close()
-            # Chromium keeps its ProcessSingleton briefly after close().  The
-            # fallback starts a persistent context for each protected image,
-            # so wait for it to release the profile before the next image.
-            time.sleep(15)
+            time.sleep(BROWSER_RETRY_DELAY_SECONDS)
+    return False
 
 
 def parse_links_file(path: Path) -> dict[str, dict[str, str]]:

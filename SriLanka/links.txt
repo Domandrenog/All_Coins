@@ -1,3 +1,191 @@
+ceylon-1-2-cent-1895:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-1-2-cent-1895.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-1-2-cent-1895.jpg
+
+ceylon-1-2-cent-1905:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-1-2-cent-1905.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-1-2-cent-1905.jpg
+
+ceylon-1-2-cent-1912:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-1-2-cent-1912.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-1-2-cent-1912.jpg
+
+ceylon-1-2-cent-1940:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-1-2-cent-1940.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-1-2-cent-1940.jpg
+
+ceylon-1-4-cent-1890:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-1-4-cent-1890.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-1-4-cent-1890.jpg
+
+ceylon-1-4-cent-1904:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-1-4-cent-1904.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-1-4-cent-1904.jpg
+
+ceylon-1-cent-1900:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-1-cent-1900.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-1-cent-1900.jpg
+
+ceylon-1-cent-1910:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-1-cent-1910.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-1-cent-1910.jpg
+
+ceylon-1-cent-1926:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-1-cent-1926.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-1-cent-1926.jpg
+
+ceylon-1-cent-1942:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-1-cent-1942.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-1-cent-1942.jpg
+
+ceylon-1-cent-1945:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-1-cent-1945.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-1-cent-1945.jpg
+
+ceylon-1-cent-1971:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-1-cent-1971.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-1-cent-1971.jpg
+
+ceylon-1-rupee-1971:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-1-rupee-1971.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-1-rupee-1971.jpg
+
+ceylon-10-cents-1894:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-10-cents-1894.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-10-cents-1894.jpg
+
+ceylon-10-cents-1902:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-10-cents-1902.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-10-cents-1902.jpg
+
+ceylon-10-cents-1912:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-10-cents-1912.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-10-cents-1912.jpg
+
+ceylon-10-cents-1921:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-10-cents-1921.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-10-cents-1921.jpg
+
+ceylon-10-cents-1941:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-10-cents-1941.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-10-cents-1941.jpg
+
+ceylon-10-cents-1944:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-10-cents-1944.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-10-cents-1944.jpg
+
+ceylon-10-cents-1951:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-10-cents-1951.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-10-cents-1951.jpg
+
+ceylon-10-cents-1971:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-10-cents-1971.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-10-cents-1971.jpg
+
+ceylon-2-cents-1944:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-2-cents-1944.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-2-cents-1944.jpg
+
+ceylon-2-cents-1951:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-2-cents-1951.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-2-cents-1951.jpg
+
+ceylon-2-cents-1955:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-2-cents-1955.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-2-cents-1955.jpg
+
+ceylon-2-cents-1965:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-2-cents-1965.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-2-cents-1965.jpg
+
+ceylon-25-cents-1892:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-25-cents-1892.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-25-cents-1892.jpg
+
+ceylon-25-cents-1902:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-25-cents-1902.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-25-cents-1902.jpg
+
+ceylon-25-cents-1917:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-25-cents-1917.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-25-cents-1917.jpg
+
+ceylon-25-cents-1926:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-25-cents-1926.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-25-cents-1926.jpg
+
+ceylon-25-cents-1943:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-25-cents-1943.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-25-cents-1943.jpg
+
+ceylon-25-cents-1951:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-25-cents-1951.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-25-cents-1951.jpg
+
+ceylon-25-cents-1971:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-25-cents-1971.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-25-cents-1971.jpg
+
+ceylon-5-cents-1892:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-5-cents-1892.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-5-cents-1892.jpg
+
+ceylon-5-cents-1909:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-5-cents-1909.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-5-cents-1909.jpg
+
+ceylon-5-cents-1912:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-5-cents-1912.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-5-cents-1912.jpg
+
+ceylon-5-cents-1943:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-5-cents-1943.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-5-cents-1943.jpg
+
+ceylon-5-cents-1944:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-5-cents-1944.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-5-cents-1944.jpg
+
+ceylon-5-cents-1951:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-5-cents-1951.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-5-cents-1951.jpg
+
+ceylon-5-cents-1971:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-5-cents-1971.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-5-cents-1971.jpg
+
+ceylon-50-cents-1893:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-50-cents-1893.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-50-cents-1893.jpg
+
+ceylon-50-cents-1910:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-50-cents-1910.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-50-cents-1910.jpg
+
+ceylon-50-cents-1917:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-50-cents-1917.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-50-cents-1917.jpg
+
+ceylon-50-cents-1924:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-50-cents-1924.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-50-cents-1924.jpg
+
+ceylon-50-cents-1942:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-50-cents-1942.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-50-cents-1942.jpg
+
+ceylon-50-cents-1943:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-50-cents-1943.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-50-cents-1943.jpg
+
+ceylon-50-cents-1951:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-50-cents-1951.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-50-cents-1951.jpg
+
+ceylon-50-cents-1965:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/ceylon-50-cents-1965.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/ceylon-50-cents-1965.jpg
+
 sri-lanka-1-cent-1978:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-1-cent-1978.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-1-cent-1978.jpg
@@ -25,6 +213,10 @@ sri-lanka-1-rupee-2016:
 sri-lanka-1-rupee-2017:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-1-rupee-2017.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-1-rupee-2017.jpg
+
+sri-lanka-10-cents-1975:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-10-cents-1975.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-10-cents-1975.jpg
 
 sri-lanka-10-cents-1991:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-10-cents-1991.jpg
@@ -62,6 +254,14 @@ sri-lanka-2-rupees-2017:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-2-rupees-2017.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-2-rupees-2017.jpg
 
+sri-lanka-25-cents-1978:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-25-cents-1978.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-25-cents-1978.jpg
+
+sri-lanka-25-cents-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-25-cents-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-25-cents-1994.jpg
+
 sri-lanka-25-cents-2004:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-25-cents-2004.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-25-cents-2004.jpg
@@ -69,6 +269,10 @@ sri-lanka-25-cents-2004:
 sri-lanka-25-cents-2009:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-25-cents-2009.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-25-cents-2009.jpg
+
+sri-lanka-5-cents-1975:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-5-cents-1975.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-5-cents-1975.jpg
 
 sri-lanka-5-cents-1991:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-5-cents-1991.jpg
@@ -89,6 +293,14 @@ sri-lanka-5-rupees-2016:
 sri-lanka-5-rupees-2017:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-5-rupees-2017.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-5-rupees-2017.jpg
+
+sri-lanka-50-cents-1972:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-50-cents-1972.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-50-cents-1972.jpg
+
+sri-lanka-50-cents-1982:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-50-cents-1982.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/tras/sri-lanka-50-cents-1982.jpg
 
 sri-lanka-50-cents-2002:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/SriLanka/frente/sri-lanka-50-cents-2002.jpg
