@@ -1,0 +1,159 @@
+switzerland-1-2-franc-1850:
+  frente: https://i.ucoin.net/coin/25/076/25076035-1s/switzerland-1-2-franc-1850.jpg
+  tras: https://i.ucoin.net/coin/25/076/25076035-2s/switzerland-1-2-franc-1850.jpg
+
+switzerland-1-2-franc-1963:
+  frente: https://i.ucoin.net/coin/87/127/87127305-1s/switzerland-1-2-franc-1963.jpg
+  tras: https://i.ucoin.net/coin/87/127/87127305-2s/switzerland-1-2-franc-1963.jpg
+
+switzerland-1-2-franc-2007:
+  frente: https://i.ucoin.net/coin/45/797/45797872-1s/switzerland-1-2-franc-2007.jpg
+  tras: https://i.ucoin.net/coin/45/797/45797872-2s/switzerland-1-2-franc-2007.jpg
+
+switzerland-1-franc-1851:
+  frente: https://i.ucoin.net/coin/24/463/24463904-1s/switzerland-1-franc-1851.jpg
+  tras: https://i.ucoin.net/coin/24/463/24463904-2s/switzerland-1-franc-1851.jpg
+
+switzerland-1-franc-1860:
+  frente: https://i.ucoin.net/coin/79/743/79743802-1s/switzerland-1-franc-1860.jpg
+  tras: https://i.ucoin.net/coin/79/743/79743802-2s/switzerland-1-franc-1860.jpg
+
+switzerland-1-franc-1952:
+  frente: https://i.ucoin.net/coin/87/257/87257832-1s/switzerland-1-franc-1952.jpg
+  tras: https://i.ucoin.net/coin/87/257/87257832-2s/switzerland-1-franc-1952.jpg
+
+switzerland-1-franc-2008:
+  frente: https://i.ucoin.net/coin/71/038/71038833-1s/switzerland-1-franc-2008.jpg
+  tras: https://i.ucoin.net/coin/71/038/71038833-2s/switzerland-1-franc-2008.jpg
+
+switzerland-1-rappen-1864:
+  frente: https://i.ucoin.net/coin/58/296/58296508-1s/switzerland-1-rappen-1864.jpg
+  tras: https://i.ucoin.net/coin/58/296/58296508-2s/switzerland-1-rappen-1864.jpg
+
+switzerland-1-rappen-1943:
+  frente: https://i.ucoin.net/coin/47/256/47256401-1s/switzerland-1-rappen-1943.jpg
+  tras: https://i.ucoin.net/coin/47/256/47256401-2s/switzerland-1-rappen-1943.jpg
+
+switzerland-1-rappen-1981:
+  frente: https://i.ucoin.net/coin/45/797/45797988-1s/switzerland-1-rappen-1981.jpg
+  tras: https://i.ucoin.net/coin/45/797/45797988-2s/switzerland-1-rappen-1981.jpg
+
+switzerland-10-francs-1912:
+  frente: https://i.ucoin.net/coin/32/644/32644496-1s/switzerland-10-francs-1912.jpg
+  tras: https://i.ucoin.net/coin/32/644/32644496-2s/switzerland-10-francs-1912.jpg
+
+switzerland-10-francs-2025:
+  frente: https://i.ucoin.net/coin/75/477/75477519-1s/switzerland-10-francs-2025.jpg
+  tras: https://i.ucoin.net/coin/75/477/75477519-2s/switzerland-10-francs-2025.jpg
+
+switzerland-10-rappen-1875:
+  frente: https://i.ucoin.net/coin/76/445/76445666-1s/switzerland-10-rappen-1875.jpg
+  tras: https://i.ucoin.net/coin/76/445/76445666-2s/switzerland-10-rappen-1875.jpg
+
+switzerland-10-rappen-1919:
+  frente: https://i.ucoin.net/coin/43/559/43559114-1s/switzerland-10-rappen-1919.jpg
+  tras: https://i.ucoin.net/coin/43/559/43559114-2s/switzerland-10-rappen-1919.jpg
+
+switzerland-10-rappen-1939:
+  frente: https://i.ucoin.net/coin/53/986/53986394-1s/switzerland-10-rappen-1939.jpg
+  tras: https://i.ucoin.net/coin/53/986/53986394-2s/switzerland-10-rappen-1939.jpg
+
+switzerland-10-rappen-1980:
+  frente: https://i.ucoin.net/coin/45/797/45797533-1s/switzerland-10-rappen-1980.jpg
+  tras: https://i.ucoin.net/coin/45/797/45797533-2s/switzerland-10-rappen-1980.jpg
+
+switzerland-2-francs-1850:
+  frente: https://i.ucoin.net/coin/25/076/25076089-1s/switzerland-2-francs-1850.jpg
+  tras: https://i.ucoin.net/coin/25/076/25076089-2s/switzerland-2-francs-1850.jpg
+
+switzerland-2-francs-1863:
+  frente: https://i.ucoin.net/coin/71/194/71194110-1s/switzerland-2-francs-1863.jpg
+  tras: https://i.ucoin.net/coin/71/194/71194110-2s/switzerland-2-francs-1863.jpg
+
+switzerland-2-francs-1965:
+  frente: https://i.ucoin.net/coin/74/808/74808358-1s/switzerland-2-francs-1965.jpg
+  tras: https://i.ucoin.net/coin/74/808/74808358-2s/switzerland-2-francs-1965.jpg
+
+switzerland-2-francs-2011:
+  frente: https://i.ucoin.net/coin/54/774/54774588-1s/switzerland-2-francs-2011.jpg
+  tras: https://i.ucoin.net/coin/54/774/54774588-2s/switzerland-2-francs-2011.jpg
+
+switzerland-2-rappen-1915:
+  frente: https://i.ucoin.net/coin/65/412/65412293-1s/switzerland-2-rappen-1915.jpg
+  tras: https://i.ucoin.net/coin/65/412/65412293-2s/switzerland-2-rappen-1915.jpg
+
+switzerland-2-rappen-1932:
+  frente: https://i.ucoin.net/coin/71/785/71785385-1s/switzerland-2-rappen-1932.jpg
+  tras: https://i.ucoin.net/coin/71/785/71785385-2s/switzerland-2-rappen-1932.jpg
+
+switzerland-2-rappen-1946:
+  frente: https://i.ucoin.net/coin/58/967/58967137-1s/switzerland-2-rappen-1946.jpg
+  tras: https://i.ucoin.net/coin/58/967/58967137-2s/switzerland-2-rappen-1946.jpg
+
+switzerland-2-rappen-1957:
+  frente: https://i.ucoin.net/coin/45/743/45743131-1s/switzerland-2-rappen-1957.jpg
+  tras: https://i.ucoin.net/coin/45/743/45743131-2s/switzerland-2-rappen-1957.jpg
+
+switzerland-20-francs-1883:
+  frente: https://i.ucoin.net/coin/80/189/80189803-1s/switzerland-20-francs-1883.jpg
+  tras: https://i.ucoin.net/coin/80/189/80189803-2s/switzerland-20-francs-1883.jpg
+
+switzerland-20-francs-1902:
+  frente: https://i.ucoin.net/coin/45/282/45282709-1s/switzerland-20-francs-1902.jpg
+  tras: https://i.ucoin.net/coin/45/282/45282709-2s/switzerland-20-francs-1902.jpg
+
+switzerland-20-rappen-1850:
+  frente: https://i.ucoin.net/coin/55/999/55999488-1s/switzerland-20-rappen-1850.jpg
+  tras: https://i.ucoin.net/coin/55/999/55999488-2s/switzerland-20-rappen-1850.jpg
+
+switzerland-20-rappen-1920:
+  frente: https://i.ucoin.net/coin/71/032/71032593-1s/switzerland-20-rappen-1920.jpg
+  tras: https://i.ucoin.net/coin/71/032/71032593-2s/switzerland-20-rappen-1920.jpg
+
+switzerland-20-rappen-2010:
+  frente: https://i.ucoin.net/coin/45/813/45813967-1s/switzerland-20-rappen-2010.jpg
+  tras: https://i.ucoin.net/coin/45/813/45813967-2s/switzerland-20-rappen-2010.jpg
+
+switzerland-5-francs-1851:
+  frente: https://i.ucoin.net/coin/81/904/81904588-1s/switzerland-5-francs-1851.jpg
+  tras: https://i.ucoin.net/coin/81/904/81904588-2s/switzerland-5-francs-1851.jpg
+
+switzerland-5-francs-1916:
+  frente: https://i.ucoin.net/coin/75/600/75600402-1s/switzerland-5-francs-1916.jpg
+  tras: https://i.ucoin.net/coin/75/600/75600402-2s/switzerland-5-francs-1916.jpg
+
+switzerland-5-francs-1923:
+  frente: https://i.ucoin.net/coin/78/494/78494839-1s/switzerland-5-francs-1923.jpg
+  tras: https://i.ucoin.net/coin/78/494/78494839-2s/switzerland-5-francs-1923.jpg
+
+switzerland-5-francs-1928:
+  frente: https://i.ucoin.net/coin/57/243/57243981-1s/switzerland-5-francs-1928.jpg
+  tras: https://i.ucoin.net/coin/57/243/57243981-2s/switzerland-5-francs-1928.jpg
+
+switzerland-5-francs-1949:
+  frente: https://i.ucoin.net/coin/0/144/144134-1s/switzerland-5-francs-1949.jpg
+  tras: https://i.ucoin.net/coin/0/144/144134-2s/switzerland-5-francs-1949.jpg
+
+switzerland-5-francs-1979:
+  frente: https://i.ucoin.net/coin/46/558/46558166-1s/switzerland-5-francs-1979.jpg
+  tras: https://i.ucoin.net/coin/46/558/46558166-2s/switzerland-5-francs-1979.jpg
+
+switzerland-5-rappen-1873:
+  frente: https://i.ucoin.net/coin/24/302/24302029-1s/switzerland-5-rappen-1873.jpg
+  tras: https://i.ucoin.net/coin/24/302/24302029-2s/switzerland-5-rappen-1873.jpg
+
+switzerland-5-rappen-1918:
+  frente: https://i.ucoin.net/coin/78/393/78393281-1s/switzerland-5-rappen-1918.jpg
+  tras: https://i.ucoin.net/coin/78/393/78393281-2s/switzerland-5-rappen-1918.jpg
+
+switzerland-5-rappen-1927:
+  frente: https://i.ucoin.net/coin/45/797/45797750-1s/switzerland-5-rappen-1927.jpg
+  tras: https://i.ucoin.net/coin/45/797/45797750-2s/switzerland-5-rappen-1927.jpg
+
+switzerland-5-rappen-1936:
+  frente: https://i.ucoin.net/coin/44/311/44311463-1s/switzerland-5-rappen-1936.jpg
+  tras: https://i.ucoin.net/coin/44/311/44311463-2s/switzerland-5-rappen-1936.jpg
+
+switzerland-5-rappen-2008:
+  frente: https://i.ucoin.net/coin/58/973/58973567-1s/switzerland-5-rappen-2008.jpg
+  tras: https://i.ucoin.net/coin/58/973/58973567-2s/switzerland-5-rappen-2008.jpg
