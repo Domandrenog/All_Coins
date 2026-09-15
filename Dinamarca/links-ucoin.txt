@@ -1,0 +1,127 @@
+denmark-1-krone-1875:
+  frente: https://i.ucoin.net/coin/10/902/10902942-1s/denmark-1-krone-1875.jpg
+  tras: https://i.ucoin.net/coin/10/902/10902942-2s/denmark-1-krone-1875.jpg
+
+denmark-1-ore-1880:
+  frente: https://i.ucoin.net/coin/6/807/6807938-1s/denmark-1-ore-1880.jpg
+  tras: https://i.ucoin.net/coin/6/807/6807938-2s/denmark-1-ore-1880.jpg
+
+denmark-1-ore-1907:
+  frente: https://i.ucoin.net/coin/4/879/4879279-1s/denmark-1-ore-1907.jpg
+  tras: https://i.ucoin.net/coin/4/879/4879279-2s/denmark-1-ore-1907.jpg
+
+denmark-10-kroner-1898:
+  frente: https://i.ucoin.net/coin/80/914/80914278-1s/denmark-10-kroner-1898.jpg
+  tras: https://i.ucoin.net/coin/80/914/80914278-2s/denmark-10-kroner-1898.jpg
+
+denmark-10-kroner-1908:
+  frente: https://i.ucoin.net/coin/69/852/69852635-1s/denmark-10-kroner-1908.jpg
+  tras: https://i.ucoin.net/coin/69/852/69852635-2s/denmark-10-kroner-1908.jpg
+
+denmark-10-ore-1884:
+  frente: https://i.ucoin.net/coin/73/264/73264379-1s/denmark-10-ore-1884.jpg
+  tras: https://i.ucoin.net/coin/73/264/73264379-2s/denmark-10-ore-1884.jpg
+
+denmark-10-ore-1911:
+  frente: https://i.ucoin.net/coin/11/535/11535610-1s/denmark-10-ore-1911.jpg
+  tras: https://i.ucoin.net/coin/11/535/11535610-2s/denmark-10-ore-1911.jpg
+
+denmark-2-kroner-1876:
+  frente: https://i.ucoin.net/coin/60/344/60344494-1s/denmark-2-kroner-1876.jpg
+  tras: https://i.ucoin.net/coin/60/344/60344494-2s/denmark-2-kroner-1876.jpg
+
+denmark-2-ore-1906:
+  frente: https://i.ucoin.net/coin/80/494/80494987-1s/denmark-2-ore-1906.jpg
+  tras: https://i.ucoin.net/coin/80/494/80494987-2s/denmark-2-ore-1906.jpg
+
+denmark-2-ore-1909:
+  frente: https://i.ucoin.net/coin/12/119/12119182-1s/denmark-2-ore-1909.jpg
+  tras: https://i.ucoin.net/coin/12/119/12119182-2s/denmark-2-ore-1909.jpg
+
+denmark-20-kroner-1900:
+  frente: https://i.ucoin.net/coin/80/914/80914395-1s/denmark-20-kroner-1900.jpg
+  tras: https://i.ucoin.net/coin/80/914/80914395-2s/denmark-20-kroner-1900.jpg
+
+denmark-20-kroner-1908:
+  frente: https://i.ucoin.net/coin/67/155/67155740-1s/denmark-20-kroner-1908.jpg
+  tras: https://i.ucoin.net/coin/67/155/67155740-2s/denmark-20-kroner-1908.jpg
+
+denmark-25-ore-1874:
+  frente: https://i.ucoin.net/coin/51/890/51890057-1s/denmark-25-ore-1874.jpg
+  tras: https://i.ucoin.net/coin/51/890/51890057-2s/denmark-25-ore-1874.jpg
+
+denmark-25-ore-1911:
+  frente: https://i.ucoin.net/coin/66/715/66715565-1s/denmark-25-ore-1911.jpg
+  tras: https://i.ucoin.net/coin/66/715/66715565-2s/denmark-25-ore-1911.jpg
+
+denmark-5-ore-1906:
+  frente: https://i.ucoin.net/coin/67/311/67311275-1s/denmark-5-ore-1906.jpg
+  tras: https://i.ucoin.net/coin/67/311/67311275-2s/denmark-5-ore-1906.jpg
+
+denmark-5-ore-1912:
+  frente: https://i.ucoin.net/coin/85/778/85778721-1s/denmark-5-ore-1912.jpg
+  tras: https://i.ucoin.net/coin/85/778/85778721-2s/denmark-5-ore-1912.jpg
+
+greenland-10-kroner-1922-10-coroas-1922-fichas-de-vilarejo-mineiro:
+  frente: https://i.ucoin.net/coin/69/493/69493440-1s/greenland-10-kroner-1922.jpg
+  tras: https://i.ucoin.net/coin/69/493/69493440-2s/greenland-10-kroner-1922.jpg
+
+greenland-10-kroner-1922-10-coroas-1922-fichas-de-vilarejo-mineiro-f4491e1d:
+  frente: https://i.ucoin.net/coin/69/493/69493426-1s/greenland-10-kroner-1922.jpg
+  tras: https://i.ucoin.net/coin/69/493/69493426-2s/greenland-10-kroner-1922.jpg
+
+greenland-10-kroner-1932:
+  frente: https://i.ucoin.net/coin/78/981/78981495-1s/greenland-10-kroner-1932.jpg
+  tras: https://i.ucoin.net/coin/78/981/78981495-2s/greenland-10-kroner-1932.jpg
+
+greenland-100-ore-1875:
+  frente: https://i.ucoin.net/coin/66/006/66006655-1s/greenland-100-ore-1875.jpg
+  tras: https://i.ucoin.net/coin/66/006/66006655-2s/greenland-100-ore-1875.jpg
+
+greenland-100-ore-1881:
+  frente: https://i.ucoin.net/coin/78/164/78164675-1s/greenland-100-ore-1881.jpg
+  tras: https://i.ucoin.net/coin/78/164/78164675-2s/greenland-100-ore-1881.jpg
+
+greenland-100-ore-1882:
+  frente: https://i.ucoin.net/coin/78/981/78981383-1s/greenland-100-ore-1882.jpg
+  tras: https://i.ucoin.net/coin/78/981/78981383-2s/greenland-100-ore-1882.jpg
+
+greenland-100-ore-1894:
+  frente: https://i.ucoin.net/coin/66/006/66006252-1s/greenland-100-ore-1894.jpg
+  tras: https://i.ucoin.net/coin/66/006/66006252-2s/greenland-100-ore-1894.jpg
+
+greenland-100-ore-1910:
+  frente: https://i.ucoin.net/coin/78/981/78981399-1s/greenland-100-ore-1910.jpg
+  tras: https://i.ucoin.net/coin/78/981/78981399-2s/greenland-100-ore-1910.jpg
+
+greenland-100-ore-1911:
+  frente: https://i.ucoin.net/coin/69/493/69493364-1s/greenland-100-ore-1911.jpg
+  tras: https://i.ucoin.net/coin/69/493/69493364-2s/greenland-100-ore-1911.jpg
+
+greenland-2-kroner-1922:
+  frente: https://i.ucoin.net/coin/66/006/66006695-1s/greenland-2-kroner-1922.jpg
+  tras: https://i.ucoin.net/coin/66/006/66006695-2s/greenland-2-kroner-1922.jpg
+
+greenland-5-kroner-1932:
+  frente: https://i.ucoin.net/coin/78/981/78981475-1s/greenland-5-kroner-1932.jpg
+  tras: https://i.ucoin.net/coin/78/981/78981475-2s/greenland-5-kroner-1932.jpg
+
+greenland-500-ore-1894-500-ore-1894-fichas-de-vilarejo-mineiro:
+  frente: https://i.ucoin.net/coin/66/006/66006317-1s/greenland-500-ore-1894.jpg
+  tras: https://i.ucoin.net/coin/66/006/66006317-2s/greenland-500-ore-1894.jpg
+
+greenland-500-ore-1894-500-ore-1894-fichas-de-vilarejo-mineiro-14c311b6:
+  frente: https://i.ucoin.net/coin/66/006/66006278-1s/greenland-500-ore-1894.jpg
+  tras: https://i.ucoin.net/coin/66/006/66006278-2s/greenland-500-ore-1894.jpg
+
+greenland-500-ore-1905:
+  frente: https://i.ucoin.net/coin/69/493/69493354-1s/greenland-500-ore-1905.jpg
+  tras: https://i.ucoin.net/coin/69/493/69493354-2s/greenland-500-ore-1905.jpg
+
+greenland-500-ore-1910:
+  frente: https://i.ucoin.net/coin/78/981/78981422-1s/greenland-500-ore-1910.jpg
+  tras: https://i.ucoin.net/coin/78/981/78981422-2s/greenland-500-ore-1910.jpg
+
+greenland-85-ore-1881:
+  frente: https://i.ucoin.net/coin/69/493/69493308-1s/greenland-85-ore-1881.jpg
+  tras: https://i.ucoin.net/coin/69/493/69493308-2s/greenland-85-ore-1881.jpg

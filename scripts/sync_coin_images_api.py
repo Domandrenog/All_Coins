@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+import atexit
 import json
 import os
 import re
@@ -398,14 +399,120 @@ def find_coins(api_key: str, args: argparse.Namespace) -> list[dict[str, object]
     raise RuntimeError(f"Mais do que uma moeda corresponde a '{args.slug}'. Usa --coin-id:\n{sample}")
 
 
-def download_image(url: str, destination: Path, overwrite: bool, browser_profile: str, use_browser_fallback: bool) -> str:
+class BrowserImageDownloader:
+    """Reutiliza a sessão Chromium para os downloads uCoin que precisem dela."""
+
+    def __init__(self, user_data_dir: str) -> None:
+        self.user_data_dir = user_data_dir
+        self.playwright = None
+        self.context = None
+
+    def _context_is_usable(self) -> bool:
+        if self.context is None:
+            return False
+        try:
+            return self.context.browser.is_connected()
+        except Exception:  # noqa: BLE001
+            return False
+
+    def _start_context(self) -> None:
+        if self._context_is_usable():
+            return
+
+        try:
+            from playwright.sync_api import sync_playwright
+        except Exception as exc:  # noqa: BLE001
+            raise RuntimeError("Playwright não está instalado. Executa: python3 -m pip install playwright") from exc
+
+        if self.playwright is None:
+            self.playwright = sync_playwright().start()
+
+        executable = which("chromium") or which("chromium-browser") or which("google-chrome") or which("google-chrome-stable")
+        launch_options = {"executable_path": executable} if executable else {}
+        self.context = self.playwright.chromium.launch_persistent_context(
+            self.user_data_dir,
+            headless=True,
+            accept_downloads=True,
+            ignore_https_errors=True,
+            **launch_options,
+        )
+        print("Chromium: sessão iniciada; será reutilizada nos próximos downloads protegidos.")
+
+    def _discard_context(self, wait_for_profile_release: bool) -> None:
+        if self.context is not None:
+            try:
+                self.context.close()
+            except Exception:  # noqa: BLE001
+                pass
+            self.context = None
+        if wait_for_profile_release:
+            # A profile directory can remain locked briefly after Chromium closes.
+            time.sleep(15)
+
+    def download(self, url: str, destination: Path) -> bool:
+        destination.parent.mkdir(parents=True, exist_ok=True)
+
+        for attempt in range(1, BROWSER_DOWNLOAD_ATTEMPTS + 1):
+            page = None
+            try:
+                self._start_context()
+                page = self.context.new_page()
+                response = page.goto(url, wait_until="domcontentloaded", timeout=60_000)
+                if response is None:
+                    raise RuntimeError("o servidor não devolveu resposta")
+                content_type = response.headers.get("content-type", "")
+                body = response.body()
+                if 200 <= response.status < 300 and "image" in content_type.lower() and body:
+                    destination.write_bytes(body)
+                    return True
+                raise RuntimeError(f"resposta sem imagem válida ({response.status}, {content_type or 'sem content-type'})")
+            except Exception as exc:  # noqa: BLE001
+                details = str(exc).splitlines()[0] or type(exc).__name__
+                session_lost = not self._context_is_usable()
+                if session_lost:
+                    print("Chromium: sessão indisponível; a reiniciar o perfil antes de continuar.")
+                    self._discard_context(wait_for_profile_release=True)
+                if attempt == BROWSER_DOWNLOAD_ATTEMPTS:
+                    print(f"Chromium: falhou após {attempt} tentativas: {details}")
+                    return False
+                print(
+                    f"Chromium: tentativa {attempt}/{BROWSER_DOWNLOAD_ATTEMPTS} falhou: {details}. "
+                    f"A repetir em {BROWSER_RETRY_DELAY_SECONDS}s."
+                )
+                time.sleep(BROWSER_RETRY_DELAY_SECONDS)
+            finally:
+                if page is not None:
+                    try:
+                        page.close()
+                    except Exception:  # noqa: BLE001
+                        pass
+        return False
+
+    def close(self) -> None:
+        self._discard_context(wait_for_profile_release=False)
+        if self.playwright is not None:
+            try:
+                self.playwright.stop()
+            except Exception:  # noqa: BLE001
+                pass
+            self.playwright = None
+
+
+def download_image(
+    url: str,
+    destination: Path,
+    overwrite: bool,
+    browser_profile: str,
+    use_browser_fallback: bool,
+    browser_downloader: BrowserImageDownloader | None = None,
+) -> str:
     if destination.exists() and not overwrite:
         return "exists"
 
     if "i.ucoin.net" in url.lower():
         if download_image_with_curl(url, destination):
             return "downloaded"
-        if use_browser_fallback and download_image_with_browser(url, destination, browser_profile):
+        if use_browser_fallback and download_image_with_browser(url, destination, browser_profile, browser_downloader):
             return "downloaded-browser"
         raise RuntimeError(f"Download bloqueado pelo i.ucoin.net: {url}")
 
@@ -449,58 +556,19 @@ def download_image_with_curl(url: str, destination: Path) -> bool:
     return destination.exists() and destination.stat().st_size > 0
 
 
-def download_image_with_browser(url: str, destination: Path, user_data_dir: str) -> bool:
+def download_image_with_browser(
+    url: str,
+    destination: Path,
+    user_data_dir: str,
+    browser_downloader: BrowserImageDownloader | None = None,
+) -> bool:
+    owns_downloader = browser_downloader is None
+    downloader = browser_downloader or BrowserImageDownloader(user_data_dir)
     try:
-        from playwright.sync_api import sync_playwright
-    except Exception as exc:  # noqa: BLE001
-        raise RuntimeError("Playwright não está instalado. Executa: python3 -m pip install playwright") from exc
-
-    executable = which("chromium") or which("chromium-browser") or which("google-chrome") or which("google-chrome-stable")
-    launch_options = {"executable_path": executable} if executable else {}
-    destination.parent.mkdir(parents=True, exist_ok=True)
-
-    with sync_playwright() as playwright:
-        for attempt in range(1, BROWSER_DOWNLOAD_ATTEMPTS + 1):
-            context = None
-            try:
-                context = playwright.chromium.launch_persistent_context(
-                    user_data_dir,
-                    headless=True,
-                    accept_downloads=True,
-                    ignore_https_errors=True,
-                    **launch_options,
-                )
-                page = context.new_page()
-                response = page.goto(url, wait_until="domcontentloaded", timeout=60_000)
-                if response is None:
-                    raise RuntimeError("o servidor não devolveu resposta")
-                content_type = response.headers.get("content-type", "")
-                body = response.body()
-                if 200 <= response.status < 300 and "image" in content_type.lower() and body:
-                    destination.write_bytes(body)
-                    return True
-                raise RuntimeError(f"resposta sem imagem válida ({response.status}, {content_type or 'sem content-type'})")
-            except Exception as exc:  # noqa: BLE001
-                details = str(exc).splitlines()[0] or type(exc).__name__
-                if attempt == BROWSER_DOWNLOAD_ATTEMPTS:
-                    print(f"Chromium: falhou após {attempt} tentativas: {details}")
-                    return False
-                print(
-                    f"Chromium: tentativa {attempt}/{BROWSER_DOWNLOAD_ATTEMPTS} falhou: {details}. "
-                    f"A repetir em {BROWSER_RETRY_DELAY_SECONDS}s."
-                )
-            finally:
-                if context is not None:
-                    try:
-                        context.close()
-                    except Exception:  # noqa: BLE001
-                        pass
-                # Chromium keeps its ProcessSingleton briefly after close().
-                # Wait before the next protected image or retry can reuse it.
-                time.sleep(15)
-
-            time.sleep(BROWSER_RETRY_DELAY_SECONDS)
-    return False
+        return downloader.download(url, destination)
+    finally:
+        if owns_downloader:
+            downloader.close()
 
 
 def parse_links_file(path: Path) -> dict[str, dict[str, str]]:
@@ -617,6 +685,11 @@ def main() -> int:
     started_at = time.monotonic()
     coin_started_at: float | None = None
     recent_coin_durations: deque[float] = deque(maxlen=10)
+    browser_downloader = None
+    if (args.download_current or args.download_only) and not args.no_ucoin_browser_fallback:
+        browser_downloader = BrowserImageDownloader(args.ucoin_browser_profile)
+        # Also release the persistent profile if an unexpected error stops the run.
+        atexit.register(browser_downloader.close)
 
     print(f"Moedas encontradas: {total_coins}")
     for index, coin in enumerate(coins, start=1):
@@ -682,6 +755,7 @@ def main() -> int:
                         args.overwrite_images,
                         args.ucoin_browser_profile,
                         not args.no_ucoin_browser_fallback,
+                        browser_downloader,
                     )
                     print(f"Download {side}: {status} -> {destination}")
                 else:
@@ -709,6 +783,9 @@ def main() -> int:
             continue
 
         pending_updates.append((coin_id, mutable_coin_payload(coin, target_links["frente"], target_links["tras"])))
+
+    if browser_downloader is not None:
+        browser_downloader.close()
 
     should_git_push = (args.apply or args.download_only) and not args.no_git_push and not args.api_only
     if should_git_push:

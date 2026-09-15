@@ -1,0 +1,127 @@
+denmark-1-krone-1875:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/denmark-1-krone-1875.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/denmark-1-krone-1875.jpg
+
+denmark-1-ore-1880:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/denmark-1-ore-1880.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/denmark-1-ore-1880.jpg
+
+denmark-1-ore-1907:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/denmark-1-ore-1907.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/denmark-1-ore-1907.jpg
+
+denmark-10-kroner-1898:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/denmark-10-kroner-1898.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/denmark-10-kroner-1898.jpg
+
+denmark-10-kroner-1908:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/denmark-10-kroner-1908.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/denmark-10-kroner-1908.jpg
+
+denmark-10-ore-1884:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/denmark-10-ore-1884.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/denmark-10-ore-1884.jpg
+
+denmark-10-ore-1911:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/denmark-10-ore-1911.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/denmark-10-ore-1911.jpg
+
+denmark-2-kroner-1876:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/denmark-2-kroner-1876.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/denmark-2-kroner-1876.jpg
+
+denmark-2-ore-1906:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/denmark-2-ore-1906.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/denmark-2-ore-1906.jpg
+
+denmark-2-ore-1909:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/denmark-2-ore-1909.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/denmark-2-ore-1909.jpg
+
+denmark-20-kroner-1900:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/denmark-20-kroner-1900.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/denmark-20-kroner-1900.jpg
+
+denmark-20-kroner-1908:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/denmark-20-kroner-1908.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/denmark-20-kroner-1908.jpg
+
+denmark-25-ore-1874:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/denmark-25-ore-1874.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/denmark-25-ore-1874.jpg
+
+denmark-25-ore-1911:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/denmark-25-ore-1911.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/denmark-25-ore-1911.jpg
+
+denmark-5-ore-1906:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/denmark-5-ore-1906.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/denmark-5-ore-1906.jpg
+
+denmark-5-ore-1912:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/denmark-5-ore-1912.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/denmark-5-ore-1912.jpg
+
+greenland-10-kroner-1922-10-coroas-1922-fichas-de-vilarejo-mineiro:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/greenland-10-kroner-1922-10-coroas-1922-fichas-de-vilarejo-mineiro.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/greenland-10-kroner-1922-10-coroas-1922-fichas-de-vilarejo-mineiro.jpg
+
+greenland-10-kroner-1922-10-coroas-1922-fichas-de-vilarejo-mineiro-f4491e1d:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/greenland-10-kroner-1922-10-coroas-1922-fichas-de-vilarejo-mineiro-f4491e1d.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/greenland-10-kroner-1922-10-coroas-1922-fichas-de-vilarejo-mineiro-f4491e1d.jpg
+
+greenland-10-kroner-1932:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/greenland-10-kroner-1932.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/greenland-10-kroner-1932.jpg
+
+greenland-100-ore-1875:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/greenland-100-ore-1875.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/greenland-100-ore-1875.jpg
+
+greenland-100-ore-1881:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/greenland-100-ore-1881.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/greenland-100-ore-1881.jpg
+
+greenland-100-ore-1882:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/greenland-100-ore-1882.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/greenland-100-ore-1882.jpg
+
+greenland-100-ore-1894:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/greenland-100-ore-1894.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/greenland-100-ore-1894.jpg
+
+greenland-100-ore-1910:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/greenland-100-ore-1910.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/greenland-100-ore-1910.jpg
+
+greenland-100-ore-1911:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/greenland-100-ore-1911.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/greenland-100-ore-1911.jpg
+
+greenland-2-kroner-1922:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/greenland-2-kroner-1922.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/greenland-2-kroner-1922.jpg
+
+greenland-5-kroner-1932:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/greenland-5-kroner-1932.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/greenland-5-kroner-1932.jpg
+
+greenland-500-ore-1894-500-ore-1894-fichas-de-vilarejo-mineiro:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/greenland-500-ore-1894-500-ore-1894-fichas-de-vilarejo-mineiro.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/greenland-500-ore-1894-500-ore-1894-fichas-de-vilarejo-mineiro.jpg
+
+greenland-500-ore-1894-500-ore-1894-fichas-de-vilarejo-mineiro-14c311b6:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/greenland-500-ore-1894-500-ore-1894-fichas-de-vilarejo-mineiro-14c311b6.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/greenland-500-ore-1894-500-ore-1894-fichas-de-vilarejo-mineiro-14c311b6.jpg
+
+greenland-500-ore-1905:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/greenland-500-ore-1905.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/greenland-500-ore-1905.jpg
+
+greenland-500-ore-1910:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/greenland-500-ore-1910.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/greenland-500-ore-1910.jpg
+
+greenland-85-ore-1881:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/frente/greenland-85-ore-1881.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Dinamarca/tras/greenland-85-ore-1881.jpg
