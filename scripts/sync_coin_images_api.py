@@ -55,6 +55,13 @@ def format_duration(seconds: float) -> str:
         return f"{minutes}m {seconds:02d}s"
     return f"{seconds}s"
 
+
+def coin_label(coin: dict[str, object]) -> str:
+    """Return the concise coin name used in normal progress output."""
+    name = str(coin.get("name") or "Moeda sem nome").strip()
+    years = str(coin.get("years") or "").strip()
+    return f"{name} ({years})" if years else name
+
 COUNTRY_SLUG_ALIASES = {
     "bahamas": ["bahamas"],
     "polonia": ["polonia", "poland"],
@@ -678,7 +685,7 @@ def main() -> int:
         print("Nenhuma moeda encontrada para os filtros indicados.", file=sys.stderr)
         return 2
 
-    pending_updates: list[tuple[str, dict[str, object]]] = []
+    pending_updates: list[tuple[str, dict[str, object], str]] = []
     coin_slugs = unique_coin_slugs(coins, args.slug)
 
     total_coins = len(coins)
@@ -706,10 +713,11 @@ def main() -> int:
             eta_text = f"ETA imagens: ~{format_duration(eta)}"
         else:
             eta_text = "ETA imagens: a calcular"
-        print(
-            f"\n[Progresso imagens: {completed}/{total_coins} ({percent:.0f}%) | "
-            f"decorrido: {format_duration(elapsed)} | {eta_text}]"
-        )
+        if not args.api_only:
+            print(
+                f"\n[Progresso imagens: {completed}/{total_coins} ({percent:.0f}%) | "
+                f"decorrido: {format_duration(elapsed)} | {eta_text}]"
+            )
 
         coin_id = str(coin.get("id") or "")
         if not coin_id:
@@ -719,12 +727,8 @@ def main() -> int:
         coin_slug = coin_slugs[coin_id]
         target_links = generated_image_links(coin, args, coin_slug)
 
-        print("")
-        print(f"Moeda API: {coin_id} | {coin.get('country')} | {coin.get('name')} | {coin.get('years')}")
-        print(f"Atual frente: {coin.get('image_frente') or ''}")
-        print(f"Nova frente:  {target_links['frente']}")
-        print(f"Atual tras:   {coin.get('image_verso') or ''}")
-        print(f"Nova tras:    {target_links['tras']}")
+        if not args.api_only:
+            print(f"Moeda: {coin_label(coin)}")
 
         source_links = {
             "frente": str(coin.get("image_frente") or ""),
@@ -782,7 +786,9 @@ def main() -> int:
         if not args.apply:
             continue
 
-        pending_updates.append((coin_id, mutable_coin_payload(coin, target_links["frente"], target_links["tras"])))
+        pending_updates.append(
+            (coin_id, mutable_coin_payload(coin, target_links["frente"], target_links["tras"]), coin_label(coin))
+        )
 
     if browser_downloader is not None:
         browser_downloader.close()
@@ -791,23 +797,44 @@ def main() -> int:
     if should_git_push:
         git_commit_and_push(args.git_commit_message)
 
-    for coin_id, payload in pending_updates:
+    total_updates = len(pending_updates)
+    api_started_at = time.monotonic()
+    api_coin_started_at: float | None = None
+    recent_api_durations: deque[float] = deque(maxlen=10)
+    for index, (coin_id, payload, label) in enumerate(pending_updates, start=1):
+        now = time.monotonic()
+        if api_coin_started_at is not None:
+            recent_api_durations.append(now - api_coin_started_at)
+        api_coin_started_at = now
         api_request("PUT", f"/entities/Coin/{coin_id}", api_key, payload=payload)
         updated_coin = api_request("GET", f"/entities/Coin/{coin_id}", api_key)
         if not isinstance(updated_coin, dict):
             raise RuntimeError(f"Resposta inesperada ao verificar moeda atualizada: {updated_coin!r}")
 
-        print("API atualizada e verificada:")
-        print(f"image_frente: {updated_coin.get('image_frente') or ''}")
-        print(f"image_verso:  {updated_coin.get('image_verso') or ''}")
+        completed = index
+        percent = completed / total_updates * 100
+        elapsed = time.monotonic() - api_started_at
+        if len(recent_api_durations) >= 3:
+            eta = sum(recent_api_durations) / len(recent_api_durations) * (total_updates - completed)
+            eta_text = f"estimativa: ~{format_duration(eta)}"
+        else:
+            eta_text = "estimativa: a calcular"
+        print(
+            f"[Progresso API: {completed}/{total_updates} ({percent:.0f}%) | "
+            f"decorrido: {format_duration(elapsed)} | {eta_text}]"
+        )
+        print(f"✓ API atualizada e verificada — {label}")
 
     if args.download_only:
         print("\nDownload-only: imagens descarregadas, nenhuma alteração foi enviada para a API.")
     elif not args.apply:
         print("\nDry-run: nenhuma alteração foi enviada para a API. Usa --apply para atualizar.")
     else:
+        completed_updates = total_updates if args.api_only else total_coins
+        total_for_summary = total_updates if args.api_only else total_coins
+        progress_label = "API" if args.api_only else "imagens"
         print(
-            f"\nProgresso imagens concluído: {total_coins}/{total_coins} (100%) | "
+            f"\nProgresso {progress_label} concluído: {completed_updates}/{total_for_summary} (100%) | "
             f"tempo total: {format_duration(time.monotonic() - started_at)}"
         )
     return 0
