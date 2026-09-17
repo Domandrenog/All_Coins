@@ -1,0 +1,367 @@
+hungary-1-filler-1898:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-1-filler-1898.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-1-filler-1898.jpg
+
+hungary-1-filler-1935:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-1-filler-1935.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-1-filler-1935.jpg
+
+hungary-1-forint-1947:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-1-forint-1947.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-1-forint-1947.jpg
+
+hungary-1-forint-1949:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-1-forint-1949.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-1-forint-1949.jpg
+
+hungary-1-forint-1964:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-1-forint-1964.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-1-forint-1964.jpg
+
+hungary-1-forint-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-1-forint-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-1-forint-1987.jpg
+
+hungary-1-forint-1990:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-1-forint-1990.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-1-forint-1990.jpg
+
+hungary-1-forint-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-1-forint-2002.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-1-forint-2002.jpg
+
+hungary-1-korona-1906:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-1-korona-1906.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-1-korona-1906.jpg
+
+hungary-1-korona-1915:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-1-korona-1915.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-1-korona-1915.jpg
+
+hungary-1-pengo-1938:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-1-pengo-1938.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-1-pengo-1938.jpg
+
+hungary-1-pengo-1943:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-1-pengo-1943.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-1-pengo-1943.jpg
+
+hungary-10-filler-1909:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-10-filler-1909.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-10-filler-1909.jpg
+
+hungary-10-filler-1915:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-10-filler-1915.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-10-filler-1915.jpg
+
+hungary-10-filler-1920:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-10-filler-1920.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-10-filler-1920.jpg
+
+hungary-10-filler-1935:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-10-filler-1935.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-10-filler-1935.jpg
+
+hungary-10-filler-1940:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-10-filler-1940.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-10-filler-1940.jpg
+
+hungary-10-filler-1948:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-10-filler-1948.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-10-filler-1948.jpg
+
+hungary-10-filler-1950:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-10-filler-1950.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-10-filler-1950.jpg
+
+hungary-10-filler-1955:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-10-filler-1955.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-10-filler-1955.jpg
+
+hungary-10-filler-1973:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-10-filler-1973.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-10-filler-1973.jpg
+
+hungary-10-filler-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-10-filler-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-10-filler-1992.jpg
+
+hungary-10-forint-1972:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-10-forint-1972.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-10-forint-1972.jpg
+
+hungary-10-forint-1989:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-10-forint-1989.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-10-forint-1989.jpg
+
+hungary-10-forint-1990:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-10-forint-1990.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-10-forint-1990.jpg
+
+hungary-10-forint-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-10-forint-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-10-forint-2003.jpg
+
+hungary-10-forint-2012:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-10-forint-2012.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-10-forint-2012.jpg
+
+hungary-10-korona-1898:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-10-korona-1898.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-10-korona-1898.jpg
+
+hungary-100-forint-1996:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-100-forint-1996.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-100-forint-1996.jpg
+
+hungary-100-forint-2008:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-100-forint-2008.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-100-forint-2008.jpg
+
+hungary-100-forint-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-100-forint-2019.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-100-forint-2019.jpg
+
+hungary-100-forint-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-100-forint-2022.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-100-forint-2022.jpg
+
+hungary-100-korona-1908:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-100-korona-1908.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-100-korona-1908.jpg
+
+hungary-2-filler-1904:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-2-filler-1904.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-2-filler-1904.jpg
+
+hungary-2-filler-1918:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-2-filler-1918.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-2-filler-1918.jpg
+
+hungary-2-filler-1929:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-2-filler-1929.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-2-filler-1929.jpg
+
+hungary-2-filler-1940:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-2-filler-1940.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-2-filler-1940.jpg
+
+hungary-2-filler-1944:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-2-filler-1944.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-2-filler-1944.jpg
+
+hungary-2-filler-1946:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-2-filler-1946.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-2-filler-1946.jpg
+
+hungary-2-filler-1972:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-2-filler-1972.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-2-filler-1972.jpg
+
+hungary-2-filler-1990:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-2-filler-1990.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-2-filler-1990.jpg
+
+hungary-2-forint-1947:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-2-forint-1947.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-2-forint-1947.jpg
+
+hungary-2-forint-1950:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-2-forint-1950.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-2-forint-1950.jpg
+
+hungary-2-forint-1961:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-2-forint-1961.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-2-forint-1961.jpg
+
+hungary-2-forint-1966:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-2-forint-1966.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-2-forint-1966.jpg
+
+hungary-2-forint-1974:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-2-forint-1974.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-2-forint-1974.jpg
+
+hungary-2-forint-1990:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-2-forint-1990.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-2-forint-1990.jpg
+
+hungary-2-forint-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-2-forint-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-2-forint-2003.jpg
+
+hungary-2-korona-1913:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-2-korona-1913.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-2-korona-1913.jpg
+
+hungary-2-pengo-1937:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-2-pengo-1937.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-2-pengo-1937.jpg
+
+hungary-2-pengo-1941:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-2-pengo-1941.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-2-pengo-1941.jpg
+
+hungary-20-filler-1893:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-20-filler-1893.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-20-filler-1893.jpg
+
+hungary-20-filler-1918:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-20-filler-1918.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-20-filler-1918.jpg
+
+hungary-20-filler-1922:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-20-filler-1922.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-20-filler-1922.jpg
+
+hungary-20-filler-1938:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-20-filler-1938.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-20-filler-1938.jpg
+
+hungary-20-filler-1944:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-20-filler-1944.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-20-filler-1944.jpg
+
+hungary-20-filler-1950:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-20-filler-1950.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-20-filler-1950.jpg
+
+hungary-20-filler-1958:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-20-filler-1958.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-20-filler-1958.jpg
+
+hungary-20-filler-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-20-filler-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-20-filler-1987.jpg
+
+hungary-20-filler-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-20-filler-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-20-filler-1992.jpg
+
+hungary-20-forint-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-20-forint-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-20-forint-1987.jpg
+
+hungary-20-forint-1990:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-20-forint-1990.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-20-forint-1990.jpg
+
+hungary-20-forint-2004:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-20-forint-2004.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-20-forint-2004.jpg
+
+hungary-20-forint-2012:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-20-forint-2012.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-20-forint-2012.jpg
+
+hungary-20-korona-1905:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-20-korona-1905.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-20-korona-1905.jpg
+
+hungary-20-korona-1914:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-20-korona-1914.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-20-korona-1914.jpg
+
+hungary-20-korona-1918:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-20-korona-1918.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-20-korona-1918.jpg
+
+hungary-200-forint-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-200-forint-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-200-forint-1992.jpg
+
+hungary-200-forint-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-200-forint-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-200-forint-1994.jpg
+
+hungary-200-forint-2010:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-200-forint-2010.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-200-forint-2010.jpg
+
+hungary-200-forint-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-200-forint-2018.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-200-forint-2018.jpg
+
+hungary-5-filler-1951:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-5-filler-1951.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-5-filler-1951.jpg
+
+hungary-5-filler-1986:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-5-filler-1986.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-5-filler-1986.jpg
+
+hungary-5-filler-1990:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-5-filler-1990.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-5-filler-1990.jpg
+
+hungary-5-forint-1946:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-5-forint-1946.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-5-forint-1946.jpg
+
+hungary-5-forint-1947:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-5-forint-1947.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-5-forint-1947.jpg
+
+hungary-5-forint-1967:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-5-forint-1967.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-5-forint-1967.jpg
+
+hungary-5-forint-1972:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-5-forint-1972.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-5-forint-1972.jpg
+
+hungary-5-forint-1989:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-5-forint-1989.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-5-forint-1989.jpg
+
+hungary-5-forint-1990:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-5-forint-1990.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-5-forint-1990.jpg
+
+hungary-5-forint-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-5-forint-2005.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-5-forint-2005.jpg
+
+hungary-5-forint-2013:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-5-forint-2013.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-5-forint-2013.jpg
+
+hungary-5-korona-1900:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-5-korona-1900.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-5-korona-1900.jpg
+
+hungary-5-pengo-1939:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-5-pengo-1939.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-5-pengo-1939.jpg
+
+hungary-5-pengo-1945:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-5-pengo-1945.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-5-pengo-1945.jpg
+
+hungary-50-filler-1926:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-50-filler-1926.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-50-filler-1926.jpg
+
+hungary-50-filler-1948:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-50-filler-1948.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-50-filler-1948.jpg
+
+hungary-50-filler-1965:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-50-filler-1965.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-50-filler-1965.jpg
+
+hungary-50-filler-1978:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-50-filler-1978.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-50-filler-1978.jpg
+
+hungary-50-filler-1990:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-50-filler-1990.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-50-filler-1990.jpg
+
+hungary-50-forint-1997:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-50-forint-1997.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-50-forint-1997.jpg
+
+hungary-50-forint-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/frente/hungary-50-forint-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/Hungria/tras/hungary-50-forint-2024.jpg
