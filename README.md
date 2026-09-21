@@ -12,28 +12,37 @@ O menu permite verificar a API, preparar imagens, executar a migração completa
 ou alterar apenas os URLs da Base44, escolhendo um país ou todos os pendentes.
 Os comandos técnicos estão em [docs/COMMANDS.md](docs/COMMANDS.md).
 
-Este repositório guarda imagens de moedas normais por continente e país, em
-`fotos/paises/<Continente>/<Pais>/normal`, e atualiza a API `Coin` para deixar
-de apontar para `i.ucoin.net`, passando a usar URLs raw do GitHub.
+Este repositório guarda imagens do catálogo por continente e país e atualiza
+as entidades `Coin`, `SpecialCoin` e `CountryNote` para usarem URLs raw do
+GitHub.
 
 Os nomes canónicos dos tipos são `normal`, `collection`, `notes` e `souvenir`.
-Nesta fase apenas `normal` está criado e é tratado pelos scripts; os restantes
-tipos serão adicionados numa fase posterior.
+Atualmente `normal`, `collection` e `notes` são tratados pelo `main.py`;
+`souvenir` será adicionado numa fase posterior.
+
+```text
+fotos/paises/<Continente>/<Pais>/<tipo>/
+  links-internos.txt
+  links-externos.txt
+  frente/
+  tras/
+```
 
 ## Fluxo
 
 ```mermaid
 flowchart LR
-  A[Escolher país ou moeda] --> B[Consultar Coin API]
-  B --> C{Frente e verso são i.ucoin.net?}
-  C -- Não --> D[Manter moeda como está]
+  A[Escolher categoria e país] --> B[Consultar a entidade na API]
+  B --> C{Frente e verso ainda são externos?}
+  C -- Não --> D[Manter o registo como está]
   C -- Sim --> E[Gerar slug e URLs raw]
   E --> F[Descarregar imagens]
-  F --> G[Guardar em fotos/paises/Continente/Pais/normal]
-  G --> H[Atualizar links-internos.txt e links-externos.txt]
-  H --> I[git add, commit e push]
-  I --> J[Atualizar image_frente e image_verso na API]
-  J --> K[Validar API e raw links]
+  F --> G[Guardar em fotos/paises/Continente/Pais/tipo]
+  G --> H[Normalizar JPEG e orientação]
+  H --> I[Atualizar links-internos.txt e links-externos.txt]
+  I --> J[git add, commit e push]
+  J --> K[Atualizar image_frente e image_verso na API]
+  K --> L[Validar API e raw links]
 ```
 
 ## Preparação
@@ -58,6 +67,11 @@ python3 -m playwright install chromium
 ```
 
 Também funciona com `chromium`, `chromium-browser`, `google-chrome` ou `google-chrome-stable` já instalados no sistema.
+
+As imagens do Numista podem exigir uma sessão Chrome real por causa do
+Cloudflare. Abre o Chrome com `--remote-debugging-port=9222`, resolve o desafio
+e deixa a janela aberta. O sincronizador de `notes` liga-se a essa sessão sem
+a fechar.
 
 ## Verificar Pendências
 
@@ -229,8 +243,12 @@ fotos/paises/<Continente>/<Pais>/normal/
 
 `links-internos.txt` guarda os URLs raw do próprio repositório usados pela API.
 
-`links-externos.txt` guarda os URLs externos originais do uCoin para referência
+`links-externos.txt` guarda os URLs externos originais para referência
 histórica.
+
+Nas notas, o script aplica primeiro a orientação EXIF. Quando a digitalização
+continua vertical, roda-a 90 graus para que a nota fique horizontal antes de
+criar o JPEG final. A opção técnica `--keep-portrait` desativa essa rotação.
 
 ## Troubleshooting
 

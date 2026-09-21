@@ -1,0 +1,19 @@
+bangladesh-10-taka-2012-2023:
+  frente: https://en.numista.com/catalogue/photos/bangladesh/626c289b652bb9.74649226-360.jpg
+  tras: https://en.numista.com/catalogue/photos/bangladesh/626c289c269275.14862820-360.jpg
+
+bangladesh-100-taka-2011-2023:
+  frente: https://en.numista.com/catalogue/photos/bangladesh/64476b3a32f689.51507971-360.jpg
+  tras: https://en.numista.com/catalogue/photos/bangladesh/6430263b317729.82298863-360.jpg
+
+bangladesh-20-taka-2012-2023:
+  frente: https://en.numista.com/catalogue/photos/bangladesh/626c2870bb11c3.20145169-360.jpg
+  tras: https://en.numista.com/catalogue/photos/bangladesh/626c2871773714.41485427-360.jpg
+
+bangladesh-50-taka-2019-2024:
+  frente: https://en.numista.com/catalogue/photos/bangladesh/6506f7ce42dc91.82921892-360.jpg
+  tras: https://en.numista.com/catalogue/photos/bangladesh/6506f7cf8309a1.24647242-360.jpg
+
+bangladesh-500-taka-2011-2023:
+  frente: https://en.numista.com/catalogue/photos/bangladesh/642fe42640e696.15636740-360.jpg
+  tras: https://en.numista.com/catalogue/photos/bangladesh/642fe427b5d712.38582915-360.jpg

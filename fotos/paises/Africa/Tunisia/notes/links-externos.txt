@@ -1,0 +1,3 @@
+tunisia-10-dinars-2020-2025:
+  frente: https://en.numista.com/catalogue/photos/tunisie/623c47fd98d946.81708170-360.jpg
+  tras: https://en.numista.com/catalogue/photos/tunisie/623c47fe3d3989.49513716-360.jpg

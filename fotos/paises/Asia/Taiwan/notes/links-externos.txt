@@ -1,0 +1,3 @@
+taiwan-100-yuan-2000:
+  frente: https://en.numista.com/catalogue/photos/taiwan/63c8fe7d3d9a39.16948538-360.jpg
+  tras: https://en.numista.com/catalogue/photos/taiwan/63c8fe7e2c16a7.87332929-360.jpg

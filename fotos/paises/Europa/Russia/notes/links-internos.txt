@@ -1,0 +1,7 @@
+russia-100-roubles-1997-2001:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Russia/notes/frente/russia-100-roubles-1997-2001.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Russia/notes/tras/russia-100-roubles-1997-2001.jpg
+
+russia-100-roubles-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Russia/notes/frente/russia-100-roubles-2022.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Russia/notes/tras/russia-100-roubles-2022.jpg

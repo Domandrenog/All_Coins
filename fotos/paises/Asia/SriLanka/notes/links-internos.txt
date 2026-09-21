@@ -1,0 +1,7 @@
+sri-lanka-20-rupees-2010-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/SriLanka/notes/frente/sri-lanka-20-rupees-2010-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/SriLanka/notes/tras/sri-lanka-20-rupees-2010-2024.jpg
+
+sri-lanka-50-rupees-2010-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/SriLanka/notes/frente/sri-lanka-50-rupees-2010-2022.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/SriLanka/notes/tras/sri-lanka-50-rupees-2010-2022.jpg

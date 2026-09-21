@@ -1,0 +1,15 @@
+vietname-10-000-dong-2006-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/notes/frente/vietname-10-000-dong-2006-2025.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/notes/tras/vietname-10-000-dong-2006-2025.jpg
+
+vietname-1000-dong-1988-1989:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/notes/frente/vietname-1000-dong-1988-1989.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/notes/tras/vietname-1000-dong-1988-1989.jpg
+
+vietname-20-000-dong-2006-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/notes/frente/vietname-20-000-dong-2006-2025.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/notes/tras/vietname-20-000-dong-2006-2025.jpg
+
+vietname-50-000-dong-2003-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/notes/frente/vietname-50-000-dong-2003-2025.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/notes/tras/vietname-50-000-dong-2003-2025.jpg

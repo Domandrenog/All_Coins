@@ -1,0 +1,7 @@
+russia-100-roubles-1997-2001:
+  frente: https://en.numista.com/catalogue/photos/russie/65faa4d8ae7eb0.14575298-360.jpg
+  tras: https://en.numista.com/catalogue/photos/russie/65faa4da2516c4.13003980-360.jpg
+
+russia-100-roubles-2022:
+  frente: https://en.numista.com/catalogue/photos/russie/650485e8a4a950.66421716-360.jpg
+  tras: https://en.numista.com/catalogue/photos/russie/650485e75fc4d6.60323068-360.jpg

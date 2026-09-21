@@ -1,0 +1,11 @@
+china-1-yuan-1999:
+  frente: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/d2ce94dd5_image.png
+  tras: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/1912140fc_image.png
+
+china-10-yuan-2005:
+  frente: https://en.numista.com/catalogue/photos/chine/63c9033eca89e7.73905264-360.jpg
+  tras: https://en.numista.com/catalogue/photos/chine/63c9033fcadae2.03942251-360.jpg
+
+china-50-yuan-2019:
+  frente: https://en.numista.com/catalogue/photos/chine/5ef5d735a21884.04971230-360.jpg
+  tras: https://en.numista.com/catalogue/photos/chine/5ef5d735edcca6.81749254-360.jpg

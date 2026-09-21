@@ -1,0 +1,7 @@
+japan-1000-yen-2004-2022:
+  frente: https://en.numista.com/catalogue/photos/japon/6303a7960f6bd3.06205783-360.jpg
+  tras: https://en.numista.com/catalogue/photos/japon/6303a796aed512.23058092-360.jpg
+
+japan-1000-yen-2024:
+  frente: https://en.numista.com/catalogue/photos/japon/66855b7c83e347.23203622-360.jpg
+  tras: https://en.numista.com/catalogue/photos/japon/66855b7d242ea2.93980853-360.jpg

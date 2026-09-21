@@ -1,0 +1,7 @@
+japan-1000-yen-2004-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Japao/notes/frente/japan-1000-yen-2004-2022.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Japao/notes/tras/japan-1000-yen-2004-2022.jpg
+
+japan-1000-yen-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Japao/notes/frente/japan-1000-yen-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Japao/notes/tras/japan-1000-yen-2024.jpg

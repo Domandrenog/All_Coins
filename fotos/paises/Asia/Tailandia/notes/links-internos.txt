@@ -1,0 +1,7 @@
+thailand-100-baht-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Tailandia/notes/frente/thailand-100-baht-2018.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Tailandia/notes/tras/thailand-100-baht-2018.jpg
+
+thailand-500-baht-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Tailandia/notes/frente/thailand-500-baht-2018.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Tailandia/notes/tras/thailand-500-baht-2018.jpg

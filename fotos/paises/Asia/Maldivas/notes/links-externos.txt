@@ -1,0 +1,7 @@
+maldivas-10-rufiyaa-2015-2018:
+  frente: https://en.numista.com/catalogue/photos/maldives/637bb5aa0a9061.06677760-360.jpg
+  tras: https://en.numista.com/catalogue/photos/maldives/63c80f8264b687.60174659-360.jpg
+
+maldivas-5-rufiyaa-2017:
+  frente: https://en.numista.com/catalogue/photos/maldives/637bb2dc130e39.27328239-360.jpg
+  tras: https://en.numista.com/catalogue/photos/maldives/63c80feb6a4339.63786012-360.jpg

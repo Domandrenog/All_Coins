@@ -1,0 +1,3 @@
+filipinas-500-piso-2010-2020:
+  frente: https://en.numista.com/catalogue/photos/philippines/5ea59e4def30d6.59557638-360.jpg
+  tras: https://en.numista.com/catalogue/photos/philippines/5ea59e4e992db4.60741527-360.jpg

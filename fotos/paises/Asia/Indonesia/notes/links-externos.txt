@@ -1,0 +1,7 @@
+indonesia-10-000-rupiah-2016-2024:
+  frente: https://en.numista.com/catalogue/photos/indonesie/626e3135748165.92255613-360.jpg
+  tras: https://en.numista.com/catalogue/photos/indonesie/626e31364d5a71.77066306-360.jpg
+
+indonesia-2000-rupiah-2022-2026:
+  frente: https://en.numista.com/catalogue/photos/indonesie/634d2dcd7cc467.27286360-360.jpg
+  tras: https://en.numista.com/catalogue/photos/indonesie/634d2dce24fe65.07567515-360.jpg

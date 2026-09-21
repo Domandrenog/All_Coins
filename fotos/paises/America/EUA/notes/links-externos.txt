@@ -1,0 +1,7 @@
+united-states-1-dollar-1963-2021:
+  frente: https://en.numista.com/catalogue/photos/etats-unis/63e49d43684fa6.47761200-360.jpg
+  tras: https://en.numista.com/catalogue/photos/etats-unis/63e49d44023ff2.51688991-360.jpg
+
+united-states-10-dollares-2004-2021:
+  frente: https://en.numista.com/catalogue/photos/etats-unis/68a221feb5fa03.99152507-360.jpg
+  tras: https://en.numista.com/catalogue/photos/etats-unis/68a222005f9a66.03980024-360.jpg

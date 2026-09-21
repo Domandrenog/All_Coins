@@ -1,0 +1,15 @@
+vietname-10-000-dong-2006-2025:
+  frente: https://en.numista.com/catalogue/photos/viet_nam/629a30e8e84ca4.62721942-360.jpg
+  tras: https://en.numista.com/catalogue/photos/viet_nam/629a30e97f22e2.67265051-360.jpg
+
+vietname-1000-dong-1988-1989:
+  frente: https://en.numista.com/catalogue/photos/viet_nam/626b8a28cd1456.57945404-360.jpg
+  tras: https://en.numista.com/catalogue/photos/viet_nam/626b8a29348644.78030396-360.jpg
+
+vietname-20-000-dong-2006-2025:
+  frente: https://en.numista.com/catalogue/photos/viet_nam/63fdf045478aa8.79782893-360.jpg
+  tras: https://en.numista.com/catalogue/photos/viet_nam/63fdf048f16474.69949110-360.jpg
+
+vietname-50-000-dong-2003-2025:
+  frente: https://en.numista.com/catalogue/photos/viet_nam/5e9e97d1456249.52677947-360.jpg
+  tras: https://en.numista.com/catalogue/photos/viet_nam/5e9e97d1a0fc48.03218172-360.jpg

@@ -1,0 +1,3 @@
+finlandia-0-euro-suomenlinna-sveaborg-maailmanperinto-2021:
+  frente: https://suomenrahaliike.fi/WebRoot/vilkasfi02/Shops/2016032302/67B9/F1AD/17BD/72EF/0BA4/7F00/0001/71FB/Suomenlinna_nollaeuroseteli_1-100_Suomen_Rahaliike_ml.jpg
+  tras: https://en.numista.com/catalogue/photos/portugal/60e826a4e19cc6.66159341-360.jpg

@@ -1,0 +1,7 @@
+brazil-2-reais-2010-2026:
+  frente: https://en.numista.com/catalogue/photos/bresil/5eb4b89f99c432.97713538-360.jpg
+  tras: https://en.numista.com/catalogue/photos/bresil/5eb4b8a08cb728.23385429-360.jpg
+
+brazil-20-reais-2010-2025:
+  frente: https://en.numista.com/catalogue/photos/bresil/64d7d12b765f03.15557920-360.jpg
+  tras: https://en.numista.com/catalogue/photos/bresil/64d7d12cea9f28.76473344-360.jpg

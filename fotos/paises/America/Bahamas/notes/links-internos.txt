@@ -1,0 +1,11 @@
+bahamas-1-dollar-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/notes/frente/bahamas-1-dollar-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/notes/tras/bahamas-1-dollar-2017.jpg
+
+bahamas-1-dollar-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/notes/frente/bahamas-1-dollar-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/notes/tras/bahamas-1-dollar-2024.jpg
+
+bahamas-5-dollars-2020:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/notes/frente/bahamas-5-dollars-2020.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/notes/tras/bahamas-5-dollars-2020.jpg

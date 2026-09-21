@@ -1,0 +1,3 @@
+canada-5-dollars-2013:
+  frente: https://en.numista.com/catalogue/photos/canada/63cd04c38c6563.32385328-270.jpg
+  tras: https://en.numista.com/catalogue/photos/canada/63cd04c6d3ef26.23323347-270.jpg

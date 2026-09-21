@@ -1,0 +1,23 @@
+portugal-0-euro-bom-jesus-do-monte-braga-2019:
+  frente: https://en.numista.com/catalogue/photos/portugal/6063d2d3ee10c5.63874881-360.jpg
+  tras: https://en.numista.com/catalogue/photos/portugal/6063d2d477c311.70937499-360.jpg
+
+portugal-0-euro-castelo-de-guimaraes-2023:
+  frente: https://en.numista.com/catalogue/photos/portugal/64070fc45839d7.96118642-360.jpg
+  tras: https://en.numista.com/catalogue/photos/portugal/64070fc5934133.89784352-360.jpg
+
+portugal-0-euro-fatima-2019:
+  frente: https://en.numista.com/catalogue/photos/portugal/60e826a48aff80.25043667-360.jpg
+  tras: https://en.numista.com/catalogue/photos/portugal/60e826a4e19cc6.66159341-360.jpg
+
+portugal-0-euro-paco-dos-duques-de-braganca-2023:
+  frente: https://en.numista.com/catalogue/photos/portugal/6401f79f3617c0.38650483-360.jpg
+  tras: https://en.numista.com/catalogue/photos/portugal/6401f7a0a97641.78114694-360.jpg
+
+portugal-0-euro-santa-luzia-2022:
+  frente: https://en.numista.com/catalogue/photos/portugal/697e8a3f6170c4.67657689-360.jpg
+  tras: https://en.numista.com/catalogue/photos/portugal/697e8a413841c2.46706641-360.jpg
+
+portugal-0-euro-slb-estadio-da-luz-2022:
+  frente: https://en.numista.com/catalogue/photos/portugal/671a894a663d82.96535758-360.jpg
+  tras: https://en.numista.com/catalogue/photos/portugal/671a894bb69626.09743004-360.jpg

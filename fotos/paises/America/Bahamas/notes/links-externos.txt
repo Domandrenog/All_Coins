@@ -1,0 +1,11 @@
+bahamas-1-dollar-2017:
+  frente: https://en.numista.com/catalogue/photos/bahamas/63b2aabf63c645.38512308-360.jpg
+  tras: https://en.numista.com/catalogue/photos/bahamas/63b2aac049a512.10227878-360.jpg
+
+bahamas-1-dollar-2024:
+  frente: https://en.numista.com/catalogue/photos/bahamas/6a33aea3437b70.99538778-360.jpg
+  tras: https://en.numista.com/catalogue/photos/bahamas/6a33aea572dc18.57535575-360.jpg
+
+bahamas-5-dollars-2020:
+  frente: https://en.numista.com/catalogue/photos/bahamas/63273dbaf14978.40483754-360.jpg
+  tras: https://en.numista.com/catalogue/photos/bahamas/63273dbbb01613.29392806-360.jpg

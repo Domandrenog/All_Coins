@@ -1,0 +1,7 @@
+united-states-1-dollar-1963-2021:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/notes/frente/united-states-1-dollar-1963-2021.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/notes/tras/united-states-1-dollar-1963-2021.jpg
+
+united-states-10-dollares-2004-2021:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/notes/frente/united-states-10-dollares-2004-2021.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/notes/tras/united-states-10-dollares-2004-2021.jpg

@@ -1,0 +1,11 @@
+united-arab-emirates-20-dirhams-2009-2016:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/EmiradosArabesUnidos/notes/frente/united-arab-emirates-20-dirhams-2009-2016.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/EmiradosArabesUnidos/notes/tras/united-arab-emirates-20-dirhams-2009-2016.jpg
+
+united-arab-emirates-5-dirhams-2022-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/EmiradosArabesUnidos/notes/frente/united-arab-emirates-5-dirhams-2022-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/EmiradosArabesUnidos/notes/tras/united-arab-emirates-5-dirhams-2022-2024.jpg
+
+united-arab-emirates-50-dirhams-2021-2026:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/EmiradosArabesUnidos/notes/frente/united-arab-emirates-50-dirhams-2021-2026.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/EmiradosArabesUnidos/notes/tras/united-arab-emirates-50-dirhams-2021-2026.jpg

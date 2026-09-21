@@ -1,0 +1,7 @@
+sri-lanka-20-rupees-2010-2024:
+  frente: https://en.numista.com/catalogue/photos/sri_lanka_period/6537668c0ccb75.52976099-360.jpg
+  tras: https://en.numista.com/catalogue/photos/sri_lanka_period/6537668c1bb4d5.00388489-360.jpg
+
+sri-lanka-50-rupees-2010-2022:
+  frente: https://en.numista.com/catalogue/photos/sri_lanka_period/6537668cdb3636.05438207-360.jpg
+  tras: https://en.numista.com/catalogue/photos/sri_lanka_period/6537668ce92e61.45990797-360.jpg

@@ -11,6 +11,54 @@ Mostra quantas moedas ainda usam URLs de `i.ucoin.net`, sem alterar nada.
 python3 scripts/check_ucoin_links_api.py
 ```
 
+Para verificar notas ou moedas de coleção:
+
+```bash
+python3 scripts/check_catalog_links_api.py --catalog notes
+python3 scripts/check_catalog_links_api.py --catalog collection
+```
+
+## Migrar notas
+
+Simular um país sem fazer alterações:
+
+```bash
+python3 scripts/sync_catalog_images_api.py \
+  --catalog notes \
+  --country "Portugal" \
+  --download-current \
+  --no-git-push
+```
+
+Descarregar e preparar os ficheiros locais sem alterar a API:
+
+```bash
+python3 scripts/sync_catalog_images_api.py \
+  --catalog notes \
+  --all \
+  --download-only \
+  --no-git-push
+```
+
+Depois de publicar e verificar os URLs raw, atualizar apenas a API:
+
+```bash
+python3 scripts/sync_catalog_images_api.py \
+  --catalog notes \
+  --country "Portugal" \
+  --api-only \
+  --apply \
+  --no-git-push
+```
+
+O mesmo fluxo aceita `--catalog collection`. As notas verticais são rodadas
+para horizontal por defeito. Usa `--keep-portrait` apenas quando a imagem deva
+permanecer genuinamente vertical.
+
+Se o Numista apresentar Cloudflare, abre uma sessão Chrome com depuração na
+porta 9222, resolve o desafio e deixa a janela aberta. O argumento
+`--cdp-url http://127.0.0.1:9222` já é o valor predefinido.
+
 ## Verificar um país na API
 
 Mostra apenas as moedas de um país que ainda apontam para `i.ucoin.net`, sem

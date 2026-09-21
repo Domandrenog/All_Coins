@@ -1,0 +1,7 @@
+thailand-100-baht-2018:
+  frente: https://en.numista.com/catalogue/photos/thailande/631da080e31996.84220090-360.jpg
+  tras: https://en.numista.com/catalogue/photos/thailande/631da0817ea505.21326949-360.jpg
+
+thailand-500-baht-2018:
+  frente: https://en.numista.com/catalogue/photos/thailande/687b870dc1ea70.37939451-360.jpg
+  tras: https://en.numista.com/catalogue/photos/thailande/687b870ef39b34.10010521-360.jpg

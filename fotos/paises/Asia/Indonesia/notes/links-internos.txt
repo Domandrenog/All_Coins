@@ -1,0 +1,7 @@
+indonesia-10-000-rupiah-2016-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/notes/frente/indonesia-10-000-rupiah-2016-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/notes/tras/indonesia-10-000-rupiah-2016-2024.jpg
+
+indonesia-2000-rupiah-2022-2026:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/notes/frente/indonesia-2000-rupiah-2022-2026.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/notes/tras/indonesia-2000-rupiah-2022-2026.jpg

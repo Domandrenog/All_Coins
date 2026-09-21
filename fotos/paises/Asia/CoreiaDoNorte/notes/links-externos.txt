@@ -1,0 +1,3 @@
+coreia-do-norte-100-won-1978:
+  frente: https://en.numista.com/catalogue/photos/coree_du_nord/63bbe0dc243278.39225190-360.jpg
+  tras: https://en.numista.com/catalogue/photos/coree_du_nord/63bbe0dee53922.29215056-360.jpg

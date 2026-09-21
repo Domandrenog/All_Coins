@@ -1,0 +1,3 @@
+turquia-200-lira-2009-2026:
+  frente: https://en.numista.com/catalogue/photos/turquie/6506f9678487e9.95854245-360.jpg
+  tras: https://en.numista.com/catalogue/photos/turquie/6506f969bce1f4.60374861-original.jpg

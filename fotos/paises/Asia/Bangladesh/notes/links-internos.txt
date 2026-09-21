@@ -1,0 +1,19 @@
+bangladesh-10-taka-2012-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Bangladesh/notes/frente/bangladesh-10-taka-2012-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Bangladesh/notes/tras/bangladesh-10-taka-2012-2023.jpg
+
+bangladesh-100-taka-2011-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Bangladesh/notes/frente/bangladesh-100-taka-2011-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Bangladesh/notes/tras/bangladesh-100-taka-2011-2023.jpg
+
+bangladesh-20-taka-2012-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Bangladesh/notes/frente/bangladesh-20-taka-2012-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Bangladesh/notes/tras/bangladesh-20-taka-2012-2023.jpg
+
+bangladesh-50-taka-2019-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Bangladesh/notes/frente/bangladesh-50-taka-2019-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Bangladesh/notes/tras/bangladesh-50-taka-2019-2024.jpg
+
+bangladesh-500-taka-2011-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Bangladesh/notes/frente/bangladesh-500-taka-2011-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Bangladesh/notes/tras/bangladesh-500-taka-2011-2023.jpg

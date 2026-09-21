@@ -1,0 +1,11 @@
+china-1-yuan-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/China/notes/frente/china-1-yuan-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/China/notes/tras/china-1-yuan-1999.jpg
+
+china-10-yuan-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/China/notes/frente/china-10-yuan-2005.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/China/notes/tras/china-10-yuan-2005.jpg
+
+china-50-yuan-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/China/notes/frente/china-50-yuan-2019.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/China/notes/tras/china-50-yuan-2019.jpg

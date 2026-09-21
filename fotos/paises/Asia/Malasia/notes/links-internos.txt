@@ -1,0 +1,7 @@
+malaysia-1-ringgit-2011-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Malasia/notes/frente/malaysia-1-ringgit-2011-2025.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Malasia/notes/tras/malaysia-1-ringgit-2011-2025.jpg
+
+malaysia-10-ringgit-2012-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Malasia/notes/frente/malaysia-10-ringgit-2012-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Malasia/notes/tras/malaysia-10-ringgit-2012-2024.jpg

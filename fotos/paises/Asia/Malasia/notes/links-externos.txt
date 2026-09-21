@@ -1,0 +1,7 @@
+malaysia-1-ringgit-2011-2025:
+  frente: https://en.numista.com/catalogue/photos/malaisie/6270eddd547428.84771733-360.jpg
+  tras: https://en.numista.com/catalogue/photos/malaisie/6270edde13a468.55829063-360.jpg
+
+malaysia-10-ringgit-2012-2024:
+  frente: https://en.numista.com/catalogue/photos/malaisie/654a01c7480428.84817281-360.jpg
+  tras: https://en.numista.com/catalogue/photos/malaisie/654a01c8866c69.35079887-360.jpg

@@ -1,0 +1,7 @@
+brazil-2-reais-2010-2026:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Brasil/notes/frente/brazil-2-reais-2010-2026.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Brasil/notes/tras/brazil-2-reais-2010-2026.jpg
+
+brazil-20-reais-2010-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Brasil/notes/frente/brazil-20-reais-2010-2025.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Brasil/notes/tras/brazil-20-reais-2010-2025.jpg

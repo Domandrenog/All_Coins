@@ -1,0 +1,23 @@
+portugal-0-euro-bom-jesus-do-monte-braga-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/notes/frente/portugal-0-euro-bom-jesus-do-monte-braga-2019.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/notes/tras/portugal-0-euro-bom-jesus-do-monte-braga-2019.jpg
+
+portugal-0-euro-castelo-de-guimaraes-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/notes/frente/portugal-0-euro-castelo-de-guimaraes-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/notes/tras/portugal-0-euro-castelo-de-guimaraes-2023.jpg
+
+portugal-0-euro-fatima-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/notes/frente/portugal-0-euro-fatima-2019.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/notes/tras/portugal-0-euro-fatima-2019.jpg
+
+portugal-0-euro-paco-dos-duques-de-braganca-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/notes/frente/portugal-0-euro-paco-dos-duques-de-braganca-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/notes/tras/portugal-0-euro-paco-dos-duques-de-braganca-2023.jpg
+
+portugal-0-euro-santa-luzia-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/notes/frente/portugal-0-euro-santa-luzia-2022.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/notes/tras/portugal-0-euro-santa-luzia-2022.jpg
+
+portugal-0-euro-slb-estadio-da-luz-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/notes/frente/portugal-0-euro-slb-estadio-da-luz-2022.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/notes/tras/portugal-0-euro-slb-estadio-da-luz-2022.jpg

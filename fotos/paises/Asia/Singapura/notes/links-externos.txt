@@ -1,0 +1,3 @@
+singapore-10-dollars-2004-2026:
+  frente: https://en.numista.com/catalogue/photos/singapour/604f9a466d0e96.13242974-360.jpg
+  tras: https://en.numista.com/catalogue/photos/singapour/604f9a6581ec35.42905393-360.jpg

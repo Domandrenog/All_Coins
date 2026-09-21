@@ -1,0 +1,3 @@
+egito-200-pounds-2013-2026:
+  frente: https://en.numista.com/catalogue/photos/egypte/62ffc31db78cd7.59088913-original.jpg
+  tras: https://en.numista.com/catalogue/photos/egypte/62ffc31c0cdef0.30641706-360.jpg

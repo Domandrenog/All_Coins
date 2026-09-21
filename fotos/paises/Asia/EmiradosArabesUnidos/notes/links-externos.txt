@@ -1,0 +1,11 @@
+united-arab-emirates-20-dirhams-2009-2016:
+  frente: https://en.numista.com/catalogue/photos/emirats_arabes_unis/683ebfef8fbf58.73715149-360.jpg
+  tras: https://en.numista.com/catalogue/photos/emirats_arabes_unis/683ebfed731096.45023589-360.jpg
+
+united-arab-emirates-5-dirhams-2022-2024:
+  frente: https://en.numista.com/catalogue/photos/emirats_arabes_unis/630ce029544ff5.35950691-360.jpg
+  tras: https://en.numista.com/catalogue/photos/emirats_arabes_unis/630ce029f20188.29013945-original.jpg
+
+united-arab-emirates-50-dirhams-2021-2026:
+  frente: https://en.numista.com/catalogue/photos/emirats_arabes_unis/63c84303114df6.87719952-360.jpg
+  tras: https://en.numista.com/catalogue/photos/emirats_arabes_unis/63c843021b76b8.00950980-360.jpg

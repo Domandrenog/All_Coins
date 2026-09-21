@@ -1,0 +1,3 @@
+gana-100-cedis-2022:
+  frente: https://en.numista.com/catalogue/photos/ghana/6a367ce79f79a6.68777371-360.jpg
+  tras: https://en.numista.com/catalogue/photos/ghana/6a367ce7f3f265.09044092-360.jpg

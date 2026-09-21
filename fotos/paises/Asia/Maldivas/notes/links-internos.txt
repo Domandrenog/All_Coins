@@ -1,0 +1,7 @@
+maldivas-10-rufiyaa-2015-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Maldivas/notes/frente/maldivas-10-rufiyaa-2015-2018.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Maldivas/notes/tras/maldivas-10-rufiyaa-2015-2018.jpg
+
+maldivas-5-rufiyaa-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Maldivas/notes/frente/maldivas-5-rufiyaa-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Maldivas/notes/tras/maldivas-5-rufiyaa-2017.jpg
