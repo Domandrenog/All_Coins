@@ -31,6 +31,8 @@ BROWSER_DOWNLOAD_ATTEMPTS = 3
 BROWSER_RETRY_DELAY_SECONDS = 5
 API_REQUEST_ATTEMPTS = 3
 API_RETRY_DELAY_SECONDS = 5
+API_RATE_LIMIT_ATTEMPTS = 5
+API_RATE_LIMIT_RETRY_DELAY_SECONDS = 60
 
 
 def load_dotenv(path: Path = Path(".env")) -> None:
@@ -349,13 +351,34 @@ def api_request(method: str, path: str, api_key: str, payload: object | None = N
         headers={"api_key": api_key, "Content-Type": "application/json"},
     )
 
-    for attempt in range(1, API_REQUEST_ATTEMPTS + 1):
+    max_attempts = API_RATE_LIMIT_ATTEMPTS
+    for attempt in range(1, max_attempts + 1):
         try:
             with urlopen(request, timeout=30) as response:
                 response_body = response.read().decode("utf-8")
                 return json.loads(response_body) if response_body else {}
         except HTTPError as exc:
             details = exc.read().decode("utf-8", errors="replace")
+            if exc.code == 429 and attempt < max_attempts:
+                retry_after = exc.headers.get("Retry-After", "")
+                try:
+                    delay = max(float(retry_after), API_RATE_LIMIT_RETRY_DELAY_SECONDS)
+                except ValueError:
+                    delay = API_RATE_LIMIT_RETRY_DELAY_SECONDS
+                print(
+                    f"API: limite de pedidos atingido ({attempt}/{max_attempts}); "
+                    f"a repetir em {format_duration(delay)}."
+                )
+                time.sleep(delay)
+                continue
+            if exc.code in {500, 502, 503, 504} and attempt < API_REQUEST_ATTEMPTS:
+                delay = API_RETRY_DELAY_SECONDS * attempt
+                print(
+                    f"API: HTTP {exc.code} temporário ({attempt}/{API_REQUEST_ATTEMPTS}); "
+                    f"a repetir em {format_duration(delay)}."
+                )
+                time.sleep(delay)
+                continue
             raise RuntimeError(f"API {method} {path} falhou com HTTP {exc.code}: {details}") from exc
         except URLError as exc:
             if attempt == API_REQUEST_ATTEMPTS:
@@ -783,6 +806,8 @@ def main() -> int:
             "frente": str(coin.get("image_frente") or ""),
             "tras": str(coin.get("image_verso") or ""),
         }
+        if source_links == target_links:
+            continue
         has_ucoin_links = "i.ucoin.net" in source_links["frente"].lower() and "i.ucoin.net" in source_links["tras"].lower()
         if not args.include_without_ucoin and not has_ucoin_links:
             print("Saltada: não tem links i.ucoin.net nos dois lados; fica como está.")
