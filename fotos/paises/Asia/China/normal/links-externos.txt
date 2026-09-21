@@ -2,6 +2,10 @@ china-1-fen-2015:
   frente: https://i.ucoin.net/coin/51/104/51104735-2s/china-1-fen-2015.jpg
   tras: https://i.ucoin.net/coin/51/104/51104735-1s/china-1-fen-2015.jpg
 
+china-1-jiao-1981:
+  frente: https://i.ucoin.net/coin/1/926/1926285-1s/china-1-jiao-1981.jpg
+  tras: https://i.ucoin.net/coin/1/926/1926285-2s/china-1-jiao-1981.jpg
+
 china-1-jiao-1992:
   frente: https://i.ucoin.net/coin/62/579/62579000-2s/china-1-jiao-1992.jpg
   tras: https://i.ucoin.net/coin/62/579/62579000-1s/china-1-jiao-1992.jpg
@@ -17,6 +21,10 @@ china-1-jiao-2005:
 china-1-jiao-2019:
   frente: https://i.ucoin.net/coin/28/727/28727042-2s/china-1-jiao-2019.jpg
   tras: https://i.ucoin.net/coin/28/727/28727042-1s/china-1-jiao-2019.jpg
+
+china-1-yuan-1981:
+  frente: https://i.ucoin.net/coin/29/566/29566837-1s/china-1-yuan-1981.jpg
+  tras: https://i.ucoin.net/coin/29/566/29566837-2s/china-1-yuan-1981.jpg
 
 china-1-yuan-1991:
   frente: https://i.ucoin.net/coin/62/581/62581218-2s/china-1-yuan-1991.jpg
@@ -34,9 +42,17 @@ china-2-fen-1982:
   frente: https://i.ucoin.net/coin/47/608/47608710-2s/china-2-fen-1982.jpg
   tras: https://i.ucoin.net/coin/47/608/47608710-1s/china-2-fen-1982.jpg
 
+china-2-jiao-1983:
+  frente: https://i.ucoin.net/coin/75/778/75778654-1s/china-2-jiao-1983.jpg
+  tras: https://i.ucoin.net/coin/75/778/75778654-2s/china-2-jiao-1983.jpg
+
 china-5-fen-1992:
   frente: https://i.ucoin.net/coin/62/581/62581023-2s/china-5-fen-1992.jpg
   tras: https://i.ucoin.net/coin/62/581/62581023-1s/china-5-fen-1992.jpg
+
+china-5-jiao-1983:
+  frente: https://i.ucoin.net/coin/75/778/75778665-1s/china-5-jiao-1983.jpg
+  tras: https://i.ucoin.net/coin/75/778/75778665-2s/china-5-jiao-1983.jpg
 
 china-5-jiao-1997:
   frente: https://i.ucoin.net/coin/74/155/74155480-2s/china-5-jiao-1997.jpg

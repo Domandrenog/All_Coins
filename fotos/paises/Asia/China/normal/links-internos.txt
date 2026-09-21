@@ -2,6 +2,10 @@ china-1-fen-2015:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/China/normal/frente/china-1-fen-2015.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/China/normal/tras/china-1-fen-2015.jpg
 
+china-1-jiao-1981:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/China/normal/frente/china-1-jiao-1981.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/China/normal/tras/china-1-jiao-1981.jpg
+
 china-1-jiao-1992:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/China/normal/frente/china-1-jiao-1992.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/China/normal/tras/china-1-jiao-1992.jpg
@@ -17,6 +21,10 @@ china-1-jiao-2005:
 china-1-jiao-2019:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/China/normal/frente/china-1-jiao-2019.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/China/normal/tras/china-1-jiao-2019.jpg
+
+china-1-yuan-1981:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/China/normal/frente/china-1-yuan-1981.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/China/normal/tras/china-1-yuan-1981.jpg
 
 china-1-yuan-1991:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/China/normal/frente/china-1-yuan-1991.jpg
@@ -34,9 +42,17 @@ china-2-fen-1982:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/China/normal/frente/china-2-fen-1982.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/China/normal/tras/china-2-fen-1982.jpg
 
+china-2-jiao-1983:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/China/normal/frente/china-2-jiao-1983.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/China/normal/tras/china-2-jiao-1983.jpg
+
 china-5-fen-1992:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/China/normal/frente/china-5-fen-1992.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/China/normal/tras/china-5-fen-1992.jpg
+
+china-5-jiao-1983:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/China/normal/frente/china-5-jiao-1983.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/China/normal/tras/china-5-jiao-1983.jpg
 
 china-5-jiao-1997:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/China/normal/frente/china-5-jiao-1997.jpg
