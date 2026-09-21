@@ -69,9 +69,9 @@ python3 -m playwright install chromium
 Também funciona com `chromium`, `chromium-browser`, `google-chrome` ou `google-chrome-stable` já instalados no sistema.
 
 As imagens do Numista podem exigir uma sessão Chrome real por causa do
-Cloudflare. Abre o Chrome com `--remote-debugging-port=9222`, resolve o desafio
-e deixa a janela aberta. O sincronizador de `notes` liga-se a essa sessão sem
-a fechar.
+Cloudflare. No fluxo de `notes`, o `main.py` abre automaticamente uma janela
+temporária, pede para resolver o desafio e reutiliza essa sessão durante todo o
+lote. Quando foi o próprio menu a abrir a janela, tenta fechá-la no fim.
 
 ## Verificar Pendências
 

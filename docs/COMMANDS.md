@@ -57,8 +57,10 @@ por defeito. Usa `--keep-portrait` apenas quando a imagem deva permanecer
 genuinamente vertical. O verificador também assinala ficheiros locais que
 continuem com margens brancas excessivas.
 
-Se o Numista apresentar Cloudflare, abre uma sessão Chrome com depuração na
-porta 9222, resolve o desafio e deixa a janela aberta. O argumento
+Pelo `main.py`, a janela Chrome é aberta automaticamente e o menu espera pela
+confirmação de que o Cloudflare foi resolvido. Ao executar diretamente o
+script técnico, abre uma sessão Chrome com depuração na porta 9222, resolve o
+desafio e deixa a janela aberta. O argumento
 `--cdp-url http://127.0.0.1:9222` já é o valor predefinido.
 
 ## Verificar um país na API

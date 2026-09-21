@@ -4,9 +4,15 @@
 from __future__ import annotations
 
 import json
+import os
+import shutil
 import subprocess
 import sys
+import time
 from pathlib import Path
+from urllib.error import URLError
+from urllib.parse import quote
+from urllib.request import Request, urlopen
 
 from scripts.sync_coin_images_api import country_folder
 
@@ -23,6 +29,11 @@ CATALOG_LABELS = {
     "collection": "Moedas de coleção",
     "notes": "Notas",
 }
+
+NOTES_CDP_URL = "http://127.0.0.1:9222"
+NUMISTA_START_URL = "https://pt.numista.com/"
+NOTES_BROWSER_PROFILE_MARKER = ""
+NOTES_BROWSER_PROCESS: subprocess.Popen[bytes] | None = None
 
 
 def run(command: list[str], *, accepted_codes: set[int] | None = None) -> bool:
@@ -111,6 +122,184 @@ def confirm(message: str) -> bool:
     return input(f"{message}\nEscreve ATUALIZAR para continuar: ").strip() == "ATUALIZAR"
 
 
+def cdp_json(path: str, *, method: str = "GET") -> object:
+    request = Request(f"{NOTES_CDP_URL}{path}", method=method)
+    with urlopen(request, timeout=2) as response:
+        body = response.read().decode("utf-8")
+        return json.loads(body) if body else {}
+
+
+def cdp_is_available() -> bool:
+    try:
+        cdp_json("/json/version")
+        return True
+    except (OSError, URLError, ValueError):
+        return False
+
+
+def numista_is_ready() -> bool:
+    try:
+        targets = cdp_json("/json")
+    except (OSError, URLError, ValueError):
+        return False
+    if not isinstance(targets, list):
+        return False
+    for target in targets:
+        if not isinstance(target, dict):
+            continue
+        url = str(target.get("url") or "").lower()
+        title = str(target.get("title") or "").lower()
+        if "numista.com" not in url:
+            continue
+        if "challenge.php" not in url and "checking connection" not in title:
+            return True
+    return False
+
+
+def open_numista_tab() -> None:
+    encoded_url = quote(NUMISTA_START_URL, safe="")
+    try:
+        cdp_json(f"/json/new?{encoded_url}", method="PUT")
+    except (OSError, URLError, ValueError) as exc:
+        raise RuntimeError("Não foi possível abrir o Numista na sessão Chrome existente.") from exc
+
+
+def powershell_quote(value: str) -> str:
+    return "'" + value.replace("'", "''") + "'"
+
+
+def launch_notes_browser() -> bool:
+    """Abre Chrome com CDP quando necessário; devolve True se o lançou."""
+    global NOTES_BROWSER_PROCESS, NOTES_BROWSER_PROFILE_MARKER
+    if cdp_is_available():
+        if not numista_is_ready():
+            open_numista_tab()
+        return False
+
+    windows_browsers = [
+        (
+            Path("/mnt/c/Program Files/Google/Chrome/Application/chrome.exe"),
+            r"C:\Program Files\Google\Chrome\Application\chrome.exe",
+        ),
+        (
+            Path("/mnt/c/Program Files (x86)/Microsoft/Edge/Application/msedge.exe"),
+            r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe",
+        ),
+    ]
+    powershell = Path("/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/powershell.exe")
+    browser = next((candidate for candidate in windows_browsers if candidate[0].exists()), None)
+    NOTES_BROWSER_PROFILE_MARKER = f"all-coins-notes-{os.getpid()}"
+    if browser is not None and powershell.exists():
+        arguments = [
+            "--incognito",
+            "--remote-debugging-address=0.0.0.0",
+            "--remote-debugging-port=9222",
+            f"--user-data-dir=C:\\Temp\\{NOTES_BROWSER_PROFILE_MARKER}",
+            "--no-first-run",
+            "--no-default-browser-check",
+            NUMISTA_START_URL,
+        ]
+        command = (
+            f"Start-Process -FilePath {powershell_quote(browser[1])} "
+            f"-ArgumentList {','.join(powershell_quote(value) for value in arguments)}"
+        )
+        result = subprocess.run(
+            [str(powershell), "-NoProfile", "-Command", command],
+            cwd=ROOT,
+            capture_output=True,
+            text=True,
+        )
+        if result.returncode != 0:
+            raise RuntimeError(result.stderr or result.stdout or "Não foi possível abrir o Chrome do Windows.")
+    else:
+        executable = next(
+            (shutil.which(name) for name in ("chromium", "chromium-browser", "google-chrome", "google-chrome-stable") if shutil.which(name)),
+            None,
+        )
+        if executable is None:
+            raise RuntimeError("Chrome/Chromium não encontrado para abrir a sessão Numista.")
+        NOTES_BROWSER_PROCESS = subprocess.Popen(
+            [
+                executable,
+                "--incognito",
+                "--remote-debugging-address=127.0.0.1",
+                "--remote-debugging-port=9222",
+                f"--user-data-dir=/tmp/{NOTES_BROWSER_PROFILE_MARKER}",
+                "--no-first-run",
+                "--no-default-browser-check",
+                NUMISTA_START_URL,
+            ],
+            cwd=ROOT,
+            stdout=subprocess.DEVNULL,
+            stderr=subprocess.DEVNULL,
+        )
+
+    for _ in range(60):
+        if cdp_is_available():
+            return True
+        time.sleep(0.25)
+    raise RuntimeError("O Chrome abriu, mas a porta CDP 9222 não ficou disponível em 15 segundos.")
+
+
+def prepare_notes_browser() -> bool:
+    launched = launch_notes_browser()
+    print("\nA janela do Numista está aberta para os downloads das notas.")
+    while not numista_is_ready():
+        input(
+            "Resolve o Cloudflare nessa janela e, quando aparecer a página normal do Numista, "
+            "carrega Enter aqui... "
+        )
+        if not cdp_is_available():
+            raise RuntimeError("A janela Chrome foi fechada antes de concluir o Cloudflare.")
+        if not numista_is_ready():
+            print("O Numista ainda mostra o desafio. Resolve-o na janela e tenta novamente.")
+    print("Numista pronto; a sessão será reutilizada durante o lote.")
+    return launched
+
+
+def close_notes_browser() -> None:
+    global NOTES_BROWSER_PROCESS, NOTES_BROWSER_PROFILE_MARKER
+    marker = NOTES_BROWSER_PROFILE_MARKER
+    if not marker:
+        print("A sessão Chrome já existia antes do menu; ficou aberta.")
+        return
+
+    windows_powershell = Path("/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/powershell.exe")
+    try:
+        if windows_powershell.exists():
+            escaped_marker = marker.replace("'", "''")
+            command = (
+                "Get-CimInstance Win32_Process | "
+                "Where-Object { $_.Name -match 'chrome|msedge' -and "
+                f"$_.CommandLine -like '*{escaped_marker}*' }} | "
+                "ForEach-Object { Stop-Process -Id $_.ProcessId -ErrorAction SilentlyContinue }"
+            )
+            subprocess.run(
+                [str(windows_powershell), "-NoProfile", "-Command", command],
+                cwd=ROOT,
+                capture_output=True,
+                text=True,
+                timeout=15,
+            )
+        elif NOTES_BROWSER_PROCESS is not None and NOTES_BROWSER_PROCESS.poll() is None:
+            NOTES_BROWSER_PROCESS.terminate()
+            try:
+                NOTES_BROWSER_PROCESS.wait(timeout=10)
+            except subprocess.TimeoutExpired:
+                print("A sessão temporária não fechou automaticamente; podes fechar a janela manualmente.")
+                return
+
+        for _ in range(20):
+            if not cdp_is_available():
+                print("Sessão Chrome temporária fechada.")
+                return
+            time.sleep(0.25)
+        print("A sessão temporária ficou aberta; podes fechar a janela manualmente.")
+    finally:
+        NOTES_BROWSER_PROCESS = None
+        NOTES_BROWSER_PROFILE_MARKER = ""
+
+
 def worktree_has_only_country_changes(countries: list[str], catalog: str) -> bool:
     result = subprocess.run(
         ["git", "status", "--porcelain"], cwd=ROOT, capture_output=True, text=True
@@ -158,16 +347,29 @@ def process_countries(countries: list[str], mode: str, catalog: str) -> None:
         print("Operação cancelada.")
         return
 
-    for index, country in enumerate(countries, start=1):
-        print(f"\n===== [{index}/{len(countries)}] {country} =====")
-        sync_script, _ = scripts_for_catalog(catalog)
-        command = catalog_command(sync_script, catalog)
-        command.extend(["--country", country, *arguments])
-        if mode == "full":
-            command.extend(["--git-commit-message", f"Add {country} {catalog} images"])
-        if not run(command):
-            print(f"Processamento interrompido em {country}. Corrige o erro antes de continuar.")
-            return
+    browser_launched = False
+    try:
+        if catalog == "notes" and mode in {"full", "download"}:
+            browser_launched = prepare_notes_browser()
+
+        for index, country in enumerate(countries, start=1):
+            print(f"\n===== [{index}/{len(countries)}] {country} =====")
+            sync_script, _ = scripts_for_catalog(catalog)
+            command = catalog_command(sync_script, catalog)
+            command.extend(["--country", country, *arguments])
+            if catalog == "notes":
+                command.extend(["--cdp-url", NOTES_CDP_URL])
+            if mode == "full":
+                command.extend(["--git-commit-message", f"Add {country} {catalog} images"])
+            if not run(command):
+                print(f"Processamento interrompido em {country}. Corrige o erro antes de continuar.")
+                return
+    except RuntimeError as exc:
+        print(f"Não foi possível preparar o browser das notas: {exc}")
+        return
+    finally:
+        if browser_launched:
+            close_notes_browser()
 
     print("\nOperação concluída.")
 
