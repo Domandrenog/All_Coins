@@ -42,6 +42,11 @@ def clear_screen() -> None:
     print("\033[2J\033[H", end="")
 
 
+def wait_for_continue() -> None:
+    """Mantém o resultado visível até o utilizador voltar ao menu."""
+    input("\nPrima Enter para voltar ao menu...")
+
+
 def run(command: list[str], *, accepted_codes: set[int] | None = None) -> bool:
     print(f"\n$ {' '.join(command)}\n")
     result = subprocess.run(command, cwd=ROOT)
@@ -407,6 +412,7 @@ def main() -> int:
                     print(f"\n===== {CATALOG_LABELS[catalog]} =====")
                     _, check_script = scripts_for_catalog(catalog)
                     run(catalog_command(check_script, catalog), accepted_codes={0, 1})
+                wait_for_continue()
             continue
         modes = {"2": "full", "3": "download", "4": "api"}
         if choice not in modes:
@@ -419,6 +425,7 @@ def main() -> int:
         countries = choose_countries(catalog)
         if countries:
             process_countries(countries, modes[choice], catalog)
+            wait_for_continue()
 
 
 if __name__ == "__main__":
