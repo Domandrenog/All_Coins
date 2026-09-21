@@ -8,11 +8,14 @@ import json
 import os
 import sys
 from collections import defaultdict
+from pathlib import Path
 
 try:
     from .sync_coin_images_api import DEFAULT_RAW_BASE_URL, api_request, load_dotenv
+    from .sync_catalog_images_api import has_excessive_white_border
 except ImportError:
     from sync_coin_images_api import DEFAULT_RAW_BASE_URL, api_request, load_dotenv
+    from sync_catalog_images_api import has_excessive_white_border
 
 
 CATALOGS = {
@@ -82,6 +85,23 @@ def build_report(
         elif not (front_internal and back_internal):
             pending[country].append(row)
 
+    local_image_issues: list[dict[str, object]] = []
+    raw_prefix = raw_base_url.rstrip("/") + "/"
+    for record in records:
+        for side, field in (("frente", "image_frente"), ("verso", "image_verso")):
+            url = str(record.get(field) or "")
+            if not is_internal(url, raw_base_url, catalog):
+                continue
+            path = Path(url.removeprefix(raw_prefix))
+            if not path.exists():
+                local_image_issues.append(
+                    {"id": record.get("id"), "side": side, "path": str(path), "issue": "ficheiro local em falta"}
+                )
+            elif has_excessive_white_border(path):
+                local_image_issues.append(
+                    {"id": record.get("id"), "side": side, "path": str(path), "issue": "margem branca excessiva"}
+                )
+
     return {
         "catalog": catalog,
         "total_records": len(records),
@@ -94,6 +114,8 @@ def build_report(
         "records_pending": sum(len(rows) for rows in pending.values()),
         "records_partial": sum(len(rows) for rows in partial.values()),
         "records_missing": sum(len(rows) for rows in missing.values()),
+        "local_image_issues": len(local_image_issues),
+        "local_image_issue_details": local_image_issues,
         "pending_by_country": dict(sorted(pending.items())),
         "partial_by_country": dict(sorted(partial.items())),
         "missing_by_country": dict(sorted(missing.items())),
@@ -110,15 +132,18 @@ def print_report(report: dict[str, object]) -> None:
         "records_pending",
         "records_partial",
         "records_missing",
+        "local_image_issues",
     ):
         print(f"{field}={report[field]}")
 
     pending = report["pending_by_country"]
     partial = report["partial_by_country"]
     missing = report["missing_by_country"]
+    local_issues = report["local_image_issue_details"]
     assert isinstance(pending, dict)
     assert isinstance(partial, dict)
     assert isinstance(missing, dict)
+    assert isinstance(local_issues, list)
 
     for heading, groups in (
         ("Imagens externas pendentes", pending),
@@ -133,7 +158,12 @@ def print_report(report: dict[str, object]) -> None:
             for row in rows:
                 print(f"  - {row['name']} | {row['year']} | {row['id']}")
 
-    if not pending and not partial and not missing:
+    if local_issues:
+        print("\nProblemas nas imagens locais")
+        for issue in local_issues:
+            print(f"  - {issue['issue']} | {issue['side']} | {issue['path']} | {issue['id']}")
+
+    if not pending and not partial and not missing and not local_issues:
         print("\nOK: todos os pares de imagens desta categoria apontam para o repositório.")
 
 
@@ -150,7 +180,12 @@ def main() -> int:
         print(json.dumps(report, ensure_ascii=False, indent=2))
     else:
         print_report(report)
-    return 1 if report["records_pending"] or report["records_partial"] or report["records_missing"] else 0
+    return 1 if (
+        report["records_pending"]
+        or report["records_partial"]
+        or report["records_missing"]
+        or report["local_image_issues"]
+    ) else 0
 
 
 if __name__ == "__main__":

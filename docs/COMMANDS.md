@@ -51,9 +51,11 @@ python3 scripts/sync_catalog_images_api.py \
   --no-git-push
 ```
 
-O mesmo fluxo aceita `--catalog collection`. As notas verticais são rodadas
-para horizontal por defeito. Usa `--keep-portrait` apenas quando a imagem deva
-permanecer genuinamente vertical.
+O mesmo fluxo aceita `--catalog collection`. As margens brancas excessivas são
+recortadas automaticamente e as notas verticais são rodadas para horizontal
+por defeito. Usa `--keep-portrait` apenas quando a imagem deva permanecer
+genuinamente vertical. O verificador também assinala ficheiros locais que
+continuem com margens brancas excessivas.
 
 Se o Numista apresentar Cloudflare, abre uma sessão Chrome com depuração na
 porta 9222, resolve o desafio e deixa a janela aberta. O argumento

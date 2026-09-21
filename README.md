@@ -246,9 +246,10 @@ fotos/paises/<Continente>/<Pais>/normal/
 `links-externos.txt` guarda os URLs externos originais para referência
 histórica.
 
-Nas notas, o script aplica primeiro a orientação EXIF. Quando a digitalização
-continua vertical, roda-a 90 graus para que a nota fique horizontal antes de
-criar o JPEG final. A opção técnica `--keep-portrait` desativa essa rotação.
+Nas notas, o script aplica primeiro a orientação EXIF e recorta margens brancas
+excessivas. Quando a digitalização continua vertical, roda-a 90 graus para que
+a nota fique horizontal antes de criar o JPEG final. A opção técnica
+`--keep-portrait` desativa essa rotação.
 
 ## Troubleshooting
 

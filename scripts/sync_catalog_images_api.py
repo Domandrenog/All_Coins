@@ -15,7 +15,7 @@ from pathlib import Path
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
-from PIL import Image, ImageOps
+from PIL import Image, ImageChops, ImageOps
 
 try:
     from .sync_coin_images_api import (
@@ -184,11 +184,57 @@ def list_records(api_key: str, args: argparse.Namespace) -> list[dict[str, objec
     return [row for row in data if isinstance(row, dict)]
 
 
-def normalize_image(data: bytes, destination: Path, rotate_portrait: bool) -> bool:
-    """Guarda JPEG com EXIF aplicado e roda digitalizações verticais para horizontal."""
+def excessive_white_border_bbox(image: Image.Image) -> tuple[int, int, int, int] | None:
+    """Devolve o conteúdo quando uma imagem tem margens claras excessivas."""
+    rgb = image.convert("RGB")
+    corners = [
+        rgb.getpixel((0, 0)),
+        rgb.getpixel((rgb.width - 1, 0)),
+        rgb.getpixel((0, rgb.height - 1)),
+        rgb.getpixel((rgb.width - 1, rgb.height - 1)),
+    ]
+    background = tuple(sorted(corner[channel] for corner in corners)[2] for channel in range(3))
+    if min(background) < 225:
+        return None
+
+    difference = ImageChops.difference(rgb, Image.new("RGB", rgb.size, background)).convert("L")
+    mask = difference.point(lambda value: 255 if value > 14 else 0)
+    bbox = mask.getbbox()
+    if bbox is None:
+        return None
+    width_coverage = (bbox[2] - bbox[0]) / rgb.width
+    height_coverage = (bbox[3] - bbox[1]) / rgb.height
+    if width_coverage >= 0.85 and height_coverage >= 0.85:
+        return None
+    return bbox
+
+
+def has_excessive_white_border(path: Path) -> bool:
+    with Image.open(path) as source:
+        image = ImageOps.exif_transpose(source)
+        return excessive_white_border_bbox(image) is not None
+
+
+def trim_excessive_white_border(image: Image.Image) -> tuple[Image.Image, bool]:
+    bbox = excessive_white_border_bbox(image)
+    if bbox is None:
+        return image, False
+    padding = max(4, round(min(image.size) * 0.01))
+    padded_bbox = (
+        max(0, bbox[0] - padding),
+        max(0, bbox[1] - padding),
+        min(image.width, bbox[2] + padding),
+        min(image.height, bbox[3] + padding),
+    )
+    return image.crop(padded_bbox), True
+
+
+def normalize_image(data: bytes, destination: Path, rotate_portrait: bool) -> tuple[bool, bool]:
+    """Guarda JPEG com EXIF, recorte de margens e orientação normalizados."""
     destination.parent.mkdir(parents=True, exist_ok=True)
     with Image.open(BytesIO(data)) as source:
         image = ImageOps.exif_transpose(source)
+        image, cropped = trim_excessive_white_border(image)
         rotated = rotate_portrait and image.height > image.width
         if rotated:
             image = image.transpose(Image.Transpose.ROTATE_270)
@@ -200,7 +246,7 @@ def normalize_image(data: bytes, destination: Path, rotate_portrait: bool) -> bo
         elif image.mode != "RGB":
             image = image.convert("RGB")
         image.save(destination, format="JPEG", quality=95, optimize=True)
-    return rotated
+    return rotated, cropped
 
 
 class CdpImageDownloader:
@@ -307,15 +353,16 @@ def download_and_normalize(
     overwrite: bool,
     rotate_portrait: bool,
     cdp_downloader: CdpImageDownloader | None,
-) -> tuple[str, bool]:
+) -> tuple[str, bool, bool]:
     if destination.exists() and not overwrite:
-        return "exists", False
+        return "exists", False, False
 
     last_error: Exception | None = None
     for attempt in range(1, DOWNLOAD_ATTEMPTS + 1):
         try:
             data = direct_download(url, referer_url)
-            return "downloaded", normalize_image(data, destination, rotate_portrait)
+            rotated, cropped = normalize_image(data, destination, rotate_portrait)
+            return "downloaded", rotated, cropped
         except (HTTPError, URLError, RuntimeError) as exc:
             last_error = exc
             if attempt < DOWNLOAD_ATTEMPTS and not isinstance(exc, HTTPError):
@@ -325,7 +372,8 @@ def download_and_normalize(
 
     if cdp_downloader is not None:
         data = cdp_downloader.download(url, referer_url)
-        return "downloaded-browser", normalize_image(data, destination, rotate_portrait)
+        rotated, cropped = normalize_image(data, destination, rotate_portrait)
+        return "downloaded-browser", rotated, cropped
     raise RuntimeError(f"Falha ao descarregar {url}: {last_error}")
 
 
@@ -420,7 +468,7 @@ def main() -> int:
                 if not (args.apply or args.download_only):
                     print(f"Download {side}: dry-run -> {target_files[side]}")
                     continue
-                status, rotated = download_and_normalize(
+                status, rotated, cropped = download_and_normalize(
                     source[side],
                     target_files[side],
                     referer,
@@ -428,8 +476,13 @@ def main() -> int:
                     args.catalog == "notes" and not args.keep_portrait,
                     browser,
                 )
-                rotation = " | rodada para horizontal" if rotated else ""
-                print(f"Download {side}: {status}{rotation} -> {target_files[side]}")
+                adjustments = []
+                if cropped:
+                    adjustments.append("margens excessivas recortadas")
+                if rotated:
+                    adjustments.append("rodada para horizontal")
+                adjustment_text = f" | {', '.join(adjustments)}" if adjustments else ""
+                print(f"Download {side}: {status}{adjustment_text} -> {target_files[side]}")
 
         if args.apply and not args.download_current and not args.download_only:
             missing = [side for side, path in target_files.items() if not path.exists()]
