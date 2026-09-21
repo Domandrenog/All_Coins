@@ -34,6 +34,10 @@ poland-10-groszy-2021:
   frente: https://i.ucoin.net/coin/61/810/61810832-2s/poland-10-groszy-2021.jpg
   tras: https://i.ucoin.net/coin/61/810/61810832-1s/poland-10-groszy-2021.jpg
 
+poland-100-zlotych-1990:
+  frente: https://i.ucoin.net/coin/72/083/72083811-1s/poland-100-zlotych-1990.jpg
+  tras: https://i.ucoin.net/coin/72/083/72083811-2s/poland-100-zlotych-1990.jpg
+
 poland-2-grosze-2008:
   frente: https://i.ucoin.net/coin/62/732/62732004-2s/poland-2-grosze-2008.jpg
   tras: https://i.ucoin.net/coin/62/732/62732004-1s/poland-2-grosze-2008.jpg
@@ -89,3 +93,7 @@ poland-50-groszy-2017:
 poland-50-groszy-2022:
   frente: https://i.ucoin.net/coin/66/733/66733404-2s/poland-50-groszy-2022.jpg
   tras: https://i.ucoin.net/coin/66/733/66733404-1s/poland-50-groszy-2022.jpg
+
+poland-50-zlotych-1990:
+  frente: https://i.ucoin.net/coin/72/082/72082797-1s/poland-50-zlotych-1990.jpg
+  tras: https://i.ucoin.net/coin/72/082/72082797-2s/poland-50-zlotych-1990.jpg

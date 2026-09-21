@@ -34,6 +34,10 @@ poland-10-groszy-2021:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Polonia/normal/frente/poland-10-groszy-2021.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Polonia/normal/tras/poland-10-groszy-2021.jpg
 
+poland-100-zlotych-1990:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Polonia/normal/frente/poland-100-zlotych-1990.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Polonia/normal/tras/poland-100-zlotych-1990.jpg
+
 poland-2-grosze-2008:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Polonia/normal/frente/poland-2-grosze-2008.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Polonia/normal/tras/poland-2-grosze-2008.jpg
@@ -89,3 +93,7 @@ poland-50-groszy-2017:
 poland-50-groszy-2022:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Polonia/normal/frente/poland-50-groszy-2022.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Polonia/normal/tras/poland-50-groszy-2022.jpg
+
+poland-50-zlotych-1990:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Polonia/normal/frente/poland-50-zlotych-1990.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Polonia/normal/tras/poland-50-zlotych-1990.jpg
