@@ -1,0 +1,31 @@
+romania-1-ban-2005:
+  frente: https://i.ucoin.net/coin/27/168/27168173-2s/romania-1-ban-2005.jpg
+  tras: https://i.ucoin.net/coin/27/168/27168173-1s/romania-1-ban-2005.jpg
+
+romania-1-ban-2019:
+  frente: https://i.ucoin.net/coin/52/641/52641936-2s/romania-1-ban-2019.jpg
+  tras: https://i.ucoin.net/coin/52/641/52641936-1s/romania-1-ban-2019.jpg
+
+romania-10-bani-2012:
+  frente: https://i.ucoin.net/coin/31/630/31630749-2s/romania-10-bani-2012.jpg
+  tras: https://i.ucoin.net/coin/31/630/31630749-1s/romania-10-bani-2012.jpg
+
+romania-10-bani-2020:
+  frente: https://i.ucoin.net/coin/31/631/31631245-2s/romania-10-bani-2020.jpg
+  tras: https://i.ucoin.net/coin/31/631/31631245-1s/romania-10-bani-2020.jpg
+
+romania-5-bani-2014:
+  frente: https://i.ucoin.net/coin/3/392/3392056-2s/romania-5-bani-2014.jpg
+  tras: https://i.ucoin.net/coin/3/392/3392056-1s/romania-5-bani-2014.jpg
+
+romania-5-bani-2018:
+  frente: https://i.ucoin.net/coin/31/631/31631239-2s/romania-5-bani-2018.jpg
+  tras: https://i.ucoin.net/coin/31/631/31631239-1s/romania-5-bani-2018.jpg
+
+romania-50-bani-2012:
+  frente: https://i.ucoin.net/coin/31/630/31630757-2s/romania-50-bani-2012.jpg
+  tras: https://i.ucoin.net/coin/31/630/31630757-1s/romania-50-bani-2012.jpg
+
+romania-50-bani-2018:
+  frente: https://i.ucoin.net/coin/28/825/28825002-2s/romania-50-bani-2018.jpg
+  tras: https://i.ucoin.net/coin/28/825/28825002-1s/romania-50-bani-2018.jpg

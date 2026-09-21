@@ -5,7 +5,7 @@ com o mesmo nome no diretório escolhido.
 
 Exemplos:
     python3 scripts/download_images.py --url "https://..." --output Bielorrussia
-    python3 scripts/download_images.py --input links.txt --output Bielorrussia
+    python3 scripts/download_images.py --input links-externos.txt --output fotos/paises/Europa/Bielorrussia/normal
     python3 scripts/download_images.py --input logs.txt --output Bielorrussia --base-url https://i.ucoin.net
 """
 
@@ -85,7 +85,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--links-base-url",
         default="https://raw.githubusercontent.com/Domandrenog/All_Coins/main",
-        help="Base URL para gerar links.txt prontos para copiar (default: raw do GitHub)",
+        help="Base URL para gerar links-internos.txt prontos para copiar (default: raw do GitHub)",
     )
     return parser.parse_args()
 
@@ -379,7 +379,12 @@ def target_path_for_url(url: str, out_dir: Path) -> Path:
     return side_dir / filename
 
 
-def write_grouped_links_file(out_dir: Path, rel_paths: list[Path], links_base_url: str, file_name: str = "links.txt") -> None:
+def write_grouped_links_file(
+    out_dir: Path,
+    rel_paths: list[Path],
+    links_base_url: str,
+    file_name: str = "links-internos.txt",
+) -> None:
     base = links_base_url.rstrip("/")
     grouped: dict[str, dict[str, str]] = {}
 
@@ -523,14 +528,17 @@ def main() -> int:
         if success:
             ok += 1
             target = target_path_for_url(url, output_dir)
-            rel_target = target.relative_to(output_dir.parent)
+            try:
+                rel_target = target.resolve().relative_to(Path.cwd().resolve())
+            except ValueError:
+                rel_target = target.relative_to(output_dir.parent)
             downloaded_rel_paths.append(rel_target)
         else:
             fail += 1
 
     if ok > 0:
-        write_grouped_links_file(output_dir, downloaded_rel_paths, args.links_base_url, "links.txt")
-        print("Ficheiro de links gerado na raiz: links.txt (agrupado por moeda)")
+        write_grouped_links_file(output_dir, downloaded_rel_paths, args.links_base_url, "links-internos.txt")
+        print("Ficheiro de links gerado na raiz: links-internos.txt (agrupado por moeda)")
 
     print(f"\nResumo: {ok} sucesso(s), {fail} falha(s).")
     return 0 if ok > 0 else 2

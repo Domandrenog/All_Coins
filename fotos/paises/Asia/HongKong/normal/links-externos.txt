@@ -1,0 +1,31 @@
+hong-kong-1-dollar-1993:
+  frente: https://i.ucoin.net/coin/73/898/73898047-2s/hong_kong-1-dollar-1993.jpg
+  tras: https://i.ucoin.net/coin/73/898/73898047-1s/hong_kong-1-dollar-1993.jpg
+
+hong-kong-1-dollar-2013:
+  frente: https://i.ucoin.net/coin/47/698/47698318-2s/hong_kong-1-dollar-2013.jpg
+  tras: https://i.ucoin.net/coin/47/698/47698318-1s/hong_kong-1-dollar-2013.jpg
+
+hong-kong-10-cents-1998:
+  frente: https://i.ucoin.net/coin/47/694/47694263-2s/hong_kong-10-cents-1998.jpg
+  tras: https://i.ucoin.net/coin/47/694/47694263-1s/hong_kong-10-cents-1998.jpg
+
+hong-kong-10-dollars-1995:
+  frente: https://i.ucoin.net/coin/47/685/47685053-2s/hong_kong-10-dollars-1995.jpg
+  tras: https://i.ucoin.net/coin/47/685/47685053-1s/hong_kong-10-dollars-1995.jpg
+
+hong-kong-2-dollars-2015:
+  frente: https://i.ucoin.net/coin/20/618/20618416-2s/hong_kong-2-dollars-2015.jpg
+  tras: https://i.ucoin.net/coin/20/618/20618416-1s/hong_kong-2-dollars-2015.jpg
+
+hong-kong-20-cents-1994:
+  frente: https://i.ucoin.net/coin/75/179/75179452-2s/hong_kong-20-cents-1994.jpg
+  tras: https://i.ucoin.net/coin/75/179/75179452-1s/hong_kong-20-cents-1994.jpg
+
+hong-kong-5-dollars-1998:
+  frente: https://i.ucoin.net/coin/16/359/16359302-2s/hong_kong-5-dollars-1998.jpg
+  tras: https://i.ucoin.net/coin/16/359/16359302-1s/hong_kong-5-dollars-1998.jpg
+
+hong-kong-50-cents-1993:
+  frente: https://i.ucoin.net/coin/47/685/47685150-2s/hong_kong-50-cents-1993.jpg
+  tras: https://i.ucoin.net/coin/47/685/47685150-1s/hong_kong-50-cents-1993.jpg

@@ -1,0 +1,731 @@
+united-kingdom-1-2-crown-1907:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-2-crown-1907.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-2-crown-1907.jpg
+
+united-kingdom-1-2-crown-1915:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-2-crown-1915.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-2-crown-1915.jpg
+
+united-kingdom-1-2-crown-1923:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-2-crown-1923.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-2-crown-1923.jpg
+
+united-kingdom-1-2-crown-1927:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-2-crown-1927.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-2-crown-1927.jpg
+
+united-kingdom-1-2-crown-1931:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-2-crown-1931.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-2-crown-1931.jpg
+
+united-kingdom-1-2-crown-1944:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-2-crown-1944.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-2-crown-1944.jpg
+
+united-kingdom-1-2-crown-1947:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-2-crown-1947.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-2-crown-1947.jpg
+
+united-kingdom-1-2-crown-1949:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-2-crown-1949.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-2-crown-1949.jpg
+
+united-kingdom-1-2-crown-1953:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-2-crown-1953.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-2-crown-1953.jpg
+
+united-kingdom-1-2-crown-1970:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-2-crown-1970.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-2-crown-1970.jpg
+
+united-kingdom-1-2-new-penny-1971:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-2-new-penny-1971.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-2-new-penny-1971.jpg
+
+united-kingdom-1-2-penny-1910:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-2-penny-1910.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-2-penny-1910.jpg
+
+united-kingdom-1-2-penny-1912:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-2-penny-1912.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-2-penny-1912.jpg
+
+united-kingdom-1-2-penny-1927:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-2-penny-1927.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-2-penny-1927.jpg
+
+united-kingdom-1-2-penny-1935:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-2-penny-1935.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-2-penny-1935.jpg
+
+united-kingdom-1-2-penny-1946:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-2-penny-1946.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-2-penny-1946.jpg
+
+united-kingdom-1-2-penny-1951:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-2-penny-1951.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-2-penny-1951.jpg
+
+united-kingdom-1-2-penny-1953:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-2-penny-1953.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-2-penny-1953.jpg
+
+united-kingdom-1-2-penny-1958:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-2-penny-1958.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-2-penny-1958.jpg
+
+united-kingdom-1-2-penny-1984:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-2-penny-1984.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-2-penny-1984.jpg
+
+united-kingdom-1-2-pound-1904:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-2-pound-1904.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-2-pound-1904.jpg
+
+united-kingdom-1-2-pound-1911:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-2-pound-1911.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-2-pound-1911.jpg
+
+united-kingdom-1-2-pound-1937:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-2-pound-1937.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-2-pound-1937.jpg
+
+united-kingdom-1-3-farthing-1902:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-3-farthing-1902.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-3-farthing-1902.jpg
+
+united-kingdom-1-3-farthing-1913:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-3-farthing-1913.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-3-farthing-1913.jpg
+
+united-kingdom-1-crown-1902:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-crown-1902.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-crown-1902.jpg
+
+united-kingdom-1-crown-1929:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-crown-1929.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-crown-1929.jpg
+
+united-kingdom-1-farthing-1902:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-farthing-1902.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-farthing-1902.jpg
+
+united-kingdom-1-farthing-1913:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-farthing-1913.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-farthing-1913.jpg
+
+united-kingdom-1-farthing-1932:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-farthing-1932.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-farthing-1932.jpg
+
+united-kingdom-1-farthing-1937:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-farthing-1937.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-farthing-1937.jpg
+
+united-kingdom-1-farthing-1951:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-farthing-1951.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-farthing-1951.jpg
+
+united-kingdom-1-farthing-1953:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-farthing-1953.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-farthing-1953.jpg
+
+united-kingdom-1-farthing-1955:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-farthing-1955.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-farthing-1955.jpg
+
+united-kingdom-1-new-penny-1976:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-new-penny-1976.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-new-penny-1976.jpg
+
+united-kingdom-1-penny-1904:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-penny-1904.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-penny-1904.jpg
+
+united-kingdom-1-penny-1907:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-penny-1907.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-penny-1907.jpg
+
+united-kingdom-1-penny-1920:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-penny-1920.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-penny-1920.jpg
+
+united-kingdom-1-penny-1927:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-penny-1927.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-penny-1927.jpg
+
+united-kingdom-1-penny-1935:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-penny-1935.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-penny-1935.jpg
+
+united-kingdom-1-penny-1937:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-penny-1937.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-penny-1937.jpg
+
+united-kingdom-1-penny-1947:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-penny-1947.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-penny-1947.jpg
+
+united-kingdom-1-penny-1948:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-penny-1948.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-penny-1948.jpg
+
+united-kingdom-1-penny-1950:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-penny-1950.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-penny-1950.jpg
+
+united-kingdom-1-penny-1952:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-penny-1952.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-penny-1952.jpg
+
+united-kingdom-1-penny-1953:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-penny-1953.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-penny-1953.jpg
+
+united-kingdom-1-penny-1967:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-penny-1967.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-penny-1967.jpg
+
+united-kingdom-1-penny-1982:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-penny-1982.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-penny-1982.jpg
+
+united-kingdom-1-penny-1985:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-penny-1985.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-penny-1985.jpg
+
+united-kingdom-1-penny-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-penny-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-penny-1992.jpg
+
+united-kingdom-1-penny-1998:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-penny-1998.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-penny-1998.jpg
+
+united-kingdom-1-penny-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-penny-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-penny-1999.jpg
+
+united-kingdom-1-penny-2011:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-penny-2011.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-penny-2011.jpg
+
+united-kingdom-1-penny-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-penny-2019.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-penny-2019.jpg
+
+united-kingdom-1-penny-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-penny-2025.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-penny-2025.jpg
+
+united-kingdom-1-pound-1903:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-pound-1903.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-pound-1903.jpg
+
+united-kingdom-1-pound-1911:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-pound-1911.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-pound-1911.jpg
+
+united-kingdom-1-pound-1983:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-pound-1983.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-pound-1983.jpg
+
+united-kingdom-1-pound-1984:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-pound-1984.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-pound-1984.jpg
+
+united-kingdom-1-pound-1985:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-pound-1985.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-pound-1985.jpg
+
+united-kingdom-1-pound-1986:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-pound-1986.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-pound-1986.jpg
+
+united-kingdom-1-pound-1988:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-pound-1988.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-pound-1988.jpg
+
+united-kingdom-1-pound-1989:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-pound-1989.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-pound-1989.jpg
+
+united-kingdom-1-pound-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-pound-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-pound-1992.jpg
+
+united-kingdom-1-pound-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-pound-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-pound-1993.jpg
+
+united-kingdom-1-pound-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-pound-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-pound-1994.jpg
+
+united-kingdom-1-pound-1995:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-pound-1995.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-pound-1995.jpg
+
+united-kingdom-1-pound-1996:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-pound-1996.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-pound-1996.jpg
+
+united-kingdom-1-pound-1997:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-pound-1997.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-pound-1997.jpg
+
+united-kingdom-1-pound-1998:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-pound-1998.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-pound-1998.jpg
+
+united-kingdom-1-pound-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-pound-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-pound-1999.jpg
+
+united-kingdom-1-pound-2000:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-pound-2000.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-pound-2000.jpg
+
+united-kingdom-1-pound-2001:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-pound-2001.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-pound-2001.jpg
+
+united-kingdom-1-pound-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-pound-2002.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-pound-2002.jpg
+
+united-kingdom-1-pound-2004:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-pound-2004.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-pound-2004.jpg
+
+united-kingdom-1-pound-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-pound-2005.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-pound-2005.jpg
+
+united-kingdom-1-pound-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-pound-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-pound-2006.jpg
+
+united-kingdom-1-pound-2007:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-pound-2007.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-pound-2007.jpg
+
+united-kingdom-1-pound-2008:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-pound-2008.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-pound-2008.jpg
+
+united-kingdom-1-pound-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-pound-2015.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-pound-2015.jpg
+
+united-kingdom-1-pound-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-pound-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-pound-2017.jpg
+
+united-kingdom-1-pound-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-pound-2025.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-pound-2025.jpg
+
+united-kingdom-1-shilling-1905:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-shilling-1905.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-shilling-1905.jpg
+
+united-kingdom-1-shilling-1917:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-shilling-1917.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-shilling-1917.jpg
+
+united-kingdom-1-shilling-1923:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-shilling-1923.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-shilling-1923.jpg
+
+united-kingdom-1-shilling-1927:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-shilling-1927.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-shilling-1927.jpg
+
+united-kingdom-1-shilling-1936:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-shilling-1936.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-shilling-1936.jpg
+
+united-kingdom-1-shilling-1939:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-shilling-1939.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-shilling-1939.jpg
+
+united-kingdom-1-shilling-1946:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-shilling-1946.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-shilling-1946.jpg
+
+united-kingdom-1-shilling-1947-1-shilling-1947-1948-rei-jorge-vi:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-shilling-1947-1-shilling-1947-1948-rei-jorge-vi.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-shilling-1947-1-shilling-1947-1948-rei-jorge-vi.jpg
+
+united-kingdom-1-shilling-1947-1-shilling-1947-1948-rei-jorge-vi-527e927c:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-shilling-1947-1-shilling-1947-1948-rei-jorge-vi-527e927c.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-shilling-1947-1-shilling-1947-1948-rei-jorge-vi-527e927c.jpg
+
+united-kingdom-1-shilling-1950:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-shilling-1950.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-shilling-1950.jpg
+
+united-kingdom-1-shilling-1951:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-shilling-1951.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-shilling-1951.jpg
+
+united-kingdom-1-shilling-1953-1-shilling-1953-rainha-isabel-ii:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-shilling-1953-1-shilling-1953-rainha-isabel-ii.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-shilling-1953-1-shilling-1953-rainha-isabel-ii.jpg
+
+united-kingdom-1-shilling-1953-1-shilling-1953-rainha-isabel-ii-60d00ef6:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-shilling-1953-1-shilling-1953-rainha-isabel-ii-60d00ef6.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-shilling-1953-1-shilling-1953-rainha-isabel-ii-60d00ef6.jpg
+
+united-kingdom-1-shilling-1956:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-shilling-1956.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-shilling-1956.jpg
+
+united-kingdom-1-shilling-1963:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-1-shilling-1963.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-1-shilling-1963.jpg
+
+united-kingdom-10-new-pence-1968:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-10-new-pence-1968.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-10-new-pence-1968.jpg
+
+united-kingdom-10-pence-1984:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-10-pence-1984.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-10-pence-1984.jpg
+
+united-kingdom-10-pence-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-10-pence-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-10-pence-1992.jpg
+
+united-kingdom-10-pence-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-10-pence-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-10-pence-1993.jpg
+
+united-kingdom-10-pence-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-10-pence-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-10-pence-2006.jpg
+
+united-kingdom-10-pence-2008:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-10-pence-2008.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-10-pence-2008.jpg
+
+united-kingdom-10-pence-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-10-pence-2015.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-10-pence-2015.jpg
+
+united-kingdom-10-pence-2020:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-10-pence-2020.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-10-pence-2020.jpg
+
+united-kingdom-10-pence-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-10-pence-2025.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-10-pence-2025.jpg
+
+united-kingdom-2-new-pence-1971:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-2-new-pence-1971.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-2-new-pence-1971.jpg
+
+united-kingdom-2-pence-1902:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-2-pence-1902.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-2-pence-1902.jpg
+
+united-kingdom-2-pence-1938:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-2-pence-1938.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-2-pence-1938.jpg
+
+united-kingdom-2-pence-1948:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-2-pence-1948.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-2-pence-1948.jpg
+
+united-kingdom-2-pence-1950:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-2-pence-1950.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-2-pence-1950.jpg
+
+united-kingdom-2-pence-1984:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-2-pence-1984.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-2-pence-1984.jpg
+
+united-kingdom-2-pence-1989:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-2-pence-1989.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-2-pence-1989.jpg
+
+united-kingdom-2-pence-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-2-pence-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-2-pence-1992.jpg
+
+united-kingdom-2-pence-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-2-pence-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-2-pence-1999.jpg
+
+united-kingdom-2-pence-2008-2-pence-1998-2008-rainha-isabel-ii:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-2-pence-2008-2-pence-1998-2008-rainha-isabel-ii.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-2-pence-2008-2-pence-1998-2008-rainha-isabel-ii.jpg
+
+united-kingdom-2-pence-2008-2-pence-2008-2015-rainha-isabel-ii:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-2-pence-2008-2-pence-2008-2015-rainha-isabel-ii.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-2-pence-2008-2-pence-2008-2015-rainha-isabel-ii.jpg
+
+united-kingdom-2-pence-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-2-pence-2015.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-2-pence-2015.jpg
+
+united-kingdom-2-pence-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-2-pence-2025.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-2-pence-2025.jpg
+
+united-kingdom-2-pounds-1902:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-2-pounds-1902.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-2-pounds-1902.jpg
+
+united-kingdom-2-pounds-1997:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-2-pounds-1997.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-2-pounds-1997.jpg
+
+united-kingdom-2-pounds-2011:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-2-pounds-2011.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-2-pounds-2011.jpg
+
+united-kingdom-2-pounds-2020:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-2-pounds-2020.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-2-pounds-2020.jpg
+
+united-kingdom-2-pounds-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-2-pounds-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-2-pounds-2024.jpg
+
+united-kingdom-2-shillings-1903:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-2-shillings-1903.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-2-shillings-1903.jpg
+
+united-kingdom-2-shillings-1919:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-2-shillings-1919.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-2-shillings-1919.jpg
+
+united-kingdom-2-shillings-1921:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-2-shillings-1921.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-2-shillings-1921.jpg
+
+united-kingdom-2-shillings-1933:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-2-shillings-1933.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-2-shillings-1933.jpg
+
+united-kingdom-2-shillings-1944:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-2-shillings-1944.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-2-shillings-1944.jpg
+
+united-kingdom-2-shillings-1948:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-2-shillings-1948.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-2-shillings-1948.jpg
+
+united-kingdom-2-shillings-1949:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-2-shillings-1949.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-2-shillings-1949.jpg
+
+united-kingdom-2-shillings-1953:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-2-shillings-1953.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-2-shillings-1953.jpg
+
+united-kingdom-2-shillings-1966:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-2-shillings-1966.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-2-shillings-1966.jpg
+
+united-kingdom-20-pence-1984:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-20-pence-1984.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-20-pence-1984.jpg
+
+united-kingdom-20-pence-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-20-pence-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-20-pence-1993.jpg
+
+united-kingdom-20-pence-2007:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-20-pence-2007.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-20-pence-2007.jpg
+
+united-kingdom-20-pence-2008-20-pence-2008-2015-rainha-isabel-ii:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-20-pence-2008-20-pence-2008-2015-rainha-isabel-ii.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-20-pence-2008-20-pence-2008-2015-rainha-isabel-ii.jpg
+
+united-kingdom-20-pence-2008-20-pence-2008-rainha-isabel-ii:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-20-pence-2008-20-pence-2008-rainha-isabel-ii.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-20-pence-2008-20-pence-2008-rainha-isabel-ii.jpg
+
+united-kingdom-20-pence-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-20-pence-2019.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-20-pence-2019.jpg
+
+united-kingdom-20-pence-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-20-pence-2025.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-20-pence-2025.jpg
+
+united-kingdom-3-pence-1908:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-3-pence-1908.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-3-pence-1908.jpg
+
+united-kingdom-3-pence-1918:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-3-pence-1918.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-3-pence-1918.jpg
+
+united-kingdom-3-pence-1920:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-3-pence-1920.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-3-pence-1920.jpg
+
+united-kingdom-3-pence-1933:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-3-pence-1933.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-3-pence-1933.jpg
+
+united-kingdom-3-pence-1939:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-3-pence-1939.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-3-pence-1939.jpg
+
+united-kingdom-3-pence-1941:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-3-pence-1941.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-3-pence-1941.jpg
+
+united-kingdom-3-pence-1944:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-3-pence-1944.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-3-pence-1944.jpg
+
+united-kingdom-3-pence-1950:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-3-pence-1950.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-3-pence-1950.jpg
+
+united-kingdom-3-pence-1952:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-3-pence-1952.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-3-pence-1952.jpg
+
+united-kingdom-3-pence-1953:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-3-pence-1953.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-3-pence-1953.jpg
+
+united-kingdom-3-pence-1962:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-3-pence-1962.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-3-pence-1962.jpg
+
+united-kingdom-4-pence-1906:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-4-pence-1906.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-4-pence-1906.jpg
+
+united-kingdom-4-pence-1937:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-4-pence-1937.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-4-pence-1937.jpg
+
+united-kingdom-4-pence-1948:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-4-pence-1948.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-4-pence-1948.jpg
+
+united-kingdom-4-pence-1950:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-4-pence-1950.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-4-pence-1950.jpg
+
+united-kingdom-5-new-pence-1968:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-5-new-pence-1968.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-5-new-pence-1968.jpg
+
+united-kingdom-5-pence-1984:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-5-pence-1984.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-5-pence-1984.jpg
+
+united-kingdom-5-pence-1989:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-5-pence-1989.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-5-pence-1989.jpg
+
+united-kingdom-5-pence-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-5-pence-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-5-pence-1993.jpg
+
+united-kingdom-5-pence-2004:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-5-pence-2004.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-5-pence-2004.jpg
+
+united-kingdom-5-pence-2010:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-5-pence-2010.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-5-pence-2010.jpg
+
+united-kingdom-5-pence-2013:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-5-pence-2013.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-5-pence-2013.jpg
+
+united-kingdom-5-pence-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-5-pence-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-5-pence-2017.jpg
+
+united-kingdom-5-pence-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-5-pence-2025.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-5-pence-2025.jpg
+
+united-kingdom-5-pounds-1902:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-5-pounds-1902.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-5-pounds-1902.jpg
+
+united-kingdom-50-new-pence-1977:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-50-new-pence-1977.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-50-new-pence-1977.jpg
+
+united-kingdom-50-pence-1984:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-50-pence-1984.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-50-pence-1984.jpg
+
+united-kingdom-50-pence-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-50-pence-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-50-pence-1993.jpg
+
+united-kingdom-50-pence-1997:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-50-pence-1997.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-50-pence-1997.jpg
+
+united-kingdom-50-pence-2007:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-50-pence-2007.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-50-pence-2007.jpg
+
+united-kingdom-50-pence-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-50-pence-2009.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-50-pence-2009.jpg
+
+united-kingdom-50-pence-2020:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-50-pence-2020.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-50-pence-2020.jpg
+
+united-kingdom-50-pence-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-50-pence-2025.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-50-pence-2025.jpg
+
+united-kingdom-6-pence-1905:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-6-pence-1905.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-6-pence-1905.jpg
+
+united-kingdom-6-pence-1912:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-6-pence-1912.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-6-pence-1912.jpg
+
+united-kingdom-6-pence-1926:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-6-pence-1926.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-6-pence-1926.jpg
+
+united-kingdom-6-pence-1927:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-6-pence-1927.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-6-pence-1927.jpg
+
+united-kingdom-6-pence-1933:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-6-pence-1933.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-6-pence-1933.jpg
+
+united-kingdom-6-pence-1941:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-6-pence-1941.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-6-pence-1941.jpg
+
+united-kingdom-6-pence-1947:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-6-pence-1947.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-6-pence-1947.jpg
+
+united-kingdom-6-pence-1951:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-6-pence-1951.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-6-pence-1951.jpg
+
+united-kingdom-6-pence-1953:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-6-pence-1953.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-6-pence-1953.jpg
+
+united-kingdom-6-pence-1970:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/frente/united-kingdom-6-pence-1970.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/ReinoUnido/normal/tras/united-kingdom-6-pence-1970.jpg

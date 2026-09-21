@@ -1,0 +1,51 @@
+china-1-fen-2015:
+  frente: https://i.ucoin.net/coin/51/104/51104735-2s/china-1-fen-2015.jpg
+  tras: https://i.ucoin.net/coin/51/104/51104735-1s/china-1-fen-2015.jpg
+
+china-1-jiao-1992:
+  frente: https://i.ucoin.net/coin/62/579/62579000-2s/china-1-jiao-1992.jpg
+  tras: https://i.ucoin.net/coin/62/579/62579000-1s/china-1-jiao-1992.jpg
+
+china-1-jiao-1999:
+  frente: https://i.ucoin.net/coin/57/809/57809430-1s/china-1-jiao-1999.jpg
+  tras: https://i.ucoin.net/coin/57/809/57809430-2s/china-1-jiao-1999.jpg
+
+china-1-jiao-2005:
+  frente: https://i.ucoin.net/coin/80/760/80760120-2s/china-1-jiao-2005.jpg
+  tras: https://i.ucoin.net/coin/80/760/80760120-1s/china-1-jiao-2005.jpg
+
+china-1-jiao-2019:
+  frente: https://i.ucoin.net/coin/28/727/28727042-2s/china-1-jiao-2019.jpg
+  tras: https://i.ucoin.net/coin/28/727/28727042-1s/china-1-jiao-2019.jpg
+
+china-1-yuan-1991:
+  frente: https://i.ucoin.net/coin/62/581/62581218-2s/china-1-yuan-1991.jpg
+  tras: https://i.ucoin.net/coin/62/581/62581218-1s/china-1-yuan-1991.jpg
+
+china-1-yuan-2008:
+  frente: https://i.ucoin.net/coin/57/808/57808760-1s/china-1-yuan-2008.jpg
+  tras: https://i.ucoin.net/coin/57/808/57808760-2s/china-1-yuan-2008.jpg
+
+china-1-yuan-2019:
+  frente: https://i.ucoin.net/coin/28/727/28727052-2s/china-1-yuan-2019.jpg
+  tras: https://i.ucoin.net/coin/28/727/28727052-1s/china-1-yuan-2019.jpg
+
+china-2-fen-1982:
+  frente: https://i.ucoin.net/coin/47/608/47608710-2s/china-2-fen-1982.jpg
+  tras: https://i.ucoin.net/coin/47/608/47608710-1s/china-2-fen-1982.jpg
+
+china-5-fen-1992:
+  frente: https://i.ucoin.net/coin/62/581/62581023-2s/china-5-fen-1992.jpg
+  tras: https://i.ucoin.net/coin/62/581/62581023-1s/china-5-fen-1992.jpg
+
+china-5-jiao-1997:
+  frente: https://i.ucoin.net/coin/74/155/74155480-2s/china-5-jiao-1997.jpg
+  tras: https://i.ucoin.net/coin/74/155/74155480-1s/china-5-jiao-1997.jpg
+
+china-5-jiao-2013:
+  frente: https://i.ucoin.net/coin/38/345/38345020-2s/china-5-jiao-2013.jpg
+  tras: https://i.ucoin.net/coin/38/345/38345020-1s/china-5-jiao-2013.jpg
+
+china-5-jiao-2019:
+  frente: https://i.ucoin.net/coin/28/727/28727036-2s/china-5-jiao-2019.jpg
+  tras: https://i.ucoin.net/coin/28/727/28727036-1s/china-5-jiao-2019.jpg

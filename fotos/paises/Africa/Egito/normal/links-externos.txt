@@ -1,0 +1,207 @@
+egypt-1-millieme-1954:
+  frente: https://i.ucoin.net/coin/68/406/68406553-1s/egypt-1-millieme-1954.jpg
+  tras: https://i.ucoin.net/coin/68/406/68406553-2s/egypt-1-millieme-1954.jpg
+
+egypt-1-millieme-1956:
+  frente: https://i.ucoin.net/coin/37/299/37299631-1s/egypt-1-millieme-1956.jpg
+  tras: https://i.ucoin.net/coin/37/299/37299631-2s/egypt-1-millieme-1956.jpg
+
+egypt-1-millieme-1957:
+  frente: https://i.ucoin.net/coin/37/062/37062770-1s/egypt-1-millieme-1957.jpg
+  tras: https://i.ucoin.net/coin/37/062/37062770-2s/egypt-1-millieme-1957.jpg
+
+egypt-1-millieme-1966:
+  frente: https://i.ucoin.net/coin/73/914/73914506-1s/egypt-1-millieme-1966.jpg
+  tras: https://i.ucoin.net/coin/73/914/73914506-2s/egypt-1-millieme-1966.jpg
+
+egypt-1-millieme-1972:
+  frente: https://i.ucoin.net/coin/46/616/46616063-1s/egypt-1-millieme-1972.jpg
+  tras: https://i.ucoin.net/coin/46/616/46616063-2s/egypt-1-millieme-1972.jpg
+
+egypt-1-piastre-1984:
+  frente: https://i.ucoin.net/coin/70/245/70245863-1s/egypt-1-piastre-1984.jpg
+  tras: https://i.ucoin.net/coin/70/245/70245863-2s/egypt-1-piastre-1984.jpg
+
+egypt-1-pound-2005:
+  frente: https://i.ucoin.net/coin/47/765/47765618-1s/egypt-1-pound-2005.jpg
+  tras: https://i.ucoin.net/coin/47/765/47765618-2s/egypt-1-pound-2005.jpg
+
+egypt-1-pound-2010:
+  frente: https://i.ucoin.net/coin/80/400/80400499-1s/egypt-1-pound-2010.jpg
+  tras: https://i.ucoin.net/coin/80/400/80400499-2s/egypt-1-pound-2010.jpg
+
+egypt-1-pound-2026:
+  frente: https://i.ucoin.net/coin/86/712/86712154-1s/egypt-1-pound-2026.jpg
+  tras: https://i.ucoin.net/coin/86/712/86712154-2s/egypt-1-pound-2026.jpg
+
+egypt-10-milliemes-1955:
+  frente: https://i.ucoin.net/coin/50/989/50989666-1s/egypt-10-milliemes-1955.jpg
+  tras: https://i.ucoin.net/coin/50/989/50989666-2s/egypt-10-milliemes-1955.jpg
+
+egypt-10-milliemes-1958-10-milesimos-1955-1958-republica-do-egito:
+  frente: https://i.ucoin.net/coin/37/020/37020331-1s/egypt-10-milliemes-1958.jpg
+  tras: https://i.ucoin.net/coin/37/020/37020331-2s/egypt-10-milliemes-1958.jpg
+
+egypt-10-milliemes-1958-10-milesimos-1958-republica-arabe-unida:
+  frente: https://i.ucoin.net/coin/72/917/72917435-1s/egypt-10-milliemes-1958.jpg
+  tras: https://i.ucoin.net/coin/72/917/72917435-2s/egypt-10-milliemes-1958.jpg
+
+egypt-10-milliemes-1960:
+  frente: https://i.ucoin.net/coin/46/614/46614313-1s/egypt-10-milliemes-1960.jpg
+  tras: https://i.ucoin.net/coin/46/614/46614313-2s/egypt-10-milliemes-1960.jpg
+
+egypt-10-milliemes-1967:
+  frente: https://i.ucoin.net/coin/46/614/46614389-1s/egypt-10-milliemes-1967.jpg
+  tras: https://i.ucoin.net/coin/46/614/46614389-2s/egypt-10-milliemes-1967.jpg
+
+egypt-10-milliemes-1972:
+  frente: https://i.ucoin.net/coin/70/473/70473431-1s/egypt-10-milliemes-1972.jpg
+  tras: https://i.ucoin.net/coin/70/473/70473431-2s/egypt-10-milliemes-1972.jpg
+
+egypt-10-milliemes-1976:
+  frente: https://i.ucoin.net/coin/83/109/83109256-1s/egypt-10-milliemes-1976.jpg
+  tras: https://i.ucoin.net/coin/83/109/83109256-2s/egypt-10-milliemes-1976.jpg
+
+egypt-10-piastres-1955:
+  frente: https://i.ucoin.net/coin/56/241/56241815-1s/egypt-10-piastres-1955.jpg
+  tras: https://i.ucoin.net/coin/56/241/56241815-2s/egypt-10-piastres-1955.jpg
+
+egypt-10-piastres-1956:
+  frente: https://i.ucoin.net/coin/37/020/37020768-1s/egypt-10-piastres-1956.jpg
+  tras: https://i.ucoin.net/coin/37/020/37020768-2s/egypt-10-piastres-1956.jpg
+
+egypt-10-piastres-1960:
+  frente: https://i.ucoin.net/coin/72/878/72878140-1s/egypt-10-piastres-1960.jpg
+  tras: https://i.ucoin.net/coin/72/878/72878140-2s/egypt-10-piastres-1960.jpg
+
+egypt-10-piastres-1967:
+  frente: https://i.ucoin.net/coin/46/614/46614502-1s/egypt-10-piastres-1967.jpg
+  tras: https://i.ucoin.net/coin/46/614/46614502-2s/egypt-10-piastres-1967.jpg
+
+egypt-10-piastres-1972:
+  frente: https://i.ucoin.net/coin/46/616/46616012-1s/egypt-10-piastres-1972.jpg
+  tras: https://i.ucoin.net/coin/46/616/46616012-2s/egypt-10-piastres-1972.jpg
+
+egypt-10-piastres-1984:
+  frente: https://i.ucoin.net/coin/46/617/46617166-1s/egypt-10-piastres-1984.jpg
+  tras: https://i.ucoin.net/coin/46/617/46617166-2s/egypt-10-piastres-1984.jpg
+
+egypt-10-piastres-1992:
+  frente: https://i.ucoin.net/coin/48/243/48243131-1s/egypt-10-piastres-1992.jpg
+  tras: https://i.ucoin.net/coin/48/243/48243131-2s/egypt-10-piastres-1992.jpg
+
+egypt-10-piastres-2008:
+  frente: https://i.ucoin.net/coin/29/352/29352218-1s/egypt-10-piastres-2008.jpg
+  tras: https://i.ucoin.net/coin/29/352/29352218-2s/egypt-10-piastres-2008.jpg
+
+egypt-2-milliemes-1962:
+  frente: https://i.ucoin.net/coin/67/316/67316767-1s/egypt-2-milliemes-1962.jpg
+  tras: https://i.ucoin.net/coin/67/316/67316767-2s/egypt-2-milliemes-1962.jpg
+
+egypt-2-piastres-1980:
+  frente: https://i.ucoin.net/coin/46/617/46617075-1s/egypt-2-piastres-1980.jpg
+  tras: https://i.ucoin.net/coin/46/617/46617075-2s/egypt-2-piastres-1980.jpg
+
+egypt-2-piastres-1984:
+  frente: https://i.ucoin.net/coin/77/792/77792512-1s/egypt-2-piastres-1984.jpg
+  tras: https://i.ucoin.net/coin/77/792/77792512-2s/egypt-2-piastres-1984.jpg
+
+egypt-20-piastres-1956:
+  frente: https://i.ucoin.net/coin/72/877/72877842-1s/egypt-20-piastres-1956.jpg
+  tras: https://i.ucoin.net/coin/72/877/72877842-2s/egypt-20-piastres-1956.jpg
+
+egypt-20-piastres-1966:
+  frente: https://i.ucoin.net/coin/37/058/37058701-1s/egypt-20-piastres-1966.jpg
+  tras: https://i.ucoin.net/coin/37/058/37058701-2s/egypt-20-piastres-1966.jpg
+
+egypt-20-piastres-1980:
+  frente: https://i.ucoin.net/coin/73/914/73914185-1s/egypt-20-piastres-1980.jpg
+  tras: https://i.ucoin.net/coin/73/914/73914185-2s/egypt-20-piastres-1980.jpg
+
+egypt-20-piastres-1984:
+  frente: https://i.ucoin.net/coin/27/091/27091074-1s/egypt-20-piastres-1984.jpg
+  tras: https://i.ucoin.net/coin/27/091/27091074-2s/egypt-20-piastres-1984.jpg
+
+egypt-20-piastres-1992:
+  frente: https://i.ucoin.net/coin/36/890/36890794-1s/egypt-20-piastres-1992.jpg
+  tras: https://i.ucoin.net/coin/36/890/36890794-2s/egypt-20-piastres-1992.jpg
+
+egypt-25-piastres-1993:
+  frente: https://i.ucoin.net/coin/80/400/80400438-1s/egypt-25-piastres-1993.jpg
+  tras: https://i.ucoin.net/coin/80/400/80400438-2s/egypt-25-piastres-1993.jpg
+
+egypt-25-piastres-2011:
+  frente: https://i.ucoin.net/coin/29/432/29432177-1s/egypt-25-piastres-2011.jpg
+  tras: https://i.ucoin.net/coin/29/432/29432177-2s/egypt-25-piastres-2011.jpg
+
+egypt-5-milliemes-1954:
+  frente: https://i.ucoin.net/coin/37/053/37053792-1s/egypt-5-milliemes-1954.jpg
+  tras: https://i.ucoin.net/coin/37/053/37053792-2s/egypt-5-milliemes-1954.jpg
+
+egypt-5-milliemes-1958:
+  frente: https://i.ucoin.net/coin/37/059/37059218-1s/egypt-5-milliemes-1958.jpg
+  tras: https://i.ucoin.net/coin/37/059/37059218-2s/egypt-5-milliemes-1958.jpg
+
+egypt-5-milliemes-1966:
+  frente: https://i.ucoin.net/coin/50/344/50344943-1s/egypt-5-milliemes-1966.jpg
+  tras: https://i.ucoin.net/coin/50/344/50344943-2s/egypt-5-milliemes-1966.jpg
+
+egypt-5-milliemes-1967:
+  frente: https://i.ucoin.net/coin/68/463/68463253-1s/egypt-5-milliemes-1967.jpg
+  tras: https://i.ucoin.net/coin/68/463/68463253-2s/egypt-5-milliemes-1967.jpg
+
+egypt-5-milliemes-1972:
+  frente: https://i.ucoin.net/coin/79/524/79524257-1s/egypt-5-milliemes-1972.jpg
+  tras: https://i.ucoin.net/coin/79/524/79524257-2s/egypt-5-milliemes-1972.jpg
+
+egypt-5-milliemes-1973:
+  frente: https://i.ucoin.net/coin/58/785/58785825-1s/egypt-5-milliemes-1973.jpg
+  tras: https://i.ucoin.net/coin/58/785/58785825-2s/egypt-5-milliemes-1973.jpg
+
+egypt-5-piastres-1957:
+  frente: https://i.ucoin.net/coin/37/059/37059757-1s/egypt-5-piastres-1957.jpg
+  tras: https://i.ucoin.net/coin/37/059/37059757-2s/egypt-5-piastres-1957.jpg
+
+egypt-5-piastres-1966:
+  frente: https://i.ucoin.net/coin/73/912/73912389-1s/egypt-5-piastres-1966.jpg
+  tras: https://i.ucoin.net/coin/73/912/73912389-2s/egypt-5-piastres-1966.jpg
+
+egypt-5-piastres-1967:
+  frente: https://i.ucoin.net/coin/46/615/46615867-1s/egypt-5-piastres-1967.jpg
+  tras: https://i.ucoin.net/coin/46/615/46615867-2s/egypt-5-piastres-1967.jpg
+
+egypt-5-piastres-1972:
+  frente: https://i.ucoin.net/coin/24/103/24103407-1s/egypt-5-piastres-1972.jpg
+  tras: https://i.ucoin.net/coin/24/103/24103407-2s/egypt-5-piastres-1972.jpg
+
+egypt-5-piastres-1976:
+  frente: https://i.ucoin.net/coin/22/657/22657287-1s/egypt-5-piastres-1976.jpg
+  tras: https://i.ucoin.net/coin/22/657/22657287-2s/egypt-5-piastres-1976.jpg
+
+egypt-5-piastres-1984-5-piastres-1984-republica-arabe-do-egito:
+  frente: https://i.ucoin.net/coin/37/059/37059820-1s/egypt-5-piastres-1984.jpg
+  tras: https://i.ucoin.net/coin/37/059/37059820-2s/egypt-5-piastres-1984.jpg
+
+egypt-5-piastres-1984-5-piastres-1984-republica-arabe-do-egito-0529f258:
+  frente: https://i.ucoin.net/coin/59/742/59742095-1s/egypt-5-piastres-1984.jpg
+  tras: https://i.ucoin.net/coin/59/742/59742095-2s/egypt-5-piastres-1984.jpg
+
+egypt-5-piastres-1992:
+  frente: https://i.ucoin.net/coin/56/966/56966192-1s/egypt-5-piastres-1992.jpg
+  tras: https://i.ucoin.net/coin/56/966/56966192-2s/egypt-5-piastres-1992.jpg
+
+egypt-5-piastres-2004:
+  frente: https://i.ucoin.net/coin/6/189/6189643-1s/egypt-5-piastres-2004.jpg
+  tras: https://i.ucoin.net/coin/6/189/6189643-2s/egypt-5-piastres-2004.jpg
+
+egypt-5-piastres-2008:
+  frente: https://i.ucoin.net/coin/32/281/32281940-1s/egypt-5-piastres-2008.jpg
+  tras: https://i.ucoin.net/coin/32/281/32281940-2s/egypt-5-piastres-2008.jpg
+
+egypt-50-piastres-2005:
+  frente: https://i.ucoin.net/coin/73/916/73916315-1s/egypt-50-piastres-2005.jpg
+  tras: https://i.ucoin.net/coin/73/916/73916315-2s/egypt-50-piastres-2005.jpg
+
+egypt-50-piastres-2010:
+  frente: https://i.ucoin.net/coin/56/966/56966856-1s/egypt-50-piastres-2010.jpg
+  tras: https://i.ucoin.net/coin/56/966/56966856-2s/egypt-50-piastres-2010.jpg

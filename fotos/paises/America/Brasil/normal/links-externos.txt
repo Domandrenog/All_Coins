@@ -1,0 +1,55 @@
+brazil-1-centavo-1996:
+  frente: https://i.ucoin.net/coin/19/491/19491930-2s/brazil-1-centavo-1996.jpg
+  tras: https://i.ucoin.net/coin/19/491/19491930-1s/brazil-1-centavo-1996.jpg
+
+brazil-1-centavo-2004:
+  frente: https://i.ucoin.net/coin/17/610/17610283-2s/brazil-1-centavo-2004.jpg
+  tras: https://i.ucoin.net/coin/17/610/17610283-1s/brazil-1-centavo-2004.jpg
+
+brazil-1-real-1994:
+  frente: https://i.ucoin.net/coin/47/581/47581885-2s/brazil-1-real-1994.jpg
+  tras: https://i.ucoin.net/coin/47/581/47581885-1s/brazil-1-real-1994.jpg
+
+brazil-1-real-1999:
+  frente: https://i.ucoin.net/coin/32/938/32938000-2s/brazil-1-real-1999.jpg
+  tras: https://i.ucoin.net/coin/32/938/32938000-1s/brazil-1-real-1999.jpg
+
+brazil-1-real-2022:
+  frente: https://i.ucoin.net/coin/57/049/57049079-2s/brazil-1-real-2022.jpg
+  tras: https://i.ucoin.net/coin/57/049/57049079-1s/brazil-1-real-2022.jpg
+
+brazil-10-centavos-1996:
+  frente: https://i.ucoin.net/coin/57/050/57050165-2s/brazil-10-centavos-1996.jpg
+  tras: https://i.ucoin.net/coin/57/050/57050165-1s/brazil-10-centavos-1996.jpg
+
+brazil-10-centavos-2004:
+  frente: https://i.ucoin.net/coin/51/218/51218938-2s/brazil-10-centavos-2004.jpg
+  tras: https://i.ucoin.net/coin/51/218/51218938-1s/brazil-10-centavos-2004.jpg
+
+brazil-25-centavos-1994:
+  frente: https://i.ucoin.net/coin/47/581/47581122-2s/brazil-25-centavos-1994.jpg
+  tras: https://i.ucoin.net/coin/47/581/47581122-1s/brazil-25-centavos-1994.jpg
+
+brazil-25-centavos-2002:
+  frente: https://i.ucoin.net/coin/51/217/51217315-2s/brazil-25-centavos-2002.jpg
+  tras: https://i.ucoin.net/coin/51/217/51217315-1s/brazil-25-centavos-2002.jpg
+
+brazil-5-centavos-1994:
+  frente: https://i.ucoin.net/coin/47/580/47580672-2s/brazil-5-centavos-1994.jpg
+  tras: https://i.ucoin.net/coin/47/580/47580672-1s/brazil-5-centavos-1994.jpg
+
+brazil-5-centavos-2007:
+  frente: https://i.ucoin.net/coin/51/217/51217408-2s/brazil-5-centavos-2007.jpg
+  tras: https://i.ucoin.net/coin/51/217/51217408-1s/brazil-5-centavos-2007.jpg
+
+brazil-50-centavos-1994:
+  frente: https://i.ucoin.net/coin/47/580/47580601-2s/brazil-50-centavos-1994.jpg
+  tras: https://i.ucoin.net/coin/47/580/47580601-1s/brazil-50-centavos-1994.jpg
+
+brazil-50-centavos-1998:
+  frente: https://i.ucoin.net/coin/17/658/17658894-2s/brazil-50-centavos-1998.jpg
+  tras: https://i.ucoin.net/coin/17/658/17658894-1s/brazil-50-centavos-1998.jpg
+
+brazil-50-centavos-2005:
+  frente: https://i.ucoin.net/coin/51/218/51218124-2s/brazil-50-centavos-2005.jpg
+  tras: https://i.ucoin.net/coin/51/218/51218124-1s/brazil-50-centavos-2005.jpg

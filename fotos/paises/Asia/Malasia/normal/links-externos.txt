@@ -1,0 +1,59 @@
+malaysia-1-sen-1973:
+  frente: https://i.ucoin.net/coin/68/525/68525921-1/malaysia-1-sen-1973.jpg
+  tras: https://i.ucoin.net/coin/68/525/68525921-2s/malaysia-1-sen-1973.jpg
+
+malaysia-1-sen-1987:
+  frente: https://i.ucoin.net/coin/55/324/55324077-1s/malaysia-1-sen-1987.jpg
+  tras: https://i.ucoin.net/coin/55/324/55324077-2s/malaysia-1-sen-1987.jpg
+
+malaysia-1-sen-1991:
+  frente: https://i.ucoin.net/coin/55/326/55326262-1s/malaysia-1-sen-1991.jpg
+  tras: https://i.ucoin.net/coin/55/326/55326262-2s/malaysia-1-sen-1991.jpg
+
+malaysia-10-sen-1981:
+  frente: https://i.ucoin.net/coin/55/273/55273576-1s/malaysia-10-sen-1981.jpg
+  tras: https://i.ucoin.net/coin/55/273/55273576-2s/malaysia-10-sen-1981.jpg
+
+malaysia-10-sen-1999:
+  frente: https://i.ucoin.net/coin/55/293/55293111-1s/malaysia-10-sen-1999.jpg
+  tras: https://i.ucoin.net/coin/55/293/55293111-2s/malaysia-10-sen-1999.jpg
+
+malaysia-10-sen-2014:
+  frente: https://i.ucoin.net/coin/37/924/37924402-1s/malaysia-10-sen-2014.jpg
+  tras: https://i.ucoin.net/coin/37/924/37924402-2s/malaysia-10-sen-2014.jpg
+
+malaysia-20-sen-1981:
+  frente: https://i.ucoin.net/coin/55/273/55273526-1s/malaysia-20-sen-1981.jpg
+  tras: https://i.ucoin.net/coin/55/273/55273526-2s/malaysia-20-sen-1981.jpg
+
+malaysia-20-sen-2007:
+  frente: https://i.ucoin.net/coin/55/279/55279706-1s/malaysia-20-sen-2007.jpg
+  tras: https://i.ucoin.net/coin/55/279/55279706-2s/malaysia-20-sen-2007.jpg
+
+malaysia-20-sen-2014:
+  frente: https://i.ucoin.net/coin/37/924/37924435-1s/malaysia-20-sen-2014.jpg
+  tras: https://i.ucoin.net/coin/37/924/37924435-2s/malaysia-20-sen-2014.jpg
+
+malaysia-5-sen-1982:
+  frente: https://i.ucoin.net/coin/47/158/47158885-1s/malaysia-5-sen-1982.jpg
+  tras: https://i.ucoin.net/coin/47/158/47158885-2s/malaysia-5-sen-1982.jpg
+
+malaysia-5-sen-1995:
+  frente: https://i.ucoin.net/coin/55/320/55320067-1s/malaysia-5-sen-1995.jpg
+  tras: https://i.ucoin.net/coin/55/320/55320067-2s/malaysia-5-sen-1995.jpg
+
+malaysia-5-sen-2019:
+  frente: https://i.ucoin.net/coin/51/540/51540358-1s/malaysia-5-sen-2019.jpg
+  tras: https://i.ucoin.net/coin/51/540/51540358-2s/malaysia-5-sen-2019.jpg
+
+malaysia-50-sen-1988:
+  frente: https://i.ucoin.net/coin/75/390/75390800-1s/malaysia-50-sen-1988.jpg
+  tras: https://i.ucoin.net/coin/75/390/75390800-2s/malaysia-50-sen-1988.jpg
+
+malaysia-50-sen-2003:
+  frente: https://i.ucoin.net/coin/55/333/55333629-1s/malaysia-50-sen-2003.jpg
+  tras: https://i.ucoin.net/coin/55/333/55333629-2s/malaysia-50-sen-2003.jpg
+
+malaysia-50-sen-2014:
+  frente: https://i.ucoin.net/coin/37/924/37924453-1s/malaysia-50-sen-2014.jpg
+  tras: https://i.ucoin.net/coin/37/924/37924453-2s/malaysia-50-sen-2014.jpg

@@ -1,0 +1,27 @@
+macau-1-pataca-2007:
+  frente: https://i.ucoin.net/coin/73/947/73947322-2s/macau-1-pataca-2007.jpg
+  tras: https://i.ucoin.net/coin/73/947/73947322-1s/macau-1-pataca-2007.jpg
+
+macau-10-avos-1998:
+  frente: https://i.ucoin.net/coin/84/342/84342090-2s/macau-10-avos-1998.jpg
+  tras: https://i.ucoin.net/coin/84/342/84342090-1s/macau-10-avos-1998.jpg
+
+macau-10-patacas-1997:
+  frente: https://i.ucoin.net/coin/73/044/73044800-2s/macau-10-patacas-1997.jpg
+  tras: https://i.ucoin.net/coin/73/044/73044800-1s/macau-10-patacas-1997.jpg
+
+macau-2-patacas-1998:
+  frente: https://i.ucoin.net/coin/6/440/6440016-2s/macau-2-patacas-1998.jpg
+  tras: https://i.ucoin.net/coin/6/440/6440016-1s/macau-2-patacas-1998.jpg
+
+macau-20-avos-1998:
+  frente: https://i.ucoin.net/coin/67/805/67805048-2s/macau-20-avos-1998.jpg
+  tras: https://i.ucoin.net/coin/67/805/67805048-1s/macau-20-avos-1998.jpg
+
+macau-5-patacas-1992:
+  frente: https://i.ucoin.net/coin/72/925/72925259-2s/macau-5-patacas-1992.jpg
+  tras: https://i.ucoin.net/coin/72/925/72925259-1s/macau-5-patacas-1992.jpg
+
+macau-50-avos-1993:
+  frente: https://i.ucoin.net/coin/63/072/63072966-2s/macau-50-avos-1993.jpg
+  tras: https://i.ucoin.net/coin/63/072/63072966-1s/macau-50-avos-1993.jpg

@@ -12,7 +12,13 @@ O menu permite verificar a API, preparar imagens, executar a migração completa
 ou alterar apenas os URLs da Base44, escolhendo um país ou todos os pendentes.
 Os comandos técnicos estão em [docs/COMMANDS.md](docs/COMMANDS.md).
 
-Este repositório guarda imagens de moedas por país e atualiza a API `Coin` para deixar de apontar para `i.ucoin.net`, passando a usar URLs raw do GitHub.
+Este repositório guarda imagens de moedas normais por continente e país, em
+`fotos/paises/<Continente>/<Pais>/normal`, e atualiza a API `Coin` para deixar
+de apontar para `i.ucoin.net`, passando a usar URLs raw do GitHub.
+
+Os nomes canónicos dos tipos são `normal`, `collection`, `notes` e `souvenir`.
+Nesta fase apenas `normal` está criado e é tratado pelos scripts; os restantes
+tipos serão adicionados numa fase posterior.
 
 ## Fluxo
 
@@ -23,8 +29,8 @@ flowchart LR
   C -- Não --> D[Manter moeda como está]
   C -- Sim --> E[Gerar slug e URLs raw]
   E --> F[Descarregar imagens]
-  F --> G[Guardar em Pais/frente e Pais/tras]
-  G --> H[Atualizar links.txt e links-ucoin.txt]
+  F --> G[Guardar em fotos/paises/Continente/Pais/normal]
+  G --> H[Atualizar links-internos.txt e links-externos.txt]
   H --> I[git add, commit e push]
   I --> J[Atualizar image_frente e image_verso na API]
   J --> K[Validar API e raw links]
@@ -88,9 +94,9 @@ Isto faz, por ordem:
 1. Consulta as moedas do país na API.
 2. Salta moedas que não tenham `i.ucoin.net` nos dois lados.
 3. Descarrega `image_frente` e `image_verso` atuais.
-4. Guarda imagens em `<Pais>/frente` e `<Pais>/tras`.
-5. Atualiza `<Pais>/links.txt` com URLs raw do GitHub.
-6. Atualiza `<Pais>/links-ucoin.txt` com os URLs originais do uCoin.
+4. Guarda imagens em `fotos/paises/<Continente>/<Pais>/normal/frente` e `tras`.
+5. Atualiza `links-internos.txt` com URLs raw do GitHub.
+6. Atualiza `links-externos.txt` com os URLs originais do uCoin.
 7. Faz `git add .`, `git commit` e `git push`.
 
    Em WSL, se `git.exe` estiver disponível, o script usa-o automaticamente
@@ -102,8 +108,8 @@ Isto faz, por ordem:
 Os URLs raw ficam neste formato:
 
 ```text
-https://raw.githubusercontent.com/Domandrenog/All_Coins/main/<Pais>/frente/<slug>.jpg
-https://raw.githubusercontent.com/Domandrenog/All_Coins/main/<Pais>/tras/<slug>.jpg
+https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/<Continente>/<Pais>/normal/frente/<slug>.jpg
+https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/<Continente>/<Pais>/normal/tras/<slug>.jpg
 ```
 
 ## Testar Sem Alterar
@@ -154,7 +160,9 @@ python3 scripts/sync_coin_images_api.py --country "Tailândia" --download-curren
 
 Se duas moedas gerarem o mesmo nome de ficheiro a partir do URL original, o script acrescenta dados da moeda ao slug para manter ficheiros e links separados.
 
-Por defeito, nomes de países são normalizados para pastas sem acentos e com palavras juntas. Exemplos:
+Por defeito, os continentes e países são normalizados para pastas sem acentos.
+Os continentes ficam como `Africa`, `America`, `Asia`, `Europa` e `Oceania`; os
+nomes compostos dos países ficam com as palavras juntas. Exemplos:
 
 - `Índia` vira `India`
 - `África do Sul` vira `AfricaDoSul`
@@ -186,8 +194,8 @@ Para uma verificação rápida dos ficheiros locais de um país:
 python3 - <<'PY'
 from pathlib import Path
 
-folder = Path('Polonia')
-links_path = folder / 'links.txt'
+folder = Path('fotos/paises/Europa/Polonia/normal')
+links_path = folder / 'links-internos.txt'
 entries = []
 current = None
 
@@ -210,18 +218,19 @@ PY
 Cada país processado fica com:
 
 ```text
-<Pais>/
-  links.txt
-  links-ucoin.txt
+fotos/paises/<Continente>/<Pais>/normal/
+  links-internos.txt
+  links-externos.txt
   frente/
     <slug>.jpg
   tras/
     <slug>.jpg
 ```
 
-`links.txt` guarda os URLs raw usados pela API.
+`links-internos.txt` guarda os URLs raw do próprio repositório usados pela API.
 
-`links-ucoin.txt` guarda os URLs originais do uCoin para referência histórica.
+`links-externos.txt` guarda os URLs externos originais do uCoin para referência
+histórica.
 
 ## Troubleshooting
 
@@ -254,17 +263,17 @@ Se o resultado for `404` no Chromium autenticado, o link do uCoin provavelmente 
 Exemplo com URL:
 
 ```bash
-python3 scripts/download_images.py --url "https://track-coin-collection.base44.app/country?continent=Europa&country=Bielorr%C3%BAssia" --output Bielorrussia
+python3 scripts/download_images.py --url "https://track-coin-collection.base44.app/country?continent=Europa&country=Bielorr%C3%BAssia" --output fotos/paises/Europa/Bielorrussia/normal
 ```
 
 Exemplo com login manual no Chromium:
 
 ```bash
-python3 scripts/download_images.py --url "https://track-coin-collection.base44.app/country?continent=Europa&country=Bielorr%C3%BAssia" --output Bielorrussia --headful --manual-login
+python3 scripts/download_images.py --url "https://track-coin-collection.base44.app/country?continent=Europa&country=Bielorr%C3%BAssia" --output fotos/paises/Europa/Bielorrussia/normal --headful --manual-login
 ```
 
 Exemplo com ficheiro de links:
 
 ```bash
-python3 scripts/download_images.py --input links.txt --output Bielorrussia
+python3 scripts/download_images.py --input fotos/paises/Europa/Bielorrussia/normal/links-externos.txt --output fotos/paises/Europa/Bielorrussia/normal
 ```

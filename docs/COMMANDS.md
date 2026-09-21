@@ -36,8 +36,9 @@ python3 scripts/sync_coin_images_api.py \
 ## Aplicar a troca de URLs na Base44
 
 Atualiza `image_frente` e `image_verso` na API para os ficheiros já publicados
-em `NovaZelandia/frente` e `NovaZelandia/tras`. Não descarrega imagens nem faz
-operações Git.
+em `fotos/paises/Oceania/NovaZelandia/normal/frente` e
+`fotos/paises/Oceania/NovaZelandia/normal/tras`. Não descarrega imagens nem
+faz operações Git.
 
 ```bash
 python3 scripts/sync_coin_images_api.py \
@@ -61,8 +62,8 @@ O resultado esperado termina com `coins_with_ucoin=0` e a mensagem `OK`.
 ## Descarregar imagens e preparar links locais para outro país
 
 Usa este comando quando as imagens ainda não foram recolhidas. Descarrega as
-imagens, atualiza os ficheiros de links locais, mas não altera a API nem faz
-commit/push.
+imagens, atualiza `links-internos.txt` e `links-externos.txt`, mas não altera a
+API nem faz commit/push.
 
 ```bash
 python3 scripts/sync_coin_images_api.py \

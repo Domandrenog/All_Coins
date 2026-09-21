@@ -1,0 +1,111 @@
+singapore-1-cent-1975:
+  frente: https://i.ucoin.net/coin/47/889/47889153-1s/singapore-1-cent-1975.jpg
+  tras: https://i.ucoin.net/coin/47/889/47889153-2s/singapore-1-cent-1975.jpg
+
+singapore-1-cent-1981:
+  frente: https://i.ucoin.net/coin/51/763/51763863-1s/singapore-1-cent-1981.jpg
+  tras: https://i.ucoin.net/coin/51/763/51763863-2s/singapore-1-cent-1981.jpg
+
+singapore-1-cent-1990:
+  frente: https://i.ucoin.net/coin/29/282/29282316-2s/singapore-1-cent-1990.jpg
+  tras: https://i.ucoin.net/coin/29/282/29282316-1s/singapore-1-cent-1990.jpg
+
+singapore-1-cent-1991:
+  frente: https://i.ucoin.net/coin/36/508/36508327-2s/singapore-1-cent-1991.jpg
+  tras: https://i.ucoin.net/coin/36/508/36508327-1s/singapore-1-cent-1991.jpg
+
+singapore-1-cent-2000:
+  frente: https://i.ucoin.net/coin/50/546/50546364-2s/singapore-1-cent-2000.jpg
+  tras: https://i.ucoin.net/coin/50/546/50546364-1s/singapore-1-cent-2000.jpg
+
+singapore-1-dollar-1982:
+  frente: https://i.ucoin.net/coin/67/639/67639899-1s/singapore-1-dollar-1982.jpg
+  tras: https://i.ucoin.net/coin/67/639/67639899-2s/singapore-1-dollar-1982.jpg
+
+singapore-1-dollar-1987:
+  frente: https://i.ucoin.net/coin/4/030/4030272-2s/singapore-1-dollar-1987.jpg
+  tras: https://i.ucoin.net/coin/4/030/4030272-1s/singapore-1-dollar-1987.jpg
+
+singapore-1-dollar-1988:
+  frente: https://i.ucoin.net/coin/50/545/50545986-2s/singapore-1-dollar-1988.jpg
+  tras: https://i.ucoin.net/coin/50/545/50545986-1s/singapore-1-dollar-1988.jpg
+
+singapore-1-dollar-2006:
+  frente: https://i.ucoin.net/coin/26/619/26619225-2s/singapore-1-dollar-2006.jpg
+  tras: https://i.ucoin.net/coin/26/619/26619225-1s/singapore-1-dollar-2006.jpg
+
+singapore-1-dollar-2013:
+  frente: https://i.ucoin.net/coin/50/546/50546432-2s/singapore-1-dollar-2013.jpg
+  tras: https://i.ucoin.net/coin/50/546/50546432-1s/singapore-1-dollar-2013.jpg
+
+singapore-10-cents-1976:
+  frente: https://i.ucoin.net/coin/47/889/47889175-1s/singapore-10-cents-1976.jpg
+  tras: https://i.ucoin.net/coin/47/889/47889175-2s/singapore-10-cents-1976.jpg
+
+singapore-10-cents-1986:
+  frente: https://i.ucoin.net/coin/47/253/47253571-2s/singapore-10-cents-1986.jpg
+  tras: https://i.ucoin.net/coin/47/253/47253571-1s/singapore-10-cents-1986.jpg
+
+singapore-10-cents-2003:
+  frente: https://i.ucoin.net/coin/50/546/50546374-2s/singapore-10-cents-2003.jpg
+  tras: https://i.ucoin.net/coin/50/546/50546374-1s/singapore-10-cents-2003.jpg
+
+singapore-10-cents-2013:
+  frente: https://i.ucoin.net/coin/50/546/50546440-2s/singapore-10-cents-2013.jpg
+  tras: https://i.ucoin.net/coin/50/546/50546440-1s/singapore-10-cents-2013.jpg
+
+singapore-20-cents-1982:
+  frente: https://i.ucoin.net/coin/67/637/67637377-1s/singapore-20-cents-1982.jpg
+  tras: https://i.ucoin.net/coin/67/637/67637377-2s/singapore-20-cents-1982.jpg
+
+singapore-20-cents-1986:
+  frente: https://i.ucoin.net/coin/51/765/51765664-2s/singapore-20-cents-1986.jpg
+  tras: https://i.ucoin.net/coin/51/765/51765664-1s/singapore-20-cents-1986.jpg
+
+singapore-20-cents-2011:
+  frente: https://i.ucoin.net/coin/69/072/69072549-2s/singapore-20-cents-2011.jpg
+  tras: https://i.ucoin.net/coin/69/072/69072549-1s/singapore-20-cents-2011.jpg
+
+singapore-20-cents-2014:
+  frente: https://i.ucoin.net/coin/68/533/68533829-2s/singapore-20-cents-2014.jpg
+  tras: https://i.ucoin.net/coin/68/533/68533829-1s/singapore-20-cents-2014.jpg
+
+singapore-5-cents-1971:
+  frente: https://i.ucoin.net/coin/50/545/50545934-1s/singapore-5-cents-1971.jpg
+  tras: https://i.ucoin.net/coin/50/545/50545934-2s/singapore-5-cents-1971.jpg
+
+singapore-5-cents-1982:
+  frente: https://i.ucoin.net/coin/69/299/69299315-1s/singapore-5-cents-1982.jpg
+  tras: https://i.ucoin.net/coin/69/299/69299315-2s/singapore-5-cents-1982.jpg
+
+singapore-5-cents-1985:
+  frente: https://i.ucoin.net/coin/51/765/51765209-2s/singapore-5-cents-1985.jpg
+  tras: https://i.ucoin.net/coin/51/765/51765209-1s/singapore-5-cents-1985.jpg
+
+singapore-5-cents-2005:
+  frente: https://i.ucoin.net/coin/50/546/50546385-2s/singapore-5-cents-2005.jpg
+  tras: https://i.ucoin.net/coin/50/546/50546385-1s/singapore-5-cents-2005.jpg
+
+singapore-5-cents-2015:
+  frente: https://i.ucoin.net/coin/62/816/62816641-2s/singapore-5-cents-2015.jpg
+  tras: https://i.ucoin.net/coin/62/816/62816641-1s/singapore-5-cents-2015.jpg
+
+singapore-50-cents-1982:
+  frente: https://i.ucoin.net/coin/51/764/51764412-1s/singapore-50-cents-1982.jpg
+  tras: https://i.ucoin.net/coin/51/764/51764412-2s/singapore-50-cents-1982.jpg
+
+singapore-50-cents-1987:
+  frente: https://i.ucoin.net/coin/51/770/51770822-2s/singapore-50-cents-1987.jpg
+  tras: https://i.ucoin.net/coin/51/770/51770822-1s/singapore-50-cents-1987.jpg
+
+singapore-50-cents-1991:
+  frente: https://i.ucoin.net/coin/50/546/50546344-2s/singapore-50-cents-1991.jpg
+  tras: https://i.ucoin.net/coin/50/546/50546344-1s/singapore-50-cents-1991.jpg
+
+singapore-50-cents-2007:
+  frente: https://i.ucoin.net/coin/69/039/69039721-2s/singapore-50-cents-2007.jpg
+  tras: https://i.ucoin.net/coin/69/039/69039721-1s/singapore-50-cents-2007.jpg
+
+singapore-50-cents-2015:
+  frente: https://i.ucoin.net/coin/50/546/50546457-2s/singapore-50-cents-2015.jpg
+  tras: https://i.ucoin.net/coin/50/546/50546457-1s/singapore-50-cents-2015.jpg

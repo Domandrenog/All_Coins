@@ -1,0 +1,247 @@
+bohemia-moravia-1-koruna-1944:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/bohemia-moravia-1-koruna-1944.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/bohemia-moravia-1-koruna-1944.jpg
+
+bohemia-moravia-10-hellers-1941:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/bohemia-moravia-10-hellers-1941.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/bohemia-moravia-10-hellers-1941.jpg
+
+bohemia-moravia-20-hellers-1943:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/bohemia-moravia-20-hellers-1943.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/bohemia-moravia-20-hellers-1943.jpg
+
+bohemia-moravia-50-hellers-1942:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/bohemia-moravia-50-hellers-1942.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/bohemia-moravia-50-hellers-1942.jpg
+
+czech-republic-1-koruna-2016:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czech-republic-1-koruna-2016.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czech-republic-1-koruna-2016.jpg
+
+czech-republic-10-hellers-2001:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czech-republic-10-hellers-2001.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czech-republic-10-hellers-2001.jpg
+
+czech-republic-10-korun-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czech-republic-10-korun-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czech-republic-10-korun-2003.jpg
+
+czech-republic-2-koruny-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czech-republic-2-koruny-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czech-republic-2-koruny-1993.jpg
+
+czech-republic-20-hellers-1995:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czech-republic-20-hellers-1995.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czech-republic-20-hellers-1995.jpg
+
+czech-republic-20-hellers-1998:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czech-republic-20-hellers-1998.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czech-republic-20-hellers-1998.jpg
+
+czech-republic-20-korun-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czech-republic-20-korun-2018.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czech-republic-20-korun-2018.jpg
+
+czech-republic-5-korun-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czech-republic-5-korun-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czech-republic-5-korun-2017.jpg
+
+czech-republic-50-hellers-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czech-republic-50-hellers-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czech-republic-50-hellers-2003.jpg
+
+czech-republic-50-korun-2021:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czech-republic-50-korun-2021.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czech-republic-50-korun-2021.jpg
+
+czechoslovakia-1-heller-1953:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-1-heller-1953.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-1-heller-1953.jpg
+
+czechoslovakia-1-heller-1962:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-1-heller-1962.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-1-heller-1962.jpg
+
+czechoslovakia-1-heller-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-1-heller-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-1-heller-1991.jpg
+
+czechoslovakia-1-koruna-1929:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-1-koruna-1929.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-1-koruna-1929.jpg
+
+czechoslovakia-1-koruna-1947:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-1-koruna-1947.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-1-koruna-1947.jpg
+
+czechoslovakia-1-koruna-1953:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-1-koruna-1953.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-1-koruna-1953.jpg
+
+czechoslovakia-1-koruna-1957:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-1-koruna-1957.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-1-koruna-1957.jpg
+
+czechoslovakia-1-koruna-1990:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-1-koruna-1990.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-1-koruna-1990.jpg
+
+czechoslovakia-1-koruna-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-1-koruna-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-1-koruna-1992.jpg
+
+czechoslovakia-10-hellers-1936:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-10-hellers-1936.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-10-hellers-1936.jpg
+
+czechoslovakia-10-hellers-1954:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-10-hellers-1954.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-10-hellers-1954.jpg
+
+czechoslovakia-10-hellers-1968:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-10-hellers-1968.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-10-hellers-1968.jpg
+
+czechoslovakia-10-hellers-1976:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-10-hellers-1976.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-10-hellers-1976.jpg
+
+czechoslovakia-10-hellers-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-10-hellers-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-10-hellers-1992.jpg
+
+czechoslovakia-10-korun-1933:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-10-korun-1933.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-10-korun-1933.jpg
+
+czechoslovakia-2-hellers-1924:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-2-hellers-1924.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-2-hellers-1924.jpg
+
+czechoslovakia-2-koruny-1947:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-2-koruny-1947.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-2-koruny-1947.jpg
+
+czechoslovakia-2-koruny-1982:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-2-koruny-1982.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-2-koruny-1982.jpg
+
+czechoslovakia-2-koruny-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-2-koruny-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-2-koruny-1992.jpg
+
+czechoslovakia-20-hellers-1929:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-20-hellers-1929.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-20-hellers-1929.jpg
+
+czechoslovakia-20-hellers-1948:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-20-hellers-1948.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-20-hellers-1948.jpg
+
+czechoslovakia-20-hellers-1951:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-20-hellers-1951.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-20-hellers-1951.jpg
+
+czechoslovakia-20-hellers-1974:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-20-hellers-1974.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-20-hellers-1974.jpg
+
+czechoslovakia-20-hellers-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-20-hellers-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-20-hellers-1991.jpg
+
+czechoslovakia-20-korun-1933:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-20-korun-1933.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-20-korun-1933.jpg
+
+czechoslovakia-25-hellers-1933:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-25-hellers-1933.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-25-hellers-1933.jpg
+
+czechoslovakia-25-hellers-1954:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-25-hellers-1954.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-25-hellers-1954.jpg
+
+czechoslovakia-25-hellers-1962:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-25-hellers-1962.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-25-hellers-1962.jpg
+
+czechoslovakia-3-hellers-1954:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-3-hellers-1954.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-3-hellers-1954.jpg
+
+czechoslovakia-3-hellers-1963:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-3-hellers-1963.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-3-hellers-1963.jpg
+
+czechoslovakia-3-koruny-1966:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-3-koruny-1966.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-3-koruny-1966.jpg
+
+czechoslovakia-5-hellers-1938:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-5-hellers-1938.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-5-hellers-1938.jpg
+
+czechoslovakia-5-hellers-1954:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-5-hellers-1954.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-5-hellers-1954.jpg
+
+czechoslovakia-5-hellers-1966:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-5-hellers-1966.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-5-hellers-1966.jpg
+
+czechoslovakia-5-hellers-1981:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-5-hellers-1981.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-5-hellers-1981.jpg
+
+czechoslovakia-5-hellers-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-5-hellers-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-5-hellers-1992.jpg
+
+czechoslovakia-5-korun-1926:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-5-korun-1926.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-5-korun-1926.jpg
+
+czechoslovakia-5-korun-1928:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-5-korun-1928.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-5-korun-1928.jpg
+
+czechoslovakia-5-korun-1937:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-5-korun-1937.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-5-korun-1937.jpg
+
+czechoslovakia-5-korun-1951:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-5-korun-1951.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-5-korun-1951.jpg
+
+czechoslovakia-5-korun-1966:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-5-korun-1966.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-5-korun-1966.jpg
+
+czechoslovakia-5-korun-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-5-korun-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-5-korun-1992.jpg
+
+czechoslovakia-50-hellers-1926:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-50-hellers-1926.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-50-hellers-1926.jpg
+
+czechoslovakia-50-hellers-1948:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-50-hellers-1948.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-50-hellers-1948.jpg
+
+czechoslovakia-50-hellers-1952:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-50-hellers-1952.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-50-hellers-1952.jpg
+
+czechoslovakia-50-hellers-1964:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-50-hellers-1964.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-50-hellers-1964.jpg
+
+czechoslovakia-50-hellers-1986:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-50-hellers-1986.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-50-hellers-1986.jpg
+
+czechoslovakia-50-hellers-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/frente/czechoslovakia-50-hellers-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/RepublicaCheca/normal/tras/czechoslovakia-50-hellers-1992.jpg

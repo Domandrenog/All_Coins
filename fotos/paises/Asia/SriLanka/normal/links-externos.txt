@@ -1,0 +1,311 @@
+ceylon-1-2-cent-1895:
+  frente: https://i.ucoin.net/coin/51/834/51834345-1s/ceylon-1-2-cent-1895.jpg
+  tras: https://i.ucoin.net/coin/51/834/51834345-2s/ceylon-1-2-cent-1895.jpg
+
+ceylon-1-2-cent-1905:
+  frente: https://i.ucoin.net/coin/23/311/23311925-1s/ceylon-1-2-cent-1905.jpg
+  tras: https://i.ucoin.net/coin/23/311/23311925-2s/ceylon-1-2-cent-1905.jpg
+
+ceylon-1-2-cent-1912:
+  frente: https://i.ucoin.net/coin/84/876/84876012-1s/ceylon-1-2-cent-1912.jpg
+  tras: https://i.ucoin.net/coin/84/876/84876012-2s/ceylon-1-2-cent-1912.jpg
+
+ceylon-1-2-cent-1940:
+  frente: https://i.ucoin.net/coin/72/384/72384897-1s/ceylon-1-2-cent-1940.jpg
+  tras: https://i.ucoin.net/coin/72/384/72384897-2s/ceylon-1-2-cent-1940.jpg
+
+ceylon-1-4-cent-1890:
+  frente: https://i.ucoin.net/coin/84/840/84840447-1s/ceylon-1-4-cent-1890.jpg
+  tras: https://i.ucoin.net/coin/84/840/84840447-2s/ceylon-1-4-cent-1890.jpg
+
+ceylon-1-4-cent-1904:
+  frente: https://i.ucoin.net/coin/79/616/79616708-1s/ceylon-1-4-cent-1904.jpg
+  tras: https://i.ucoin.net/coin/79/616/79616708-2s/ceylon-1-4-cent-1904.jpg
+
+ceylon-1-cent-1900:
+  frente: https://i.ucoin.net/coin/84/224/84224379-1s/ceylon-1-cent-1900.jpg
+  tras: https://i.ucoin.net/coin/84/224/84224379-2s/ceylon-1-cent-1900.jpg
+
+ceylon-1-cent-1910:
+  frente: https://i.ucoin.net/coin/58/137/58137173-1s/ceylon-1-cent-1910.jpg
+  tras: https://i.ucoin.net/coin/58/137/58137173-2s/ceylon-1-cent-1910.jpg
+
+ceylon-1-cent-1926:
+  frente: https://i.ucoin.net/coin/84/876/84876016-1s/ceylon-1-cent-1926.jpg
+  tras: https://i.ucoin.net/coin/84/876/84876016-2s/ceylon-1-cent-1926.jpg
+
+ceylon-1-cent-1942:
+  frente: https://i.ucoin.net/coin/74/365/74365306-1s/ceylon-1-cent-1942.jpg
+  tras: https://i.ucoin.net/coin/74/365/74365306-2s/ceylon-1-cent-1942.jpg
+
+ceylon-1-cent-1945:
+  frente: https://i.ucoin.net/coin/22/091/22091810-1s/ceylon-1-cent-1945.jpg
+  tras: https://i.ucoin.net/coin/22/091/22091810-2s/ceylon-1-cent-1945.jpg
+
+ceylon-1-cent-1971:
+  frente: https://i.ucoin.net/coin/68/308/68308242-1s/ceylon-1-cent-1971.jpg
+  tras: https://i.ucoin.net/coin/68/308/68308242-2s/ceylon-1-cent-1971.jpg
+
+ceylon-1-rupee-1971:
+  frente: https://i.ucoin.net/coin/83/862/83862909-1s/ceylon-1-rupee-1971.jpg
+  tras: https://i.ucoin.net/coin/83/862/83862909-2s/ceylon-1-rupee-1971.jpg
+
+ceylon-10-cents-1894:
+  frente: https://i.ucoin.net/coin/45/077/45077563-1s/ceylon-10-cents-1894.jpg
+  tras: https://i.ucoin.net/coin/45/077/45077563-2s/ceylon-10-cents-1894.jpg
+
+ceylon-10-cents-1902:
+  frente: https://i.ucoin.net/coin/52/145/52145699-1s/ceylon-10-cents-1902.jpg
+  tras: https://i.ucoin.net/coin/52/145/52145699-2s/ceylon-10-cents-1902.jpg
+
+ceylon-10-cents-1912:
+  frente: https://i.ucoin.net/coin/84/840/84840503-1s/ceylon-10-cents-1912.jpg
+  tras: https://i.ucoin.net/coin/84/840/84840503-2s/ceylon-10-cents-1912.jpg
+
+ceylon-10-cents-1921:
+  frente: https://i.ucoin.net/coin/80/823/80823181-1s/ceylon-10-cents-1921.jpg
+  tras: https://i.ucoin.net/coin/80/823/80823181-2s/ceylon-10-cents-1921.jpg
+
+ceylon-10-cents-1941:
+  frente: https://i.ucoin.net/coin/70/104/70104003-1s/ceylon-10-cents-1941.jpg
+  tras: https://i.ucoin.net/coin/70/104/70104003-2s/ceylon-10-cents-1941.jpg
+
+ceylon-10-cents-1944:
+  frente: https://i.ucoin.net/coin/56/777/56777471-1s/ceylon-10-cents-1944.jpg
+  tras: https://i.ucoin.net/coin/56/777/56777471-2s/ceylon-10-cents-1944.jpg
+
+ceylon-10-cents-1951:
+  frente: https://i.ucoin.net/coin/74/365/74365403-1s/ceylon-10-cents-1951.jpg
+  tras: https://i.ucoin.net/coin/74/365/74365403-2s/ceylon-10-cents-1951.jpg
+
+ceylon-10-cents-1971:
+  frente: https://i.ucoin.net/coin/16/560/16560896-1s/ceylon-10-cents-1971.jpg
+  tras: https://i.ucoin.net/coin/16/560/16560896-2s/ceylon-10-cents-1971.jpg
+
+ceylon-2-cents-1944:
+  frente: https://i.ucoin.net/coin/32/481/32481874-1s/ceylon-2-cents-1944.jpg
+  tras: https://i.ucoin.net/coin/32/481/32481874-2s/ceylon-2-cents-1944.jpg
+
+ceylon-2-cents-1951:
+  frente: https://i.ucoin.net/coin/38/228/38228582-1s/ceylon-2-cents-1951.jpg
+  tras: https://i.ucoin.net/coin/38/228/38228582-2s/ceylon-2-cents-1951.jpg
+
+ceylon-2-cents-1955:
+  frente: https://i.ucoin.net/coin/22/490/22490491-1s/ceylon-2-cents-1955.jpg
+  tras: https://i.ucoin.net/coin/22/490/22490491-2s/ceylon-2-cents-1955.jpg
+
+ceylon-2-cents-1965:
+  frente: https://i.ucoin.net/coin/53/984/53984117-1s/ceylon-2-cents-1965.jpg
+  tras: https://i.ucoin.net/coin/53/984/53984117-2s/ceylon-2-cents-1965.jpg
+
+ceylon-25-cents-1892:
+  frente: https://i.ucoin.net/coin/22/983/22983095-1s/ceylon-25-cents-1892.jpg
+  tras: https://i.ucoin.net/coin/22/983/22983095-2s/ceylon-25-cents-1892.jpg
+
+ceylon-25-cents-1902:
+  frente: https://i.ucoin.net/coin/47/779/47779070-1s/ceylon-25-cents-1902.jpg
+  tras: https://i.ucoin.net/coin/47/779/47779070-2s/ceylon-25-cents-1902.jpg
+
+ceylon-25-cents-1917:
+  frente: https://i.ucoin.net/coin/80/917/80917556-1s/ceylon-25-cents-1917.jpg
+  tras: https://i.ucoin.net/coin/80/917/80917556-2s/ceylon-25-cents-1917.jpg
+
+ceylon-25-cents-1926:
+  frente: https://i.ucoin.net/coin/84/876/84876020-1s/ceylon-25-cents-1926.jpg
+  tras: https://i.ucoin.net/coin/84/876/84876020-2s/ceylon-25-cents-1926.jpg
+
+ceylon-25-cents-1943:
+  frente: https://i.ucoin.net/coin/45/070/45070106-1s/ceylon-25-cents-1943.jpg
+  tras: https://i.ucoin.net/coin/45/070/45070106-2s/ceylon-25-cents-1943.jpg
+
+ceylon-25-cents-1951:
+  frente: https://i.ucoin.net/coin/74/365/74365510-1s/ceylon-25-cents-1951.jpg
+  tras: https://i.ucoin.net/coin/74/365/74365510-2s/ceylon-25-cents-1951.jpg
+
+ceylon-25-cents-1971:
+  frente: https://i.ucoin.net/coin/55/727/55727334-1s/ceylon-25-cents-1971.jpg
+  tras: https://i.ucoin.net/coin/55/727/55727334-2s/ceylon-25-cents-1971.jpg
+
+ceylon-5-cents-1892:
+  frente: https://i.ucoin.net/coin/84/840/84840457-1s/ceylon-5-cents-1892.jpg
+  tras: https://i.ucoin.net/coin/84/840/84840457-2s/ceylon-5-cents-1892.jpg
+
+ceylon-5-cents-1909:
+  frente: https://i.ucoin.net/coin/82/455/82455668-1s/ceylon-5-cents-1909.jpg
+  tras: https://i.ucoin.net/coin/82/455/82455668-2s/ceylon-5-cents-1909.jpg
+
+ceylon-5-cents-1912:
+  frente: https://i.ucoin.net/coin/84/840/84840507-1s/ceylon-5-cents-1912.jpg
+  tras: https://i.ucoin.net/coin/84/840/84840507-2s/ceylon-5-cents-1912.jpg
+
+ceylon-5-cents-1943:
+  frente: https://i.ucoin.net/coin/62/336/62336240-1s/ceylon-5-cents-1943.jpg
+  tras: https://i.ucoin.net/coin/62/336/62336240-2s/ceylon-5-cents-1943.jpg
+
+ceylon-5-cents-1944:
+  frente: https://i.ucoin.net/coin/12/400/12400657-1s/ceylon-5-cents-1944.jpg
+  tras: https://i.ucoin.net/coin/12/400/12400657-2s/ceylon-5-cents-1944.jpg
+
+ceylon-5-cents-1951:
+  frente: https://i.ucoin.net/coin/67/386/67386086-1s/ceylon-5-cents-1951.jpg
+  tras: https://i.ucoin.net/coin/67/386/67386086-2s/ceylon-5-cents-1951.jpg
+
+ceylon-5-cents-1971:
+  frente: https://i.ucoin.net/coin/53/984/53984153-1s/ceylon-5-cents-1971.jpg
+  tras: https://i.ucoin.net/coin/53/984/53984153-2s/ceylon-5-cents-1971.jpg
+
+ceylon-50-cents-1893:
+  frente: https://i.ucoin.net/coin/84/840/84840468-1s/ceylon-50-cents-1893.jpg
+  tras: https://i.ucoin.net/coin/84/840/84840468-2s/ceylon-50-cents-1893.jpg
+
+ceylon-50-cents-1910:
+  frente: https://i.ucoin.net/coin/40/222/40222718-1s/ceylon-50-cents-1910.jpg
+  tras: https://i.ucoin.net/coin/40/222/40222718-2s/ceylon-50-cents-1910.jpg
+
+ceylon-50-cents-1917:
+  frente: https://i.ucoin.net/coin/84/876/84876003-1s/ceylon-50-cents-1917.jpg
+  tras: https://i.ucoin.net/coin/84/876/84876003-2s/ceylon-50-cents-1917.jpg
+
+ceylon-50-cents-1924:
+  frente: https://i.ucoin.net/coin/84/876/84876009-1s/ceylon-50-cents-1924.jpg
+  tras: https://i.ucoin.net/coin/84/876/84876009-2s/ceylon-50-cents-1924.jpg
+
+ceylon-50-cents-1942:
+  frente: https://i.ucoin.net/coin/45/974/45974023-1s/ceylon-50-cents-1942.jpg
+  tras: https://i.ucoin.net/coin/45/974/45974023-2s/ceylon-50-cents-1942.jpg
+
+ceylon-50-cents-1943:
+  frente: https://i.ucoin.net/coin/22/068/22068436-1s/ceylon-50-cents-1943.jpg
+  tras: https://i.ucoin.net/coin/22/068/22068436-2s/ceylon-50-cents-1943.jpg
+
+ceylon-50-cents-1951:
+  frente: https://i.ucoin.net/coin/63/341/63341832-1s/ceylon-50-cents-1951.jpg
+  tras: https://i.ucoin.net/coin/63/341/63341832-2s/ceylon-50-cents-1951.jpg
+
+ceylon-50-cents-1965:
+  frente: https://i.ucoin.net/coin/67/842/67842239-1s/ceylon-50-cents-1965.jpg
+  tras: https://i.ucoin.net/coin/67/842/67842239-2s/ceylon-50-cents-1965.jpg
+
+sri-lanka-1-cent-1978:
+  frente: https://i.ucoin.net/coin/72/270/72270685-1s/sri_lanka-1-cent-1978.jpg
+  tras: https://i.ucoin.net/coin/72/270/72270685-2s/sri_lanka-1-cent-1978.jpg
+
+sri-lanka-1-rupee-1972:
+  frente: https://i.ucoin.net/coin/56/778/56778044-1s/sri_lanka-1-rupee-1972.jpg
+  tras: https://i.ucoin.net/coin/56/778/56778044-2s/sri_lanka-1-rupee-1972.jpg
+
+sri-lanka-1-rupee-1982:
+  frente: https://i.ucoin.net/coin/37/451/37451852-1s/sri_lanka-1-rupee-1982.jpg
+  tras: https://i.ucoin.net/coin/37/451/37451852-2s/sri_lanka-1-rupee-1982.jpg
+
+sri-lanka-1-rupee-1996:
+  frente: https://i.ucoin.net/coin/56/796/56796557-1s/sri_lanka-1-rupee-1996.jpg
+  tras: https://i.ucoin.net/coin/56/796/56796557-2s/sri_lanka-1-rupee-1996.jpg
+
+sri-lanka-1-rupee-2013:
+  frente: https://i.ucoin.net/coin/37/451/37451705-1s/sri_lanka-1-rupee-2013.jpg
+  tras: https://i.ucoin.net/coin/37/451/37451705-2s/sri_lanka-1-rupee-2013.jpg
+
+sri-lanka-1-rupee-2016:
+  frente: https://i.ucoin.net/coin/72/270/72270795-1s/sri_lanka-1-rupee-2016.jpg
+  tras: https://i.ucoin.net/coin/72/270/72270795-2s/sri_lanka-1-rupee-2016.jpg
+
+sri-lanka-1-rupee-2017:
+  frente: https://i.ucoin.net/coin/51/947/51947441-1s/sri_lanka-1-rupee-2017.jpg
+  tras: https://i.ucoin.net/coin/51/947/51947441-2s/sri_lanka-1-rupee-2017.jpg
+
+sri-lanka-10-cents-1975:
+  frente: https://i.ucoin.net/coin/51/227/51227045-1s/sri_lanka-10-cents-1975.jpg
+  tras: https://i.ucoin.net/coin/51/227/51227045-2s/sri_lanka-10-cents-1975.jpg
+
+sri-lanka-10-cents-1991:
+  frente: https://i.ucoin.net/coin/56/778/56778840-1s/sri_lanka-10-cents-1991.jpg
+  tras: https://i.ucoin.net/coin/56/778/56778840-2s/sri_lanka-10-cents-1991.jpg
+
+sri-lanka-10-rupees-2011:
+  frente: https://i.ucoin.net/coin/63/434/63434120-1s/sri_lanka-10-rupees-2011.jpg
+  tras: https://i.ucoin.net/coin/63/434/63434120-2s/sri_lanka-10-rupees-2011.jpg
+
+sri-lanka-10-rupees-2013:
+  frente: https://i.ucoin.net/coin/37/451/37451670-1s/sri_lanka-10-rupees-2013.jpg
+  tras: https://i.ucoin.net/coin/37/451/37451670-2s/sri_lanka-10-rupees-2013.jpg
+
+sri-lanka-10-rupees-2017:
+  frente: https://i.ucoin.net/coin/72/270/72270813-1s/sri_lanka-10-rupees-2017.jpg
+  tras: https://i.ucoin.net/coin/72/270/72270813-2s/sri_lanka-10-rupees-2017.jpg
+
+sri-lanka-2-cents-1978:
+  frente: https://i.ucoin.net/coin/56/776/56776684-1s/sri_lanka-2-cents-1978.jpg
+  tras: https://i.ucoin.net/coin/56/776/56776684-2s/sri_lanka-2-cents-1978.jpg
+
+sri-lanka-2-rupees-2002:
+  frente: https://i.ucoin.net/coin/56/797/56797869-1s/sri_lanka-2-rupees-2002.jpg
+  tras: https://i.ucoin.net/coin/56/797/56797869-2s/sri_lanka-2-rupees-2002.jpg
+
+sri-lanka-2-rupees-2008:
+  frente: https://i.ucoin.net/coin/56/813/56813817-1s/sri_lanka-2-rupees-2008.jpg
+  tras: https://i.ucoin.net/coin/56/813/56813817-2s/sri_lanka-2-rupees-2008.jpg
+
+sri-lanka-2-rupees-2013:
+  frente: https://i.ucoin.net/coin/37/451/37451671-1s/sri_lanka-2-rupees-2013.jpg
+  tras: https://i.ucoin.net/coin/37/451/37451671-2s/sri_lanka-2-rupees-2013.jpg
+
+sri-lanka-2-rupees-2017:
+  frente: https://i.ucoin.net/coin/62/751/62751647-1s/sri_lanka-2-rupees-2017.jpg
+  tras: https://i.ucoin.net/coin/62/751/62751647-2s/sri_lanka-2-rupees-2017.jpg
+
+sri-lanka-25-cents-1978:
+  frente: https://i.ucoin.net/coin/53/984/53984508-1s/sri_lanka-25-cents-1978.jpg
+  tras: https://i.ucoin.net/coin/53/984/53984508-2s/sri_lanka-25-cents-1978.jpg
+
+sri-lanka-25-cents-1994:
+  frente: https://i.ucoin.net/coin/56/794/56794498-1s/sri_lanka-25-cents-1994.jpg
+  tras: https://i.ucoin.net/coin/56/794/56794498-2s/sri_lanka-25-cents-1994.jpg
+
+sri-lanka-25-cents-2004:
+  frente: https://i.ucoin.net/coin/74/365/74365267-1s/sri_lanka-25-cents-2004.jpg
+  tras: https://i.ucoin.net/coin/74/365/74365267-2s/sri_lanka-25-cents-2004.jpg
+
+sri-lanka-25-cents-2009:
+  frente: https://i.ucoin.net/coin/44/518/44518870-1s/sri_lanka-25-cents-2009.jpg
+  tras: https://i.ucoin.net/coin/44/518/44518870-2s/sri_lanka-25-cents-2009.jpg
+
+sri-lanka-5-cents-1975:
+  frente: https://i.ucoin.net/coin/74/278/74278244-1s/sri_lanka-5-cents-1975.jpg
+  tras: https://i.ucoin.net/coin/74/278/74278244-2s/sri_lanka-5-cents-1975.jpg
+
+sri-lanka-5-cents-1991:
+  frente: https://i.ucoin.net/coin/56/778/56778674-1s/sri_lanka-5-cents-1991.jpg
+  tras: https://i.ucoin.net/coin/56/778/56778674-2s/sri_lanka-5-cents-1991.jpg
+
+sri-lanka-5-rupees-2004:
+  frente: https://i.ucoin.net/coin/56/778/56778993-1s/sri_lanka-5-rupees-2004.jpg
+  tras: https://i.ucoin.net/coin/56/778/56778993-2s/sri_lanka-5-rupees-2004.jpg
+
+sri-lanka-5-rupees-2013:
+  frente: https://i.ucoin.net/coin/37/451/37451708-1s/sri_lanka-5-rupees-2013.jpg
+  tras: https://i.ucoin.net/coin/37/451/37451708-2s/sri_lanka-5-rupees-2013.jpg
+
+sri-lanka-5-rupees-2016:
+  frente: https://i.ucoin.net/coin/37/451/37451667-1s/sri_lanka-5-rupees-2016.jpg
+  tras: https://i.ucoin.net/coin/37/451/37451667-2s/sri_lanka-5-rupees-2016.jpg
+
+sri-lanka-5-rupees-2017:
+  frente: https://i.ucoin.net/coin/72/270/72270808-1s/sri_lanka-5-rupees-2017.jpg
+  tras: https://i.ucoin.net/coin/72/270/72270808-2s/sri_lanka-5-rupees-2017.jpg
+
+sri-lanka-50-cents-1972:
+  frente: https://i.ucoin.net/coin/56/776/56776617-1s/sri_lanka-50-cents-1972.jpg
+  tras: https://i.ucoin.net/coin/56/776/56776617-2s/sri_lanka-50-cents-1972.jpg
+
+sri-lanka-50-cents-1982:
+  frente: https://i.ucoin.net/coin/56/778/56778215-1s/sri_lanka-50-cents-1982.jpg
+  tras: https://i.ucoin.net/coin/56/778/56778215-2s/sri_lanka-50-cents-1982.jpg
+
+sri-lanka-50-cents-2002:
+  frente: https://i.ucoin.net/coin/67/842/67842557-1s/sri_lanka-50-cents-2002.jpg
+  tras: https://i.ucoin.net/coin/67/842/67842557-2s/sri_lanka-50-cents-2002.jpg
+
+sri-lanka-50-cents-2005:
+  frente: https://i.ucoin.net/coin/51/601/51601229-1s/sri_lanka-50-cents-2005.jpg
+  tras: https://i.ucoin.net/coin/51/601/51601229-2s/sri_lanka-50-cents-2005.jpg

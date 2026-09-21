@@ -22,6 +22,10 @@ from urllib.request import Request, urlopen
 API_BASE_URL = "https://track-coin-collection.base44.app/api"
 API_KEY_ENV = "ALL_COINS_API_KEY"
 DEFAULT_RAW_BASE_URL = "https://raw.githubusercontent.com/Domandrenog/All_Coins/main"
+PHOTOS_ROOT = Path("fotos/paises")
+NORMAL_TYPE_FOLDER = "normal"
+INTERNAL_LINKS_FILENAME = "links-internos.txt"
+EXTERNAL_LINKS_FILENAME = "links-externos.txt"
 READ_ONLY_FIELDS = {"id", "created_date", "updated_date", "created_by_id"}
 BROWSER_DOWNLOAD_ATTEMPTS = 3
 BROWSER_RETRY_DELAY_SECONDS = 5
@@ -83,6 +87,9 @@ COUNTRY_SLUG_ALIASES = {
     "macau": ["macau"],
     "malasia": ["malasia", "malaysia"],
     "malaysia": ["malaysia", "malasia"],
+    "mauricia": ["mauricia", "mauritius"],
+    "mauricias": ["mauricias", "mauritius"],
+    "mauritius": ["mauritius", "mauricia", "mauricias"],
     "seychelles": ["seychelles"],
     "romenia": ["romenia", "romania"],
     "romania": ["romania", "romenia"],
@@ -118,6 +125,9 @@ COUNTRY_FILE_SLUGS = {
     "macau": "macau",
     "malasia": "malaysia",
     "malaysia": "malaysia",
+    "mauricia": "mauritius",
+    "mauricias": "mauritius",
+    "mauritius": "mauritius",
     "seychelles": "seychelles",
     "romenia": "romania",
     "romania": "romania",
@@ -153,6 +163,9 @@ COUNTRY_FOLDERS = {
     "macau": "Macau",
     "malasia": "Malasia",
     "malaysia": "Malasia",
+    "mauricia": "Mauricias",
+    "mauricias": "Mauricias",
+    "mauritius": "Mauricias",
     "seychelles": "Seychelles",
     "romenia": "Romenia",
     "romania": "Romenia",
@@ -167,6 +180,14 @@ COUNTRY_FOLDERS = {
     "tunisia": "Tunisia",
 }
 
+CONTINENT_FOLDERS = {
+    "africa": "Africa",
+    "america": "America",
+    "asia": "Asia",
+    "europa": "Europa",
+    "oceania": "Oceania",
+}
+
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
@@ -177,7 +198,10 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--years", help="Filtro exato por anos na API, opcional.")
     parser.add_argument("--slug", help="Slug manual para uma moeda específica, ex.: poland-1-grosz-2018.")
     parser.add_argument("--coin-id", help="ID da moeda na API, se já souberes qual é.")
-    parser.add_argument("--country-folder", help="Pasta do país no repo, ex.: Polonia. Por defeito é inferida do país.")
+    parser.add_argument(
+        "--country-folder",
+        help="Nome da pasta do país, ex.: Polonia. O caminho completo inclui fotos/paises/<continente>/<país>/normal.",
+    )
     parser.add_argument("--raw-base-url", default=DEFAULT_RAW_BASE_URL, help="Base raw do GitHub.")
     parser.add_argument("--limit", type=int, default=1000, help="Máximo de moedas a listar quando não há coin-id.")
     parser.add_argument("--api-key-env", default=API_KEY_ENV, help="Nome da variável de ambiente com a API key.")
@@ -214,6 +238,22 @@ def country_folder(country: str, explicit_folder: str | None) -> str:
         return explicit_folder.strip("/")
     country_slug = slugify(country)
     return COUNTRY_FOLDERS.get(country_slug, default_country_folder(country_slug))
+
+
+def continent_folder(continent: str) -> str:
+    continent_slug = slugify(continent)
+    if not continent_slug:
+        raise RuntimeError("A moeda não tem continente definido na API.")
+    return CONTINENT_FOLDERS.get(continent_slug, default_country_folder(continent_slug))
+
+
+def normal_country_path(country: str, continent: str, explicit_country_folder: str | None = None) -> Path:
+    return (
+        PHOTOS_ROOT
+        / continent_folder(continent)
+        / country_folder(country, explicit_country_folder)
+        / NORMAL_TYPE_FOLDER
+    )
 
 
 def coin_file_slug(coin: dict[str, object], manual_slug: str | None = None) -> str:
@@ -281,7 +321,11 @@ def image_file_slug(url: str) -> str:
 
 
 def generated_image_links(coin: dict[str, object], args: argparse.Namespace, slug: str) -> dict[str, str]:
-    folder = country_folder(str(coin.get("country") or args.country or ""), args.country_folder)
+    folder = normal_country_path(
+        str(coin.get("country") or args.country or ""),
+        str(coin.get("continent") or ""),
+        args.country_folder,
+    ).as_posix()
     base_url = args.raw_base_url.rstrip("/")
     return {
         "frente": f"{base_url}/{folder}/frente/{slug}.jpg",
@@ -599,7 +643,12 @@ def parse_links_file(path: Path) -> dict[str, dict[str, str]]:
     return entries
 
 
-def write_country_links(folder: Path, slug: str, links: dict[str, str], filename: str = "links.txt") -> None:
+def write_country_links(
+    folder: Path,
+    slug: str,
+    links: dict[str, str],
+    filename: str = INTERNAL_LINKS_FILENAME,
+) -> None:
     path = folder / filename
     entries = parse_links_file(path)
     entries[slug] = {"frente": links["frente"], "tras": links["tras"]}
@@ -739,7 +788,11 @@ def main() -> int:
             print("Saltada: não tem links i.ucoin.net nos dois lados; fica como está.")
             continue
 
-        folder = Path(country_folder(str(coin.get("country") or args.country or ""), args.country_folder))
+        folder = normal_country_path(
+            str(coin.get("country") or args.country or ""),
+            str(coin.get("continent") or ""),
+            args.country_folder,
+        )
         target_files = {
             "frente": folder / "frente" / f"{coin_slug}.jpg",
             "tras": folder / "tras" / f"{coin_slug}.jpg",
@@ -774,11 +827,11 @@ def main() -> int:
         if (args.apply or args.download_only) and not args.api_only:
             write_country_links(folder, coin_slug, target_links)
             if "i.ucoin.net" in source_links["frente"].lower() or "i.ucoin.net" in source_links["tras"].lower():
-                write_country_links(folder, coin_slug, source_links, "links-ucoin.txt")
-                print(f"Links uCoin: atualizado -> {folder / 'links-ucoin.txt'}")
+                write_country_links(folder, coin_slug, source_links, EXTERNAL_LINKS_FILENAME)
+                print(f"Links externos: atualizado -> {folder / EXTERNAL_LINKS_FILENAME}")
             else:
-                print("Links uCoin: mantido, porque a API já não aponta para i.ucoin.net")
-            print(f"Links: atualizado -> {folder / 'links.txt'}")
+                print("Links externos: mantido, porque a API já não aponta para i.ucoin.net")
+            print(f"Links internos: atualizado -> {folder / INTERNAL_LINKS_FILENAME}")
 
         if args.download_only:
             continue

@@ -1,0 +1,71 @@
+taiwan-1-2-dollar-1981:
+  frente: https://i.ucoin.net/coin/29/941/29941414-2s/taiwan-1-2-dollar-1981.jpg
+  tras: https://i.ucoin.net/coin/29/941/29941414-1s/taiwan-1-2-dollar-1981.jpg
+
+taiwan-1-dollar-1974:
+  frente: https://i.ucoin.net/coin/55/005/55005955-2s/taiwan-1-dollar-1974.jpg
+  tras: https://i.ucoin.net/coin/55/005/55005955-1s/taiwan-1-dollar-1974.jpg
+
+taiwan-1-dollar-2006:
+  frente: https://i.ucoin.net/coin/51/690/51690583-2s/taiwan-1-dollar-2006.jpg
+  tras: https://i.ucoin.net/coin/51/690/51690583-1s/taiwan-1-dollar-2006.jpg
+
+taiwan-1-jiao-1949:
+  frente: https://i.ucoin.net/coin/74/810/74810020-2s/taiwan-1-jiao-1949.jpg
+  tras: https://i.ucoin.net/coin/74/810/74810020-1s/taiwan-1-jiao-1949.jpg
+
+taiwan-1-jiao-1955:
+  frente: https://i.ucoin.net/coin/3/763/3763828-2s/taiwan-1-jiao-1955.jpg
+  tras: https://i.ucoin.net/coin/3/763/3763828-1s/taiwan-1-jiao-1955.jpg
+
+taiwan-1-jiao-1967:
+  frente: https://i.ucoin.net/coin/54/011/54011071-2s/taiwan-1-jiao-1967.jpg
+  tras: https://i.ucoin.net/coin/54/011/54011071-1s/taiwan-1-jiao-1967.jpg
+
+taiwan-10-dollars-1997:
+  frente: https://i.ucoin.net/coin/47/645/47645745-2s/taiwan-10-dollars-1997.jpg
+  tras: https://i.ucoin.net/coin/47/645/47645745-1s/taiwan-10-dollars-1997.jpg
+
+taiwan-10-dollars-2021:
+  frente: https://i.ucoin.net/coin/50/342/50342110-2s/taiwan-10-dollars-2021.jpg
+  tras: https://i.ucoin.net/coin/50/342/50342110-1s/taiwan-10-dollars-2021.jpg
+
+taiwan-2-jiao-1950:
+  frente: https://i.ucoin.net/coin/33/864/33864127-2s/taiwan-2-jiao-1950.jpg
+  tras: https://i.ucoin.net/coin/33/864/33864127-1s/taiwan-2-jiao-1950.jpg
+
+taiwan-20-dollars-2005:
+  frente: https://i.ucoin.net/coin/80/778/80778612-2s/taiwan-20-dollars-2005.jpg
+  tras: https://i.ucoin.net/coin/80/778/80778612-1s/taiwan-20-dollars-2005.jpg
+
+taiwan-5-dollars-1979:
+  frente: https://i.ucoin.net/coin/47/646/47646029-2s/taiwan-5-dollars-1979.jpg
+  tras: https://i.ucoin.net/coin/47/646/47646029-1s/taiwan-5-dollars-1979.jpg
+
+taiwan-5-dollars-1989:
+  frente: https://i.ucoin.net/coin/70/404/70404333-2s/taiwan-5-dollars-1989.jpg
+  tras: https://i.ucoin.net/coin/70/404/70404333-1s/taiwan-5-dollars-1989.jpg
+
+taiwan-5-jiao-1949:
+  frente: https://i.ucoin.net/coin/60/597/60597868-2s/taiwan-5-jiao-1949.jpg
+  tras: https://i.ucoin.net/coin/60/597/60597868-1s/taiwan-5-jiao-1949.jpg
+
+taiwan-5-jiao-1954:
+  frente: https://i.ucoin.net/coin/76/984/76984150-2s/taiwan-5-jiao-1954.jpg
+  tras: https://i.ucoin.net/coin/76/984/76984150-1s/taiwan-5-jiao-1954.jpg
+
+taiwan-5-jiao-1973:
+  frente: https://i.ucoin.net/coin/26/619/26619353-2s/taiwan-5-jiao-1973.jpg
+  tras: https://i.ucoin.net/coin/26/619/26619353-2s/taiwan-5-jiao-1973.jpg
+
+taiwan-50-dollars-1993:
+  frente: https://i.ucoin.net/coin/2/555/2555904-2s/taiwan-50-dollars-1993.jpg
+  tras: https://i.ucoin.net/coin/2/555/2555904-1s/taiwan-50-dollars-1993.jpg
+
+taiwan-50-dollars-1997:
+  frente: https://i.ucoin.net/coin/2/555/2555884-2s/taiwan-50-dollars-1997.jpg
+  tras: https://i.ucoin.net/coin/2/555/2555884-1s/taiwan-50-dollars-1997.jpg
+
+taiwan-50-dollars-2006:
+  frente: https://i.ucoin.net/coin/84/148/84148977-2s/taiwan-50-dollars-2006.jpg
+  tras: https://i.ucoin.net/coin/84/148/84148977-1s/taiwan-50-dollars-2006.jpg

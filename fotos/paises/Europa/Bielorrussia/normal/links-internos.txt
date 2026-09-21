@@ -1,0 +1,27 @@
+belarus-1-ruble-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bielorrussia/normal/frente/belarus-1-ruble-2009.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bielorrussia/normal/tras/belarus-1-ruble-2009.jpg
+
+belarus-10-kopeks-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bielorrussia/normal/frente/belarus-10-kopeks-2009.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bielorrussia/normal/tras/belarus-10-kopeks-2009.jpg
+
+belarus-2-kopeks-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bielorrussia/normal/frente/belarus-2-kopeks-2009.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bielorrussia/normal/tras/belarus-2-kopeks-2009.jpg
+
+belarus-2-rubles-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bielorrussia/normal/frente/belarus-2-rubles-2009.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bielorrussia/normal/tras/belarus-2-rubles-2009.jpg
+
+belarus-20-kopeks-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bielorrussia/normal/frente/belarus-20-kopeks-2009.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bielorrussia/normal/tras/belarus-20-kopeks-2009.jpg
+
+belarus-5-kopeks-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bielorrussia/normal/frente/belarus-5-kopeks-2009.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bielorrussia/normal/tras/belarus-5-kopeks-2009.jpg
+
+belarus-50-kopeks-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bielorrussia/normal/frente/belarus-50-kopeks-2009.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bielorrussia/normal/tras/belarus-50-kopeks-2009.jpg

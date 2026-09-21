@@ -77,7 +77,17 @@ def worktree_has_only_country_changes(countries: list[str]) -> bool:
         return False
     allowed_folders = {country_folder(country, None) for country in countries}
     changed_paths = [line[3:] for line in result.stdout.splitlines() if len(line) > 3]
-    if any(not any(path.startswith(f"{folder}/") for folder in allowed_folders) for path in changed_paths):
+
+    def is_allowed_country_path(path: str) -> bool:
+        parts = Path(path).parts
+        return (
+            len(parts) >= 5
+            and parts[:2] == ("fotos", "paises")
+            and parts[3] in allowed_folders
+            and parts[4] == "normal"
+        )
+
+    if any(not is_allowed_country_path(path) for path in changed_paths):
         print(
             "O repositório tem alterações locais fora dos países selecionados. Faz commit ou "
             "guarda-as de outra forma antes da migração completa."
