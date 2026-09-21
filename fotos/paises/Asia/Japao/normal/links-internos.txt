@@ -26,6 +26,14 @@ japan-10-yen-2020:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Japao/normal/frente/japan-10-yen-2020.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Japao/normal/tras/japan-10-yen-2020.jpg
 
+japan-100-yen-1957:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Japao/normal/frente/japan-100-yen-1957.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Japao/normal/tras/japan-100-yen-1957.jpg
+
+japan-100-yen-1960:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Japao/normal/frente/japan-100-yen-1960.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Japao/normal/tras/japan-100-yen-1960.jpg
+
 japan-100-yen-1973:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Japao/normal/frente/japan-100-yen-1973.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Japao/normal/tras/japan-100-yen-1973.jpg

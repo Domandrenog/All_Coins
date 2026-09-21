@@ -26,6 +26,14 @@ japan-10-yen-2020:
   frente: https://i.ucoin.net/coin/51/756/51756045-2s/japan-10-yen-2020.jpg
   tras: https://i.ucoin.net/coin/51/756/51756045-1s/japan-10-yen-2020.jpg
 
+japan-100-yen-1957:
+  frente: https://i.ucoin.net/coin/0/37/37692-1s/japan-100-yen-1957.jpg
+  tras: https://i.ucoin.net/coin/0/37/37692-2s/japan-100-yen-1957.jpg
+
+japan-100-yen-1960:
+  frente: https://i.ucoin.net/coin/0/1/1092-1s/japan-100-yen-1960.jpg
+  tras: https://i.ucoin.net/coin/0/1/1092-2s/japan-100-yen-1960.jpg
+
 japan-100-yen-1973:
   frente: https://i.ucoin.net/coin/46/569/46569172-2s/japan-100-yen-1973.jpg
   tras: https://i.ucoin.net/coin/46/569/46569172-1s/japan-100-yen-1973.jpg
