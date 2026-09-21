@@ -1,0 +1,3 @@
+australia-50-cents-world-war-ii-1995:
+  frente: https://i.ucoin.net/coin/37/342/37342415-2/australia-50-cents-1995.jpg
+  tras: https://i.ucoin.net/coin/37/342/37342415-1/australia-50-cents-1995.jpg
