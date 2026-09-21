@@ -30,6 +30,10 @@ indonesia-200-rp-2016:
   frente: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/764bd1b5d_image.png
   tras: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/b76e32c8f_image.png
 
+indonesia-25-rupiah-1995:
+  frente: https://i.ucoin.net/coin/37/880/37880977-1s/indonesia-25-rupiah-1995.jpg
+  tras: https://i.ucoin.net/coin/37/880/37880977-2s/indonesia-25-rupiah-1995.jpg
+
 indonesia-50-rp-1991-1998:
   frente: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/690aae343_image.png
   tras: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/9a4a8d3c7_image.png
