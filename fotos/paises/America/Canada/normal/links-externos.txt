@@ -558,10 +558,6 @@ canadian-provinces-1-2-penny-1832-12-pence-1832-canada-superior:
   frente: https://i.ucoin.net/coin/80/810/80810897-1s/canadian_provinces-1-2-penny-1832.jpg
   tras: https://i.ucoin.net/coin/80/810/80810897-2s/canadian_provinces-1-2-penny-1832.jpg
 
-canadian-provinces-1-2-penny-1837:
-  frente: https://i.ucoin.net/coin/83/785/83785666-1s/canadian_provinces-1-2-penny-1837.jpg
-  tras: https://i.ucoin.net/coin/83/785/83785666-2s/canadian_provinces-1-2-penny-1837.jpg
-
 canadian-provinces-1-2-penny-1837-12-pence-1837-baixo-canada:
   frente: https://i.ucoin.net/coin/78/754/78754212-1s/canadian_provinces-1-2-penny-1837.jpg
   tras: https://i.ucoin.net/coin/78/754/78754212-2s/canadian_provinces-1-2-penny-1837.jpg

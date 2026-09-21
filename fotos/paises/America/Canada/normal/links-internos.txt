@@ -558,10 +558,6 @@ canadian-provinces-1-2-penny-1832-12-pence-1832-canada-superior:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/normal/frente/canadian-provinces-1-2-penny-1832-12-pence-1832-canada-superior.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/normal/tras/canadian-provinces-1-2-penny-1832-12-pence-1832-canada-superior.jpg
 
-canadian-provinces-1-2-penny-1837:
-  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/normal/frente/canadian-provinces-1-2-penny-1837.jpg
-  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/normal/tras/canadian-provinces-1-2-penny-1837.jpg
-
 canadian-provinces-1-2-penny-1837-12-pence-1837-baixo-canada:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/normal/frente/canadian-provinces-1-2-penny-1837-12-pence-1837-baixo-canada.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/normal/tras/canadian-provinces-1-2-penny-1837-12-pence-1837-baixo-canada.jpg
