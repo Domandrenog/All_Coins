@@ -1,3 +1,15 @@
+malaysia-1-ringgit-1985:
+  frente: https://i.ucoin.net/coin/44/419/44419535-1s/malaysia-1-ringgit-1985.jpg
+  tras: https://i.ucoin.net/coin/44/419/44419535-2s/malaysia-1-ringgit-1985.jpg
+
+malaysia-1-ringgit-1989:
+  frente: https://i.ucoin.net/coin/36/435/36435686-1s/malaysia-1-ringgit-1989.jpg
+  tras: https://i.ucoin.net/coin/36/435/36435686-2s/malaysia-1-ringgit-1989.jpg
+
+malaysia-1-ringgit-1995:
+  frente: https://i.ucoin.net/coin/50/422/50422773-1s/malaysia-1-ringgit-1995.jpg
+  tras: https://i.ucoin.net/coin/50/422/50422773-2s/malaysia-1-ringgit-1995.jpg
+
 malaysia-1-sen-1973:
   frente: https://i.ucoin.net/coin/68/525/68525921-1/malaysia-1-sen-1973.jpg
   tras: https://i.ucoin.net/coin/68/525/68525921-2s/malaysia-1-sen-1973.jpg
@@ -33,6 +45,10 @@ malaysia-20-sen-2007:
 malaysia-20-sen-2014:
   frente: https://i.ucoin.net/coin/37/924/37924435-1s/malaysia-20-sen-2014.jpg
   tras: https://i.ucoin.net/coin/37/924/37924435-2s/malaysia-20-sen-2014.jpg
+
+malaysia-5-ringgit-1971:
+  frente: https://i.ucoin.net/coin/67/365/67365225-1s/malaysia-5-ringgit-1971.jpg
+  tras: https://i.ucoin.net/coin/67/365/67365225-2s/malaysia-5-ringgit-1971.jpg
 
 malaysia-5-sen-1982:
   frente: https://i.ucoin.net/coin/47/158/47158885-1s/malaysia-5-sen-1982.jpg

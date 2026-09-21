@@ -1,3 +1,15 @@
+malaysia-1-ringgit-1985:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Malasia/normal/frente/malaysia-1-ringgit-1985.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Malasia/normal/tras/malaysia-1-ringgit-1985.jpg
+
+malaysia-1-ringgit-1989:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Malasia/normal/frente/malaysia-1-ringgit-1989.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Malasia/normal/tras/malaysia-1-ringgit-1989.jpg
+
+malaysia-1-ringgit-1995:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Malasia/normal/frente/malaysia-1-ringgit-1995.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Malasia/normal/tras/malaysia-1-ringgit-1995.jpg
+
 malaysia-1-sen-1973:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Malasia/normal/frente/malaysia-1-sen-1973.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Malasia/normal/tras/malaysia-1-sen-1973.jpg
@@ -33,6 +45,10 @@ malaysia-20-sen-2007:
 malaysia-20-sen-2014:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Malasia/normal/frente/malaysia-20-sen-2014.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Malasia/normal/tras/malaysia-20-sen-2014.jpg
+
+malaysia-5-ringgit-1971:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Malasia/normal/frente/malaysia-5-ringgit-1971.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Malasia/normal/tras/malaysia-5-ringgit-1971.jpg
 
 malaysia-5-sen-1982:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Malasia/normal/frente/malaysia-5-sen-1982.jpg
