@@ -34,6 +34,14 @@ thailand-2-baht-2018:
   frente: https://i.ucoin.net/coin/53/949/53949693-1s/thailand-2-baht-2018.jpg
   tras: https://i.ucoin.net/coin/53/949/53949693-2s/thailand-2-baht-2018.jpg
 
+thailand-25-sat-1987-2008:
+  frente: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/086f0aba5_image.png
+  tras: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/72b7a8127_image.png
+
+thailand-25-sat-2008-2017:
+  frente: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/c21289804_image.png
+  tras: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/267cf019d_image.png
+
 thailand-25-satang-2018:
   frente: https://i.ucoin.net/coin/25/627/25627883-1s/thailand-25-satang-2018.jpg
   tras: https://i.ucoin.net/coin/25/627/25627883-2s/thailand-25-satang-2018.jpg

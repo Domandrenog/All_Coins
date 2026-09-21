@@ -86,6 +86,10 @@ tunisia-5-dinars-2021:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Tunisia/normal/frente/tunisia-5-dinars-2021.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Tunisia/normal/tras/tunisia-5-dinars-2021.jpg
 
+tunisia-5-milim-1997-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Tunisia/normal/frente/tunisia-5-milim-1997-2005.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Tunisia/normal/tras/tunisia-5-milim-1997-2005.jpg
+
 tunisia-5-millimes-1960:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Tunisia/normal/frente/tunisia-5-millimes-1960.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Tunisia/normal/tras/tunisia-5-millimes-1960.jpg

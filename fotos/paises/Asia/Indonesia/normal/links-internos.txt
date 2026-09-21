@@ -1,0 +1,55 @@
+indonesia-100-rp-1991-1998:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/normal/frente/indonesia-100-rp-1991-1998.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/normal/tras/indonesia-100-rp-1991-1998.jpg
+
+indonesia-100-rp-1999-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/normal/frente/indonesia-100-rp-1999-2005.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/normal/tras/indonesia-100-rp-1999-2005.jpg
+
+indonesia-100-rp-2016:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/normal/frente/indonesia-100-rp-2016.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/normal/tras/indonesia-100-rp-2016.jpg
+
+indonesia-1000-rp-1993-2000:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/normal/frente/indonesia-1000-rp-1993-2000.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/normal/tras/indonesia-1000-rp-1993-2000.jpg
+
+indonesia-1000-rp-2010:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/normal/frente/indonesia-1000-rp-2010.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/normal/tras/indonesia-1000-rp-2010.jpg
+
+indonesia-1000-rp-2016:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/normal/frente/indonesia-1000-rp-2016.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/normal/tras/indonesia-1000-rp-2016.jpg
+
+indonesia-200-rp-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/normal/frente/indonesia-200-rp-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/normal/tras/indonesia-200-rp-2003.jpg
+
+indonesia-200-rp-2016:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/normal/frente/indonesia-200-rp-2016.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/normal/tras/indonesia-200-rp-2016.jpg
+
+indonesia-50-rp-1991-1998:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/normal/frente/indonesia-50-rp-1991-1998.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/normal/tras/indonesia-50-rp-1991-1998.jpg
+
+indonesia-50-rp-1999-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/normal/frente/indonesia-50-rp-1999-2002.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/normal/tras/indonesia-50-rp-1999-2002.jpg
+
+indonesia-500-rp-1991-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/normal/frente/indonesia-500-rp-1991-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/normal/tras/indonesia-500-rp-1991-1992.jpg
+
+indonesia-500-rp-1997-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/normal/frente/indonesia-500-rp-1997-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/normal/tras/indonesia-500-rp-1997-2003.jpg
+
+indonesia-500-rp-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/normal/frente/indonesia-500-rp-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/normal/tras/indonesia-500-rp-2003.jpg
+
+indonesia-500-rp-2016:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/normal/frente/indonesia-500-rp-2016.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Indonesia/normal/tras/indonesia-500-rp-2016.jpg

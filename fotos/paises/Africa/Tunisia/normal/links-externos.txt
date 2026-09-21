@@ -86,6 +86,10 @@ tunisia-5-dinars-2021:
   frente: https://i.ucoin.net/coin/80/173/80173694-2s/tunisia-5-dinars-2021.jpg
   tras: https://i.ucoin.net/coin/80/173/80173694-1s/tunisia-5-dinars-2021.jpg
 
+tunisia-5-milim-1997-2005:
+  frente: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/aeeae2543_image.png
+  tras: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/23d961ba0_image.png
+
 tunisia-5-millimes-1960:
   frente: https://i.ucoin.net/coin/46/513/46513294-2s/tunisia-5-millimes-1960.jpg
   tras: https://i.ucoin.net/coin/46/513/46513294-1s/tunisia-5-millimes-1960.jpg

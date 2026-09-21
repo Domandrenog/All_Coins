@@ -13,6 +13,7 @@ import sys
 import time
 import unicodedata
 from collections import deque
+from io import BytesIO
 from pathlib import Path
 from shutil import which
 from urllib.error import HTTPError, URLError
@@ -33,6 +34,8 @@ API_REQUEST_ATTEMPTS = 3
 API_RETRY_DELAY_SECONDS = 5
 API_RATE_LIMIT_ATTEMPTS = 5
 API_RATE_LIMIT_RETRY_DELAY_SECONDS = 60
+IMAGE_DOWNLOAD_ATTEMPTS = 3
+IMAGE_DOWNLOAD_RETRY_DELAY_SECONDS = 5
 
 
 def load_dotenv(path: Path = Path(".env")) -> None:
@@ -262,9 +265,13 @@ def coin_file_slug(coin: dict[str, object], manual_slug: str | None = None) -> s
     if manual_slug:
         return manual_slug
 
-    image_slug = image_file_slug(str(coin.get("image_frente") or coin.get("image_verso") or ""))
-    if image_slug:
-        return image_slug
+    image_url = str(coin.get("image_frente") or coin.get("image_verso") or "")
+    # Base44 file URLs usually start with an opaque upload id. For those files,
+    # generate a stable catalogue slug from the coin metadata instead.
+    if "base44.app/" not in image_url.lower():
+        image_slug = image_file_slug(image_url)
+        if image_slug:
+            return image_slug
 
     country = str(coin.get("country") or "")
     name = str(coin.get("name") or "")
@@ -590,14 +597,57 @@ def download_image(
             return "downloaded-browser"
         raise RuntimeError(f"Download bloqueado pelo i.ucoin.net: {url}")
 
-    request = Request(url, headers={"User-Agent": "Mozilla/5.0"})
     destination.parent.mkdir(parents=True, exist_ok=True)
-    with urlopen(request, timeout=60) as response:
-        content_type = response.headers.get("Content-Type", "")
-        if "image" not in content_type.lower():
-            raise RuntimeError(f"URL não parece imagem ({content_type}): {url}")
-        destination.write_bytes(response.read())
-    return "downloaded"
+    for attempt in range(1, IMAGE_DOWNLOAD_ATTEMPTS + 1):
+        request = Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        try:
+            with urlopen(request, timeout=60) as response:
+                content_type = response.headers.get("Content-Type", "")
+                if "image" not in content_type.lower():
+                    raise RuntimeError(f"URL não parece imagem ({content_type}): {url}")
+                save_image_as_jpeg(response.read(), destination)
+            return "downloaded"
+        except HTTPError as exc:
+            if exc.code not in {429, 500, 502, 503, 504} or attempt == IMAGE_DOWNLOAD_ATTEMPTS:
+                raise RuntimeError(f"Download falhou com HTTP {exc.code}: {url}") from exc
+            delay = IMAGE_DOWNLOAD_RETRY_DELAY_SECONDS * attempt
+        except URLError as exc:
+            if attempt == IMAGE_DOWNLOAD_ATTEMPTS:
+                raise RuntimeError(
+                    f"Download falhou após {attempt} tentativas ({exc.reason}): {url}"
+                ) from exc
+            delay = IMAGE_DOWNLOAD_RETRY_DELAY_SECONDS * attempt
+        print(
+            f"Download: tentativa {attempt}/{IMAGE_DOWNLOAD_ATTEMPTS} falhou; "
+            f"a repetir em {format_duration(delay)}."
+        )
+        time.sleep(delay)
+
+    raise RuntimeError(f"Download falhou sem resposta: {url}")
+
+
+def save_image_as_jpeg(data: bytes, destination: Path) -> None:
+    """Write downloaded image bytes as a real JPEG, converting when needed."""
+    if data.startswith(b"\xff\xd8\xff"):
+        destination.write_bytes(data)
+        return
+
+    try:
+        from PIL import Image
+    except ImportError as exc:
+        raise RuntimeError(
+            "A imagem não é JPEG. Instala Pillow para a converter: python3 -m pip install Pillow"
+        ) from exc
+
+    with Image.open(BytesIO(data)) as image:
+        if image.mode in {"RGBA", "LA"}:
+            rgba = image.convert("RGBA")
+            background = Image.new("RGB", rgba.size, "white")
+            background.paste(rgba, mask=rgba.getchannel("A"))
+            image = background
+        elif image.mode != "RGB":
+            image = image.convert("RGB")
+        image.save(destination, format="JPEG", quality=95, optimize=True)
 
 
 def download_image_with_curl(url: str, destination: Path) -> bool:
@@ -851,11 +901,11 @@ def main() -> int:
 
         if (args.apply or args.download_only) and not args.api_only:
             write_country_links(folder, coin_slug, target_links)
-            if "i.ucoin.net" in source_links["frente"].lower() or "i.ucoin.net" in source_links["tras"].lower():
+            if source_links["frente"] and source_links["tras"]:
                 write_country_links(folder, coin_slug, source_links, EXTERNAL_LINKS_FILENAME)
                 print(f"Links externos: atualizado -> {folder / EXTERNAL_LINKS_FILENAME}")
             else:
-                print("Links externos: mantido, porque a API já não aponta para i.ucoin.net")
+                print("Links externos: mantido, porque falta pelo menos um URL de origem")
             print(f"Links internos: atualizado -> {folder / INTERNAL_LINKS_FILENAME}")
 
         if args.download_only:

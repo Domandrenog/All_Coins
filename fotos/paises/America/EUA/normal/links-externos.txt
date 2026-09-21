@@ -1,3 +1,11 @@
+united-states-half-dollar-250o-aniversario-independencia-dos-eua-2026:
+  frente: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/4775ff15c_image.png
+  tras: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/47fa0393d_image.png
+
+united-states-penny-independencia-dos-eua-2026:
+  frente: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/41de4e474_image.png
+  tras: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/22cf88b19_image.png
+
 usa-1-2-dollar-2020:
   frente: https://i.ucoin.net/coin/35/085/35085173-2s/usa-1-2-dollar-2020.jpg
   tras: https://i.ucoin.net/coin/35/085/35085173-1s/usa-1-2-dollar-2020.jpg

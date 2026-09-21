@@ -34,6 +34,14 @@ thailand-2-baht-2018:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Tailandia/normal/frente/thailand-2-baht-2018.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Tailandia/normal/tras/thailand-2-baht-2018.jpg
 
+thailand-25-sat-1987-2008:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Tailandia/normal/frente/thailand-25-sat-1987-2008.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Tailandia/normal/tras/thailand-25-sat-1987-2008.jpg
+
+thailand-25-sat-2008-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Tailandia/normal/frente/thailand-25-sat-2008-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Tailandia/normal/tras/thailand-25-sat-2008-2017.jpg
+
 thailand-25-satang-2018:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Tailandia/normal/frente/thailand-25-satang-2018.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Tailandia/normal/tras/thailand-25-satang-2018.jpg

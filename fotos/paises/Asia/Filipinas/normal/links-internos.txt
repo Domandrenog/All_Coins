@@ -1,0 +1,75 @@
+filipinas-1-cent-1995-2016:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/frente/filipinas-1-cent-1995-2016.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/tras/filipinas-1-cent-1995-2016.jpg
+
+filipinas-1-cent-2017-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/frente/filipinas-1-cent-2017-2019.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/tras/filipinas-1-cent-2017-2019.jpg
+
+filipinas-1-peso-1995-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/frente/filipinas-1-peso-1995-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/tras/filipinas-1-peso-1995-2003.jpg
+
+filipinas-1-peso-2003-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/frente/filipinas-1-peso-2003-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/tras/filipinas-1-peso-2003-2017.jpg
+
+filipinas-1-peso-2017-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/frente/filipinas-1-peso-2017-2019.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/tras/filipinas-1-peso-2017-2019.jpg
+
+filipinas-1-peso-2023-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/frente/filipinas-1-peso-2023-2025.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/tras/filipinas-1-peso-2023-2025.jpg
+
+filipinas-10-cent-1995-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/frente/filipinas-10-cent-1995-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/tras/filipinas-10-cent-1995-2017.jpg
+
+filipinas-10-peso-2000-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/frente/filipinas-10-peso-2000-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/tras/filipinas-10-peso-2000-2017.jpg
+
+filipinas-10-peso-2017-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/frente/filipinas-10-peso-2017-2022.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/tras/filipinas-10-peso-2017-2022.jpg
+
+filipinas-20-peso-2019-2021:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/frente/filipinas-20-peso-2019-2021.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/tras/filipinas-20-peso-2019-2021.jpg
+
+filipinas-25-cent-1995-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/frente/filipinas-25-cent-1995-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/tras/filipinas-25-cent-1995-2003.jpg
+
+filipinas-25-cent-2003-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/frente/filipinas-25-cent-2003-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/tras/filipinas-25-cent-2003-2017.jpg
+
+filipinas-25-cent-2017-2020:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/frente/filipinas-25-cent-2017-2020.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/tras/filipinas-25-cent-2017-2020.jpg
+
+filipinas-25-cent-2022-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/frente/filipinas-25-cent-2022-2025.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/tras/filipinas-25-cent-2022-2025.jpg
+
+filipinas-5-cent-1995-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/frente/filipinas-5-cent-1995-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/tras/filipinas-5-cent-1995-2017.jpg
+
+filipinas-5-cent-2017-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/frente/filipinas-5-cent-2017-2019.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/tras/filipinas-5-cent-2017-2019.jpg
+
+filipinas-5-peso-1995-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/frente/filipinas-5-peso-1995-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/tras/filipinas-5-peso-1995-2017.jpg
+
+filipinas-5-peso-2017-2020:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/frente/filipinas-5-peso-2017-2020.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/tras/filipinas-5-peso-2017-2020.jpg
+
+filipinas-5-peso-2019-2021:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/frente/filipinas-5-peso-2019-2021.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Filipinas/normal/tras/filipinas-5-peso-2019-2021.jpg

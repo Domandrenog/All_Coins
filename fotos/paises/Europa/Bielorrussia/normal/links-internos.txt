@@ -1,3 +1,7 @@
+belarus-1-kopek-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bielorrussia/normal/frente/belarus-1-kopek-2009.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bielorrussia/normal/tras/belarus-1-kopek-2009.jpg
+
 belarus-1-ruble-2009:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bielorrussia/normal/frente/belarus-1-ruble-2009.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bielorrussia/normal/tras/belarus-1-ruble-2009.jpg
