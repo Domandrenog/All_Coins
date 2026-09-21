@@ -73,3 +73,7 @@ filipinas-5-peso-2017-2020:
 filipinas-5-peso-2019-2021:
   frente: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/b1378cbd8_image.png
   tras: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/56ef1a5e1_image.png
+
+philippines-20-piso-2025:
+  frente: https://i.ucoin.net/coin/87/224/87224881-1s/philippines-20-piso-2025.jpg
+  tras: https://i.ucoin.net/coin/87/224/87224881-2s/philippines-20-piso-2025.jpg

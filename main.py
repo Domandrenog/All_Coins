@@ -36,6 +36,12 @@ NOTES_BROWSER_PROFILE_MARKER = ""
 NOTES_BROWSER_PROCESS: subprocess.Popen[bytes] | None = None
 
 
+def clear_screen() -> None:
+    """Limpa o terminal antes de apresentar o próximo ecrã do menu."""
+    # ANSI funciona nos terminais suportados pelo Python em Windows, Linux e macOS.
+    print("\033[2J\033[H", end="")
+
+
 def run(command: list[str], *, accepted_codes: set[int] | None = None) -> bool:
     print(f"\n$ {' '.join(command)}\n")
     result = subprocess.run(command, cwd=ROOT)
@@ -56,6 +62,7 @@ def scripts_for_catalog(catalog: str) -> tuple[Path, Path]:
 
 
 def choose_catalog(*, allow_all: bool = False) -> list[str] | None:
+    clear_screen()
     print("\n1. Moedas normais\n2. Moedas de coleção\n3. Notas")
     if allow_all:
         print("4. Todas as categorias")
@@ -91,6 +98,7 @@ def read_pending_report(catalog: str) -> dict[str, object] | None:
 
 
 def choose_countries(catalog: str) -> list[str] | None:
+    clear_screen()
     print("\n1. Um país\n2. Todos os países ainda pendentes\n0. Voltar")
     choice = input("Escolha o âmbito: ").strip()
     if choice == "0":
@@ -375,6 +383,7 @@ def process_countries(countries: list[str], mode: str, catalog: str) -> None:
 
 
 def print_menu() -> None:
+    clear_screen()
     print(
         "\n=== All Coins ===\n"
         "1. Verificar toda a API\n"
