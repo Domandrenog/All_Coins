@@ -1,6 +1,46 @@
+bahamas-1-cent-1966:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-1-cent-1966.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/tras/bahamas-1-cent-1966.jpg
+
+bahamas-1-cent-1970:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-1-cent-1970.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/tras/bahamas-1-cent-1970.jpg
+
+bahamas-1-cent-1972:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-1-cent-1972.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/tras/bahamas-1-cent-1972.jpg
+
+bahamas-1-cent-1984:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-1-cent-1984.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/tras/bahamas-1-cent-1984.jpg
+
+bahamas-1-cent-1998:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-1-cent-1998.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/tras/bahamas-1-cent-1998.jpg
+
+bahamas-1-cent-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-1-cent-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/tras/bahamas-1-cent-2006.jpg
+
 bahamas-1-cent-2015:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-1-cent-2015.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/tras/bahamas-1-cent-2015.jpg
+
+bahamas-1-cent-2015-1-centimo-2009-2015-rainha-isabel-ii:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-1-cent-2015-1-centimo-2009-2015-rainha-isabel-ii.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/tras/bahamas-1-cent-2015-1-centimo-2009-2015-rainha-isabel-ii.jpg
+
+bahamas-1-cent-2015-1-centimo-2014-2015-rainha-isabel-ii:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-1-cent-2015-1-centimo-2014-2015-rainha-isabel-ii.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/tras/bahamas-1-cent-2015-1-centimo-2014-2015-rainha-isabel-ii.jpg
+
+bahamas-1-dollar-1970:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-1-dollar-1970.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/tras/bahamas-1-dollar-1970.jpg
+
+bahamas-1-dollar-1972:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-1-dollar-1972.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/tras/bahamas-1-dollar-1972.jpg
 
 bahamas-1-dollar-1976:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-1-dollar-1976.jpg
@@ -50,6 +90,26 @@ bahamas-15-cents-2018:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-15-cents-2018.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/tras/bahamas-15-cents-2018.jpg
 
+bahamas-2-dollars-1970:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-2-dollars-1970.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/tras/bahamas-2-dollars-1970.jpg
+
+bahamas-2-dollars-1973:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-2-dollars-1973.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/tras/bahamas-2-dollars-1973.jpg
+
+bahamas-2-dollars-1975:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-2-dollars-1975.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/tras/bahamas-2-dollars-1975.jpg
+
+bahamas-2-dollars-1981:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-2-dollars-1981.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/tras/bahamas-2-dollars-1981.jpg
+
+bahamas-2-dollars-1985:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-2-dollars-1985.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/tras/bahamas-2-dollars-1985.jpg
+
 bahamas-25-cents-1970:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-25-cents-1970.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/tras/bahamas-25-cents-1970.jpg
@@ -70,6 +130,10 @@ bahamas-25-cents-2007:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-25-cents-2007.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/tras/bahamas-25-cents-2007.jpg
 
+bahamas-25-cents-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-25-cents-2025.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/tras/bahamas-25-cents-2025.jpg
+
 bahamas-5-cents-1970:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-5-cents-1970.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/tras/bahamas-5-cents-1970.jpg
@@ -89,6 +153,30 @@ bahamas-5-cents-2005:
 bahamas-5-cents-2015:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-5-cents-2015.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/tras/bahamas-5-cents-2015.jpg
+
+bahamas-5-dollars-1970:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-5-dollars-1970.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/tras/bahamas-5-dollars-1970.jpg
+
+bahamas-5-dollars-1971:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-5-dollars-1971.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/tras/bahamas-5-dollars-1971.jpg
+
+bahamas-5-dollars-1972:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-5-dollars-1972.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/tras/bahamas-5-dollars-1972.jpg
+
+bahamas-5-dollars-1976:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-5-dollars-1976.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/tras/bahamas-5-dollars-1976.jpg
+
+bahamas-50-cents-1969:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-50-cents-1969.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/tras/bahamas-50-cents-1969.jpg
+
+bahamas-50-cents-1973:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-50-cents-1973.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/tras/bahamas-50-cents-1973.jpg
 
 bahamas-50-cents-1989:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Bahamas/normal/frente/bahamas-50-cents-1989.jpg
