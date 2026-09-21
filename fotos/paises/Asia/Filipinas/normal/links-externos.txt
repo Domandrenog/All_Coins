@@ -1,78 +1,78 @@
 filipinas-1-cent-1995-2016:
-  frente: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/7bb220936_philippines-1-sentimo-2000.jpg
-  tras: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/2592d7f88_philippines-1-sentimo-20001.jpg
+  frente: https://i.ucoin.net/coin/41/354/41354692-1s/philippines-1-sentimo-2000.jpg
+  tras: https://i.ucoin.net/coin/41/354/41354692-2s/philippines-1-sentimo-2000.jpg
 
 filipinas-1-cent-2017-2019:
-  frente: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/00e395a98_philippines-1-sentimo-2017.jpg
-  tras: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/7e2674352_philippines-1-sentimo-2017-back.jpg
+  frente: https://i.ucoin.net/coin/68/148/68148026-1s/philippines-1-sentimo-2017.jpg
+  tras: https://i.ucoin.net/coin/68/148/68148026-2s/philippines-1-sentimo-2017.jpg
 
 filipinas-1-peso-1995-2003:
-  frente: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/763af8c4e_philippines-1-piso-1998.jpg
-  tras: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/1be14d9c8_philippines-1-piso-19981.jpg
+  frente: https://i.ucoin.net/coin/52/269/52269229-1s/philippines-1-piso-1998.jpg
+  tras: https://i.ucoin.net/coin/52/269/52269229-2s/philippines-1-piso-1998.jpg
 
 filipinas-1-peso-2003-2017:
-  frente: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/4cb32811f_philippines-1-piso-2017.jpg
-  tras: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/4ffa4c1dc_philippines-1-piso-20171.jpg
+  frente: https://i.ucoin.net/coin/53/968/53968734-1s/philippines-1-piso-2017.jpg
+  tras: https://i.ucoin.net/coin/53/968/53968734-2s/philippines-1-piso-2017.jpg
 
 filipinas-1-peso-2017-2019:
-  frente: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/b47e59407_philippines-1-piso-20172.jpg
-  tras: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/c100848bc_philippines-1-piso-20173.jpg
+  frente: https://i.ucoin.net/coin/41/935/41935072-1s/philippines-1-piso-2017.jpg
+  tras: https://i.ucoin.net/coin/41/935/41935072-2s/philippines-1-piso-2017.jpg
 
 filipinas-1-peso-2023-2025:
-  frente: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/e9cd630d4_philippines-1-piso-2025.jpg
-  tras: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/8abbaed80_philippines-1-piso-20251.jpg
+  frente: https://i.ucoin.net/coin/86/893/86893558-1s/philippines-1-piso-2025.jpg
+  tras: https://i.ucoin.net/coin/86/893/86893558-2s/philippines-1-piso-2025.jpg
 
 filipinas-10-cent-1995-2017:
-  frente: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/608c4bf62_philippines-10-sentimos-1997.jpg
-  tras: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/20882fc56_philippines-10-sentimos-19971.jpg
+  frente: https://i.ucoin.net/coin/56/069/56069182-1s/philippines-10-sentimos-1997.jpg
+  tras: https://i.ucoin.net/coin/56/069/56069182-2s/philippines-10-sentimos-1997.jpg
 
 filipinas-10-peso-2000-2017:
-  frente: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/4cc513ed1_image.png
-  tras: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/2151db310_image.png
+  frente: https://i.ucoin.net/coin/55/292/55292000-1s/philippines-10-piso-2015.jpg
+  tras: https://i.ucoin.net/coin/55/292/55292000-2s/philippines-10-piso-2015.jpg
 
 filipinas-10-peso-2017-2022:
-  frente: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/309ce8608_image.png
-  tras: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/fb1da989b_image.png
+  frente: https://i.ucoin.net/coin/56/056/56056121-1s/philippines-10-piso-2018.jpg
+  tras: https://i.ucoin.net/coin/56/056/56056121-2s/philippines-10-piso-2018.jpg
 
 filipinas-20-peso-2019-2021:
-  frente: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/3213b2300_image.png
-  tras: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/c7aa575f8_image.png
+  frente: https://i.ucoin.net/coin/41/354/41354364-1s/philippines-20-piso-2019.jpg
+  tras: https://i.ucoin.net/coin/41/354/41354364-2s/philippines-20-piso-2019.jpg
 
 filipinas-25-cent-1995-2003:
-  frente: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/4fb897c75_philippines-25-sentimos-2000.jpg
-  tras: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/927639329_philippines-25-sentimos-20001.jpg
+  frente: https://i.ucoin.net/coin/22/496/22496306-1s/philippines-25-sentimos-2000.jpg
+  tras: https://i.ucoin.net/coin/22/496/22496306-2s/philippines-25-sentimos-2000.jpg
 
 filipinas-25-cent-2003-2017:
-  frente: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/3195873f5_philippines-25-sentimos-2004.jpg
-  tras: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/0e1eabbbe_philippines-25-sentimos-20041.jpg
+  frente: https://i.ucoin.net/coin/52/252/52252597-1s/philippines-25-sentimos-2004.jpg
+  tras: https://i.ucoin.net/coin/52/252/52252597-2s/philippines-25-sentimos-2004.jpg
 
 filipinas-25-cent-2017-2020:
-  frente: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/25b53708f_philippines-25-sentimos-2018.jpg
-  tras: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/99b66f31c_philippines-25-sentimos-20181.jpg
+  frente: https://i.ucoin.net/coin/52/252/52252653-1s/philippines-25-sentimos-2018.jpg
+  tras: https://i.ucoin.net/coin/52/252/52252653-2s/philippines-25-sentimos-2018.jpg
 
 filipinas-25-cent-2022-2025:
-  frente: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/a8101620c_philippines-25-sentimos-2025.jpg
-  tras: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/2e31290a9_philippines-25-sentimos-20251.jpg
+  frente: https://i.ucoin.net/coin/86/871/86871903-1s/philippines-25-sentimos-2024.jpg
+  tras: https://i.ucoin.net/coin/86/871/86871903-2s/philippines-25-sentimos-2024.jpg
 
 filipinas-5-cent-1995-2017:
-  frente: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/188306f90_philippines-5-sentimos-1995.jpg
-  tras: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/1b1f3a3fb_philippines-5-sentimos-1995-back.jpg
+  frente: https://i.ucoin.net/coin/56/054/56054202-1s/philippines-5-sentimos-1995.jpg
+  tras: https://i.ucoin.net/coin/56/054/56054202-2s/philippines-5-sentimos-1995.jpg
 
 filipinas-5-cent-2017-2019:
-  frente: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/784dd4e7c_philippines-5-sentimos-2017.jpg
-  tras: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/5b40894f4_philippines-5-sentimos-20171.jpg
+  frente: https://i.ucoin.net/coin/65/845/65845548-1s/philippines-5-sentimos-2017.jpg
+  tras: https://i.ucoin.net/coin/65/845/65845548-2s/philippines-5-sentimos-2017.jpg
 
 filipinas-5-peso-1995-2017:
-  frente: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/238337f88_image.png
-  tras: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/1b585cd2d_image.png
+  frente: https://i.ucoin.net/coin/41/354/41354592-1s/philippines-5-piso-2005.jpg
+  tras: https://i.ucoin.net/coin/41/354/41354592-2s/philippines-5-piso-2005.jpg
 
 filipinas-5-peso-2017-2020:
-  frente: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/3d6b1bd88_image.png
-  tras: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/0f617cbb3_image.png
+  frente: https://i.ucoin.net/coin/41/354/41354426-1s/philippines-5-piso-2017.jpg
+  tras: https://i.ucoin.net/coin/41/354/41354426-2s/philippines-5-piso-2017.jpg
 
 filipinas-5-peso-2019-2021:
-  frente: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/b1378cbd8_image.png
-  tras: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/56ef1a5e1_image.png
+  frente: https://i.ucoin.net/coin/41/354/41354379-1s/philippines-5-piso-2019.jpg
+  tras: https://i.ucoin.net/coin/41/354/41354379-2s/philippines-5-piso-2019.jpg
 
 philippines-20-piso-2025:
   frente: https://i.ucoin.net/coin/87/224/87224881-1s/philippines-20-piso-2025.jpg

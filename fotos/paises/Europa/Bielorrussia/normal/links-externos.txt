@@ -1,6 +1,6 @@
 belarus-1-kopek-2009:
-  frente: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/fc2adedde_image.png
-  tras: https://base44.app/api/apps/69f12d4bf0bb6ef2f9eaa84e/files/mp/public/69f12d4bf0bb6ef2f9eaa84e/1c337e77f_image.png
+  frente: https://i.ucoin.net/coin/80/191/80191423-2s/belarus-1-kopek-2009.jpg
+  tras: https://i.ucoin.net/coin/80/191/80191423-1s/belarus-1-kopek-2009.jpg
 
 belarus-1-ruble-2009:
   frente: https://i.ucoin.net/coin/41/809/41809447-2s/belarus-1-ruble-2009.jpg
