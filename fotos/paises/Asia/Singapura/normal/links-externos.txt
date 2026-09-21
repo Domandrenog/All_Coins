@@ -90,6 +90,18 @@ singapore-5-cents-2015:
   frente: https://i.ucoin.net/coin/62/816/62816641-2s/singapore-5-cents-2015.jpg
   tras: https://i.ucoin.net/coin/62/816/62816641-1s/singapore-5-cents-2015.jpg
 
+singapore-5-dollars-1998:
+  frente: https://i.ucoin.net/coin/66/904/66904454-1s/singapore-5-dollars-1998.jpg
+  tras: https://i.ucoin.net/coin/66/904/66904454-2s/singapore-5-dollars-1998.jpg
+
+singapore-5-dollars-2000:
+  frente: https://i.ucoin.net/coin/29/792/29792253-1s/singapore-5-dollars-2000.jpg
+  tras: https://i.ucoin.net/coin/29/792/29792253-2s/singapore-5-dollars-2000.jpg
+
+singapore-5-dollars-2015:
+  frente: https://i.ucoin.net/coin/35/483/35483094-1s/singapore-5-dollars-2015.jpg
+  tras: https://i.ucoin.net/coin/35/483/35483094-2s/singapore-5-dollars-2015.jpg
+
 singapore-50-cents-1982:
   frente: https://i.ucoin.net/coin/51/764/51764412-1s/singapore-50-cents-1982.jpg
   tras: https://i.ucoin.net/coin/51/764/51764412-2s/singapore-50-cents-1982.jpg
