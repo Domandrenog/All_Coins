@@ -46,6 +46,10 @@ tunisia-10-millimes-2009:
   frente: https://i.ucoin.net/coin/46/531/46531485-2s/tunisia-10-millimes-2009.jpg
   tras: https://i.ucoin.net/coin/46/531/46531485-1s/tunisia-10-millimes-2009.jpg
 
+tunisia-100-millimes-1997:
+  frente: https://i.ucoin.net/coin/46/531/46531960-1s/tunisia-100-millimes-1997.jpg
+  tras: https://i.ucoin.net/coin/46/531/46531960-2s/tunisia-100-millimes-1997.jpg
+
 tunisia-100-millimes-2024:
   frente: https://i.ucoin.net/coin/83/132/83132440-2s/tunisia-100-millimes-2024.jpg
   tras: https://i.ucoin.net/coin/83/132/83132440-1s/tunisia-100-millimes-2024.jpg
