@@ -78,6 +78,10 @@ tunisia-200-millimes-2020:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Tunisia/normal/frente/tunisia-200-millimes-2020.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Tunisia/normal/tras/tunisia-200-millimes-2020.jpg
 
+tunisia-5-dinars-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Tunisia/normal/frente/tunisia-5-dinars-2002.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Tunisia/normal/tras/tunisia-5-dinars-2002.jpg
+
 tunisia-5-dinars-2002-estrela-com-buraco:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Tunisia/normal/frente/tunisia-5-dinars-2002-estrela-com-buraco.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Tunisia/normal/tras/tunisia-5-dinars-2002-estrela-com-buraco.jpg
