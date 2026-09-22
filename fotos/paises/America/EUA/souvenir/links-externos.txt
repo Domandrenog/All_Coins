@@ -1,5 +1,29 @@
+united-states-aladdin-genie-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18108.jpg
+
+united-states-alice-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18110.jpg
+
+united-states-angry-donald-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18105.jpg
+
 united-states-anna-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW20127.jpg
+
+united-states-anna-pressed-orlando-4599a04a:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/EPC0158-DTD0118.jpg
+
+united-states-anna-pressed-orlando-4599a04b:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/EPC0159-DTD0119.jpg
+
+united-states-anna-pressed-orlando-ea9d6e4f:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-anna-pressed-orlando.jpg
+
+united-states-ant-man-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16084.jpg
+
+united-states-ariel-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18111.jpg
 
 united-states-baby-donald-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW18145.jpg
@@ -7,17 +31,32 @@ united-states-baby-donald-pressed-orlando:
 united-states-baby-mickey-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW18144.jpg
 
+united-states-bamba-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW25055.jpg
+
+united-states-barrel-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17108.jpg
+
 united-states-belle-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW25010.jpg
 
 united-states-bernadette-mayra-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW25036.jpg
 
+united-states-black-panther-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16085.jpg
+
+united-states-black-widow-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16028.jpg
+
 united-states-bouncing-tigger-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW24097.jpg
 
 united-states-buzz-lightyear-and-a-little-green-man-alien-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW17032.jpg
+
+united-states-buzz-lightyear-pressed-orlando-2beaf866:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17075.jpg
 
 united-states-buzz-lightyear-pressed-orlando-52b737bb:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/MK0179.jpg
@@ -40,14 +79,35 @@ united-states-buzz-lightyear-pressed-orlando-efd602ae:
 united-states-buzz-lightyear-s-space-ranger-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW16078.jpg
 
+united-states-c-3po-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16047.jpg
+
+united-states-captain-america-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16025.jpg
+
 united-states-captain-hook-pressed-orlando-515e5a50:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW24010.jpg
 
 united-states-captain-hook-pressed-orlando-8474a38e:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW19019.jpg
 
+united-states-cha-cha-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW25058.jpg
+
+united-states-chef-goofy-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18017.jpg
+
+united-states-chef-mickey-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18018.jpg
+
 united-states-christopher-robin-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW24094.jpg
+
+united-states-christopher-robin-pressed-orlando-5f22ae93:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18123.jpg
+
+united-states-christopher-robin-pressed-orlando-d0fdc586:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-christopher-robin-pressed-orlando.jpg
 
 united-states-cinderella-castle-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW26017.jpg
@@ -57,6 +117,9 @@ united-states-cinderella-pressed-orlando-d0fdc58b:
 
 united-states-cinderella-pressed-orlando-f68c3123:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW20121.jpg
+
+united-states-classic-mickey-mouse-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/MGM0073.jpg
 
 united-states-daisy-and-donald-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW18142.jpg
@@ -73,6 +136,18 @@ united-states-dalmatian-puppy-pressed-orlando-2d88437f:
 united-states-dalmatian-puppy-pressed-orlando-52b737bc:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/MK0186-DHS0074-RES0007.jpg
 
+united-states-dancing-minnie-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18102.jpg
+
+united-states-darth-vader-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17025.jpg
+
+united-states-disney-springs-logo-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/DTD0124.jpg
+
+united-states-donald-duck-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17019.jpg
+
 united-states-donald-pressed-orlando-05643de6:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW18089.jpg
 
@@ -85,11 +160,44 @@ united-states-donald-pressed-orlando-efd602b1:
 united-states-donald-pressed-orlando-f68c311e:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW20048.jpg
 
+united-states-dopey-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18019.jpg
+
 united-states-eeyore-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW24092.jpg
 
+united-states-eeyore-pressed-orlando-515e5a56:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-eeyore-pressed-orlando.jpg
+
+united-states-eeyore-pressed-orlando-5f22ae8f:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18119.jpg
+
+united-states-elsa-anna-pressed-orlando-4599a048:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/EPC0156-DTD0116.jpg
+
+united-states-elsa-anna-pressed-orlando-4599a049:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/EPC0157-DTD0117.jpg
+
 united-states-elsa-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW20128.jpg
+
+united-states-elsa-pressed-orlando-4599a047:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/EPC0155-DTD0115.jpg
+
+united-states-elsa-pressed-orlando-48d44aba:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/EPC0160-DTD0120.jpg
+
+united-states-elsa-pressed-orlando-ea9d6e50:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-elsa-pressed-orlando.jpg
+
+united-states-falcon-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16088.jpg
+
+united-states-firefighter-donald-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18020.jpg
+
+united-states-firefighter-mickey-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18021.jpg
 
 united-states-fl-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW17039.jpg
@@ -100,14 +208,44 @@ united-states-goofy-pressed-orlando-05643de5:
 united-states-goofy-pressed-orlando-0bd7f5ca:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW17037.jpg
 
+united-states-goofy-pressed-orlando-2beaf86a:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17094.jpg
+
+united-states-goofy-pressed-orlando-2beaf86b:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17095.jpg
+
+united-states-goofy-pressed-orlando-2beaf86c:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17096.jpg
+
+united-states-goofy-pressed-orlando-2beaf86d:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17097.jpg
+
 united-states-goofy-pressed-orlando-2d884378:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW18140.jpg
+
+united-states-goofy-pressed-orlando-3540bd49:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18107.jpg
+
+united-states-goofy-pressed-orlando-4599a046:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/DTD0126.jpg
+
+united-states-goofy-pressed-orlando-69a95680:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18101.jpg
 
 united-states-goofy-pressed-orlando-8e4dc0b5:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW26018.jpg
 
 united-states-goofy-pressed-orlando-cfed9b54:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW20027.jpg
+
+united-states-han-solo-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16052.jpg
+
+united-states-hawkeye-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16027.jpg
+
+united-states-heartford-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW25073.jpg
 
 united-states-hitchhiking-ghost-ezra-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/MK0194.jpg
@@ -118,11 +256,29 @@ united-states-hitchhiking-ghost-gus-pressed-orlando:
 united-states-hitchhiking-ghost-phineas-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/MK0195.jpg
 
+united-states-house-of-blues-logo-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/DTD0100.jpg
+
+united-states-hulk-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16024.jpg
+
 united-states-identity-discs-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW23089.jpg
 
+united-states-iron-man-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16023.jpg
+
+united-states-jack-skellington-pressed-orlando-2beaf86e:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17101.jpg
+
+united-states-jack-skellington-pressed-orlando-ed6263f2:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17107.jpg
+
 united-states-jessie-pressed-orlando-52b737b9:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/MK0177.jpg
+
+united-states-jiminy-cricket-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18115.jpg
 
 united-states-jungle-cruise-elephant-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW25032.jpg
@@ -136,6 +292,15 @@ united-states-jungle-cruise-mickey-pressed-orlando-3e073a45:
 united-states-jungle-cruise-skipper-goofy-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW25031.jpg
 
+united-states-justice-rebel-forces-shield-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16050.jpg
+
+united-states-kristoff-sven-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/EPC0162-DTD0122.jpg
+
+united-states-kylo-ren-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16051.jpg
+
 united-states-lady-pressed-orlando-52b737b6:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/MK0164-RES0182.jpg
 
@@ -145,8 +310,20 @@ united-states-lady-pressed-orlando-52b737b7:
 united-states-lightcycle-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW23087.jpg
 
+united-states-lilo-stitch-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17016.jpg
+
+united-states-little-green-man-alien-squeeze-toy-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17078.jpg
+
 united-states-little-green-man-squeeze-toy-alien-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW16073.jpg
+
+united-states-loki-pressed-orlando-b2a685c0:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW24056.jpg
+
+united-states-loki-pressed-orlando-c4d59a0c:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16030.jpg
 
 united-states-lotso-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/MK0178.jpg
@@ -157,6 +334,9 @@ united-states-louis-pressed-orlando:
 united-states-louis-the-alligator-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW24080.jpg
 
+united-states-luke-skywalker-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17026.jpg
+
 united-states-mama-odie-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW25034.jpg
 
@@ -166,11 +346,26 @@ united-states-marching-band-donald-pressed-orlando:
 united-states-marching-band-pluto-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW20032.jpg
 
+united-states-marvel-agents-of-s-h-i-e-l-d-logo-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16083.jpg
+
+united-states-marvel-avengers-logo-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16029.jpg
+
+united-states-maya-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW25059.jpg
+
+united-states-mayor-of-halloween-town-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17105.jpg
+
 united-states-mayra-the-frog-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW25035.jpg
 
 united-states-merida-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW20122.jpg
+
+united-states-mickey-and-donald-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18106.jpg
 
 united-states-mickey-and-minnie-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW20053.jpg
@@ -183,6 +378,12 @@ united-states-mickey-minnie-pressed-orlando-8474a38f:
 
 united-states-mickey-minnie-pressed-orlando-8474a395:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW19066.jpg
+
+united-states-mickey-mouse-pressed-orlando-2beaf867:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17076.jpg
+
+united-states-mickey-mouse-pressed-orlando-4599a043:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/DTD0123.jpg
 
 united-states-mickey-pressed-orlando-05643de2:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW18085.jpg
@@ -208,8 +409,17 @@ united-states-mickey-pressed-orlando-8474a394:
 united-states-mickey-pressed-orlando-8e4dc0b3:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW26016.jpg
 
+united-states-mickey-pressed-orlando-ab4a2135:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17017.jpg
+
 united-states-mickey-pressed-orlando-ac5254d8:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/MK0193.jpg
+
+united-states-mickey-pressed-orlando-b2a685c2:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW24058.jpg
+
+united-states-mickey-pressed-orlando-c24bf6d4:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW26001.jpg
 
 united-states-mickey-pressed-orlando-cfed9b57:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW20030.jpg
@@ -223,8 +433,23 @@ united-states-mickey-pressed-orlando-f68c3122:
 united-states-mike-sulley-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW17083.jpg
 
+united-states-millennium-falcon-pressed-orlando-24c9a073:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17028.jpg
+
+united-states-millennium-falcon-pressed-orlando-c4d59a10:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16048.jpg
+
+united-states-minnie-and-mickey-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18103.jpg
+
+united-states-minnie-bending-over-to-eat-an-ice-cream-cone-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18016.jpg
+
 united-states-minnie-mickey-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW26011.jpg
+
+united-states-minnie-mouse-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/DTD0125.jpg
 
 united-states-minnie-pressed-orlando-05643de3:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW18086.jpg
@@ -250,20 +475,50 @@ united-states-minnie-pressed-orlando-8e4dc0b2:
 united-states-minnie-pressed-orlando-ac5254dd:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW16062.jpg
 
+united-states-minnie-pressed-orlando-c24bf6d5:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW26002.jpg
+
 united-states-minnie-pressed-orlando-cfed9b52:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW20025.jpg
 
 united-states-minnie-pressed-orlando-cfed9b5a:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW20045.jpg
 
+united-states-mowgli-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18114.jpg
+
 united-states-mr-incredible-and-dash-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW17036.jpg
+
+united-states-mr-incredible-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW24055.jpg
 
 united-states-naveen-and-tiana-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW24082.jpg
 
+united-states-nemo-dory-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17077.jpg
+
+united-states-nick-fury-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16082.jpg
+
+united-states-nile-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW25057.jpg
+
+united-states-octopus-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW25072.jpg
+
+united-states-olaf-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/EPC0161-DTD0121.jpg
+
+united-states-oogie-boogie-face-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17104.jpg
+
 united-states-orchestra-conductor-mickey-mouse-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW20028.jpg
+
+united-states-ozzie-laying-to-the-right-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW25056.jpg
 
 united-states-peter-pan-pressed-orlando-52b737b5:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/MK0088.jpg
@@ -274,14 +529,36 @@ united-states-peter-pan-pressed-orlando-8474a38d:
 united-states-piglet-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW20026.jpg
 
+united-states-piglet-pressed-orlando-5f22ae90:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18120.jpg
+
+united-states-piglet-pressed-orlando-cfed9b53:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-piglet-pressed-orlando.jpg
+  tras: 
+
 united-states-pinocchio-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW25009.jpg
+
+united-states-pinocchio-pressed-orlando-3540bd4e:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18112.jpg
+
+united-states-pinocchio-pressed-orlando-d0fdc58c:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-pinocchio-pressed-orlando.jpg
 
 united-states-pluto-pressed-orlando-2d88437e:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW18146.jpg
 
+united-states-pluto-pressed-orlando-69a9567d:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18022.jpg
+
+united-states-pluto-pressed-orlando-69a95683:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18104.jpg
+
 united-states-pluto-pressed-orlando-8e4dc0b0:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW26013.jpg
+
+united-states-pocahontas-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18109.jpg
 
 united-states-pongo-perdita-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/MK0187-DHS0075-RES0026.jpg
@@ -298,14 +575,41 @@ united-states-princess-tiana-pressed-orlando:
 united-states-proud-pluto-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW16061.jpg
 
+united-states-r2-d2-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17030.jpg
+
 united-states-rabbit-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW24091.jpg
 
 united-states-race-car-driver-mickey-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW16063.jpg
 
+united-states-rainforest-cafe-orlando-logo-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW25053.jpg
+
 united-states-rapunzel-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW20124.jpg
+
+united-states-red-the-fire-truck-from-the-disney-pixar-cars-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18023.jpg
+
+united-states-rio-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW25060.jpg
+
+united-states-roo-using-his-tail-to-hold-himself-up-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18117.jpg
+
+united-states-sally-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17106.jpg
+
+united-states-shy-mickey-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18100.jpg
+
+united-states-silhouette-of-sally-jack-skellington-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17102.jpg
+
+united-states-silly-symphony-three-little-pigs-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW24060.jpg
 
 united-states-snarling-wizzer-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/MK0188-DHS0076-RES0009.jpg
@@ -334,11 +638,29 @@ united-states-space-mountain-mickey-pressed-orlando-0bd7f5cf:
 united-states-speedway-driver-mickey-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW16064.jpg
 
+united-states-spiderman-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16081.jpg
+
+united-states-star-wars-logo-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17029.jpg
+
 united-states-stitch-pressed-orlando-0bd7f5c8:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW17035.jpg
 
+united-states-stormtrooper-mask-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16049.jpg
+
+united-states-stormtrooper-pressed-orlando-24c9a076:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17031.jpg
+
+united-states-stormtrooper-pressed-orlando-c4d59a0e:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16046.jpg
+
 united-states-sulley-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW25011.jpg
+
+united-states-thor-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16026.jpg
 
 united-states-three-lightcycles-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW23085.jpg
@@ -349,8 +671,17 @@ united-states-tiana-pressed-orlando:
 united-states-tick-tock-the-crocodile-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW19021.jpg
 
+united-states-tie-fighter-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17027.jpg
+
 united-states-tigger-pressed-orlando-05643de1:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW18084.jpg
+
+united-states-tigger-pressed-orlando-5f22ae91:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18121.jpg
+
+united-states-tigger-pressed-orlando-5f22ae94:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW24054.jpg
 
 united-states-tigger-pressed-orlando-f68c311c:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW20046.jpg
@@ -360,7 +691,6 @@ united-states-tinker-bell-pressed-orlando-2d884380:
 
 united-states-tinker-bell-pressed-orlando-52b737b4:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/MK0086.jpg
-  tras:
 
 united-states-tinker-bell-pressed-orlando-ea9d6e4e:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW20126.jpg
@@ -371,11 +701,29 @@ united-states-tinker-bell-pressed-orlando-f68c3121:
 united-states-train-engineer-mickey-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW19068.jpg
 
+united-states-triceratops-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW25071.jpg
+
+united-states-triceratops-skeleton-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW25075.jpg
+
 united-states-tron-1982-logo-pressed-orlando-515e5a4e:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW23088.jpg
 
 united-states-tron-1982-logo-pressed-orlando-ea9d6e55:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW23086.jpg
+
+united-states-tuki-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW25054.jpg
+
+united-states-tyrannosaurus-rex-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW25070.jpg
+
+united-states-tyrannosaurus-rex-skeleton-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW25076.jpg
+
+united-states-up-house-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18113.jpg
 
 united-states-user-pressed-orlando-ea9d6e51:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW23082.jpg
@@ -386,11 +734,29 @@ united-states-user-pressed-orlando-ea9d6e52:
 united-states-user-pressed-orlando-ea9d6e53:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW23084.jpg
 
+united-states-velociraptor-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW25069.jpg
+
+united-states-vision-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16086.jpg
+
+united-states-war-machine-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16087.jpg
+
 united-states-wendy-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW19024.jpg
 
 united-states-winnie-the-pooh-and-tigger-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW24093.jpg
+
+united-states-winnie-the-pooh-owl-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18122.jpg
+
+united-states-winnie-the-pooh-pressed-orlando-24c9a06d:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17018.jpg
+
+united-states-winnie-the-pooh-pressed-orlando-5f22ae8c:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18116.jpg
 
 united-states-winnie-the-pooh-pressed-orlando-cfed9b58:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW20031.jpg
@@ -406,6 +772,24 @@ united-states-winnie-the-pooh-pressed-orlando-d0fdc58a:
 
 united-states-woody-pressed-orlando-52b737b8:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/MK0176.jpg
+
+united-states-woody-pressed-orlando-b2a685c1:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW24057.jpg
+
+united-states-wooly-mammoth-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW25074.jpg
+
+united-states-worried-winnie-the-pooh-rabbit-touching-mouth-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18118.jpg
+
+united-states-x-wing-starfighter-pressed-orlando-24c9a06f:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17024.jpg
+
+united-states-x-wing-starfighter-pressed-orlando-c4d59a0d:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16045.jpg
+
+united-states-zero-and-doghouse-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17103.jpg
 
 united-states-zurg-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW16080.jpg
