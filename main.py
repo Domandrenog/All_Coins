@@ -28,6 +28,7 @@ CATALOG_LABELS = {
     "normal": "Moedas normais",
     "collection": "Moedas de coleção",
     "notes": "Notas",
+    "souvenir": "Souvenirs",
 }
 
 NOTES_CDP_URL = "http://127.0.0.1:9222"
@@ -66,15 +67,20 @@ def scripts_for_catalog(catalog: str) -> tuple[Path, Path]:
     return CATALOG_SYNC_SCRIPT, CATALOG_CHECK_SCRIPT
 
 
+def catalog_type_filter(catalog: str) -> str | None:
+    """Mantém o fluxo de Souvenirs focado nas prensadas já suportadas."""
+    return "pressed" if catalog == "souvenir" else None
+
+
 def choose_catalog(*, allow_all: bool = False) -> list[str] | None:
     clear_screen()
-    print("\n1. Moedas normais\n2. Moedas de coleção\n3. Notas")
+    print("\n1. Moedas normais\n2. Moedas de coleção\n3. Notas\n4. Souvenirs")
     if allow_all:
-        print("4. Todas as categorias")
+        print("5. Todas as categorias")
     print("0. Voltar")
     choice = input("Escolha a categoria: ").strip()
-    choices = {"1": "normal", "2": "collection", "3": "notes"}
-    if allow_all and choice == "4":
+    choices = {"1": "normal", "2": "collection", "3": "notes", "4": "souvenir"}
+    if allow_all and choice == "5":
         return list(CATALOG_LABELS)
     if choice == "0":
         return None
@@ -85,9 +91,11 @@ def choose_catalog(*, allow_all: bool = False) -> list[str] | None:
     return [catalog]
 
 
-def read_pending_report(catalog: str) -> dict[str, object] | None:
+def read_pending_report(catalog: str, record_type: str | None = None) -> dict[str, object] | None:
     _, check_script = scripts_for_catalog(catalog)
     command = catalog_command(check_script, catalog)
+    if record_type:
+        command.extend(["--type", record_type])
     command.append("--json")
     result = subprocess.run(
         command, cwd=ROOT, capture_output=True, text=True
@@ -102,7 +110,7 @@ def read_pending_report(catalog: str) -> dict[str, object] | None:
         return None
 
 
-def choose_countries(catalog: str) -> list[str] | None:
+def choose_countries(catalog: str, record_type: str | None = None) -> list[str] | None:
     clear_screen()
     print("\n1. Um país\n2. Todos os países ainda pendentes\n0. Voltar")
     choice = input("Escolha o âmbito: ").strip()
@@ -115,7 +123,7 @@ def choose_countries(catalog: str) -> list[str] | None:
         print("Opção inválida.")
         return None
 
-    report = read_pending_report(catalog)
+    report = read_pending_report(catalog, record_type)
     if report is None:
         return None
     pending_key = "full_by_country" if catalog == "normal" else "pending_by_country"
@@ -341,7 +349,9 @@ def worktree_has_only_country_changes(countries: list[str], catalog: str) -> boo
     return True
 
 
-def process_countries(countries: list[str], mode: str, catalog: str) -> None:
+def process_countries(
+    countries: list[str], mode: str, catalog: str, record_type: str | None = None
+) -> None:
     if mode == "full":
         arguments = ["--download-current", "--apply"]
         confirmation = "Descarrega imagens, cria um commit/push por país e atualiza a Base44."
@@ -370,6 +380,8 @@ def process_countries(countries: list[str], mode: str, catalog: str) -> None:
             sync_script, _ = scripts_for_catalog(catalog)
             command = catalog_command(sync_script, catalog)
             command.extend(["--country", country, *arguments])
+            if record_type:
+                command.extend(["--type", record_type])
             if catalog == "notes":
                 command.extend(["--cdp-url", NOTES_CDP_URL])
             if mode == "full":
@@ -411,7 +423,11 @@ def main() -> int:
                 for catalog in catalogs:
                     print(f"\n===== {CATALOG_LABELS[catalog]} =====")
                     _, check_script = scripts_for_catalog(catalog)
-                    run(catalog_command(check_script, catalog), accepted_codes={0, 1})
+                    command = catalog_command(check_script, catalog)
+                    record_type = catalog_type_filter(catalog)
+                    if record_type:
+                        command.extend(["--type", record_type])
+                    run(command, accepted_codes={0, 1})
                 wait_for_continue()
             continue
         modes = {"2": "full", "3": "download", "4": "api"}
@@ -422,9 +438,10 @@ def main() -> int:
         if not catalogs:
             continue
         catalog = catalogs[0]
-        countries = choose_countries(catalog)
+        record_type = catalog_type_filter(catalog)
+        countries = choose_countries(catalog, record_type)
         if countries:
-            process_countries(countries, modes[choice], catalog)
+            process_countries(countries, modes[choice], catalog, record_type)
             wait_for_continue()
 
 

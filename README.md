@@ -13,12 +13,13 @@ ou alterar apenas os URLs da Base44, escolhendo um país ou todos os pendentes.
 Os comandos técnicos estão em [docs/COMMANDS.md](docs/COMMANDS.md).
 
 Este repositório guarda imagens do catálogo por continente e país e atualiza
-as entidades `Coin`, `SpecialCoin` e `CountryNote` para usarem URLs raw do
-GitHub.
+as entidades `Coin`, `SpecialCoin`, `CountryNote` e `Souvenir` para usarem
+URLs raw do GitHub.
 
 Os nomes canónicos dos tipos são `normal`, `collection`, `notes` e `souvenir`.
-Atualmente `normal`, `collection` e `notes` são tratados pelo `main.py`;
-`souvenir` será adicionado numa fase posterior.
+Todos estão disponíveis no `main.py`.
+No menu, `Souvenirs` processa as prensadas (`pressed`): deteta se a imagem final
+é vertical ou horizontal e atualiza a respetiva orientação na Base44.
 
 ```text
 fotos/paises/<Continente>/<Pais>/<tipo>/

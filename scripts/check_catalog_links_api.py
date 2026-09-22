@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Verifica imagens ainda externas nas categorias collection e notes."""
+"""Verifica imagens ainda externas nas categorias collection, notes e souvenir."""
 
 from __future__ import annotations
 
@@ -21,6 +21,13 @@ except ImportError:
 CATALOGS = {
     "collection": {"entity": "SpecialCoin", "year_field": "year"},
     "notes": {"entity": "CountryNote", "year_field": "year"},
+    "souvenir": {
+        "entity": "Souvenir",
+        "year_field": "city",
+        "front_field": "image_front",
+        "back_field": "image_back",
+        "allow_missing_back": True,
+    },
 }
 
 
@@ -28,6 +35,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Verifica imagens externas por categoria na API.")
     parser.add_argument("--catalog", choices=sorted(CATALOGS), required=True)
     parser.add_argument("--country", help="Filtra um país específico.")
+    parser.add_argument("--type", help="Filtra pelo tipo do registo; por exemplo, pressed.")
     parser.add_argument("--limit", type=int, default=5000)
     parser.add_argument("--api-key-env", default="ALL_COINS_API_KEY")
     parser.add_argument("--raw-base-url", default=DEFAULT_RAW_BASE_URL)
@@ -38,8 +46,13 @@ def parse_args() -> argparse.Namespace:
 def list_records(api_key: str, args: argparse.Namespace) -> list[dict[str, object]]:
     config = CATALOGS[args.catalog]
     query: dict[str, object] = {"limit": args.limit}
+    filters: dict[str, str] = {}
     if args.country:
-        query["q"] = json.dumps({"country": args.country}, ensure_ascii=False)
+        filters["country"] = args.country
+    if args.type:
+        filters["type"] = args.type
+    if filters:
+        query["q"] = json.dumps(filters, ensure_ascii=False)
     data = api_request("GET", f"/entities/{config['entity']}", api_key, query=query)
     if not isinstance(data, list):
         raise RuntimeError(f"Resposta inesperada ao listar {config['entity']}: {data!r}")
@@ -49,6 +62,11 @@ def list_records(api_key: str, args: argparse.Namespace) -> list[dict[str, objec
 def is_internal(url: object, raw_base_url: str, catalog: str) -> bool:
     value = str(url or "")
     return value.startswith(raw_base_url.rstrip("/") + "/") and f"/{catalog}/" in value
+
+
+def image_fields(catalog: str) -> tuple[str, str]:
+    config = CATALOGS[catalog]
+    return str(config.get("front_field", "image_frente")), str(config.get("back_field", "image_verso"))
 
 
 def build_report(
@@ -61,10 +79,12 @@ def build_report(
     missing: dict[str, list[dict[str, object]]] = defaultdict(list)
 
     for record in records:
+        front_field, back_field = image_fields(catalog)
+        allow_missing_back = bool(CATALOGS[catalog].get("allow_missing_back"))
         country = str(record.get("country") or "(sem país)")
         country_totals[country] += 1
-        front = str(record.get("image_frente") or "").strip()
-        back = str(record.get("image_verso") or "").strip()
+        front = str(record.get(front_field) or "").strip()
+        back = str(record.get(back_field) or "").strip()
         front_internal = is_internal(front, raw_base_url, catalog)
         back_internal = is_internal(back, raw_base_url, catalog)
         row = {
@@ -78,8 +98,11 @@ def build_report(
             ],
         }
 
-        if not front or not back:
+        if not front or (not back and not allow_missing_back):
             missing[country].append(row)
+        elif allow_missing_back and not back:
+            if not front_internal:
+                pending[country].append(row)
         elif front_internal != back_internal:
             partial[country].append(row)
         elif not (front_internal and back_internal):
@@ -87,8 +110,9 @@ def build_report(
 
     local_image_issues: list[dict[str, object]] = []
     raw_prefix = raw_base_url.rstrip("/") + "/"
+    front_field, back_field = image_fields(catalog)
     for record in records:
-        for side, field in (("frente", "image_frente"), ("verso", "image_verso")):
+        for side, field in (("frente", front_field), ("verso", back_field)):
             url = str(record.get(field) or "")
             if not is_internal(url, raw_base_url, catalog):
                 continue
@@ -107,8 +131,15 @@ def build_report(
         "total_records": len(records),
         "countries": len(country_totals),
         "records_internal": sum(
-            is_internal(row.get("image_frente"), raw_base_url, catalog)
-            and is_internal(row.get("image_verso"), raw_base_url, catalog)
+            is_internal(row.get(front_field), raw_base_url, catalog)
+            and (
+                (
+                    not row.get(back_field)
+                    or is_internal(row.get(back_field), raw_base_url, catalog)
+                )
+                if CATALOGS[catalog].get("allow_missing_back")
+                else is_internal(row.get(back_field), raw_base_url, catalog)
+            )
             for row in records
         ),
         "records_pending": sum(len(rows) for rows in pending.values()),

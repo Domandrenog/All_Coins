@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Migra imagens de collection e notes para a estrutura canónica do repositório."""
+"""Migra imagens de collection, notes e souvenir para a estrutura canónica."""
 
 from __future__ import annotations
 
@@ -68,6 +68,15 @@ CATALOGS = {
         "extra_slug_field": "",
         "label": "nota",
     },
+    "souvenir": {
+        "entity": "Souvenir",
+        "year_field": "city",
+        "extra_slug_field": "type",
+        "label": "souvenir",
+        "front_field": "image_front",
+        "back_field": "image_back",
+        "allow_missing_back": True,
+    },
 }
 
 DOWNLOAD_ATTEMPTS = 3
@@ -86,6 +95,10 @@ def parse_args() -> argparse.Namespace:
     scope.add_argument("--country", help="Filtro exato por país na API.")
     scope.add_argument("--record-id", help="ID exato do registo.")
     scope.add_argument("--all", action="store_true", help="Processa todos os registos da categoria.")
+    parser.add_argument(
+        "--type",
+        help="Filtra pelo tipo do registo; por exemplo, --catalog souvenir --type pressed.",
+    )
     parser.add_argument("--limit", type=int, default=5000)
     parser.add_argument("--api-key-env", default=API_KEY_ENV)
     parser.add_argument("--raw-base-url", default=DEFAULT_RAW_BASE_URL)
@@ -176,8 +189,13 @@ def list_records(api_key: str, args: argparse.Namespace) -> list[dict[str, objec
             raise RuntimeError(f"Resposta inesperada para {args.record_id}: {data!r}")
         return [data]
     query: dict[str, object] = {"limit": args.limit}
+    filters: dict[str, str] = {}
     if args.country:
-        query["q"] = json.dumps({"country": args.country}, ensure_ascii=False)
+        filters["country"] = args.country
+    if args.type:
+        filters["type"] = args.type
+    if filters:
+        query["q"] = json.dumps(filters, ensure_ascii=False)
     data = api_request("GET", f"/entities/{entity}", api_key, query=query)
     if not isinstance(data, list):
         raise RuntimeError(f"Resposta inesperada ao listar {entity}: {data!r}")
@@ -229,12 +247,36 @@ def trim_excessive_white_border(image: Image.Image) -> tuple[Image.Image, bool]:
     return image.crop(padded_bbox), True
 
 
-def normalize_image(data: bytes, destination: Path, rotate_portrait: bool) -> tuple[bool, bool]:
+def trim_dark_border(image: Image.Image) -> tuple[Image.Image, bool]:
+    """Recorta o fundo preto em torno de uma prensada, sem cortar o oval."""
+    rgb = image.convert("RGB")
+    mask = rgb.convert("L").point(lambda value: 255 if value > 20 else 0)
+    bbox = mask.getbbox()
+    if bbox is None:
+        return image, False
+    padding = max(4, round(min(image.size) * 0.015))
+    padded_bbox = (
+        max(0, bbox[0] - padding),
+        max(0, bbox[1] - padding),
+        min(image.width, bbox[2] + padding),
+        min(image.height, bbox[3] + padding),
+    )
+    if padded_bbox == (0, 0, image.width, image.height):
+        return image, False
+    return image.crop(padded_bbox), True
+
+
+def normalize_image(
+    data: bytes, destination: Path, rotate_portrait: bool, trim_dark: bool = False
+) -> tuple[bool, bool]:
     """Guarda JPEG com EXIF, recorte de margens e orientação normalizados."""
     destination.parent.mkdir(parents=True, exist_ok=True)
     with Image.open(BytesIO(data)) as source:
         image = ImageOps.exif_transpose(source)
         image, cropped = trim_excessive_white_border(image)
+        if trim_dark:
+            image, dark_cropped = trim_dark_border(image)
+            cropped = cropped or dark_cropped
         rotated = rotate_portrait and image.height > image.width
         if rotated:
             image = image.transpose(Image.Transpose.ROTATE_270)
@@ -352,6 +394,7 @@ def download_and_normalize(
     referer_url: str,
     overwrite: bool,
     rotate_portrait: bool,
+    trim_dark: bool,
     cdp_downloader: CdpImageDownloader | None,
 ) -> tuple[str, bool, bool]:
     if destination.exists() and not overwrite:
@@ -361,7 +404,7 @@ def download_and_normalize(
     for attempt in range(1, DOWNLOAD_ATTEMPTS + 1):
         try:
             data = direct_download(url, referer_url)
-            rotated, cropped = normalize_image(data, destination, rotate_portrait)
+            rotated, cropped = normalize_image(data, destination, rotate_portrait, trim_dark)
             return "downloaded", rotated, cropped
         except (HTTPError, URLError, RuntimeError) as exc:
             last_error = exc
@@ -372,26 +415,46 @@ def download_and_normalize(
 
     if cdp_downloader is not None:
         data = cdp_downloader.download(url, referer_url)
-        rotated, cropped = normalize_image(data, destination, rotate_portrait)
+        rotated, cropped = normalize_image(data, destination, rotate_portrait, trim_dark)
         return "downloaded-browser", rotated, cropped
     raise RuntimeError(f"Falha ao descarregar {url}: {last_error}")
 
 
+def image_fields(catalog: str) -> tuple[str, str]:
+    config = CATALOGS[catalog]
+    return str(config.get("front_field", "image_frente")), str(config.get("back_field", "image_verso"))
+
+
+def image_display_orientation(path: Path) -> str:
+    """Devolve a orientação para o componente Base44 a partir da imagem final."""
+    with Image.open(path) as source:
+        image = ImageOps.exif_transpose(source)
+        return "portrait" if image.height > image.width else "landscape"
+
+
 def mutable_payload(
-    record: dict[str, object], front_url: str, back_url: str
+    record: dict[str, object], catalog: str, front_url: str, back_url: str,
+    display_orientation: str | None = None,
 ) -> dict[str, object]:
     payload = {key: value for key, value in record.items() if key not in READ_ONLY_FIELDS}
-    payload["image_frente"] = front_url
-    payload["image_verso"] = back_url
+    front_field, back_field = image_fields(catalog)
+    payload[front_field] = front_url
+    payload[back_field] = back_url
+    if display_orientation:
+        payload["display_orientation"] = display_orientation
     return payload
 
 
 def verify_preserved_record(
-    before: dict[str, object], after: dict[str, object], target: dict[str, str]
+    before: dict[str, object], after: dict[str, object], target: dict[str, str], catalog: str,
+    payload: dict[str, object],
 ) -> None:
-    if after.get("image_frente") != target["frente"] or after.get("image_verso") != target["tras"]:
+    front_field, back_field = image_fields(catalog)
+    if after.get(front_field) != target["frente"] or after.get(back_field) != target["tras"]:
         raise RuntimeError("A API não guardou os dois URLs esperados.")
-    excluded = READ_ONLY_FIELDS | {"image_frente", "image_verso"}
+    if "display_orientation" in payload and after.get("display_orientation") != payload["display_orientation"]:
+        raise RuntimeError("A API não guardou a orientação de apresentação esperada.")
+    excluded = READ_ONLY_FIELDS | {front_field, back_field, "display_orientation"}
     for key, value in before.items():
         if key not in excluded and after.get(key) != value:
             raise RuntimeError(f"Campo alterado inesperadamente durante a verificação: {key}")
@@ -446,25 +509,46 @@ def main() -> int:
         slug = slugs[record_id]
         folder = catalogue_path(record, args.catalog)
         target = generated_links(record, args.catalog, slug, args.raw_base_url)
+        front_field, back_field = image_fields(args.catalog)
         source = {
-            "frente": str(record.get("image_frente") or ""),
-            "tras": str(record.get("image_verso") or ""),
+            "frente": str(record.get(front_field) or ""),
+            "tras": str(record.get(back_field) or ""),
         }
+        required_sides = ("frente",) if (
+            CATALOGS[args.catalog].get("allow_missing_back") and not source["tras"]
+        ) else ("frente", "tras")
         target_files = {
-            "frente": folder / "frente" / f"{slug}.jpg",
-            "tras": folder / "tras" / f"{slug}.jpg",
+            side: folder / side_folder / f"{slug}.jpg"
+            for side, side_folder in (("frente", "frente"), ("tras", "tras"))
+            if side in required_sides
         }
-
-        if source == target and all(path.exists() for path in target_files.values()):
+        if "tras" not in required_sides:
+            target["tras"] = ""
+        local_orientation = (
+            image_display_orientation(target_files["frente"])
+            if args.catalog == "souvenir"
+            and record.get("type") == "pressed"
+            and target_files["frente"].exists()
+            else None
+        )
+        orientation_is_current = (
+            not local_orientation or record.get("display_orientation") == local_orientation
+        )
+        if (
+            source == target
+            and all(path.exists() for path in target_files.values())
+            and orientation_is_current
+            and not args.overwrite_images
+        ):
             print("Já migrado; sem alterações.")
             continue
-        if not source["frente"] or not source["tras"]:
-            print("Saltado: falta pelo menos uma imagem de origem.")
+        if any(not source[side] for side in required_sides):
+            print("Saltado: falta uma imagem de origem obrigatória.")
             continue
 
         if args.download_current or args.download_only:
             referer = str(record.get("url_numista") or record.get("url_ucoin") or "")
-            for side in ("frente", "tras"):
+            for side in required_sides:
                 if not (args.apply or args.download_only):
                     print(f"Download {side}: dry-run -> {target_files[side]}")
                     continue
@@ -474,6 +558,7 @@ def main() -> int:
                     referer,
                     args.overwrite_images,
                     args.catalog == "notes" and not args.keep_portrait,
+                    args.catalog == "souvenir" and record.get("type") == "pressed",
                     browser,
                 )
                 adjustments = []
@@ -497,7 +582,15 @@ def main() -> int:
 
         if args.download_only or not args.apply:
             continue
-        pending.append((record, target, mutable_payload(record, target["frente"], target["tras"])))
+        local_orientation = (
+            image_display_orientation(target_files["frente"])
+            if args.catalog == "souvenir" and record.get("type") == "pressed"
+            else None
+        )
+        payload = mutable_payload(
+            record, args.catalog, target["frente"], target["tras"], local_orientation
+        )
+        pending.append((record, target, payload))
 
     if browser is not None:
         browser.close()
@@ -512,7 +605,7 @@ def main() -> int:
         verified = api_request("GET", f"/entities/{entity}/{record_id}", api_key)
         if not isinstance(verified, dict):
             raise RuntimeError(f"Resposta inesperada ao verificar {record_id}: {verified!r}")
-        verify_preserved_record(before, verified, target)
+        verify_preserved_record(before, verified, target, args.catalog, payload)
         print(f"✓ API atualizada e verificada [{index}/{len(pending)}] — {record_label(before, args.catalog)}")
 
     if args.download_only:
