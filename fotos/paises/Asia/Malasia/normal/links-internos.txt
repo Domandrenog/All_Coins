@@ -26,6 +26,10 @@ malaysia-10-sen-1981:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Malasia/normal/frente/malaysia-10-sen-1981.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Malasia/normal/tras/malaysia-10-sen-1981.jpg
 
+malaysia-10-sen-1981-10-sen-1967-1988-federacao-malaia:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Malasia/normal/frente/malaysia-10-sen-1981-10-sen-1967-1988-federacao-malaia.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Malasia/normal/tras/malaysia-10-sen-1981-10-sen-1967-1988-federacao-malaia.jpg
+
 malaysia-10-sen-1999:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Malasia/normal/frente/malaysia-10-sen-1999.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Malasia/normal/tras/malaysia-10-sen-1999.jpg

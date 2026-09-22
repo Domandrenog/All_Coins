@@ -26,6 +26,10 @@ malaysia-10-sen-1981:
   frente: https://i.ucoin.net/coin/55/273/55273576-1s/malaysia-10-sen-1981.jpg
   tras: https://i.ucoin.net/coin/55/273/55273576-2s/malaysia-10-sen-1981.jpg
 
+malaysia-10-sen-1981-10-sen-1967-1988-federacao-malaia:
+  frente: https://i.ucoin.net/coin/55/273/55273576-1/malaysia-10-sen-1981.jpg
+  tras: https://i.ucoin.net/coin/55/273/55273576-2/malaysia-10-sen-1981.jpg
+
 malaysia-10-sen-1999:
   frente: https://i.ucoin.net/coin/55/293/55293111-1s/malaysia-10-sen-1999.jpg
   tras: https://i.ucoin.net/coin/55/293/55293111-2s/malaysia-10-sen-1999.jpg
