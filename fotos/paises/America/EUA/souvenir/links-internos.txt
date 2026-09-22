@@ -1,7 +1,411 @@
+united-states-anna-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-anna-pressed-orlando.jpg
+
+united-states-baby-donald-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-baby-donald-pressed-orlando.jpg
+
+united-states-baby-mickey-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-baby-mickey-pressed-orlando.jpg
+
+united-states-belle-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-belle-pressed-orlando.jpg
+
+united-states-bernadette-mayra-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-bernadette-mayra-pressed-orlando.jpg
+
+united-states-bouncing-tigger-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-bouncing-tigger-pressed-orlando.jpg
+
+united-states-buzz-lightyear-and-a-little-green-man-alien-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-buzz-lightyear-and-a-little-green-man-alien-pressed-orlando.jpg
+
+united-states-buzz-lightyear-pressed-orlando-52b737bb:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-buzz-lightyear-pressed-orlando-52b737bb.jpg
+
+united-states-buzz-lightyear-pressed-orlando-efd602a9:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-buzz-lightyear-pressed-orlando-efd602a9.jpg
+
+united-states-buzz-lightyear-pressed-orlando-efd602aa:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-buzz-lightyear-pressed-orlando-efd602aa.jpg
+
+united-states-buzz-lightyear-pressed-orlando-efd602ab:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-buzz-lightyear-pressed-orlando-efd602ab.jpg
+
+united-states-buzz-lightyear-pressed-orlando-efd602ac:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-buzz-lightyear-pressed-orlando-efd602ac.jpg
+
+united-states-buzz-lightyear-pressed-orlando-efd602ae:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-buzz-lightyear-pressed-orlando-efd602ae.jpg
+
+united-states-buzz-lightyear-s-space-ranger-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-buzz-lightyear-s-space-ranger-pressed-orlando.jpg
+
+united-states-captain-hook-pressed-orlando-515e5a50:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-captain-hook-pressed-orlando-515e5a50.jpg
+
+united-states-captain-hook-pressed-orlando-8474a38e:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-captain-hook-pressed-orlando-8474a38e.jpg
+
+united-states-christopher-robin-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-christopher-robin-pressed-orlando.jpg
+
+united-states-cinderella-castle-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-cinderella-castle-pressed-orlando.jpg
+
+united-states-cinderella-pressed-orlando-d0fdc58b:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-cinderella-pressed-orlando-d0fdc58b.jpg
+
+united-states-cinderella-pressed-orlando-f68c3123:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-cinderella-pressed-orlando-f68c3123.jpg
+
+united-states-daisy-and-donald-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-daisy-and-donald-pressed-orlando.jpg
+
+united-states-daisy-pressed-orlando-2d884377:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-daisy-pressed-orlando-2d884377.jpg
+
+united-states-daisy-pressed-orlando-8e4dc0af:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-daisy-pressed-orlando-8e4dc0af.jpg
+
+united-states-dalmatian-puppy-pressed-orlando-2d88437f:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-dalmatian-puppy-pressed-orlando-2d88437f.jpg
+
+united-states-dalmatian-puppy-pressed-orlando-52b737bc:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-dalmatian-puppy-pressed-orlando-52b737bc.jpg
+
+united-states-donald-pressed-orlando-05643de6:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-donald-pressed-orlando-05643de6.jpg
+
+united-states-donald-pressed-orlando-8e4dc0b1:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-donald-pressed-orlando-8e4dc0b1.jpg
+
+united-states-donald-pressed-orlando-efd602b1:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-donald-pressed-orlando-efd602b1.jpg
+
+united-states-donald-pressed-orlando-f68c311e:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-donald-pressed-orlando-f68c311e.jpg
+
+united-states-eeyore-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-eeyore-pressed-orlando.jpg
+
+united-states-elsa-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-elsa-pressed-orlando.jpg
+
+united-states-fl-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-fl-pressed-orlando.jpg
+
+united-states-goofy-pressed-orlando-05643de5:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-goofy-pressed-orlando-05643de5.jpg
+
+united-states-goofy-pressed-orlando-0bd7f5ca:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-goofy-pressed-orlando-0bd7f5ca.jpg
+
+united-states-goofy-pressed-orlando-2d884378:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-goofy-pressed-orlando-2d884378.jpg
+
+united-states-goofy-pressed-orlando-8e4dc0b5:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-goofy-pressed-orlando-8e4dc0b5.jpg
+
+united-states-goofy-pressed-orlando-cfed9b54:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-goofy-pressed-orlando-cfed9b54.jpg
+
+united-states-hitchhiking-ghost-ezra-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-hitchhiking-ghost-ezra-pressed-orlando.jpg
+
+united-states-hitchhiking-ghost-gus-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-hitchhiking-ghost-gus-pressed-orlando.jpg
+
+united-states-hitchhiking-ghost-phineas-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-hitchhiking-ghost-phineas-pressed-orlando.jpg
+
+united-states-identity-discs-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-identity-discs-pressed-orlando.jpg
+
+united-states-jessie-pressed-orlando-52b737b9:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-jessie-pressed-orlando-52b737b9.jpg
+
+united-states-jungle-cruise-elephant-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-jungle-cruise-elephant-pressed-orlando.jpg
+
+united-states-jungle-cruise-mickey-pressed-orlando-3e073a44:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-jungle-cruise-mickey-pressed-orlando-3e073a44.jpg
+
+united-states-jungle-cruise-mickey-pressed-orlando-3e073a45:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-jungle-cruise-mickey-pressed-orlando-3e073a45.jpg
+
+united-states-jungle-cruise-skipper-goofy-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-jungle-cruise-skipper-goofy-pressed-orlando.jpg
+
+united-states-lady-pressed-orlando-52b737b6:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-lady-pressed-orlando-52b737b6.jpg
+
+united-states-lady-pressed-orlando-52b737b7:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-lady-pressed-orlando-52b737b7.jpg
+
+united-states-lightcycle-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-lightcycle-pressed-orlando.jpg
+
+united-states-little-green-man-squeeze-toy-alien-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-little-green-man-squeeze-toy-alien-pressed-orlando.jpg
+
+united-states-lotso-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-lotso-pressed-orlando.jpg
+
+united-states-louis-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-louis-pressed-orlando.jpg
+
+united-states-louis-the-alligator-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-louis-the-alligator-pressed-orlando.jpg
+
 united-states-mama-odie-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mama-odie-pressed-orlando.jpg
-  tras:
+
+united-states-marching-band-donald-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-marching-band-donald-pressed-orlando.jpg
+
+united-states-marching-band-pluto-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-marching-band-pluto-pressed-orlando.jpg
 
 united-states-mayra-the-frog-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mayra-the-frog-pressed-orlando.jpg
+
+united-states-merida-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-merida-pressed-orlando.jpg
+
+united-states-mickey-and-minnie-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mickey-and-minnie-pressed-orlando.jpg
+
+united-states-mickey-minnie-pressed-orlando-05643dde:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mickey-minnie-pressed-orlando-05643dde.jpg
+
+united-states-mickey-minnie-pressed-orlando-8474a38f:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mickey-minnie-pressed-orlando-8474a38f.jpg
+
+united-states-mickey-minnie-pressed-orlando-8474a395:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mickey-minnie-pressed-orlando-8474a395.jpg
+
+united-states-mickey-pressed-orlando-05643de2:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mickey-pressed-orlando-05643de2.jpg
+
+united-states-mickey-pressed-orlando-05643de7:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mickey-pressed-orlando-05643de7.jpg
+
+united-states-mickey-pressed-orlando-0bd7f5d0:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mickey-pressed-orlando-0bd7f5d0.jpg
+
+united-states-mickey-pressed-orlando-2d88437b:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mickey-pressed-orlando-2d88437b.jpg
+
+united-states-mickey-pressed-orlando-8474a391:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mickey-pressed-orlando-8474a391.jpg
+
+united-states-mickey-pressed-orlando-8474a392:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mickey-pressed-orlando-8474a392.jpg
+
+united-states-mickey-pressed-orlando-8474a394:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mickey-pressed-orlando-8474a394.jpg
+
+united-states-mickey-pressed-orlando-8e4dc0b3:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mickey-pressed-orlando-8e4dc0b3.jpg
+
+united-states-mickey-pressed-orlando-ac5254d8:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mickey-pressed-orlando-ac5254d8.jpg
+
+united-states-mickey-pressed-orlando-cfed9b57:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mickey-pressed-orlando-cfed9b57.jpg
+
+united-states-mickey-pressed-orlando-efd602b2:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mickey-pressed-orlando-efd602b2.jpg
+
+united-states-mickey-pressed-orlando-f68c3122:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mickey-pressed-orlando-f68c3122.jpg
+
+united-states-mike-sulley-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mike-sulley-pressed-orlando.jpg
+
+united-states-minnie-mickey-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-minnie-mickey-pressed-orlando.jpg
+
+united-states-minnie-pressed-orlando-05643de3:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-minnie-pressed-orlando-05643de3.jpg
+
+united-states-minnie-pressed-orlando-05643de4:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-minnie-pressed-orlando-05643de4.jpg
+
+united-states-minnie-pressed-orlando-0bd7f5cb:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-minnie-pressed-orlando-0bd7f5cb.jpg
+
+united-states-minnie-pressed-orlando-2d884379:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-minnie-pressed-orlando-2d884379.jpg
+
+united-states-minnie-pressed-orlando-3e073a4c:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-minnie-pressed-orlando-3e073a4c.jpg
+
+united-states-minnie-pressed-orlando-8474a396:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-minnie-pressed-orlando-8474a396.jpg
+
+united-states-minnie-pressed-orlando-8e4dc0b2:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-minnie-pressed-orlando-8e4dc0b2.jpg
+
+united-states-minnie-pressed-orlando-ac5254dd:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-minnie-pressed-orlando-ac5254dd.jpg
+
+united-states-minnie-pressed-orlando-cfed9b52:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-minnie-pressed-orlando-cfed9b52.jpg
+
+united-states-minnie-pressed-orlando-cfed9b5a:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-minnie-pressed-orlando-cfed9b5a.jpg
+
+united-states-mr-incredible-and-dash-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mr-incredible-and-dash-pressed-orlando.jpg
+
+united-states-naveen-and-tiana-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-naveen-and-tiana-pressed-orlando.jpg
+
+united-states-orchestra-conductor-mickey-mouse-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-orchestra-conductor-mickey-mouse-pressed-orlando.jpg
+
+united-states-peter-pan-pressed-orlando-52b737b5:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-peter-pan-pressed-orlando-52b737b5.jpg
+
+united-states-peter-pan-pressed-orlando-8474a38d:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-peter-pan-pressed-orlando-8474a38d.jpg
+
+united-states-piglet-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-piglet-pressed-orlando.jpg
+
+united-states-pinocchio-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-pinocchio-pressed-orlando.jpg
+
+united-states-pluto-pressed-orlando-2d88437e:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-pluto-pressed-orlando-2d88437e.jpg
+
+united-states-pluto-pressed-orlando-8e4dc0b0:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-pluto-pressed-orlando-8e4dc0b0.jpg
+
+united-states-pongo-perdita-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-pongo-perdita-pressed-orlando.jpg
+
+united-states-princess-aurora-pressed-orlando-ea9d6e4d:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-princess-aurora-pressed-orlando-ea9d6e4d.jpg
+
+united-states-princess-aurora-pressed-orlando-f68c311d:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-princess-aurora-pressed-orlando-f68c311d.jpg
+
+united-states-princess-tiana-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-princess-tiana-pressed-orlando.jpg
+
+united-states-proud-pluto-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-proud-pluto-pressed-orlando.jpg
+
+united-states-rabbit-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-rabbit-pressed-orlando.jpg
+
+united-states-race-car-driver-mickey-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-race-car-driver-mickey-pressed-orlando.jpg
+
+united-states-rapunzel-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-rapunzel-pressed-orlando.jpg
+
+united-states-snarling-wizzer-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-snarling-wizzer-pressed-orlando.jpg
+
+united-states-snow-white-pressed-orlando-f68c3120:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-snow-white-pressed-orlando-f68c3120.jpg
+
+united-states-snow-white-pressed-orlando-f68c3125:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-snow-white-pressed-orlando-f68c3125.jpg
+
+united-states-space-mountain-chip-dale-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-space-mountain-chip-dale-pressed-orlando.jpg
+
+united-states-space-mountain-donald-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-space-mountain-donald-pressed-orlando.jpg
+
+united-states-space-mountain-logo-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-space-mountain-logo-pressed-orlando.jpg
+
+united-states-space-mountain-mickey-pressed-orlando-05643ddf:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-space-mountain-mickey-pressed-orlando-05643ddf.jpg
+
+united-states-space-mountain-mickey-pressed-orlando-0bd7f5cf:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-space-mountain-mickey-pressed-orlando-0bd7f5cf.jpg
+
+united-states-speedway-driver-mickey-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-speedway-driver-mickey-pressed-orlando.jpg
+
+united-states-stitch-pressed-orlando-0bd7f5c8:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-stitch-pressed-orlando-0bd7f5c8.jpg
+
+united-states-sulley-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-sulley-pressed-orlando.jpg
+
+united-states-three-lightcycles-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-three-lightcycles-pressed-orlando.jpg
+
+united-states-tiana-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-tiana-pressed-orlando.jpg
+
+united-states-tick-tock-the-crocodile-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-tick-tock-the-crocodile-pressed-orlando.jpg
+
+united-states-tigger-pressed-orlando-05643de1:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-tigger-pressed-orlando-05643de1.jpg
+
+united-states-tigger-pressed-orlando-f68c311c:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-tigger-pressed-orlando-f68c311c.jpg
+
+united-states-tinker-bell-pressed-orlando-2d884380:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-tinker-bell-pressed-orlando-2d884380.jpg
+
+united-states-tinker-bell-pressed-orlando-52b737b4:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-tinker-bell-pressed-orlando-52b737b4.jpg
   tras:
+
+united-states-tinker-bell-pressed-orlando-ea9d6e4e:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-tinker-bell-pressed-orlando-ea9d6e4e.jpg
+
+united-states-tinker-bell-pressed-orlando-f68c3121:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-tinker-bell-pressed-orlando-f68c3121.jpg
+
+united-states-train-engineer-mickey-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-train-engineer-mickey-pressed-orlando.jpg
+
+united-states-tron-1982-logo-pressed-orlando-515e5a4e:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-tron-1982-logo-pressed-orlando-515e5a4e.jpg
+
+united-states-tron-1982-logo-pressed-orlando-ea9d6e55:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-tron-1982-logo-pressed-orlando-ea9d6e55.jpg
+
+united-states-user-pressed-orlando-ea9d6e51:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-user-pressed-orlando-ea9d6e51.jpg
+
+united-states-user-pressed-orlando-ea9d6e52:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-user-pressed-orlando-ea9d6e52.jpg
+
+united-states-user-pressed-orlando-ea9d6e53:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-user-pressed-orlando-ea9d6e53.jpg
+
+united-states-wendy-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-wendy-pressed-orlando.jpg
+
+united-states-winnie-the-pooh-and-tigger-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-winnie-the-pooh-and-tigger-pressed-orlando.jpg
+
+united-states-winnie-the-pooh-pressed-orlando-cfed9b58:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-winnie-the-pooh-pressed-orlando-cfed9b58.jpg
+
+united-states-winnie-the-pooh-pressed-orlando-d0fdc587:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-winnie-the-pooh-pressed-orlando-d0fdc587.jpg
+
+united-states-winnie-the-pooh-pressed-orlando-d0fdc588:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-winnie-the-pooh-pressed-orlando-d0fdc588.jpg
+
+united-states-winnie-the-pooh-pressed-orlando-d0fdc58a:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-winnie-the-pooh-pressed-orlando-d0fdc58a.jpg
+
+united-states-woody-pressed-orlando-52b737b8:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-woody-pressed-orlando-52b737b8.jpg
+
+united-states-zurg-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-zurg-pressed-orlando.jpg
