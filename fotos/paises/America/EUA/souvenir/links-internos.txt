@@ -1,3 +1,7 @@
+united-states-mama-odie-pressed-orlando:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mama-odie-pressed-orlando.jpg
+  tras:
+
 united-states-mayra-the-frog-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mayra-the-frog-pressed-orlando.jpg
   tras:
