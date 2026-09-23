@@ -810,7 +810,7 @@ united-states-sulley-pressed-orlando:
 
 united-states-tee-shirt-with-logo-pressed-miami:
   frente: http://locations.pennycollector.com/images/machine_2aa9ed5f-13c9-4ea1-ab12-fb422bad319d.jpg
-  tras: 
+  tras:
 
 united-states-telescope-with-reach-for-the-stars-pressed-merritt-island:
   frente: http://locations.pennycollector.com/images/machine_4b49d804-6775-453a-8e77-57e3de513824.jpg

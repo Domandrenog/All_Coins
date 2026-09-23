@@ -810,7 +810,7 @@ united-states-sulley-pressed-orlando:
 
 united-states-tee-shirt-with-logo-pressed-miami:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-tee-shirt-with-logo-pressed-miami.jpg
-  tras: 
+  tras:
 
 united-states-telescope-with-reach-for-the-stars-pressed-merritt-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-telescope-with-reach-for-the-stars-pressed-merritt-island.jpg
