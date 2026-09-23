@@ -438,7 +438,7 @@ united-states-merida-pressed-orlando:
 
 united-states-miami-city-skyline-inside-a-guitar-pick-pressed-miami:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-miami-city-skyline-inside-a-guitar-pick-pressed-miami-6e6cebf2.jpg
-  tras: 
+  tras:
 
 united-states-mickey-and-donald-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18106.jpg
@@ -814,6 +814,9 @@ united-states-tee-shirt-with-logo-pressed-miami:
 
 united-states-telescope-with-reach-for-the-stars-pressed-merritt-island:
   frente: http://locations.pennycollector.com/images/machine_4b49d804-6775-453a-8e77-57e3de513824.jpg
+
+united-states-the-american-revolution-collectible-token-album-other-boston:
+  frente: https://shop.americasnationalparks.org/cdn/shop/files/449342TheAmericanRevolutionCollectibleTokenAlbum_695x695.jpg?v=1770820509
 
 united-states-the-seattle-space-needle-penny-book-other-seattle:
   frente: http://locations.pennycollector.com/images/machine_c037becc-dcc5-4881-a9de-37c2e392baae.jpg

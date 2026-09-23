@@ -1274,5 +1274,31 @@
     "reference_url": "http://locations.pennycollector.com/Details.aspx?location=352061#machine-1-position-4",
     "slug": "united-states-gibson-les-paul-guitar-pressed-miami",
     "source_url": "http://locations.pennycollector.com/images/machine_2aa9ed5f-13c9-4ea1-ab12-fb422bad319d.jpg"
+  },
+  "6ab4426a9f80178e882b39a0": {
+    "centered": false,
+    "cleaned": false,
+    "crop": {
+      "height": 650,
+      "width": 455,
+      "x": 132,
+      "y": 29
+    },
+    "external_front": "https://shop.americasnationalparks.org/cdn/shop/files/449342TheAmericanRevolutionCollectibleTokenAlbum_695x695.jpg?v=1770820509",
+    "front_file": "frente/united-states-the-american-revolution-collectible-token-album-other-boston.jpg",
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-the-american-revolution-collectible-token-album-other-boston.jpg",
+    "location_id": "sem-id",
+    "location_name": "",
+    "machine": 1,
+    "name": "The American Revolution Collectible Token Album",
+    "orientation": "portrait",
+    "original_file": "original/location-sem-id-machine-1.jpg",
+    "padding": 4,
+    "position": 1,
+    "record_id": "6ab4426a9f80178e882b39a0",
+    "reference_url": "https://shop.americasnationalparks.org/products/the-american-revolution-collectible-token-album?_pos=3&_psq=revol&_psid=f8f55bfca&_ss=e",
+    "slug": "united-states-the-american-revolution-collectible-token-album-other-boston",
+    "source_url": "https://shop.americasnationalparks.org/cdn/shop/files/449342TheAmericanRevolutionCollectibleTokenAlbum_695x695.jpg?v=1770820509",
+    "type": "other"
   }
 }
