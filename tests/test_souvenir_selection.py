@@ -45,6 +45,31 @@ class CompletedSouvenirSelectionTests(unittest.TestCase):
         self.assertEqual(set(selected), {"record-1"})
         self.assertEqual(set(groups), {1})
 
+
+    def test_promoter_accepts_other_portrait_canvas(self):
+        with TemporaryDirectory() as temporary:
+            staging = Path(temporary)
+            crop = staging / "book.jpg"
+            Image.new("RGB", (140, 200), "white").save(crop)
+            entry = {
+                "location_id": "1117", "slug": "book", "name": "Penny Book",
+                "type": "other", "machine": 1, "position": 1,
+                "source_url": "https://example.test/book.jpg",
+                "reference_url": "https://example.test/?location=1117",
+                "file": str(crop), "orientation": "portrait",
+            }
+            (staging / "manifest.json").write_text(
+                json.dumps({"other-1": entry}), encoding="utf-8"
+            )
+            (staging / "photo-status.json").write_text(
+                json.dumps({photo_status_key(entry): {"completed": True}}),
+                encoding="utf-8",
+            )
+
+            selected, _ = load_entries(staging, "1117", {"other-1"})
+
+        self.assertEqual(selected["other-1"]["type"], "other")
+
     def test_api_manifest_filter_keeps_only_requested_ids(self):
         with TemporaryDirectory() as temporary:
             manifest = Path(temporary) / "manifest.json"

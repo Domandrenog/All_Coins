@@ -24,6 +24,7 @@ if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
 from scripts.sync_catalog_images_api import direct_download  # noqa: E402
+from tools.souvenir_formats import crop_size  # noqa: E402
 
 
 def read_json(path: Path) -> dict[str, object]:
@@ -137,7 +138,7 @@ def load_entries(
         source = Path(str(entry["file"]))
         if not source.is_file():
             raise ValueError(f"{record_id}: recorte em falta: {source}")
-        expected_size = (80, 140) if entry["orientation"] == "portrait" else (200, 115)
+        expected_size = crop_size(entry.get("type") or "pressed", entry["orientation"])
         with Image.open(source) as image:
             if image.size != expected_size:
                 raise ValueError(f"{record_id}: tamanho {image.size}; esperado {expected_size}")

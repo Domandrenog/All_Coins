@@ -527,7 +527,6 @@ def main() -> int:
         local_orientation = (
             image_display_orientation(target_files["frente"])
             if args.catalog == "souvenir"
-            and record.get("type") == "pressed"
             and target_files["frente"].exists()
             else None
         )
@@ -584,7 +583,7 @@ def main() -> int:
             continue
         local_orientation = (
             image_display_orientation(target_files["frente"])
-            if args.catalog == "souvenir" and record.get("type") == "pressed"
+            if args.catalog == "souvenir"
             else None
         )
         payload = mutable_payload(

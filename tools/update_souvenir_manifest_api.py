@@ -18,6 +18,7 @@ DEFAULT_MANIFEST = (
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
+from tools.souvenir_formats import SUPPORTED_SOUVENIR_TYPES  # noqa: E402
 from scripts.sync_coin_images_api import (  # noqa: E402
     API_KEY_ENV,
     READ_ONLY_FIELDS,
@@ -75,8 +76,14 @@ def preflight(
         record = api_request("GET", f"/entities/Souvenir/{record_id}", api_key)
         if not isinstance(record, dict) or str(record.get("id")) != record_id:
             raise ValueError(f"Resposta inesperada para {record_id}.")
-        if record.get("type") != "pressed":
-            raise ValueError(f"{record_id}: deixou de ser uma prensada.")
+        expected_type = str(entry.get("type") or "pressed")
+        if expected_type not in SUPPORTED_SOUVENIR_TYPES:
+            raise ValueError(f"{record_id}: tipo não suportado no manifesto: {expected_type}.")
+        if record.get("type") != expected_type:
+            raise ValueError(
+                f"{record_id}: tipo mudou desde o recorte; "
+                f"esperado={expected_type!r}, atual={record.get('type')!r}."
+            )
         target_url, _ = desired_values(entry)
         external_url = str(entry.get("external_front") or entry.get("source_url") or "")
         current_url = str(record.get("image_front") or "")

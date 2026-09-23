@@ -98,6 +98,8 @@ class CompletionRequestTests(unittest.TestCase):
         self.assertIn('id="finalize-location"', PAGE)
         self.assertIn('Finalizar e enviar concluídas', PAGE)
         self.assertIn('Não existem fotografias pendentes', PAGE)
+        self.assertIn("currentRecord.type === 'other'", PAGE)
+        self.assertIn("Em pé — 140 × 200 px", PAGE)
 
 
 if __name__ == "__main__":

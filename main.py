@@ -74,8 +74,8 @@ def scripts_for_catalog(catalog: str) -> tuple[Path, Path]:
 
 
 def catalog_type_filter(catalog: str) -> str | None:
-    """Mantém o fluxo de Souvenirs focado nas prensadas já suportadas."""
-    return "pressed" if catalog == "souvenir" else None
+    """Processa todos os tipos de Souvenirs suportados pelo catálogo."""
+    return None
 
 
 def choose_catalog(*, allow_all: bool = False) -> list[str] | None:

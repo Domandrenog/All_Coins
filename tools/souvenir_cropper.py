@@ -33,6 +33,10 @@ if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
 from scripts.sync_catalog_images_api import direct_download, unique_record_slugs  # noqa: E402
+from tools.souvenir_formats import (  # noqa: E402
+    SUPPORTED_SOUVENIR_TYPES,
+    crop_size,
+)
 from scripts.sync_coin_images_api import (  # noqa: E402
     API_KEY_ENV,
     DEFAULT_RAW_BASE_URL,
@@ -173,7 +177,19 @@ let selection = null;
 let start = null;
 
 function targetSize() {
+  const isOther = currentRecord && currentRecord.type === 'other';
+  if (isOther) {
+    return orientationInput.value === 'portrait' ? {width:140, height:200} : {width:200, height:140};
+  }
   return orientationInput.value === 'portrait' ? {width:80, height:140} : {width:200, height:115};
+}
+
+function updateFormatLabels() {
+  const isOther = currentRecord && currentRecord.type === 'other';
+  const landscape = orientationInput.querySelector('option[value="landscape"]');
+  const portrait = orientationInput.querySelector('option[value="portrait"]');
+  landscape.textContent = isOther ? 'Deitada — 200 × 140 px' : 'Deitada — 200 × 115 px';
+  portrait.textContent = isOther ? 'Em pé — 140 × 200 px' : 'Em pé — 80 × 140 px';
 }
 
 function fixedSelection(origin, current) {
@@ -393,6 +409,8 @@ async function selectRecord(index) {
   currentRecord = records[index];
   currentMachine = currentRecord.machine;
   orientationInput.value = currentRecord.orientation;
+  cleanupInput.checked = currentRecord.type === 'pressed';
+  updateFormatLabels();
   selection = null;
   draw();
   updateSelection();
@@ -400,7 +418,7 @@ async function selectRecord(index) {
   const machineItems = recordsForMachine(currentMachine);
   const numberInMachine = machineItems.findIndex(record => record.id === currentRecord.id) + 1;
   assignment.textContent =
-    `Recorta esta moeda:\n${currentRecord.name}\nMáquina ${currentRecord.machine} · Posição ${currentRecord.position}\n` +
+    `Recorta este souvenir:\n${currentRecord.name}\nMáquina ${currentRecord.machine} · Posição ${currentRecord.position}\n` +
     `Nesta fotografia: ${numberInMachine}/${machineItems.length}`;
   statusBox.textContent = 'A carregar a fotografia desta máquina…';
   const response = await fetch(`/api/record-source/${currentRecord.id}`);
@@ -654,7 +672,12 @@ def record_machine_position(record: dict[str, object]) -> tuple[int, int]:
             str(record.get("notes") or ""),
             re.IGNORECASE,
         )
-    return (int(match.group(1)), int(match.group(2))) if match else (9999, int(record.get("ordem") or 9999))
+    if match:
+        return int(match.group(1)), int(match.group(2))
+    return (
+        int(record.get("machine") or 1),
+        int(record.get("ordem") or record.get("position") or 1),
+    )
 
 
 def record_orientation(record: dict[str, object]) -> str:
@@ -674,11 +697,16 @@ def load_pending_souvenirs() -> list[dict[str, object]]:
         "GET",
         "/entities/Souvenir",
         api_key,
-        query={"limit": 5000, "q": json.dumps({"type": "pressed"})},
+        query={"limit": 5000},
     )
     if not isinstance(data, list):
         raise RuntimeError(f"Resposta inesperada ao listar Souvenirs: {data!r}")
-    records = [row for row in data if isinstance(row, dict)]
+    records = [
+        row
+        for row in data
+        if isinstance(row, dict)
+        and str(row.get("type") or "") in SUPPORTED_SOUVENIR_TYPES
+    ]
     slugs = unique_record_slugs(records, "souvenir")
     pending: list[dict[str, object]] = []
     for record in records:
@@ -949,6 +977,7 @@ class Handler(BaseHTTPRequestHandler):
             "id": record_id,
             "name": str(record.get("name") or "Sem nome"),
             "description": str(record.get("description") or ""),
+            "type": str(record.get("type") or ""),
             "location_id": str(record["_location_id"]),
             "location_name": str(record.get("location_name") or "(sem nome)"),
             "machine": int(record["_machine"]),
@@ -1152,10 +1181,16 @@ class Handler(BaseHTTPRequestHandler):
         source = self.server.output_dir / "sources" / f"{source_id}.png"
         if not source.is_file():
             raise ValueError("A imagem original já não está disponível.")
+        record_id = str(payload.get("record_id") or "")
+        record = None
+        if record_id:
+            self.pending_records()
+            record = self.server.records_by_id.get(record_id)
+            if record is None:
+                raise ValueError("O souvenir selecionado já não pertence à fila pendente.")
+        record_type = str(record.get("type") or "pressed") if record else "pressed"
         orientation = str(payload.get("orientation") or "landscape")
-        sizes = {"landscape": (200, 115), "portrait": (80, 140)}
-        if orientation not in sizes:
-            raise ValueError("Formato final inválido.")
+        size = crop_size(record_type, orientation)
         with Image.open(source) as opened:
             image = ImageOps.exif_transpose(opened).convert("RGB")
             x = round(float(payload["x"]))
@@ -1163,7 +1198,7 @@ class Handler(BaseHTTPRequestHandler):
             width = round(float(payload["width"]))
             height = round(float(payload["height"]))
             padding = max(0, min(100, round(float(payload.get("padding", 0)))))
-            target_ratio = sizes[orientation][0] / sizes[orientation][1]
+            target_ratio = size[0] / size[1]
             expanded_width = max(width + 2 * padding, (height + 2 * padding) * target_ratio)
             expanded_height = expanded_width / target_ratio
             scale = min(1.0, image.width / expanded_width, image.height / expanded_height)
@@ -1182,14 +1217,7 @@ class Handler(BaseHTTPRequestHandler):
         centered = False
         if bool(payload.get("cleanup", True)):
             cropped, cleaned, centered = clean_isolated_edge_residue(cropped)
-        cropped = cropped.resize(sizes[orientation], Image.Resampling.LANCZOS)
-        record_id = str(payload.get("record_id") or "")
-        record = None
-        if record_id:
-            self.pending_records()
-            record = self.server.records_by_id.get(record_id)
-            if record is None:
-                raise ValueError("A moeda selecionada já não pertence à fila pendente.")
+        cropped = cropped.resize(size, Image.Resampling.LANCZOS)
         base = str(record["_slug"]) if record else slugify(str(payload.get("name") or "recorte"))
         folder = self.server.output_dir / "crops"
         folder.mkdir(parents=True, exist_ok=True)
@@ -1207,6 +1235,7 @@ class Handler(BaseHTTPRequestHandler):
                 {
                     "record_id": record_id,
                     "name": str(record.get("name") or ""),
+                    "type": record_type,
                     "slug": base,
                     "location_id": str(record["_location_id"]),
                     "location_name": str(record.get("location_name") or ""),
