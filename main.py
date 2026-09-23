@@ -411,7 +411,7 @@ def close_notes_browser() -> None:
 
 def worktree_has_only_country_changes(countries: list[str], catalog: str) -> bool:
     result = subprocess.run(
-        ["git", "status", "--porcelain"], cwd=ROOT, capture_output=True, text=True
+        ["git", "status", "--porcelain", "--untracked-files=all"], cwd=ROOT, capture_output=True, text=True
     )
     if result.returncode != 0:
         print(result.stderr or "Não foi possível verificar o estado do Git.")
@@ -503,7 +503,7 @@ def worktree_has_only_souvenir_location_changes(
         safe_location = location_id.replace("/", "-").replace("\\", "-")
         allowed_prefixes.append((root / "original" / f"location-{safe_location}-").as_posix())
     result = subprocess.run(
-        ["git", "status", "--porcelain"], cwd=ROOT, capture_output=True, text=True
+        ["git", "status", "--porcelain", "--untracked-files=all"], cwd=ROOT, capture_output=True, text=True
     )
     if result.returncode != 0:
         print(result.stderr or "Não foi possível verificar o estado do Git.")
