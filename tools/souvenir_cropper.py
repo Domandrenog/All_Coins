@@ -468,16 +468,27 @@ async function loadLocations() {
   const response = await fetch('/api/locations');
   const result = await response.json();
   if (!response.ok) throw new Error(result.error || 'Não foi possível consultar as locations.');
+  const locations = result.locations || [];
   locationInput.innerHTML = '<option value="">Escolhe uma location…</option>';
-  (result.locations || []).forEach(location => {
+  locations.forEach(location => {
     const option = document.createElement('option');
     option.value = location.id;
     option.textContent =
       `${location.name} · location ${location.id} · ${location.count} moedas / ${location.machines} montagens`;
     locationInput.appendChild(option);
   });
-  if ((result.locations || []).length === 1) {
-    locationInput.value = result.locations[0].id;
+  if (!locations.length) {
+    locationInput.innerHTML = '<option value="">Não existem fotografias pendentes</option>';
+    locationInput.disabled = true;
+    assignment.textContent = 'Todos os Souvenirs disponíveis já usam imagens internas. Não há nada para recortar ou enviar.';
+    statusBox.textContent = 'Fila concluída. Volta ao menu; quando surgirem novas fotografias externas, aparecerão aqui.';
+    finalizeStatus.textContent = 'Não existem fotografias concluídas por enviar.';
+    finalizeButton.disabled = true;
+    return;
+  }
+  locationInput.disabled = false;
+  if (locations.length === 1) {
+    locationInput.value = locations[0].id;
     await loadLocation(locationInput.value);
   }
 }

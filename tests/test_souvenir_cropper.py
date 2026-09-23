@@ -97,6 +97,7 @@ class CompletionRequestTests(unittest.TestCase):
     def test_page_contains_the_final_send_control(self):
         self.assertIn('id="finalize-location"', PAGE)
         self.assertIn('Finalizar e enviar concluídas', PAGE)
+        self.assertIn('Não existem fotografias pendentes', PAGE)
 
 
 if __name__ == "__main__":
