@@ -358,6 +358,10 @@ united-states-maya-pressed-orlando:
 united-states-mayor-of-halloween-town-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17105.jpg
 
+united-states-mayra-and-other-critters-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW24087.jpg
+  tras: 
+
 united-states-mayra-the-frog-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW25035.jpg
 
@@ -534,7 +538,6 @@ united-states-piglet-pressed-orlando-5f22ae90:
 
 united-states-piglet-pressed-orlando-cfed9b53:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-piglet-pressed-orlando.jpg
-  tras: 
 
 united-states-pinocchio-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW25009.jpg
@@ -604,6 +607,9 @@ united-states-sally-pressed-orlando:
 
 united-states-shy-mickey-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18100.jpg
+
+united-states-silhouette-of-a-pirate-ship-pressed-orlando:
+  frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW18031.jpg
 
 united-states-silhouette-of-sally-jack-skellington-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17102.jpg
