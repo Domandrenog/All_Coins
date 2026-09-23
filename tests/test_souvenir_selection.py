@@ -42,7 +42,7 @@ class CompletedSouvenirSelectionTests(unittest.TestCase):
 
             selected, groups = load_entries(staging, "location-1", {"record-1"})
 
-        self.assertEqual(set(selected), {"record-1"})
+        self.assertEqual(set(selected), {"record-1:front"})
         self.assertEqual(set(groups), {1})
 
 
@@ -68,7 +68,7 @@ class CompletedSouvenirSelectionTests(unittest.TestCase):
 
             selected, _ = load_entries(staging, "1117", {"other-1"})
 
-        self.assertEqual(selected["other-1"]["type"], "other")
+        self.assertEqual(selected["other-1:front"]["type"], "other")
 
     def test_api_manifest_filter_keeps_only_requested_ids(self):
         with TemporaryDirectory() as temporary:

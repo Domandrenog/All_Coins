@@ -18,7 +18,11 @@ class ManualSouvenirFinalizationTests(unittest.TestCase):
         run_git.side_effect = self.git_results()
 
         result = main.finalize_manual_souvenirs(
-            {"location_id": "352061", "location_name": "Miami", "record_ids": ["coin-1"]}
+            {
+                "location_id": "352061", "location_name": "Miami",
+                "continent": "América", "country": "EUA", "city": "Miami",
+                "record_sides": ["coin-1:front"],
+            }
         )
 
         self.assertFalse(result)
@@ -35,7 +39,11 @@ class ManualSouvenirFinalizationTests(unittest.TestCase):
         run_git.side_effect = self.git_results()
 
         result = main.finalize_manual_souvenirs(
-            {"location_id": "352061", "location_name": "Miami", "record_ids": ["coin-1"]}
+            {
+                "location_id": "352061", "location_name": "Miami",
+                "continent": "América", "country": "EUA", "city": "Miami",
+                "record_sides": ["coin-1:front"],
+            }
         )
 
         self.assertTrue(result)
@@ -44,12 +52,13 @@ class ManualSouvenirFinalizationTests(unittest.TestCase):
         apply_run = run.call_args_list[3].args[0]
         self.assertIn("update_souvenir_manifest_api.py", " ".join(dry_run))
         self.assertNotIn("--apply", dry_run)
-        self.assertIn("--record-id", dry_run)
-        self.assertIn("coin-1", dry_run)
+        self.assertIn("--record-side", dry_run)
+        self.assertIn("coin-1:front", dry_run)
         self.assertEqual(apply_run, [*dry_run, "--apply"])
         promote_run = run.call_args_list[0].args[0]
-        self.assertIn("--record-id", promote_run)
-        self.assertIn("coin-1", promote_run)
+        self.assertIn("--record-side", promote_run)
+        self.assertIn("coin-1:front", promote_run)
+        self.assertIn("--country-dir", promote_run)
         self.assertIn("--replace-existing", promote_run)
 
 

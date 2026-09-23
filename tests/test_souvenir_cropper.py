@@ -83,8 +83,9 @@ class CompletionRequestTests(unittest.TestCase):
 
         self.assertEqual(request["location_name"], "Miami")
         self.assertEqual(request["records"], 1)
-        self.assertEqual(request["machines"], 1)
+        self.assertEqual(request["photos"], 1)
         self.assertEqual(request["record_ids"], ["coin-1"])
+        self.assertEqual(request["record_sides"], ["coin-1:front"])
 
     def test_rejects_when_no_photo_is_completed(self):
         with TemporaryDirectory() as temporary:
@@ -97,8 +98,13 @@ class CompletionRequestTests(unittest.TestCase):
     def test_page_contains_the_final_send_control(self):
         self.assertIn('id="finalize-location"', PAGE)
         self.assertIn('Finalizar e enviar concluídas', PAGE)
-        self.assertIn('Não existem fotografias pendentes', PAGE)
-        self.assertIn("currentRecord.type === 'other'", PAGE)
+        self.assertIn('Não existem lados externos pendentes', PAGE)
+        self.assertIn("currentRecord.type === 'coin'", PAGE)
+        self.assertIn('id="scope"', PAGE)
+        self.assertIn('Todos com imagem', PAGE)
+        self.assertIn('id="continent"', PAGE)
+        self.assertIn('id="country"', PAGE)
+        self.assertIn('id="city"', PAGE)
         self.assertIn("Em pé — 140 × 200 px", PAGE)
 
 

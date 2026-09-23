@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Promove recortes manuais de Souvenirs para a árvore canónica do país."""
+"""Promove lados recortados de Souvenirs para a árvore canónica do país."""
 
 from __future__ import annotations
 
@@ -24,7 +24,14 @@ if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
 from scripts.sync_catalog_images_api import direct_download  # noqa: E402
-from tools.souvenir_formats import crop_size  # noqa: E402
+from tools.souvenir_formats import (  # noqa: E402
+    SIDE_FOLDERS,
+    SIDE_LINK_FIELDS,
+    SUPPORTED_SIDES,
+    crop_size,
+    display_orientation_for_crop,
+    normalize_crop_format,
+)
 
 
 def read_json(path: Path) -> dict[str, object]:
@@ -39,9 +46,30 @@ def read_json(path: Path) -> dict[str, object]:
     return data
 
 
+def normalized_task_id(key: object, entry: dict[str, object]) -> str:
+    record_id = str(entry.get("record_id") or str(key).partition(":")[0])
+    side = str(entry.get("side") or "front")
+    if side not in SUPPORTED_SIDES:
+        raise ValueError(f"{record_id}: lado inválido: {side}")
+    return f"{record_id}:{side}"
+
+
 def photo_status_key(entry: dict[str, object]) -> str:
     source_hash = sha256(str(entry.get("source_url") or "").encode()).hexdigest()[:12]
-    return f"{entry['location_id']}:machine-{entry['machine']}:{source_hash}"
+    return f"{entry['location_id']}:photo-{entry['machine']}:{source_hash}"
+
+
+def photo_is_completed(statuses: dict[str, object], entry: dict[str, object]) -> bool:
+    status = statuses.get(photo_status_key(entry))
+    if isinstance(status, dict):
+        return bool(status.get("completed"))
+    source = str(entry.get("source_url") or "")
+    return any(
+        isinstance(value, dict)
+        and value.get("completed")
+        and str(value.get("source_url") or "") == source
+        for value in statuses.values()
+    )
 
 
 def file_digest(path: Path) -> str:
@@ -112,143 +140,231 @@ def source_extension(data: bytes, source_url: str) -> str:
     return suffix if suffix in {".jpg", ".jpeg", ".png", ".gif", ".webp"} else ".img"
 
 
+def normalize_requested(values: set[str] | None) -> set[str] | None:
+    if values is None:
+        return None
+    return {value if ":" in value else f"{value}:front" for value in values}
+
+
 def load_entries(
     staging: Path,
     location_id: str,
-    record_ids: set[str] | None = None,
+    record_sides: set[str] | None = None,
 ) -> tuple[dict[str, dict[str, object]], dict[int, list[dict[str, object]]]]:
     manifest = read_json(staging / "manifest.json")
     statuses = read_json(staging / "photo-status.json")
+    requested = normalize_requested(record_sides)
     selected: dict[str, dict[str, object]] = {}
     groups: dict[int, list[dict[str, object]]] = defaultdict(list)
     filenames: dict[str, str] = {}
 
-    for record_id, raw_entry in manifest.items():
-        if (
-            not isinstance(raw_entry, dict)
-            or str(raw_entry.get("location_id")) != location_id
-            or (record_ids is not None and str(record_id) not in record_ids)
-        ):
+    for key, raw_entry in manifest.items():
+        if not isinstance(raw_entry, dict):
             continue
         entry = dict(raw_entry)
-        required = ("slug", "name", "machine", "position", "source_url", "reference_url", "file", "orientation")
+        task_id = normalized_task_id(key, entry)
+        if (
+            str(entry.get("location_id")) != location_id
+            or (requested is not None and task_id not in requested)
+        ):
+            continue
+        record_id, _, side = task_id.partition(":")
+        entry["record_id"] = record_id
+        entry["side"] = side
+        entry["task_id"] = task_id
+        entry.setdefault("type", "pressed")
+        required = (
+            "slug", "name", "type", "machine", "position", "source_url",
+            "reference_url", "file",
+        )
         missing = [field for field in required if entry.get(field) in (None, "")]
         if missing:
-            raise ValueError(f"{record_id}: campos em falta: {', '.join(missing)}")
+            raise ValueError(f"{task_id}: campos em falta: {', '.join(missing)}")
+        crop_format = normalize_crop_format(
+            entry.get("type"),
+            entry.get("format") or entry.get("orientation"),
+            entry.get("display_shape"),
+        )
+        entry["format"] = crop_format
+        entry["orientation"] = display_orientation_for_crop(
+            entry.get("type"), crop_format, entry.get("display_shape")
+        )
         source = Path(str(entry["file"]))
         if not source.is_file():
-            raise ValueError(f"{record_id}: recorte em falta: {source}")
-        expected_size = crop_size(entry.get("type") or "pressed", entry["orientation"])
+            raise ValueError(f"{task_id}: recorte em falta: {source}")
+        expected_size = crop_size(entry.get("type"), crop_format, entry.get("display_shape"))
         with Image.open(source) as image:
             if image.size != expected_size:
-                raise ValueError(f"{record_id}: tamanho {image.size}; esperado {expected_size}")
+                raise ValueError(f"{task_id}: tamanho {image.size}; esperado {expected_size}")
             image.verify()
         existing_id = filenames.get(source.name)
-        if existing_id and existing_id != record_id:
-            raise ValueError(f"Nome repetido entre {existing_id} e {record_id}: {source.name}")
-        filenames[source.name] = record_id
-        entry["record_id"] = record_id
+        if existing_id and existing_id != task_id:
+            raise ValueError(f"Nome repetido entre {existing_id} e {task_id}: {source.name}")
+        filenames[source.name] = task_id
+        if not photo_is_completed(statuses, entry):
+            raise ValueError(f"Fotografia {entry['machine']}: ainda não confirmada como completa.")
         entry["source_file"] = str(source)
-        selected[record_id] = entry
+        selected[task_id] = entry
         groups[int(entry["machine"])].append(entry)
 
     if not selected:
-        raise ValueError(f"Não existem recortes concluídos para a location {location_id}.")
-    if record_ids is not None:
-        missing_ids = sorted(record_ids - set(selected))
+        raise ValueError(f"Não existem lados concluídos para a location {location_id}.")
+    if requested is not None:
+        missing_ids = sorted(requested - set(selected))
         if missing_ids:
-            raise ValueError(f"IDs concluídos em falta no manifesto: {', '.join(missing_ids)}")
-
-    for machine, entries in groups.items():
-        sources = {str(entry["source_url"]) for entry in entries}
-        if len(sources) != 1:
-            raise ValueError(f"Máquina {machine}: foram encontrados {len(sources)} links externos.")
-        status = statuses.get(photo_status_key(entries[0]))
-        if not isinstance(status, dict) or not status.get("completed"):
-            raise ValueError(f"Máquina {machine}: fotografia ainda não confirmada como completa.")
-        entries.sort(key=lambda entry: int(entry["position"]))
-
+            raise ValueError(f"Lados pedidos em falta no manifesto: {', '.join(missing_ids)}")
+    for entries in groups.values():
+        entries.sort(key=lambda entry: (str(entry["side"]), int(entry["position"])))
     return selected, dict(sorted(groups.items()))
+
+
+def destination_for_crop(
+    country_dir: Path,
+    canonical_entry: dict[str, object],
+    entry: dict[str, object],
+) -> Path:
+    side = str(entry["side"])
+    folder = country_dir / SIDE_FOLDERS[side]
+    source = Path(str(entry["source_file"]))
+    digest = file_digest(source)
+    current_relative = str(canonical_entry.get(f"{side}_file") or "")
+    current = country_dir / current_relative if current_relative else None
+    if current is not None and current.is_file() and file_digest(current) == digest:
+        return current
+    preferred = folder / f"{entry['slug']}.jpg"
+    if not preferred.exists() or file_digest(preferred) == digest:
+        return preferred
+    return folder / f"{entry['slug']}-{digest[:8]}.jpg"
 
 
 def promote(args: argparse.Namespace) -> int:
     staging = args.staging.resolve()
     country_dir = args.country_dir.resolve()
-    entries, groups = load_entries(staging, args.location_id, set(args.record_ids) if args.record_ids else None)
-    front_dir = country_dir / "frente"
-    original_dir = country_dir / "original"
+    selections = set(args.record_sides or [])
+    selections.update(f"{record_id}:front" for record_id in (args.record_ids or []))
+    entries, groups = load_entries(
+        staging, args.location_id, selections if selections else None
+    )
+    canonical_path = country_dir / "recortes-manifest.json"
+    canonical_manifest = read_json(canonical_path) if canonical_path.is_file() else {}
 
-    for entry in entries.values():
-        source = Path(str(entry["source_file"]))
-        destination = front_dir / source.name
-        if (
-            destination.exists()
-            and file_digest(destination) != file_digest(source)
-            and not args.replace_existing
-        ):
-            raise ValueError(
-                f"Colisão com conteúdo diferente: {destination}. "
-                "Usa --replace-existing apenas para substituir uma imagem automática pelo recorte confirmado."
-            )
+    destinations: dict[str, Path] = {}
+    for task_id, entry in entries.items():
+        existing = canonical_manifest.get(str(entry["record_id"]))
+        canonical_entry = existing if isinstance(existing, dict) else {}
+        destinations[task_id] = destination_for_crop(country_dir, canonical_entry, entry)
 
-    print(f"Location {args.location_id}: {len(entries)} recortes em {len(groups)} fotografias.")
-    print("Todas as fotografias estão confirmadas e os recortes têm dimensões válidas.")
+    print(
+        f"Location {args.location_id}: {len(entries)} lados de "
+        f"{len({str(entry['record_id']) for entry in entries.values()})} Souvenirs "
+        f"em {len(groups)} fotografias."
+    )
+    print("Todas as fotografias selecionadas estão confirmadas e os recortes têm dimensões válidas.")
     if not args.apply:
+        for task_id, destination in destinations.items():
+            print(f"- {task_id} -> {destination.relative_to(ROOT)}")
         print("Verificação concluída. Usa --apply para promover os ficheiros.")
         return 0
 
-    downloads: dict[int, tuple[bytes, str, str]] = {}
-    for machine, machine_entries in groups.items():
-        entry = machine_entries[0]
-        source_url = str(entry["source_url"])
-        data = direct_download(source_url, str(entry["reference_url"]))
-        extension = source_extension(data, source_url)
-        filename = f"location-{args.location_id}-machine-{machine}{extension}"
-        destination = original_dir / filename
+    downloads: dict[tuple[int, str, str], tuple[bytes, str]] = {}
+    safe_location = args.location_id.replace("/", "-").replace("\\", "-")
+    for entry in entries.values():
+        key = (int(entry["machine"]), str(entry["side"]), str(entry["source_url"]))
+        if key in downloads:
+            continue
+        data = direct_download(str(entry["source_url"]), str(entry["reference_url"]))
+        extension = source_extension(data, str(entry["source_url"]))
+        digest = sha256(data).hexdigest()[:8]
+        base = f"location-{safe_location}-photo-{entry['machine']}-{entry['side']}"
+        destination = country_dir / "original" / f"{base}{extension}"
         if destination.exists() and sha256(destination.read_bytes()).digest() != sha256(data).digest():
-            raise ValueError(f"Colisão com conteúdo diferente: {destination}")
-        downloads[machine] = (data, filename, source_url)
+            destination = country_dir / "original" / f"{base}-{digest}{extension}"
+        downloads[key] = (data, destination.name)
 
-    country_relative = country_dir.relative_to(ROOT).as_posix()
     internal_links = parse_links(country_dir / "links-internos.txt")
     external_links = parse_links(country_dir / "links-externos.txt")
-    canonical_manifest_path = country_dir / "recortes-manifest.json"
-    canonical_manifest = read_json(canonical_manifest_path) if canonical_manifest_path.is_file() else {}
-
-    front_dir.mkdir(parents=True, exist_ok=True)
-    original_dir.mkdir(parents=True, exist_ok=True)
-    for machine, (data, filename, _) in downloads.items():
-        destination = original_dir / filename
+    country_relative = country_dir.relative_to(ROOT).as_posix()
+    (country_dir / "original").mkdir(parents=True, exist_ok=True)
+    for data, filename in downloads.values():
+        destination = country_dir / "original" / filename
         if not destination.exists():
             destination.write_bytes(data)
 
-    for record_id, entry in entries.items():
-        source = Path(str(entry.pop("source_file")))
-        entry.pop("file", None)
-        destination = front_dir / source.name
-        if args.replace_existing or not destination.exists():
+    for task_id, entry in entries.items():
+        source = Path(str(entry["source_file"]))
+        destination = destinations[task_id]
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        if not destination.exists() or file_digest(destination) != file_digest(source):
             shutil.copy2(source, destination)
-        internal_url = f"{args.raw_base_url.rstrip('/')}/{country_relative}/frente/{destination.name}"
+        side = str(entry["side"])
+        record_id = str(entry["record_id"])
+        link_field = SIDE_LINK_FIELDS[side]
+        internal_url = (
+            f"{args.raw_base_url.rstrip('/')}/{country_relative}/"
+            f"{SIDE_FOLDERS[side]}/{destination.name}"
+        )
         source_url = str(entry["source_url"])
         slug = str(entry["slug"])
-        internal_links.setdefault(slug, {})["frente"] = internal_url
-        external_links.setdefault(slug, {})["frente"] = source_url
-        original_filename = downloads[int(entry["machine"])][1]
-        canonical_manifest[record_id] = {
-            **entry,
-            "front_file": f"frente/{destination.name}",
-            "original_file": f"original/{original_filename}",
-            "internal_front": internal_url,
-            "external_front": source_url,
-        }
+        internal_links.setdefault(slug, {})[link_field] = internal_url
+
+        raw_existing = canonical_manifest.get(record_id)
+        canonical = dict(raw_existing) if isinstance(raw_existing, dict) else {}
+        previous_external = str(canonical.get(f"external_{side}") or "")
+        if not source_url.startswith(args.raw_base_url.rstrip("/") + "/"):
+            previous_external = source_url
+            external_links.setdefault(slug, {})[link_field] = source_url
+        elif previous_external:
+            external_links.setdefault(slug, {})[link_field] = previous_external
+
+        download_key = (int(entry["machine"]), side, source_url)
+        original_filename = downloads[download_key][1]
+        common_keys = (
+            "name", "type", "display_shape", "slug", "continent", "country", "city",
+            "location_id", "location_name", "reference_url",
+        )
+        for field in common_keys:
+            if field in entry:
+                canonical[field] = entry[field]
+        canonical.update({
+            f"{side}_file": f"{SIDE_FOLDERS[side]}/{destination.name}",
+            f"internal_{side}": internal_url,
+            f"external_{side}": previous_external,
+            f"previous_{side}": source_url,
+            f"original_{side}": f"original/{original_filename}",
+            f"{side}_format": entry["format"],
+            f"{side}_orientation": entry["orientation"],
+            f"{side}_crop": entry.get("crop"),
+            f"{side}_padding": entry.get("padding"),
+            f"{side}_cleaned": entry.get("cleaned"),
+            f"{side}_centered": entry.get("centered"),
+        })
+        if side == "front":
+            canonical.update({
+                "source_url": source_url,
+                "front_file": f"frente/{destination.name}",
+                "internal_front": internal_url,
+                "external_front": previous_external,
+                "original_file": f"original/{original_filename}",
+                "orientation": entry["orientation"],
+                "format": entry["format"],
+                "machine": entry["machine"],
+                "position": entry["position"],
+                "crop": entry.get("crop"),
+                "padding": entry.get("padding"),
+                "cleaned": entry.get("cleaned"),
+                "centered": entry.get("centered"),
+            })
+        elif "orientation" not in canonical:
+            canonical["orientation"] = entry["orientation"]
+        canonical_manifest[record_id] = canonical
 
     atomic_write(country_dir / "links-internos.txt", render_links(internal_links))
     atomic_write(country_dir / "links-externos.txt", render_links(external_links))
     atomic_write(
-        canonical_manifest_path,
+        canonical_path,
         json.dumps(canonical_manifest, ensure_ascii=False, indent=2, sort_keys=True) + "\n",
     )
-    print(f"Promovidos: {len(entries)} recortes, {len(downloads)} originais.")
+    print(f"Promovidos: {len(entries)} lados, {len(downloads)} originais.")
     print(f"Destino: {country_dir}")
     return 0
 
@@ -258,12 +374,18 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--staging", type=Path, default=DEFAULT_STAGING)
     parser.add_argument("--country-dir", type=Path, default=DEFAULT_COUNTRY_DIR)
     parser.add_argument("--location-id", default="1851")
-    parser.add_argument("--record-id", action="append", dest="record_ids", help="Limita a promoção a um ID concluído; pode repetir-se.")
+    parser.add_argument(
+        "--record-side", action="append", dest="record_sides",
+        help="Limita a promoção a ID:front ou ID:back; pode repetir-se.",
+    )
+    parser.add_argument(
+        "--record-id", action="append", dest="record_ids",
+        help="Compatibilidade: seleciona a frente do ID indicado.",
+    )
     parser.add_argument("--raw-base-url", default=DEFAULT_RAW_BASE_URL)
     parser.add_argument(
-        "--replace-existing",
-        action="store_true",
-        help="Substitui uma imagem existente pelo recorte explicitamente selecionado.",
+        "--replace-existing", action="store_true",
+        help="Mantido por compatibilidade; substituições usam URL com hash quando necessário.",
     )
     parser.add_argument("--apply", action="store_true", help="Copia os ficheiros e atualiza manifests/links.")
     return parser.parse_args()

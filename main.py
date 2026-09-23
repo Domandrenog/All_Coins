@@ -16,7 +16,7 @@ from urllib.error import URLError
 from urllib.parse import quote
 from urllib.request import Request, urlopen
 
-from scripts.sync_coin_images_api import country_folder, run_git
+from scripts.sync_coin_images_api import continent_folder, country_folder, run_git
 
 
 ROOT = Path(__file__).resolve().parent
@@ -28,7 +28,6 @@ CATALOG_CHECK_SCRIPT = SCRIPTS / "check_catalog_links_api.py"
 SOUVENIR_CROPPER_SCRIPT = ROOT / "tools" / "souvenir_cropper.py"
 SOUVENIR_PROMOTE_SCRIPT = ROOT / "tools" / "promote_souvenir_crops.py"
 SOUVENIR_UPDATE_SCRIPT = ROOT / "tools" / "update_souvenir_manifest_api.py"
-SOUVENIR_COUNTRY_DIR = ROOT / "fotos" / "paises" / "America" / "EUA" / "souvenir"
 
 CATALOG_LABELS = {
     "normal": "Moedas normais",
@@ -438,41 +437,71 @@ def worktree_has_only_country_changes(countries: list[str], catalog: str) -> boo
     return True
 
 
-def worktree_has_only_souvenir_location_changes(
+def souvenir_country_dir(continent: str, country: str) -> Path:
+    return (
+        ROOT
+        / "fotos"
+        / "paises"
+        / continent_folder(continent)
+        / country_folder(country, None)
+        / "souvenir"
+    )
+
+
+def normalized_staging_entries(
     location_id: str,
-    record_ids: set[str],
-) -> bool:
+    record_sides: set[str],
+) -> list[dict[str, object]]:
     staging_manifest = ROOT / "recortes_souvenir_teste" / "manifest.json"
     try:
         staging = json.loads(staging_manifest.read_text(encoding="utf-8"))
     except (OSError, json.JSONDecodeError) as exc:
-        print(f"Não foi possível delimitar os ficheiros concluídos: {exc}")
+        raise ValueError(f"Não foi possível delimitar os lados concluídos: {exc}") from exc
+    entries: list[dict[str, object]] = []
+    found: set[str] = set()
+    for key, raw_entry in staging.items():
+        if not isinstance(raw_entry, dict):
+            continue
+        entry = dict(raw_entry)
+        record_id = str(entry.get("record_id") or str(key).partition(":")[0])
+        side = str(entry.get("side") or "front")
+        task_id = f"{record_id}:{side}"
+        if task_id not in record_sides or str(entry.get("location_id")) != location_id:
+            continue
+        entry["record_id"] = record_id
+        entry["side"] = side
+        entry["task_id"] = task_id
+        entries.append(entry)
+        found.add(task_id)
+    missing = sorted(record_sides - found)
+    if missing:
+        raise ValueError(f"O manifesto de preparação não contém: {', '.join(missing)}")
+    return entries
+
+
+def worktree_has_only_souvenir_location_changes(
+    location_id: str,
+    record_sides: set[str],
+    country_dir: Path,
+) -> bool:
+    try:
+        entries = normalized_staging_entries(location_id, record_sides)
+    except ValueError as exc:
+        print(exc)
         return False
-    entries = [
-        entry
-        for record_id, entry in staging.items()
-        if str(record_id) in record_ids
-        and isinstance(entry, dict)
-        and str(entry.get("location_id")) == location_id
-    ]
-    if len(entries) != len(record_ids):
-        print("O manifesto de preparação já não contém todos os IDs concluídos.")
-        return False
-    root = SOUVENIR_COUNTRY_DIR.relative_to(ROOT)
+    root = country_dir.relative_to(ROOT)
     allowed = {
         (root / "links-internos.txt").as_posix(),
         (root / "links-externos.txt").as_posix(),
         (root / "recortes-manifest.json").as_posix(),
     }
-    allowed.update(
-        (root / "frente" / Path(str(entry.get("file") or "")).name).as_posix()
-        for entry in entries
-    )
-    machines = {int(entry.get("machine") or 0) for entry in entries}
-    original_prefixes = [
-        (root / "original" / f"location-{location_id}-machine-{machine}").as_posix()
-        for machine in machines
-    ]
+    allowed_prefixes: list[str] = []
+    for entry in entries:
+        side_folder = "frente" if entry["side"] == "front" else "tras"
+        slug = str(entry.get("slug") or "")
+        allowed_prefixes.append((root / side_folder / slug).as_posix())
+        safe_location = location_id.replace("/", "-").replace("\\", "-")
+        allowed_prefixes.append((root / "original" / f"location-{safe_location}-").as_posix())
     result = subprocess.run(
         ["git", "status", "--porcelain"], cwd=ROOT, capture_output=True, text=True
     )
@@ -485,41 +514,43 @@ def worktree_has_only_souvenir_location_changes(
         for item in changed
         if item not in allowed
         and not any(
-            item.startswith(f"{prefix}.")
+            item.startswith(prefix)
             and Path(item).suffix.lower() in {".jpg", ".jpeg", ".png", ".gif", ".webp"}
-            for prefix in original_prefixes
+            for prefix in allowed_prefixes
         )
     ]
     if unexpected:
-        print("Existem alterações fora das fotografias concluídas:")
+        print("Existem alterações fora dos lados concluídos:")
         for item in unexpected:
             print(f"- {item}")
         return False
     return True
 
 
-def verify_souvenir_raw_images(record_ids: list[str], commit_sha: str) -> bool:
-    manifest_path = SOUVENIR_COUNTRY_DIR / "recortes-manifest.json"
+def verify_souvenir_raw_images(
+    record_sides: list[str], country_dir: Path, commit_sha: str
+) -> bool:
+    manifest_path = country_dir / "recortes-manifest.json"
     try:
         manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
     except (OSError, json.JSONDecodeError) as exc:
         print(f"Não foi possível verificar o manifesto promovido: {exc}")
         return False
-    entries = [
-        manifest[record_id]
-        for record_id in record_ids
-        if isinstance(manifest.get(record_id), dict)
-    ]
-    if len(entries) != len(record_ids):
-        print("O manifesto promovido não contém todos os IDs concluídos.")
-        return False
-    print(f"\nA verificar {len(entries)} imagens publicadas no GitHub raw...")
-    for index, entry in enumerate(entries, 1):
-        relative = str(entry.get("front_file") or "")
-        url = str(entry.get("internal_front") or "")
-        local = SOUVENIR_COUNTRY_DIR / relative
+    targets: list[tuple[str, dict[str, object], str]] = []
+    for task_id in record_sides:
+        record_id, _, side = task_id.partition(":")
+        entry = manifest.get(record_id)
+        if side not in {"front", "back"} or not isinstance(entry, dict):
+            print(f"O manifesto promovido não contém {task_id}.")
+            return False
+        targets.append((task_id, entry, side))
+    print(f"\nA verificar {len(targets)} lados publicados no GitHub raw...")
+    for index, (task_id, entry, side) in enumerate(targets, 1):
+        relative = str(entry.get(f"{side}_file") or "")
+        url = str(entry.get(f"internal_{side}") or "")
+        local = country_dir / relative
         if not local.is_file() or not url.startswith("https://raw.githubusercontent.com/"):
-            print(f"Imagem promovida inválida: {relative or url}")
+            print(f"Imagem promovida inválida em {task_id}: {relative or url}")
             return False
         expected = sha256(local.read_bytes()).hexdigest()
         separator = "&" if "?" in url else "?"
@@ -540,44 +571,56 @@ def verify_souvenir_raw_images(record_ids: list[str], commit_sha: str) -> bool:
             if attempt < 5:
                 time.sleep(2)
         if not verified:
-            print(f"A imagem publicada ainda não corresponde ao ficheiro local: {url}")
+            print(f"O lado publicado ainda não corresponde ao ficheiro local: {url}")
             return False
-        print(f"✓ [{index}/{len(entries)}] {Path(relative).name}")
+        print(f"✓ [{index}/{len(targets)}] {task_id} — {Path(relative).name}")
     return True
 
 
 def finalize_manual_souvenirs(request: dict[str, object]) -> bool:
     location_id = str(request.get("location_id") or "")
-    location_name = str(request.get("location_name") or f"location {location_id}")
-    raw_record_ids = request.get("record_ids")
-    record_ids = (
-        list(dict.fromkeys(str(record_id) for record_id in raw_record_ids if record_id))
-        if isinstance(raw_record_ids, list)
-        else []
-    )
-    if not location_id or not record_ids:
-        print("O recortador não indicou fotografias concluídas para enviar.")
+    location_name = str(request.get("location_name") or "(sem location)")
+    continent = str(request.get("continent") or "")
+    country = str(request.get("country") or "")
+    raw_record_sides = request.get("record_sides")
+    if isinstance(raw_record_sides, list):
+        record_sides = list(dict.fromkeys(str(value) for value in raw_record_sides if value))
+    else:
+        raw_record_ids = request.get("record_ids")
+        record_sides = (
+            [f"{record_id}:front" for record_id in dict.fromkeys(
+                str(value) for value in raw_record_ids if value
+            )]
+            if isinstance(raw_record_ids, list)
+            else []
+        )
+    if not location_id or not continent or not country or not record_sides:
+        print("O recortador não indicou lados concluídos com país e continente válidos.")
         return False
-    coin_word = "moeda" if len(record_ids) == 1 else "moedas"
+    country_dir = souvenir_country_dir(continent, country)
+    record_ids = {value.partition(":")[0] for value in record_sides}
     print(
-        f"\n===== Enviar Souvenirs concluídos: {location_name} "
-        f"({len(record_ids)} {coin_word}) ====="
+        f"\n===== Enviar Souvenirs concluídos: {continent} · {country} · "
+        f"{request.get('city') or '(sem cidade)'} · {location_name} "
+        f"({len(record_ids)} Souvenirs / {len(record_sides)} lados) ====="
     )
-    selected_ids = set(record_ids)
-    if not worktree_has_only_souvenir_location_changes(location_id, selected_ids):
+    selected = set(record_sides)
+    if not worktree_has_only_souvenir_location_changes(location_id, selected, country_dir):
         print("Os recortes continuam guardados e podem ser finalizados depois.")
         return False
-    record_arguments = [
+    side_arguments = [
         argument
-        for record_id in record_ids
-        for argument in ("--record-id", record_id)
+        for task_id in record_sides
+        for argument in ("--record-side", task_id)
     ]
     base_command = [
         sys.executable,
         str(SOUVENIR_PROMOTE_SCRIPT),
+        "--country-dir",
+        str(country_dir),
         "--location-id",
         location_id,
-        *record_arguments,
+        *side_arguments,
         "--replace-existing",
     ]
     if not run(base_command):
@@ -586,20 +629,20 @@ def finalize_manual_souvenirs(request: dict[str, object]) -> bool:
     if not run([*base_command, "--apply"]):
         print("A promoção falhou; a Base44 não foi alterada.")
         return False
-    if not worktree_has_only_souvenir_location_changes(location_id, selected_ids):
-        print("A promoção criou alterações fora das fotografias concluídas; publicação interrompida.")
+    if not worktree_has_only_souvenir_location_changes(location_id, selected, country_dir):
+        print("A promoção criou alterações fora dos lados concluídos; publicação interrompida.")
         return False
     try:
         status = run_git(["status", "--porcelain"])
         if status:
-            relative = SOUVENIR_COUNTRY_DIR.relative_to(ROOT).as_posix()
+            relative = country_dir.relative_to(ROOT).as_posix()
             print(f"\nGit: add {relative}")
             run_git(["add", "--", relative])
-            message = f"Add {location_name} completed souvenir images"
+            message = f"Add {location_name} completed souvenir sides"
             print(f"Git: commit -m {message!r}")
             run_git(["commit", "-m", message])
         else:
-            print("Git: as fotografias concluídas já estavam guardadas num commit.")
+            print("Git: os lados concluídos já estavam guardados num commit.")
         print("Git: push")
         run_git(["push"])
         local_sha = run_git(["rev-parse", "HEAD"]).strip()
@@ -614,15 +657,17 @@ def finalize_manual_souvenirs(request: dict[str, object]) -> bool:
         print("A Base44 não foi alterada.")
         return False
     print(f"Git: publicação confirmada em {local_sha[:12]}.")
-    if not verify_souvenir_raw_images(record_ids, local_sha):
+    if not verify_souvenir_raw_images(record_sides, country_dir, local_sha):
         print("A Base44 não foi alterada; repete o envio quando os ficheiros estiverem disponíveis.")
         return False
     update_command = [
         sys.executable,
         str(SOUVENIR_UPDATE_SCRIPT),
+        "--manifest",
+        str(country_dir / "recortes-manifest.json"),
         "--location-id",
         location_id,
-        *record_arguments,
+        *side_arguments,
     ]
     if not run(update_command):
         print("A pré-verificação da Base44 falhou; nenhuma atualização foi enviada.")
@@ -630,13 +675,11 @@ def finalize_manual_souvenirs(request: dict[str, object]) -> bool:
     if not run([*update_command, "--apply"]):
         print("A atualização da Base44 falhou. Consulta o resultado acima antes de repetir.")
         return False
-    verb = "foi publicada e verificada" if len(record_ids) == 1 else "foram publicadas e verificadas"
     print(
-        f"\nEnvio concluído: {len(record_ids)} {coin_word} de {location_name} "
-        f"{verb} na Base44."
+        f"\nEnvio concluído: {len(record_sides)} lados de {len(record_ids)} Souvenirs "
+        f"foram publicados e verificados na Base44."
     )
     return True
-
 
 def process_countries(
     countries: list[str], mode: str, catalog: str, record_type: str | None = None

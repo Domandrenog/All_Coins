@@ -34,8 +34,12 @@ if str(ROOT) not in sys.path:
 
 from scripts.sync_catalog_images_api import direct_download, unique_record_slugs  # noqa: E402
 from tools.souvenir_formats import (  # noqa: E402
+    SIDE_FIELDS,
+    SUPPORTED_SIDES,
     SUPPORTED_SOUVENIR_TYPES,
     crop_size,
+    display_orientation_for_crop,
+    normalize_crop_format,
 )
 from scripts.sync_coin_images_api import (  # noqa: E402
     API_KEY_ENV,
@@ -95,7 +99,7 @@ PAGE = r"""<!doctype html>
 <body>
 <main>
   <h1>Recortador de Souvenirs</h1>
-  <p class="hint">Escolhe uma location e recorta a moeda indicada. Também podes colar outra montagem com Ctrl+V.</p>
+  <p class="hint">Filtra por continente, país, cidade e location. Recorta cada frente ou verso indicado; também podes colar outra montagem com Ctrl+V.</p>
   <div class="layout">
     <section class="panel">
       <div id="photo-progress" class="photo-progress">
@@ -112,18 +116,29 @@ PAGE = r"""<!doctype html>
       <div id="saved" class="saved"></div>
     </section>
     <aside class="panel">
-      <label for="location">Location</label>
-      <select id="location">
-        <option value="">A carregar locations…</option>
+      <label for="scope">Estado</label>
+      <select id="scope">
+        <option value="pending">Por tratar</option>
+        <option value="all">Todos com imagem</option>
       </select>
-      <label for="machine">Fotografia / máquina</label>
+      <label for="continent">Continente</label>
+      <select id="continent"><option value="">A carregar…</option></select>
+      <label for="country">País</label>
+      <select id="country" disabled><option value="">Escolhe um continente…</option></select>
+      <label for="city">Cidade</label>
+      <select id="city" disabled><option value="">Escolhe um país…</option></select>
+      <label for="location">Location</label>
+      <select id="location" disabled>
+        <option value="">Escolhe uma cidade…</option>
+      </select>
+      <label for="machine">Fotografia / lado</label>
       <select id="machine" disabled>
         <option value="">Escolhe primeiro uma location</option>
       </select>
       <div id="assignment" class="status assignment">Escolhe uma location para começar.</div>
       <hr>
       <strong>Recorte selecionado</strong>
-      <div id="coords" class="status">Ainda não selecionaste uma moeda.</div>
+      <div id="coords" class="status">Ainda não selecionaste um souvenir.</div>
       <label for="orientation">Formato final</label>
       <select id="orientation">
         <option value="landscape">Deitada — 200 × 115 px</option>
@@ -131,7 +146,7 @@ PAGE = r"""<!doctype html>
       </select>
       <label for="padding">Margem adicional (px)</label>
       <input id="padding" type="number" min="0" max="100" value="4">
-      <label class="check"><input id="cleanup" type="checkbox" checked><span>Limpar resíduos das bordas e centrar a moeda no recorte</span></label>
+      <label class="check"><input id="cleanup" type="checkbox" checked><span>Limpar resíduos das bordas e centrar o elemento principal</span></label>
       <button id="save" disabled>Guardar recorte</button>
       <button id="clear" class="secondary" disabled>Limpar seleção</button>
       <hr>
@@ -156,6 +171,10 @@ const paddingInput = document.querySelector('#padding');
 const orientationInput = document.querySelector('#orientation');
 const cleanupInput = document.querySelector('#cleanup');
 const saved = document.querySelector('#saved');
+const scopeInput = document.querySelector('#scope');
+const continentInput = document.querySelector('#continent');
+const countryInput = document.querySelector('#country');
+const cityInput = document.querySelector('#city');
 const locationInput = document.querySelector('#location');
 const assignment = document.querySelector('#assignment');
 const photoProgress = document.querySelector('#photo-progress');
@@ -165,6 +184,7 @@ const completePhotoButton = document.querySelector('#complete-photo');
 const finalizeStatus = document.querySelector('#location-finalize');
 const finalizeButton = document.querySelector('#finalize-location');
 let pipelineEnabled = false;
+let locations = [];
 let records = [];
 let currentRecord = null;
 let currentIndex = -1;
@@ -177,19 +197,24 @@ let selection = null;
 let start = null;
 
 function targetSize() {
-  const isOther = currentRecord && currentRecord.type === 'other';
-  if (isOther) {
-    return orientationInput.value === 'portrait' ? {width:140, height:200} : {width:200, height:140};
+  if (orientationInput.value === 'square') return {width:140, height:140};
+  if (currentRecord && currentRecord.type === 'pressed') {
+    return orientationInput.value === 'portrait' ? {width:80, height:140} : {width:200, height:115};
   }
-  return orientationInput.value === 'portrait' ? {width:80, height:140} : {width:200, height:115};
+  return orientationInput.value === 'portrait' ? {width:140, height:200} : {width:200, height:140};
 }
 
-function updateFormatLabels() {
-  const isOther = currentRecord && currentRecord.type === 'other';
-  const landscape = orientationInput.querySelector('option[value="landscape"]');
-  const portrait = orientationInput.querySelector('option[value="portrait"]');
-  landscape.textContent = isOther ? 'Deitada — 200 × 140 px' : 'Deitada — 200 × 115 px';
-  portrait.textContent = isOther ? 'Em pé — 140 × 200 px' : 'Em pé — 80 × 140 px';
+function updateFormatOptions() {
+  if (!currentRecord) return;
+  const square = currentRecord.type === 'coin' || ['circle', 'square'].includes(currentRecord.display_shape);
+  if (square) {
+    orientationInput.innerHTML = '<option value="square">Quadrado — 140 × 140 px</option>';
+  } else if (currentRecord.type === 'pressed') {
+    orientationInput.innerHTML = '<option value="landscape">Deitada — 200 × 115 px</option><option value="portrait">Em pé — 80 × 140 px</option>';
+  } else {
+    orientationInput.innerHTML = '<option value="landscape">Deitada — 200 × 140 px</option><option value="portrait">Em pé — 140 × 200 px</option>';
+  }
+  orientationInput.value = currentRecord.format;
 }
 
 function fixedSelection(origin, current) {
@@ -246,7 +271,7 @@ function updateSelection() {
   clearButton.disabled = !selection;
   coords.textContent = valid
     ? `x=${Math.round(selection.x)}, y=${Math.round(selection.y)}\nSeleção: ${Math.round(selection.width)} × ${Math.round(selection.height)} px\nSaída: ${targetSize().width} × ${targetSize().height} px`
-    : 'Ainda não selecionaste uma moeda.';
+    : 'Ainda não selecionaste um souvenir.';
 }
 
 async function loadBlob(blob, suggestedName='') {
@@ -282,7 +307,8 @@ function machineLabel(machine) {
   const items = recordsForMachine(machine);
   const prepared = items.filter(record => record.prepared).length;
   const completed = items.length > 0 && items.every(record => record.photo_completed);
-  return `Máquina ${machine} · ${prepared}/${items.length} recortes${completed ? ' · completa' : ''}`;
+  const label = items[0]?.photo_label || `Fotografia ${machine}`;
+  return `${label} · ${prepared}/${items.length} recortes${completed ? ' · completa' : ''}`;
 }
 
 function updateLocationProgress() {
@@ -300,9 +326,9 @@ function updateLocationProgress() {
   }
   finalizeButton.disabled = false;
   if (completedRecords.length) {
-    const coinWord = completedRecords.length === 1 ? 'moeda' : 'moedas';
+    const sideWord = completedRecords.length === 1 ? 'lado' : 'lados';
     const photoWord = completedMachines.size === 1 ? 'fotografia concluída' : 'fotografias concluídas';
-    finalizeStatus.textContent = `${completedRecords.length} ${coinWord} em ${completedMachines.size} ${photoWord} serão enviadas. As restantes ficam guardadas para depois.`;
+    finalizeStatus.textContent = `${completedRecords.length} ${sideWord} em ${completedMachines.size} ${photoWord} serão enviados. Os restantes ficam guardados para depois.`;
     return;
   }
   finalizeStatus.textContent = 'Ainda não marcaste nenhuma fotografia como concluída. Os recortes em curso não serão enviados.';
@@ -321,7 +347,7 @@ function updatePhotoProgress() {
   }
   const prepared = items.filter(record => record.prepared).length;
   const completed = items.every(record => record.photo_completed);
-  photoCount.textContent = `${prepared}/${items.length} recortes preparados · Máquina ${currentMachine}`;
+  photoCount.textContent = `${prepared}/${items.length} recortes preparados · ${items[0]?.photo_label || `Fotografia ${currentMachine}`}`;
   if (completed) {
     photoProgress.className = 'photo-progress complete';
     photoState.textContent = 'Fotografia completa';
@@ -369,11 +395,13 @@ function renderMachineGallery() {
       }
       const details = document.createElement('div');
       const name = document.createElement('strong');
-      name.textContent = record.name;
+      const side = record.side === 'back' ? 'Verso' : 'Frente';
+      name.textContent = `${record.name} · ${side}`;
       const state = document.createElement('small');
       state.className = 'coin-state';
-      const orientation = record.orientation === 'portrait' ? 'Em pé' : 'Deitada';
-      state.textContent = `Posição ${record.position} · ${orientation} · ${record.prepared ? 'Preparado' : 'Por recortar'}`;
+      const formatLabel = record.format === 'square' ? 'Quadrado' : (record.format === 'portrait' ? 'Em pé' : 'Deitada');
+      const progressLabel = record.prepared ? 'Preparado' : (record.internal ? 'Já interno · pode ser revisto' : 'Por recortar');
+      state.textContent = `${record.type} · Posição ${record.position} · ${formatLabel} · ${progressLabel}`;
       details.append(name, state);
       article.append(thumbnail, details);
       article.onclick = () => selectRecord(index).catch(showError);
@@ -398,7 +426,7 @@ function displayRecordImage(blob, sourceResult) {
     selection = null;
     draw();
     updateSelection();
-    statusBox.textContent = 'Fotografia da máquina carregada. Seleciona a moeda indicada.';
+    statusBox.textContent = 'Fotografia carregada. Seleciona o souvenir indicado.';
   };
   image.src = URL.createObjectURL(blob);
 }
@@ -408,9 +436,8 @@ async function selectRecord(index) {
   currentIndex = index;
   currentRecord = records[index];
   currentMachine = currentRecord.machine;
-  orientationInput.value = currentRecord.orientation;
-  cleanupInput.checked = currentRecord.type === 'pressed';
-  updateFormatLabels();
+  cleanupInput.checked = ['pressed', 'coin'].includes(currentRecord.type);
+  updateFormatOptions();
   selection = null;
   draw();
   updateSelection();
@@ -418,14 +445,14 @@ async function selectRecord(index) {
   const machineItems = recordsForMachine(currentMachine);
   const numberInMachine = machineItems.findIndex(record => record.id === currentRecord.id) + 1;
   assignment.textContent =
-    `Recorta este souvenir:\n${currentRecord.name}\nMáquina ${currentRecord.machine} · Posição ${currentRecord.position}\n` +
+    `Recorta este souvenir · ${currentRecord.side === 'back' ? 'Verso' : 'Frente'}:\n${currentRecord.name}\nTipo: ${currentRecord.type} · Formato: ${currentRecord.format}\n${currentRecord.photo_label} · Posição ${currentRecord.position}\n` +
     `Nesta fotografia: ${numberInMachine}/${machineItems.length}`;
-  statusBox.textContent = 'A carregar a fotografia desta máquina…';
-  const response = await fetch(`/api/record-source/${currentRecord.id}`);
+  statusBox.textContent = 'A carregar a fotografia deste lado…';
+  const response = await fetch(`/api/record-source/${encodeURIComponent(currentRecord.id)}`);
   const result = await response.json();
   if (!response.ok) throw new Error(result.error || 'Não foi possível carregar a fotografia da máquina.');
   if (sourceId === result.source_id && image.complete && image.naturalWidth) {
-    statusBox.textContent = 'Fotografia da máquina carregada. Seleciona a moeda indicada.';
+    statusBox.textContent = 'Fotografia carregada. Seleciona o souvenir indicado.';
     return;
   }
   const imageResponse = await fetch(result.url);
@@ -456,8 +483,8 @@ async function loadLocation(locationId) {
     updatePhotoProgress();
     return;
   }
-  assignment.textContent = 'A carregar as moedas desta location…';
-  const response = await fetch(`/api/location-records?location=${encodeURIComponent(locationId)}`);
+  assignment.textContent = 'A carregar os lados desta location…';
+  const response = await fetch(`/api/location-records?location=${encodeURIComponent(locationId)}&scope=${encodeURIComponent(scopeInput.value)}`);
   const result = await response.json();
   if (!response.ok) throw new Error(result.error || 'Não foi possível carregar a location.');
   records = result.records || [];
@@ -471,7 +498,7 @@ async function loadLocation(locationId) {
   });
   machineInput.disabled = machines.length === 0;
   if (!machines.length) {
-    assignment.textContent = 'Esta location não tem moedas externas pendentes.';
+    assignment.textContent = 'Esta location não tem lados externos pendentes.';
     saved.innerHTML = '';
     updatePhotoProgress();
     return;
@@ -482,32 +509,109 @@ async function loadLocation(locationId) {
   await selectMachine(firstMachine);
 }
 
-async function loadLocations() {
-  const response = await fetch('/api/locations');
-  const result = await response.json();
-  if (!response.ok) throw new Error(result.error || 'Não foi possível consultar as locations.');
-  const locations = result.locations || [];
+function uniqueValues(items, field) {
+  return [...new Set(items.map(item => item[field]))].sort((a, b) => a.localeCompare(b, 'pt'));
+}
+
+function fillSelect(select, values, placeholder) {
+  select.innerHTML = '';
+  const empty = document.createElement('option');
+  empty.value = '';
+  empty.textContent = placeholder;
+  select.appendChild(empty);
+  values.forEach(value => {
+    const option = document.createElement('option');
+    option.value = value;
+    option.textContent = value;
+    select.appendChild(option);
+  });
+  select.disabled = values.length === 0;
+}
+
+function locationsAtCurrentLevel() {
+  return locations.filter(location =>
+    (!continentInput.value || location.continent === continentInput.value) &&
+    (!countryInput.value || location.country === countryInput.value) &&
+    (!cityInput.value || location.city === cityInput.value)
+  );
+}
+
+function updateLocations() {
+  const matches = locationsAtCurrentLevel();
   locationInput.innerHTML = '<option value="">Escolhe uma location…</option>';
-  locations.forEach(location => {
+  matches.forEach(location => {
     const option = document.createElement('option');
     option.value = location.id;
-    option.textContent =
-      `${location.name} · location ${location.id} · ${location.count} moedas / ${location.machines} montagens`;
+    option.textContent = `${location.name} · ${location.count} souvenirs / ${location.sides} lados / ${location.photos} fotografias`;
     locationInput.appendChild(option);
   });
+  locationInput.disabled = matches.length === 0;
+  if (matches.length === 1) {
+    locationInput.value = matches[0].id;
+    loadLocation(matches[0].id).catch(showError);
+  } else {
+    loadLocation('').catch(showError);
+  }
+}
+
+function updateCities() {
+  const matches = locations.filter(location =>
+    location.continent === continentInput.value && location.country === countryInput.value
+  );
+  const values = uniqueValues(matches, 'city');
+  fillSelect(cityInput, values, 'Escolhe uma cidade…');
+  locationInput.innerHTML = '<option value="">Escolhe uma cidade…</option>';
+  locationInput.disabled = true;
+  if (values.length === 1) {
+    cityInput.value = values[0];
+    updateLocations();
+  } else {
+    loadLocation('').catch(showError);
+  }
+}
+
+function updateCountries() {
+  const matches = locations.filter(location => location.continent === continentInput.value);
+  const values = uniqueValues(matches, 'country');
+  fillSelect(countryInput, values, 'Escolhe um país…');
+  cityInput.innerHTML = '<option value="">Escolhe um país…</option>';
+  cityInput.disabled = true;
+  locationInput.innerHTML = '<option value="">Escolhe uma cidade…</option>';
+  locationInput.disabled = true;
+  if (values.length === 1) {
+    countryInput.value = values[0];
+    updateCities();
+  } else {
+    loadLocation('').catch(showError);
+  }
+}
+
+async function loadLocations() {
+  const response = await fetch(`/api/locations?scope=${encodeURIComponent(scopeInput.value)}`);
+  const result = await response.json();
+  if (!response.ok) throw new Error(result.error || 'Não foi possível consultar as locations.');
+  locations = result.locations || [];
+  fillSelect(countryInput, [], 'Escolhe um continente…');
+  fillSelect(cityInput, [], 'Escolhe um país…');
+  fillSelect(locationInput, [], 'Escolhe uma cidade…');
+  loadLocation('').catch(showError);
   if (!locations.length) {
-    locationInput.innerHTML = '<option value="">Não existem fotografias pendentes</option>';
+    continentInput.innerHTML = '<option value="">Não existem lados externos pendentes</option>';
+    continentInput.disabled = true;
+    countryInput.disabled = true;
+    cityInput.disabled = true;
     locationInput.disabled = true;
-    assignment.textContent = 'Todos os Souvenirs disponíveis já usam imagens internas. Não há nada para recortar ou enviar.';
-    statusBox.textContent = 'Fila concluída. Volta ao menu; quando surgirem novas fotografias externas, aparecerão aqui.';
+    assignment.textContent = 'Todos os lados com imagem já usam URLs internos.';
+    statusBox.textContent = 'Fila concluída. Novas imagens externas aparecerão aqui automaticamente.';
     finalizeStatus.textContent = 'Não existem fotografias concluídas por enviar.';
     finalizeButton.disabled = true;
     return;
   }
-  locationInput.disabled = false;
-  if (locations.length === 1) {
-    locationInput.value = locations[0].id;
-    await loadLocation(locationInput.value);
+  const continents = uniqueValues(locations, 'continent');
+  fillSelect(continentInput, continents, 'Escolhe um continente…');
+  if (continents.length === 1) {
+    continentInput.value = continents[0];
+    updateCountries();
   }
 }
 
@@ -522,7 +626,7 @@ function advanceQueue() {
   if (next) {
     selectRecord(records.findIndex(record => record.id === next.id)).catch(showError);
   } else {
-    assignment.textContent = `Máquina ${currentMachine} concluída: ${items.length}/${items.length} recortes preparados.`;
+    assignment.textContent = `${items[0]?.photo_label || `Fotografia ${currentMachine}`} concluída: ${items.length}/${items.length} recortes preparados.`;
     currentRecord = null;
     selection = null;
     renderMachineGallery();
@@ -531,6 +635,10 @@ function advanceQueue() {
   }
 }
 
+scopeInput.onchange = () => loadLocations().catch(showError);
+continentInput.onchange = () => updateCountries();
+countryInput.onchange = () => updateCities();
+cityInput.onchange = () => updateLocations();
 locationInput.onchange = () => loadLocation(locationInput.value).catch(showError);
 machineInput.onchange = () => selectMachine(machineInput.value).catch(showError);
 completePhotoButton.onclick = async () => {
@@ -542,7 +650,7 @@ completePhotoButton.onclick = async () => {
   completePhotoButton.disabled = true;
   try {
     const response = await fetch('/api/photo-status', {method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({
-      location_id: locationInput.value, machine: currentMachine, completed
+      location_id: locationInput.value, machine: currentMachine, completed, scope: scopeInput.value
     })});
     const result = await response.json();
     if (!response.ok) throw new Error(result.error || 'Não foi possível alterar o estado da fotografia.');
@@ -550,8 +658,8 @@ completePhotoButton.onclick = async () => {
     updateMachineOption(currentMachine);
     updatePhotoProgress();
     assignment.textContent = completed
-      ? `Máquina ${currentMachine} confirmada como completa.`
-      : `Máquina ${currentMachine} reaberta para revisão.`;
+      ? `${items[0]?.photo_label || `Fotografia ${currentMachine}`} confirmada como completa.`
+      : `${items[0]?.photo_label || `Fotografia ${currentMachine}`} reaberta para revisão.`;
   } catch (error) { showError(error); updatePhotoProgress(); }
 };
 
@@ -564,10 +672,10 @@ finalizeButton.onclick = async () => {
     return;
   }
   const locationName = locationInput.selectedOptions[0]?.textContent || locationInput.value;
-  const coinWord = completedRecords.length === 1 ? 'moeda' : 'moedas';
+  const sideWord = completedRecords.length === 1 ? 'lado' : 'lados';
   const photoWord = completedMachines.size === 1 ? 'fotografia concluída' : 'fotografias concluídas';
   const confirmed = window.confirm(
-    `Enviar ${completedRecords.length} ${coinWord} de ${completedMachines.size} ${photoWord} em ${locationName}?\n\nAs fotografias ainda abertas ficam guardadas e não serão enviadas.`
+    `Enviar ${completedRecords.length} ${sideWord} de ${completedMachines.size} ${photoWord} em ${locationName}?\n\nAs fotografias ainda abertas ficam guardadas e não serão enviadas.`
   );
   if (!confirmed) return;
   finalizeButton.disabled = true;
@@ -577,7 +685,7 @@ finalizeButton.onclick = async () => {
     const response = await fetch('/api/finalize', {
       method: 'POST',
       headers: {'Content-Type': 'application/json'},
-      body: JSON.stringify({location_id: locationInput.value})
+      body: JSON.stringify({location_id: locationInput.value, scope: scopeInput.value})
     });
     const result = await response.json();
     if (!response.ok) throw new Error(result.error || 'Não foi possível enviar as fotografias concluídas.');
@@ -623,7 +731,7 @@ saveButton.onclick = async () => {
     const result = await response.json();
     if (!response.ok) throw new Error(result.error || 'Falha ao guardar o recorte.');
     const cleanupText = result.cleaned ? ' · resíduos removidos' : '';
-    const centeredText = result.centered ? ' · moeda centrada' : '';
+    const centeredText = result.centered ? ' · elemento centrado' : '';
     statusBox.textContent = `Guardado: ${result.width} × ${result.height} px (${result.orientation})${cleanupText}${centeredText}\n${result.path}`;
     if (currentRecord) {
       recordsForMachine(currentMachine).forEach(record => { record.photo_completed = false; });
@@ -660,12 +768,24 @@ def slugify(value: str) -> str:
 
 def record_location_id(record: dict[str, object]) -> str:
     query = parse_qs(urlparse(str(record.get("reference_url") or "")).query)
-    return str(query.get("location", ["sem-id"])[0])
+    explicit = str(query.get("location", [""])[0]).strip()
+    if explicit:
+        return explicit
+    identity = "|".join(
+        str(record.get(field) or "").strip().casefold()
+        for field in ("continent", "country", "city", "location_name")
+    )
+    digest = hashlib.sha256(identity.encode()).hexdigest()[:12]
+    return f"geo-{digest}"
 
 
 def record_machine_position(record: dict[str, object]) -> tuple[int, int]:
     reference = str(record.get("reference_url") or "")
-    match = re.search(r"#machine-(\d+)-position-(\d+)", reference, re.IGNORECASE)
+    match = re.search(
+        r"#(?:retired-)?machine-(\d+)-position-(\d+)",
+        reference,
+        re.IGNORECASE,
+    )
     if not match:
         match = re.search(
             r"Machine\s+(\d+)\s*[·|-]\s*Posição\s+(\d+)",
@@ -675,20 +795,113 @@ def record_machine_position(record: dict[str, object]) -> tuple[int, int]:
     if match:
         return int(match.group(1)), int(match.group(2))
     return (
-        int(record.get("machine") or 1),
-        int(record.get("ordem") or record.get("position") or 1),
+        int(record.get("machine") or 9999),
+        int(record.get("ordem") or record.get("position") or 9999),
     )
 
 
-def record_orientation(record: dict[str, object]) -> str:
-    explicit = str(record.get("display_orientation") or "")
-    if explicit in {"portrait", "landscape"}:
-        return explicit
-    notes = str(record.get("notes") or "").casefold()
-    return "portrait" if "vertical" in notes else "landscape"
+def record_crop_format(record: dict[str, object]) -> str:
+    requested = str(record.get("display_orientation") or "")
+    if requested not in {"portrait", "landscape"}:
+        notes = str(record.get("notes") or "").casefold()
+        requested = "portrait" if "vertical" in notes else "landscape"
+    return normalize_crop_format(
+        record.get("type"),
+        requested,
+        record.get("display_shape"),
+    )
 
 
-def load_pending_souvenirs() -> list[dict[str, object]]:
+def build_souvenir_tasks(
+    records: list[dict[str, object]], *, include_internal: bool = False
+) -> list[dict[str, object]]:
+    supported = [
+        record
+        for record in records
+        if str(record.get("type") or "") in SUPPORTED_SOUVENIR_TYPES
+    ]
+    slugs = unique_record_slugs(supported, "souvenir")
+    tasks: list[dict[str, object]] = []
+    for record in supported:
+        record_id = str(record.get("id") or "")
+        if not record_id:
+            continue
+        location_id = record_location_id(record)
+        original_machine, original_position = record_machine_position(record)
+        for side in SUPPORTED_SIDES:
+            source = str(record.get(SIDE_FIELDS[side]) or "").strip()
+            internal = source.startswith(DEFAULT_RAW_BASE_URL)
+            if not source or (internal and not include_internal):
+                continue
+            task = dict(record)
+            task["id"] = f"{record_id}:{side}"
+            task["_record_id"] = record_id
+            task["_side"] = side
+            task["_source_url"] = source
+            task["_internal"] = internal
+            task["_location_id"] = location_id
+            task["_original_machine"] = original_machine
+            task["_original_position"] = original_position
+            task["_format"] = record_crop_format(record)
+            task["_slug"] = slugs[record_id]
+            tasks.append(task)
+
+    by_location: dict[str, list[dict[str, object]]] = {}
+    for task in tasks:
+        by_location.setdefault(str(task["_location_id"]), []).append(task)
+    for location_tasks in by_location.values():
+        photo_keys = sorted(
+            {
+                (
+                    int(task["_original_machine"]),
+                    0 if task["_side"] == "front" else 1,
+                    str(task["_source_url"]),
+                )
+                for task in location_tasks
+            }
+        )
+        photo_numbers = {key: index for index, key in enumerate(photo_keys, 1)}
+        grouped: dict[tuple[int, int, str], list[dict[str, object]]] = {}
+        for task in location_tasks:
+            key = (
+                int(task["_original_machine"]),
+                0 if task["_side"] == "front" else 1,
+                str(task["_source_url"]),
+            )
+            task["_machine"] = photo_numbers[key]
+            grouped.setdefault(key, []).append(task)
+        for photo_tasks in grouped.values():
+            photo_tasks.sort(
+                key=lambda task: (
+                    int(task["_original_position"]),
+                    int(task.get("ordem") or 9999),
+                    str(task.get("name") or "").casefold(),
+                    str(task["_record_id"]),
+                )
+            )
+            positions = [int(task["_original_position"]) for task in photo_tasks]
+            use_original = all(value != 9999 for value in positions) and len(set(positions)) == len(positions)
+            for index, task in enumerate(photo_tasks, 1):
+                task["_position"] = int(task["_original_position"]) if use_original else index
+                side_label = "Frente" if task["_side"] == "front" else "Verso"
+                task["_photo_label"] = f"Fotografia {task['_machine']} · {side_label}"
+
+    return sorted(
+        tasks,
+        key=lambda item: (
+            str(item.get("continent") or "").casefold(),
+            str(item.get("country") or "").casefold(),
+            str(item.get("city") or "").casefold(),
+            str(item.get("location_name") or "").casefold(),
+            str(item["_location_id"]),
+            int(item["_machine"]),
+            int(item["_position"]),
+            str(item.get("name") or "").casefold(),
+        ),
+    )
+
+
+def load_pending_souvenirs(*, include_internal: bool = False) -> list[dict[str, object]]:
     load_dotenv(ROOT / ".env")
     api_key = os.environ.get(API_KEY_ENV)
     if not api_key:
@@ -701,37 +914,10 @@ def load_pending_souvenirs() -> list[dict[str, object]]:
     )
     if not isinstance(data, list):
         raise RuntimeError(f"Resposta inesperada ao listar Souvenirs: {data!r}")
-    records = [
-        row
-        for row in data
-        if isinstance(row, dict)
-        and str(row.get("type") or "") in SUPPORTED_SOUVENIR_TYPES
-    ]
-    slugs = unique_record_slugs(records, "souvenir")
-    pending: list[dict[str, object]] = []
-    for record in records:
-        source = str(record.get("image_front") or "")
-        if not source or source.startswith(DEFAULT_RAW_BASE_URL):
-            continue
-        machine, position = record_machine_position(record)
-        item = dict(record)
-        item["_location_id"] = record_location_id(record)
-        item["_machine"] = machine
-        item["_position"] = position
-        item["_orientation"] = record_orientation(record)
-        item["_slug"] = slugs[str(record["id"])]
-        pending.append(item)
-    return sorted(
-        pending,
-        key=lambda item: (
-            str(item.get("location_name") or "").casefold(),
-            str(item["_location_id"]),
-            int(item["_machine"]),
-            int(item["_position"]),
-            str(item.get("name") or "").casefold(),
-        ),
+    return build_souvenir_tasks(
+        [row for row in data if isinstance(row, dict)],
+        include_internal=include_internal,
     )
-
 
 def read_manifest(output_dir: Path) -> dict[str, object]:
     path = output_dir / "manifest.json"
@@ -744,9 +930,22 @@ def read_manifest(output_dir: Path) -> dict[str, object]:
     return data if isinstance(data, dict) else {}
 
 
-def write_manifest(output_dir: Path, record_id: str, entry: dict[str, object]) -> None:
+def manifest_entry_for_task(
+    manifest: dict[str, object], task: dict[str, object]
+) -> dict[str, object] | None:
+    task_id = str(task["id"])
+    entry = manifest.get(task_id)
+    if not isinstance(entry, dict) and task.get("_side") == "front":
+        entry = manifest.get(str(task.get("_record_id") or ""))
+    return entry if isinstance(entry, dict) else None
+
+
+def write_manifest(output_dir: Path, task_id: str, entry: dict[str, object]) -> None:
     manifest = read_manifest(output_dir)
-    manifest[record_id] = entry
+    legacy_id = str(entry.get("record_id") or "")
+    if entry.get("side") == "front" and legacy_id != task_id:
+        manifest.pop(legacy_id, None)
+    manifest[task_id] = entry
     (output_dir / "manifest.json").write_text(
         json.dumps(manifest, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
@@ -765,9 +964,22 @@ def read_photo_status(output_dir: Path) -> dict[str, object]:
 
 
 def photo_status_key(record: dict[str, object]) -> str:
-    source_url = str(record.get("image_front") or "")
+    source_url = str(record.get("_source_url") or record.get("source_url") or record.get("image_front") or "")
     source_hash = hashlib.sha256(source_url.encode()).hexdigest()[:12]
-    return f"{record['_location_id']}:machine-{record['_machine']}:{source_hash}"
+    return f"{record['_location_id']}:photo-{record['_machine']}:{source_hash}"
+
+
+def photo_status_for_task(
+    statuses: dict[str, object], task: dict[str, object]
+) -> dict[str, object] | None:
+    current = statuses.get(photo_status_key(task))
+    if isinstance(current, dict):
+        return current
+    source = str(task.get("_source_url") or "")
+    for value in statuses.values():
+        if isinstance(value, dict) and str(value.get("source_url") or "") == source:
+            return value
+    return None
 
 
 def set_photo_status(output_dir: Path, record: dict[str, object], completed: bool) -> None:
@@ -778,7 +990,8 @@ def set_photo_status(output_dir: Path, record: dict[str, object], completed: boo
         "location_id": str(record["_location_id"]),
         "location_name": str(record.get("location_name") or ""),
         "machine": int(record["_machine"]),
-        "source_url": str(record.get("image_front") or ""),
+        "source_url": str(record.get("_source_url") or ""),
+        "side": str(record.get("_side") or "front"),
     }
     (output_dir / "photo-status.json").write_text(
         json.dumps(statuses, ensure_ascii=False, indent=2) + "\n",
@@ -902,33 +1115,45 @@ def completion_request(
 ) -> dict[str, object]:
     matching = [record for record in records if str(record["_location_id"]) == location_id]
     if not matching:
-        raise ValueError("Esta location já não pertence à fila pendente.")
+        raise ValueError("Esta location já não pertence à fila de trabalho.")
     manifest = read_manifest(output_dir)
     statuses = read_photo_status(output_dir)
-    completed_records: list[dict[str, object]] = []
-    completed_machines: list[int] = []
+    completed_tasks: list[dict[str, object]] = []
+    completed_photos: list[int] = []
     for machine in sorted({int(record["_machine"]) for record in matching}):
-        machine_records = [
-            record for record in matching if int(record["_machine"]) == machine
-        ]
-        status = statuses.get(photo_status_key(machine_records[0]))
+        photo_tasks = [record for record in matching if int(record["_machine"]) == machine]
+        status = photo_status_for_task(statuses, photo_tasks[0])
         if not isinstance(status, dict) or not status.get("completed"):
             continue
-        missing = [record for record in machine_records if str(record["id"]) not in manifest]
+        missing = [record for record in photo_tasks if manifest_entry_for_task(manifest, record) is None]
         if missing:
             raise ValueError(
-                f"A máquina {machine} está concluída, mas ainda tem {len(missing)} recortes em falta."
+                f"A fotografia {machine} está concluída, mas ainda tem {len(missing)} recortes em falta."
             )
-        completed_machines.append(machine)
-        completed_records.extend(machine_records)
-    if not completed_records:
+        completed_photos.append(machine)
+        completed_tasks.extend(photo_tasks)
+    if not completed_tasks:
         raise ValueError("Marca pelo menos uma fotografia como concluída antes de enviar.")
+    record_sides = [
+        str(record["id"]) if ":" in str(record["id"]) else f"{record['id']}:front"
+        for record in completed_tasks
+    ]
+    record_ids = list(dict.fromkeys(
+        str(record.get("_record_id") or str(record["id"]).partition(":")[0])
+        for record in completed_tasks
+    ))
+    first = matching[0]
     return {
         "location_id": location_id,
-        "location_name": str(matching[0].get("location_name") or f"location {location_id}"),
-        "records": len(completed_records),
-        "machines": len(completed_machines),
-        "record_ids": [str(record["id"]) for record in completed_records],
+        "location_name": str(first.get("location_name") or "(sem location)"),
+        "continent": str(first.get("continent") or ""),
+        "country": str(first.get("country") or ""),
+        "city": str(first.get("city") or ""),
+        "records": len(record_ids),
+        "sides": len(record_sides),
+        "photos": len(completed_photos),
+        "record_ids": record_ids,
+        "record_sides": record_sides,
     }
 
 
@@ -955,13 +1180,15 @@ class Handler(BaseHTTPRequestHandler):
         self.end_headers()
         self.wfile.write(data)
 
-    def pending_records(self) -> list[dict[str, object]]:
+    def pending_records(self, scope: str = "pending") -> list[dict[str, object]]:
         if self.server.records_cache is None:
-            self.server.records_cache = load_pending_souvenirs()
+            self.server.records_cache = load_pending_souvenirs(include_internal=True)
             self.server.records_by_id = {
                 str(record["id"]): record for record in self.server.records_cache
             }
-        return self.server.records_cache
+        if scope == "all":
+            return self.server.records_cache
+        return [record for record in self.server.records_cache if not record.get("_internal")]
 
     def public_record(
         self,
@@ -969,21 +1196,36 @@ class Handler(BaseHTTPRequestHandler):
         prepared: dict[str, object],
         photo_statuses: dict[str, object],
     ) -> dict[str, object]:
-        record_id = str(record["id"])
-        manifest_entry = prepared.get(record_id)
-        photo_entry = photo_statuses.get(photo_status_key(record))
-        output_file = Path(str(manifest_entry.get("file") or "")) if isinstance(manifest_entry, dict) else None
+        task_id = str(record["id"])
+        manifest_entry = manifest_entry_for_task(prepared, record)
+        photo_entry = photo_status_for_task(photo_statuses, record)
+        output_file = (
+            Path(str(manifest_entry.get("file") or ""))
+            if isinstance(manifest_entry, dict)
+            else None
+        )
         return {
-            "id": record_id,
+            "id": task_id,
+            "record_id": str(record["_record_id"]),
+            "side": str(record["_side"]),
             "name": str(record.get("name") or "Sem nome"),
             "description": str(record.get("description") or ""),
             "type": str(record.get("type") or ""),
+            "display_shape": str(record.get("display_shape") or ""),
+            "continent": str(record.get("continent") or ""),
+            "country": str(record.get("country") or ""),
+            "city": str(record.get("city") or ""),
             "location_id": str(record["_location_id"]),
-            "location_name": str(record.get("location_name") or "(sem nome)"),
+            "location_name": str(record.get("location_name") or "(sem location)"),
             "machine": int(record["_machine"]),
+            "photo_label": str(record["_photo_label"]),
             "position": int(record["_position"]),
-            "orientation": str(record["_orientation"]),
+            "format": str(record["_format"]),
+            "orientation": display_orientation_for_crop(
+                record.get("type"), record["_format"], record.get("display_shape")
+            ),
             "slug": str(record["_slug"]),
+            "internal": bool(record.get("_internal")),
             "prepared": isinstance(manifest_entry, dict),
             "photo_completed": bool(
                 isinstance(photo_entry, dict) and photo_entry.get("completed")
@@ -992,31 +1234,39 @@ class Handler(BaseHTTPRequestHandler):
             "output_filename": output_file.name if output_file else "",
         }
 
-    def location_rows(self) -> list[dict[str, object]]:
-        grouped: dict[tuple[str, str], list[dict[str, object]]] = {}
-        for record in self.pending_records():
-            key = (
-                str(record["_location_id"]),
-                str(record.get("location_name") or "(sem nome)"),
-            )
-            grouped.setdefault(key, []).append(record)
-        return [
-            {
+    def location_rows(self, scope: str = "pending") -> list[dict[str, object]]:
+        grouped: dict[str, list[dict[str, object]]] = {}
+        for record in self.pending_records(scope):
+            grouped.setdefault(str(record["_location_id"]), []).append(record)
+        rows: list[dict[str, object]] = []
+        for location_id, records in grouped.items():
+            first = records[0]
+            rows.append({
                 "id": location_id,
-                "name": name,
-                "count": len(records),
-                "machines": len({str(record.get("image_front") or "") for record in records}),
-            }
-            for (location_id, name), records in sorted(
-                grouped.items(), key=lambda item: (item[0][1].casefold(), item[0][0])
-            )
-        ]
+                "name": str(first.get("location_name") or "(sem location)"),
+                "continent": str(first.get("continent") or "(sem continente)"),
+                "country": str(first.get("country") or "(sem país)"),
+                "city": str(first.get("city") or "(sem cidade)"),
+                "count": len({str(record["_record_id"]) for record in records}),
+                "sides": len(records),
+                "photos": len({int(record["_machine"]) for record in records}),
+            })
+        return sorted(
+            rows,
+            key=lambda row: (
+                str(row["continent"]).casefold(),
+                str(row["country"]).casefold(),
+                str(row["city"]).casefold(),
+                str(row["name"]).casefold(),
+                str(row["id"]),
+            ),
+        )
 
     def prepare_record_source(self, record_id: str) -> dict[str, str]:
         record = self.server.records_by_id.get(record_id)
         if record is None:
             raise ValueError("Souvenir não encontrado na fila desta location.")
-        source_url = str(record.get("image_front") or "")
+        source_url = str(record.get("_source_url") or "")
         source_id = self.server.source_cache.get(source_url)
         if source_id:
             return {"source_id": source_id, "url": f"/source/{source_id}"}
@@ -1043,18 +1293,21 @@ class Handler(BaseHTTPRequestHandler):
             return
         if path == "/api/locations":
             try:
-                self.send_json({"locations": self.location_rows()})
+                scope = parse_qs(urlparse(self.path).query).get("scope", ["pending"])[0]
+                self.send_json({"locations": self.location_rows(scope)})
             except Exception as exc:
                 self.send_json({"error": str(exc)}, HTTPStatus.BAD_REQUEST)
             return
         if path == "/api/location-records":
             try:
-                location_id = parse_qs(urlparse(self.path).query).get("location", [""])[0]
+                query = parse_qs(urlparse(self.path).query)
+                location_id = query.get("location", [""])[0]
+                scope = query.get("scope", ["pending"])[0]
                 prepared = read_manifest(self.server.output_dir)
                 photo_statuses = read_photo_status(self.server.output_dir)
                 records = [
                     self.public_record(record, prepared, photo_statuses)
-                    for record in self.pending_records()
+                    for record in self.pending_records(scope)
                     if str(record["_location_id"]) == location_id
                 ]
                 self.send_json({"records": records})
@@ -1063,8 +1316,8 @@ class Handler(BaseHTTPRequestHandler):
             return
         if path.startswith("/api/record-source/"):
             try:
-                record_id = Path(path).name
-                self.pending_records()
+                record_id = unquote(Path(path).name)
+                self.pending_records("all")
                 self.send_json(self.prepare_record_source(record_id))
             except Exception as exc:
                 self.send_json({"error": str(exc)}, HTTPStatus.BAD_REQUEST)
@@ -1121,9 +1374,10 @@ class Handler(BaseHTTPRequestHandler):
         location_id = str(payload.get("location_id") or "")
         machine = int(payload.get("machine"))
         completed = bool(payload.get("completed"))
+        scope = str(payload.get("scope") or "pending")
         matching = [
             record
-            for record in self.pending_records()
+            for record in self.pending_records(scope)
             if str(record["_location_id"]) == location_id
             and int(record["_machine"]) == machine
         ]
@@ -1131,9 +1385,12 @@ class Handler(BaseHTTPRequestHandler):
             raise ValueError("Fotografia não encontrada nesta location.")
         if completed:
             manifest = read_manifest(self.server.output_dir)
-            missing = [record for record in matching if str(record["id"]) not in manifest]
+            missing = [
+                record for record in matching
+                if manifest_entry_for_task(manifest, record) is None
+            ]
             if missing:
-                raise ValueError("Ainda existem moedas desta fotografia por recortar.")
+                raise ValueError("Ainda existem lados desta fotografia por recortar.")
         for record in matching:
             set_photo_status(self.server.output_dir, record, completed)
         self.send_json({"completed": completed, "machine": machine})
@@ -1143,7 +1400,8 @@ class Handler(BaseHTTPRequestHandler):
             raise ValueError("Abre o recortador através do main.py para usar o envio automático.")
         payload = json.loads(self.request_body())
         location_id = str(payload.get("location_id") or "")
-        request = completion_request(self.server.output_dir, self.pending_records(), location_id)
+        scope = str(payload.get("scope") or "pending")
+        request = completion_request(self.server.output_dir, self.pending_records(scope), location_id)
         destination = self.server.completion_file
         destination.parent.mkdir(parents=True, exist_ok=True)
         temporary = destination.with_suffix(".tmp")
@@ -1152,11 +1410,11 @@ class Handler(BaseHTTPRequestHandler):
             encoding="utf-8",
         )
         temporary.replace(destination)
-        coin_word = "moeda concluída validada" if request["records"] == 1 else "moedas concluídas validadas"
+        side_word = "lado concluído validado" if request["sides"] == 1 else "lados concluídos validados"
         self.send_json({
             **request,
             "message": (
-                f"{request['records']} {coin_word}. "
+                f"{request['sides']} {side_word} em {request['records']} Souvenirs. "
                 "O envio automático continua no terminal."
             ),
         })
@@ -1181,16 +1439,19 @@ class Handler(BaseHTTPRequestHandler):
         source = self.server.output_dir / "sources" / f"{source_id}.png"
         if not source.is_file():
             raise ValueError("A imagem original já não está disponível.")
-        record_id = str(payload.get("record_id") or "")
+        task_id = str(payload.get("record_id") or "")
         record = None
-        if record_id:
-            self.pending_records()
-            record = self.server.records_by_id.get(record_id)
+        if task_id:
+            self.pending_records("all")
+            record = self.server.records_by_id.get(task_id)
             if record is None:
-                raise ValueError("O souvenir selecionado já não pertence à fila pendente.")
+                raise ValueError("O lado selecionado já não pertence à fila de trabalho.")
         record_type = str(record.get("type") or "pressed") if record else "pressed"
-        orientation = str(payload.get("orientation") or "landscape")
-        size = crop_size(record_type, orientation)
+        display_shape = str(record.get("display_shape") or "") if record else ""
+        crop_format = normalize_crop_format(
+            record_type, payload.get("orientation"), display_shape
+        )
+        size = crop_size(record_type, crop_format, display_shape)
         with Image.open(source) as opened:
             image = ImageOps.exif_transpose(opened).convert("RGB")
             x = round(float(payload["x"]))
@@ -1219,32 +1480,43 @@ class Handler(BaseHTTPRequestHandler):
             cropped, cleaned, centered = clean_isolated_edge_residue(cropped)
         cropped = cropped.resize(size, Image.Resampling.LANCZOS)
         base = str(record["_slug"]) if record else slugify(str(payload.get("name") or "recorte"))
+        side = str(record.get("_side") or "front") if record else "front"
         folder = self.server.output_dir / "crops"
         folder.mkdir(parents=True, exist_ok=True)
-        destination = folder / f"{base}.jpg"
+        destination = folder / f"{base}-{side}.jpg"
         if record is None:
             suffix = 2
             while destination.exists():
-                destination = folder / f"{base}-{suffix}.jpg"
+                destination = folder / f"{base}-{side}-{suffix}.jpg"
                 suffix += 1
         cropped.save(destination, "JPEG", quality=95, subsampling=0)
+        display_orientation = display_orientation_for_crop(
+            record_type, crop_format, display_shape
+        )
         if record is not None:
             write_manifest(
                 self.server.output_dir,
-                record_id,
+                task_id,
                 {
-                    "record_id": record_id,
+                    "task_id": task_id,
+                    "record_id": str(record["_record_id"]),
+                    "side": side,
                     "name": str(record.get("name") or ""),
                     "type": record_type,
+                    "display_shape": display_shape,
                     "slug": base,
+                    "continent": str(record.get("continent") or ""),
+                    "country": str(record.get("country") or ""),
+                    "city": str(record.get("city") or ""),
                     "location_id": str(record["_location_id"]),
                     "location_name": str(record.get("location_name") or ""),
                     "machine": int(record["_machine"]),
                     "position": int(record["_position"]),
-                    "source_url": str(record.get("image_front") or ""),
+                    "source_url": str(record.get("_source_url") or ""),
                     "reference_url": str(record.get("reference_url") or ""),
                     "file": str(destination),
-                    "orientation": orientation,
+                    "format": crop_format,
+                    "orientation": display_orientation,
                     "crop": {"x": x, "y": y, "width": width, "height": height},
                     "padding": padding,
                     "cleaned": cleaned,
@@ -1258,10 +1530,12 @@ class Handler(BaseHTTPRequestHandler):
             "url": f"/output/{destination.name}",
             "width": cropped.width,
             "height": cropped.height,
-            "orientation": orientation,
+            "format": crop_format,
+            "orientation": display_orientation,
+            "side": side,
             "cleaned": cleaned,
             "centered": centered,
-            "record_id": record_id or None,
+            "record_id": task_id or None,
         })
 
     def send_file(self, path: Path) -> None:
