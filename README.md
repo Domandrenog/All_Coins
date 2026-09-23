@@ -37,7 +37,16 @@ python3 tools/promote_souvenir_crops.py --apply
 ```
 
 O primeiro comando apenas valida. O segundo só promove fotografias marcadas
-como completas e recortes com as dimensões finais corretas.
+como completas e recortes com as dimensões finais corretas. Depois do commit,
+push e verificação dos URLs raw, atualiza apenas os IDs desse manifesto:
+
+```bash
+python3 tools/update_souvenir_manifest_api.py --location-id 1851
+python3 tools/update_souvenir_manifest_api.py --location-id 1851 --apply
+```
+
+O primeiro comando volta a ser um dry-run; o segundo atualiza e relê cada
+registo para confirmar o URL, a orientação e a preservação dos restantes campos.
 
 Os comandos técnicos estão em [docs/COMMANDS.md](docs/COMMANDS.md).
 
