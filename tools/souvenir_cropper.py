@@ -679,11 +679,11 @@ def set_photo_status(output_dir: Path, record: dict[str, object], completed: boo
 
 
 def clean_isolated_edge_residue(image: Image.Image) -> tuple[Image.Image, bool, bool]:
-    """Mantém o principal objeto central e remove componentes isolados do fundo.
+    """Remove apenas objetos estranhos ligados às bordas do recorte.
 
-    A seleção deve deixar fundo claro nos cantos. A máscara é ligeiramente
-    fechada para unir detalhes da moeda antes de escolher o maior componente
-    próximo do centro.
+    O desenho de uma moeda pode conter letras e ilustrações desconectadas.
+    Esses componentes interiores têm de ser preservados; apenas componentes
+    que entram no recorte através de uma borda são considerados resíduos.
     """
     rgb = image.convert("RGB")
     border = [rgb.getpixel((x, 0)) for x in range(rgb.width)]
@@ -706,12 +706,9 @@ def clean_isolated_edge_residue(image: Image.Image) -> tuple[Image.Image, bool, 
         ]
     )
     mask = difference.point(lambda value: 255 if value > 24 else 0)
-    # Encolher ligeiramente antes de procurar componentes separa moedas que
-    # apenas se tocam por antialiasing, sombra ou uma faixa muito estreita.
-    mask = mask.filter(ImageFilter.MinFilter(5))
     pixels = mask.load()
     visited = bytearray(mask.width * mask.height)
-    components: list[tuple[int, float, list[tuple[int, int]]]] = []
+    components: list[tuple[int, float, bool, list[tuple[int, int]]]] = []
     center_x = (mask.width - 1) / 2
     center_y = (mask.height - 1) / 2
 
@@ -724,9 +721,16 @@ def clean_isolated_edge_residue(image: Image.Image) -> tuple[Image.Image, bool, 
             visited[offset] = 1
             points: list[tuple[int, int]] = []
             closest = float("inf")
+            touches_border = False
             while queue:
                 current_x, current_y = queue.popleft()
                 points.append((current_x, current_y))
+                touches_border = touches_border or (
+                    current_x == 0
+                    or current_y == 0
+                    or current_x == mask.width - 1
+                    or current_y == mask.height - 1
+                )
                 closest = min(
                     closest,
                     (current_x - center_x) ** 2 + (current_y - center_y) ** 2,
@@ -737,21 +741,39 @@ def clean_isolated_edge_residue(image: Image.Image) -> tuple[Image.Image, bool, 
                         if not visited[next_offset] and pixels[next_x, next_y] != 0:
                             visited[next_offset] = 1
                             queue.append((next_x, next_y))
-            components.append((len(points), closest, points))
+            components.append((len(points), closest, touches_border, points))
 
     if not components:
         return image, False, False
-    largest = max(size for size, _, _ in components)
+    largest = max(size for size, _, _, _ in components)
     candidates = [component for component in components if component[0] >= largest * 0.35]
-    _, _, kept_points = min(candidates, key=lambda component: (component[1], -component[0]))
-    keep_mask = Image.new("L", rgb.size)
-    keep_pixels = keep_mask.load()
-    for x, y in kept_points:
-        keep_pixels[x, y] = 255
-    keep_mask = keep_mask.filter(ImageFilter.MaxFilter(7))
-    cleaned = Image.composite(rgb, Image.new("RGB", rgb.size, background), keep_mask)
-    removed = sum(size for size, _, points in components if points is not kept_points) > 0
-    object_box = keep_mask.getbbox()
+    main_component = min(candidates, key=lambda component: (component[1], -component[0]))
+
+    remove_mask = Image.new("L", rgb.size)
+    remove_pixels = remove_mask.load()
+    removed = False
+    for component in components:
+        _, _, touches_border, points = component
+        if component is main_component or not touches_border:
+            continue
+        removed = True
+        for x, y in points:
+            remove_pixels[x, y] = 255
+
+    if removed:
+        # Inclui o antialiasing que rodeia o resíduo, sem tocar em elementos
+        # interiores da moeda.
+        remove_mask = remove_mask.filter(ImageFilter.MaxFilter(5))
+        cleaned = Image.composite(Image.new("RGB", rgb.size, background), rgb, remove_mask)
+    else:
+        cleaned = rgb
+
+    main_mask = Image.new("L", rgb.size)
+    main_pixels = main_mask.load()
+    for x, y in main_component[3]:
+        main_pixels[x, y] = 255
+    main_mask = main_mask.filter(ImageFilter.MaxFilter(7))
+    object_box = main_mask.getbbox()
     centered = False
     if object_box:
         left, top, right, bottom = object_box
