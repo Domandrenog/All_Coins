@@ -131,9 +131,9 @@ PAGE = r"""<!doctype html>
       <button id="save" disabled>Guardar recorte</button>
       <button id="clear" class="secondary" disabled>Limpar seleção</button>
       <hr>
-      <strong>Finalizar location</strong>
-      <div id="location-finalize" class="status">Conclui e confirma todas as fotografias desta location.</div>
-      <button id="finalize-location" disabled>Finalizar e enviar</button>
+      <strong>Enviar fotografias concluídas</strong>
+      <div id="location-finalize" class="status">Marca uma ou mais fotografias como concluídas para as enviar.</div>
+      <button id="finalize-location" disabled>Finalizar e enviar concluídas</button>
     </aside>
   </div>
 </main>
@@ -270,27 +270,28 @@ function machineLabel(machine) {
 }
 
 function updateLocationProgress() {
-  const prepared = records.filter(record => record.prepared).length;
-  const completed = records.filter(record => record.photo_completed).length;
-  const ready = records.length > 0 && prepared === records.length && completed === records.length;
+  const completedRecords = records.filter(record => record.prepared && record.photo_completed);
+  const completedMachines = new Set(completedRecords.map(record => record.machine));
   if (!records.length) {
-    finalizeStatus.textContent = 'Escolhe uma location para acompanhar a conclusão.';
+    finalizeStatus.textContent = 'Escolhe uma location para acompanhar as fotografias.';
     finalizeButton.disabled = true;
     return;
   }
   if (!pipelineEnabled) {
-    finalizeStatus.textContent = 'A finalização automática só está disponível quando abres o recortador pelo main.py.';
+    finalizeStatus.textContent = 'O envio automático só está disponível quando abres o recortador pelo main.py.';
     finalizeButton.disabled = true;
     return;
   }
-  if (ready) {
-    finalizeStatus.textContent = `${records.length}/${records.length} moedas prontas. O envio publicará os ficheiros e atualizará apenas as diferenças na Base44.`;
-    finalizeButton.disabled = false;
+  finalizeButton.disabled = false;
+  if (completedRecords.length) {
+    const coinWord = completedRecords.length === 1 ? 'moeda' : 'moedas';
+    const photoWord = completedMachines.size === 1 ? 'fotografia concluída' : 'fotografias concluídas';
+    finalizeStatus.textContent = `${completedRecords.length} ${coinWord} em ${completedMachines.size} ${photoWord} serão enviadas. As restantes ficam guardadas para depois.`;
     return;
   }
-  finalizeStatus.textContent = `${prepared}/${records.length} recortes preparados · ${completed}/${records.length} moedas com fotografia confirmada.`;
-  finalizeButton.disabled = true;
+  finalizeStatus.textContent = 'Ainda não marcaste nenhuma fotografia como concluída. Os recortes em curso não serão enviados.';
 }
+
 
 function updatePhotoProgress() {
   updateLocationProgress();
@@ -526,16 +527,23 @@ completePhotoButton.onclick = async () => {
 };
 
 finalizeButton.onclick = async () => {
-  const ready = records.length > 0 && records.every(record => record.prepared && record.photo_completed);
-  if (!ready || !pipelineEnabled) return;
+  if (!pipelineEnabled) return;
+  const completedRecords = records.filter(record => record.prepared && record.photo_completed);
+  const completedMachines = new Set(completedRecords.map(record => record.machine));
+  if (!completedRecords.length) {
+    finalizeStatus.textContent = 'Marca pelo menos uma fotografia como concluída antes de enviar.';
+    return;
+  }
   const locationName = locationInput.selectedOptions[0]?.textContent || locationInput.value;
+  const coinWord = completedRecords.length === 1 ? 'moeda' : 'moedas';
+  const photoWord = completedMachines.size === 1 ? 'fotografia concluída' : 'fotografias concluídas';
   const confirmed = window.confirm(
-    `Finalizar ${locationName}?\n\nOs recortes serão publicados no GitHub e apenas os campos diferentes serão atualizados na Base44.`
+    `Enviar ${completedRecords.length} ${coinWord} de ${completedMachines.size} ${photoWord} em ${locationName}?\n\nAs fotografias ainda abertas ficam guardadas e não serão enviadas.`
   );
   if (!confirmed) return;
   finalizeButton.disabled = true;
   finalizeStatus.textContent = 'Pedido enviado. Acompanha no terminal: validar → publicar → verificar → atualizar Base44.';
-  statusBox.textContent = 'A finalizar a location. O processamento continua automaticamente no terminal.';
+  statusBox.textContent = 'A enviar apenas as fotografias concluídas. O processamento continua automaticamente no terminal.';
   try {
     const response = await fetch('/api/finalize', {
       method: 'POST',
@@ -543,13 +551,14 @@ finalizeButton.onclick = async () => {
       body: JSON.stringify({location_id: locationInput.value})
     });
     const result = await response.json();
-    if (!response.ok) throw new Error(result.error || 'Não foi possível finalizar a location.');
-    finalizeStatus.textContent = result.message || 'Finalização iniciada. Acompanha o resultado no terminal.';
+    if (!response.ok) throw new Error(result.error || 'Não foi possível enviar as fotografias concluídas.');
+    finalizeStatus.textContent = result.message || 'Envio iniciado. Acompanha o resultado no terminal.';
   } catch (error) {
     showError(error);
     updateLocationProgress();
   }
 };
+
 
 document.addEventListener('paste', event => {
   const item = [...event.clipboardData.items].find(value => value.type.startsWith('image/'));
@@ -856,24 +865,31 @@ def completion_request(
     if not matching:
         raise ValueError("Esta location já não pertence à fila pendente.")
     manifest = read_manifest(output_dir)
-    missing = [record for record in matching if str(record["id"]) not in manifest]
-    if missing:
-        raise ValueError(f"Ainda existem {len(missing)} moedas por recortar nesta location.")
     statuses = read_photo_status(output_dir)
-    incomplete = []
+    completed_records: list[dict[str, object]] = []
+    completed_machines: list[int] = []
     for machine in sorted({int(record["_machine"]) for record in matching}):
-        record = next(record for record in matching if int(record["_machine"]) == machine)
-        status = statuses.get(photo_status_key(record))
+        machine_records = [
+            record for record in matching if int(record["_machine"]) == machine
+        ]
+        status = statuses.get(photo_status_key(machine_records[0]))
         if not isinstance(status, dict) or not status.get("completed"):
-            incomplete.append(machine)
-    if incomplete:
-        machines = ", ".join(str(machine) for machine in incomplete)
-        raise ValueError(f"Confirma primeiro as fotografias das máquinas: {machines}.")
+            continue
+        missing = [record for record in machine_records if str(record["id"]) not in manifest]
+        if missing:
+            raise ValueError(
+                f"A máquina {machine} está concluída, mas ainda tem {len(missing)} recortes em falta."
+            )
+        completed_machines.append(machine)
+        completed_records.extend(machine_records)
+    if not completed_records:
+        raise ValueError("Marca pelo menos uma fotografia como concluída antes de enviar.")
     return {
         "location_id": location_id,
         "location_name": str(matching[0].get("location_name") or f"location {location_id}"),
-        "records": len(matching),
-        "machines": len({int(record["_machine"]) for record in matching}),
+        "records": len(completed_records),
+        "machines": len(completed_machines),
+        "record_ids": [str(record["id"]) for record in completed_records],
     }
 
 
@@ -1096,9 +1112,13 @@ class Handler(BaseHTTPRequestHandler):
             encoding="utf-8",
         )
         temporary.replace(destination)
+        coin_word = "moeda concluída validada" if request["records"] == 1 else "moedas concluídas validadas"
         self.send_json({
             **request,
-            "message": "Recortes validados. O envio automático continua no terminal.",
+            "message": (
+                f"{request['records']} {coin_word}. "
+                "O envio automático continua no terminal."
+            ),
         })
         Thread(target=self.server.shutdown, daemon=True).start()
 

@@ -111,7 +111,11 @@ def source_extension(data: bytes, source_url: str) -> str:
     return suffix if suffix in {".jpg", ".jpeg", ".png", ".gif", ".webp"} else ".img"
 
 
-def load_entries(staging: Path, location_id: str) -> tuple[dict[str, dict[str, object]], dict[int, list[dict[str, object]]]]:
+def load_entries(
+    staging: Path,
+    location_id: str,
+    record_ids: set[str] | None = None,
+) -> tuple[dict[str, dict[str, object]], dict[int, list[dict[str, object]]]]:
     manifest = read_json(staging / "manifest.json")
     statuses = read_json(staging / "photo-status.json")
     selected: dict[str, dict[str, object]] = {}
@@ -119,7 +123,11 @@ def load_entries(staging: Path, location_id: str) -> tuple[dict[str, dict[str, o
     filenames: dict[str, str] = {}
 
     for record_id, raw_entry in manifest.items():
-        if not isinstance(raw_entry, dict) or str(raw_entry.get("location_id")) != location_id:
+        if (
+            not isinstance(raw_entry, dict)
+            or str(raw_entry.get("location_id")) != location_id
+            or (record_ids is not None and str(record_id) not in record_ids)
+        ):
             continue
         entry = dict(raw_entry)
         required = ("slug", "name", "machine", "position", "source_url", "reference_url", "file", "orientation")
@@ -144,7 +152,11 @@ def load_entries(staging: Path, location_id: str) -> tuple[dict[str, dict[str, o
         groups[int(entry["machine"])].append(entry)
 
     if not selected:
-        raise ValueError(f"Não existem recortes para a location {location_id}.")
+        raise ValueError(f"Não existem recortes concluídos para a location {location_id}.")
+    if record_ids is not None:
+        missing_ids = sorted(record_ids - set(selected))
+        if missing_ids:
+            raise ValueError(f"IDs concluídos em falta no manifesto: {', '.join(missing_ids)}")
 
     for machine, entries in groups.items():
         sources = {str(entry["source_url"]) for entry in entries}
@@ -161,15 +173,22 @@ def load_entries(staging: Path, location_id: str) -> tuple[dict[str, dict[str, o
 def promote(args: argparse.Namespace) -> int:
     staging = args.staging.resolve()
     country_dir = args.country_dir.resolve()
-    entries, groups = load_entries(staging, args.location_id)
+    entries, groups = load_entries(staging, args.location_id, set(args.record_ids) if args.record_ids else None)
     front_dir = country_dir / "frente"
     original_dir = country_dir / "original"
 
     for entry in entries.values():
         source = Path(str(entry["source_file"]))
         destination = front_dir / source.name
-        if destination.exists() and file_digest(destination) != file_digest(source):
-            raise ValueError(f"Colisão com conteúdo diferente: {destination}")
+        if (
+            destination.exists()
+            and file_digest(destination) != file_digest(source)
+            and not args.replace_existing
+        ):
+            raise ValueError(
+                f"Colisão com conteúdo diferente: {destination}. "
+                "Usa --replace-existing apenas para substituir uma imagem automática pelo recorte confirmado."
+            )
 
     print(f"Location {args.location_id}: {len(entries)} recortes em {len(groups)} fotografias.")
     print("Todas as fotografias estão confirmadas e os recortes têm dimensões válidas.")
@@ -206,7 +225,7 @@ def promote(args: argparse.Namespace) -> int:
         source = Path(str(entry.pop("source_file")))
         entry.pop("file", None)
         destination = front_dir / source.name
-        if not destination.exists():
+        if args.replace_existing or not destination.exists():
             shutil.copy2(source, destination)
         internal_url = f"{args.raw_base_url.rstrip('/')}/{country_relative}/frente/{destination.name}"
         source_url = str(entry["source_url"])
@@ -238,7 +257,13 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--staging", type=Path, default=DEFAULT_STAGING)
     parser.add_argument("--country-dir", type=Path, default=DEFAULT_COUNTRY_DIR)
     parser.add_argument("--location-id", default="1851")
+    parser.add_argument("--record-id", action="append", dest="record_ids", help="Limita a promoção a um ID concluído; pode repetir-se.")
     parser.add_argument("--raw-base-url", default=DEFAULT_RAW_BASE_URL)
+    parser.add_argument(
+        "--replace-existing",
+        action="store_true",
+        help="Substitui uma imagem existente pelo recorte explicitamente selecionado.",
+    )
     parser.add_argument("--apply", action="store_true", help="Copia os ficheiros e atualiza manifests/links.")
     return parser.parse_args()
 

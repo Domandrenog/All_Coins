@@ -46,47 +46,57 @@ class CompletionRequestTests(unittest.TestCase):
             {
                 "id": "coin-2",
                 "_location_id": "352061",
-                "_machine": 1,
-                "image_front": "https://example.test/machine-1.jpg",
+                "_machine": 2,
+                "image_front": "https://example.test/machine-2.jpg",
                 "location_name": "Miami",
             },
         ]
 
-    def write_state(self, folder: Path, *, completed: bool) -> list[dict[str, object]]:
+    def write_state(
+        self, folder: Path, *, completed_machines: set[int]
+    ) -> list[dict[str, object]]:
         records = self.records()
         (folder / "manifest.json").write_text(
-            json.dumps({record["id"]: {"file": "unused"} for record in records}),
+            json.dumps({
+                record["id"]: {"file": "unused"}
+                for record in records
+                if record["_machine"] in completed_machines
+            }),
             encoding="utf-8",
         )
-        key = photo_status_key(records[0])
+        statuses = {
+            photo_status_key(record): {"completed": record["_machine"] in completed_machines}
+            for record in records
+        }
         (folder / "photo-status.json").write_text(
-            json.dumps({key: {"completed": completed}}),
+            json.dumps(statuses),
             encoding="utf-8",
         )
         return records
 
-    def test_accepts_only_a_fully_confirmed_location(self):
+    def test_selects_only_records_from_completed_photos(self):
         with TemporaryDirectory() as temporary:
             folder = Path(temporary)
-            records = self.write_state(folder, completed=True)
+            records = self.write_state(folder, completed_machines={1})
 
             request = completion_request(folder, records, "352061")
 
         self.assertEqual(request["location_name"], "Miami")
-        self.assertEqual(request["records"], 2)
+        self.assertEqual(request["records"], 1)
         self.assertEqual(request["machines"], 1)
+        self.assertEqual(request["record_ids"], ["coin-1"])
 
-    def test_rejects_a_location_with_an_unconfirmed_photo(self):
+    def test_rejects_when_no_photo_is_completed(self):
         with TemporaryDirectory() as temporary:
             folder = Path(temporary)
-            records = self.write_state(folder, completed=False)
+            records = self.write_state(folder, completed_machines=set())
 
-            with self.assertRaisesRegex(ValueError, "máquinas: 1"):
+            with self.assertRaisesRegex(ValueError, "pelo menos uma fotografia"):
                 completion_request(folder, records, "352061")
 
     def test_page_contains_the_final_send_control(self):
         self.assertIn('id="finalize-location"', PAGE)
-        self.assertIn('Finalizar e enviar', PAGE)
+        self.assertIn('Finalizar e enviar concluídas', PAGE)
 
 
 if __name__ == "__main__":

@@ -28,13 +28,15 @@ abrir o recortador manual. O recortador:
 - avança automaticamente depois de guardares cada recorte;
 - guarda a associação ao ID num manifesto local, sem escrever ainda na Base44.
 
-Quando todas as fotografias da location estiverem confirmadas, o botão
-`Finalizar e enviar` fica disponível. Ao abrir o recortador através do
-`main.py`, esse botão executa o fluxo completo automaticamente:
+O botão `Finalizar e enviar concluídas` está sempre disponível quando o
+recortador é aberto pelo `main.py`. Basta confirmar uma fotografia para a poder
+enviar; máquinas ainda abertas ou parcialmente recortadas ficam guardadas para
+depois. O botão executa automaticamente, apenas para os IDs das fotografias
+marcadas como concluídas:
 
-1. valida as dimensões e o estado de todas as fotografias da location;
-2. promove originais, recortes, manifesto e links para a árvore canónica;
-3. cria o commit e faz push apenas dos ficheiros dessa location;
+1. valida as dimensões e o estado das fotografias selecionadas;
+2. promove os respetivos originais, recortes, manifesto e links para a árvore canónica;
+3. cria o commit e faz push apenas dos ficheiros concluídos;
 4. confirma que o `main` remoto tem o mesmo SHA e que cada URL raw tem o mesmo
    conteúdo do ficheiro local;
 5. faz um dry-run da Base44 e aplica apenas os campos diferentes

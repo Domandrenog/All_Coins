@@ -26,7 +26,11 @@ from scripts.sync_coin_images_api import (  # noqa: E402
 )
 
 
-def load_manifest(path: Path, location_id: str | None) -> list[tuple[str, dict[str, object]]]:
+def load_manifest(
+    path: Path,
+    location_id: str | None,
+    record_ids: set[str] | None = None,
+) -> list[tuple[str, dict[str, object]]]:
     try:
         data = json.loads(path.read_text(encoding="utf-8"))
     except FileNotFoundError as exc:
@@ -40,10 +44,15 @@ def load_manifest(path: Path, location_id: str | None) -> list[tuple[str, dict[s
         for record_id, entry in data.items()
         if isinstance(entry, dict)
         and (location_id is None or str(entry.get("location_id")) == location_id)
+        and (record_ids is None or str(record_id) in record_ids)
     ]
     rows.sort(key=lambda item: (int(item[1].get("machine") or 0), int(item[1].get("position") or 0)))
     if not rows:
         raise ValueError("O manifesto não contém registos no âmbito pedido.")
+    if record_ids is not None:
+        missing_ids = sorted(record_ids - {record_id for record_id, _ in rows})
+        if missing_ids:
+            raise ValueError(f"IDs pedidos em falta no manifesto: {', '.join(missing_ids)}")
     return rows
 
 
@@ -159,6 +168,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--manifest", type=Path, default=DEFAULT_MANIFEST)
     parser.add_argument("--location-id")
+    parser.add_argument("--record-id", action="append", dest="record_ids", help="Limita a atualização a um ID concluído; pode repetir-se.")
     parser.add_argument("--api-key-env", default=API_KEY_ENV)
     parser.add_argument("--apply", action="store_true")
     return parser.parse_args()
@@ -172,7 +182,11 @@ def main() -> int:
         print(f"Define {args.api_key_env} no ficheiro .env.", file=sys.stderr)
         return 2
     try:
-        rows = load_manifest(args.manifest.resolve(), args.location_id)
+        rows = load_manifest(
+            args.manifest.resolve(),
+            args.location_id,
+            set(args.record_ids) if args.record_ids else None,
+        )
         prepared = preflight(api_key, rows)
         differences = [
             (record, difference_payload(record, entry))
