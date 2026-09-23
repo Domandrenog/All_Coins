@@ -21,6 +21,7 @@ from http import HTTPStatus
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from io import BytesIO
 from pathlib import Path
+from threading import Thread
 from urllib.parse import parse_qs, unquote, urlparse
 
 from PIL import Image, ImageFilter, ImageOps
@@ -129,6 +130,10 @@ PAGE = r"""<!doctype html>
       <label class="check"><input id="cleanup" type="checkbox" checked><span>Limpar resíduos das bordas e centrar a moeda no recorte</span></label>
       <button id="save" disabled>Guardar recorte</button>
       <button id="clear" class="secondary" disabled>Limpar seleção</button>
+      <hr>
+      <strong>Finalizar location</strong>
+      <div id="location-finalize" class="status">Conclui e confirma todas as fotografias desta location.</div>
+      <button id="finalize-location" disabled>Finalizar e enviar</button>
     </aside>
   </div>
 </main>
@@ -153,6 +158,9 @@ const photoProgress = document.querySelector('#photo-progress');
 const photoState = document.querySelector('#photo-state');
 const photoCount = document.querySelector('#photo-count');
 const completePhotoButton = document.querySelector('#complete-photo');
+const finalizeStatus = document.querySelector('#location-finalize');
+const finalizeButton = document.querySelector('#finalize-location');
+let pipelineEnabled = false;
 let records = [];
 let currentRecord = null;
 let currentIndex = -1;
@@ -261,7 +269,31 @@ function machineLabel(machine) {
   return `Máquina ${machine} · ${prepared}/${items.length} recortes${completed ? ' · completa' : ''}`;
 }
 
+function updateLocationProgress() {
+  const prepared = records.filter(record => record.prepared).length;
+  const completed = records.filter(record => record.photo_completed).length;
+  const ready = records.length > 0 && prepared === records.length && completed === records.length;
+  if (!records.length) {
+    finalizeStatus.textContent = 'Escolhe uma location para acompanhar a conclusão.';
+    finalizeButton.disabled = true;
+    return;
+  }
+  if (!pipelineEnabled) {
+    finalizeStatus.textContent = 'A finalização automática só está disponível quando abres o recortador pelo main.py.';
+    finalizeButton.disabled = true;
+    return;
+  }
+  if (ready) {
+    finalizeStatus.textContent = `${records.length}/${records.length} moedas prontas. O envio publicará os ficheiros e atualizará apenas as diferenças na Base44.`;
+    finalizeButton.disabled = false;
+    return;
+  }
+  finalizeStatus.textContent = `${prepared}/${records.length} recortes preparados · ${completed}/${records.length} moedas com fotografia confirmada.`;
+  finalizeButton.disabled = true;
+}
+
 function updatePhotoProgress() {
+  updateLocationProgress();
   const items = recordsForMachine(currentMachine);
   if (!items.length) {
     photoProgress.className = 'photo-progress';
@@ -493,6 +525,32 @@ completePhotoButton.onclick = async () => {
   } catch (error) { showError(error); updatePhotoProgress(); }
 };
 
+finalizeButton.onclick = async () => {
+  const ready = records.length > 0 && records.every(record => record.prepared && record.photo_completed);
+  if (!ready || !pipelineEnabled) return;
+  const locationName = locationInput.selectedOptions[0]?.textContent || locationInput.value;
+  const confirmed = window.confirm(
+    `Finalizar ${locationName}?\n\nOs recortes serão publicados no GitHub e apenas os campos diferentes serão atualizados na Base44.`
+  );
+  if (!confirmed) return;
+  finalizeButton.disabled = true;
+  finalizeStatus.textContent = 'Pedido enviado. Acompanha no terminal: validar → publicar → verificar → atualizar Base44.';
+  statusBox.textContent = 'A finalizar a location. O processamento continua automaticamente no terminal.';
+  try {
+    const response = await fetch('/api/finalize', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({location_id: locationInput.value})
+    });
+    const result = await response.json();
+    if (!response.ok) throw new Error(result.error || 'Não foi possível finalizar a location.');
+    finalizeStatus.textContent = result.message || 'Finalização iniciada. Acompanha o resultado no terminal.';
+  } catch (error) {
+    showError(error);
+    updateLocationProgress();
+  }
+};
+
 document.addEventListener('paste', event => {
   const item = [...event.clipboardData.items].find(value => value.type.startsWith('image/'));
   if (item) { event.preventDefault(); loadBlob(item.getAsFile()).catch(showError); }
@@ -547,6 +605,8 @@ function showError(error) { statusBox.textContent = `Erro: ${error.message || er
 loadLocations().catch(showError);
 
 fetch('/api/bootstrap').then(response => response.json()).then(async result => {
+  pipelineEnabled = Boolean(result.can_finalize);
+  updateLocationProgress();
   if (!result.url) return;
   const response = await fetch(result.url);
   await loadBlob(await response.blob(), result.name || '');
@@ -787,9 +847,40 @@ def clean_isolated_edge_residue(image: Image.Image) -> tuple[Image.Image, bool, 
     return cleaned, removed, centered
 
 
+def completion_request(
+    output_dir: Path,
+    records: list[dict[str, object]],
+    location_id: str,
+) -> dict[str, object]:
+    matching = [record for record in records if str(record["_location_id"]) == location_id]
+    if not matching:
+        raise ValueError("Esta location já não pertence à fila pendente.")
+    manifest = read_manifest(output_dir)
+    missing = [record for record in matching if str(record["id"]) not in manifest]
+    if missing:
+        raise ValueError(f"Ainda existem {len(missing)} moedas por recortar nesta location.")
+    statuses = read_photo_status(output_dir)
+    incomplete = []
+    for machine in sorted({int(record["_machine"]) for record in matching}):
+        record = next(record for record in matching if int(record["_machine"]) == machine)
+        status = statuses.get(photo_status_key(record))
+        if not isinstance(status, dict) or not status.get("completed"):
+            incomplete.append(machine)
+    if incomplete:
+        machines = ", ".join(str(machine) for machine in incomplete)
+        raise ValueError(f"Confirma primeiro as fotografias das máquinas: {machines}.")
+    return {
+        "location_id": location_id,
+        "location_name": str(matching[0].get("location_name") or f"location {location_id}"),
+        "records": len(matching),
+        "machines": len({int(record["_machine"]) for record in matching}),
+    }
+
+
 class CropperServer(ThreadingHTTPServer):
     output_dir: Path
     bootstrap_source: Path | None
+    completion_file: Path | None
     records_cache: list[dict[str, object]] | None
     records_by_id: dict[str, dict[str, object]]
     source_cache: dict[str, str]
@@ -931,7 +1022,12 @@ class Handler(BaseHTTPRequestHandler):
             return
         if path == "/api/bootstrap":
             source = self.server.bootstrap_source
-            self.send_json({"url": "/bootstrap-image", "name": source.name} if source else {})
+            payload: dict[str, object] = {
+                "can_finalize": self.server.completion_file is not None,
+            }
+            if source:
+                payload.update({"url": "/bootstrap-image", "name": source.name})
+            self.send_json(payload)
             return
         if path == "/bootstrap-image" and self.server.bootstrap_source:
             self.send_file(self.server.bootstrap_source)
@@ -951,6 +1047,8 @@ class Handler(BaseHTTPRequestHandler):
                 self.save_crop()
             elif path == "/api/photo-status":
                 self.save_photo_status()
+            elif path == "/api/finalize":
+                self.save_finalize()
             else:
                 self.send_error(HTTPStatus.NOT_FOUND)
         except (OSError, ValueError, KeyError, Image.UnidentifiedImageError) as exc:
@@ -983,6 +1081,26 @@ class Handler(BaseHTTPRequestHandler):
         for record in matching:
             set_photo_status(self.server.output_dir, record, completed)
         self.send_json({"completed": completed, "machine": machine})
+
+    def save_finalize(self) -> None:
+        if self.server.completion_file is None:
+            raise ValueError("Abre o recortador através do main.py para usar o envio automático.")
+        payload = json.loads(self.request_body())
+        location_id = str(payload.get("location_id") or "")
+        request = completion_request(self.server.output_dir, self.pending_records(), location_id)
+        destination = self.server.completion_file
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        temporary = destination.with_suffix(".tmp")
+        temporary.write_text(
+            json.dumps(request, ensure_ascii=False, indent=2) + "\n",
+            encoding="utf-8",
+        )
+        temporary.replace(destination)
+        self.send_json({
+            **request,
+            "message": "Recortes validados. O envio automático continua no terminal.",
+        })
+        Thread(target=self.server.shutdown, daemon=True).start()
 
     def save_source(self) -> None:
         data = self.request_body()
@@ -1104,6 +1222,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT, help="Pasta de teste para originais e recortes.")
     parser.add_argument("--host", default="127.0.0.1")
     parser.add_argument("--port", type=int, default=8765)
+    parser.add_argument("--completion-file", type=Path, help="Ficheiro de sinalização usado pelo fluxo completo do main.py.")
     parser.add_argument("--no-browser", action="store_true", help="Não abre o browser automaticamente.")
     return parser.parse_args()
 
@@ -1118,13 +1237,17 @@ def main() -> int:
     server = CropperServer((args.host, args.port), Handler)
     server.output_dir = output
     server.bootstrap_source = bootstrap
+    server.completion_file = args.completion_file.resolve() if args.completion_file else None
     server.records_cache = None
     server.records_by_id = {}
     server.source_cache = {}
     url = f"http://{args.host}:{args.port}"
     print(f"Recortador disponível em {url}")
     print(f"Recortes de teste: {output / 'crops'}")
-    print("Termina com Ctrl+C.")
+    if server.completion_file:
+        print("Usa ‘Finalizar e enviar’ no browser quando a location estiver completa.")
+    else:
+        print("Termina com Ctrl+C.")
     if not args.no_browser:
         webbrowser.open(url)
     try:

@@ -4,17 +4,19 @@
 from __future__ import annotations
 
 import json
+from hashlib import sha256
 import os
 import shutil
 import subprocess
 import sys
 import time
 from pathlib import Path
+from tempfile import TemporaryDirectory
 from urllib.error import URLError
 from urllib.parse import quote
 from urllib.request import Request, urlopen
 
-from scripts.sync_coin_images_api import country_folder
+from scripts.sync_coin_images_api import country_folder, run_git
 
 
 ROOT = Path(__file__).resolve().parent
@@ -24,6 +26,9 @@ CHECK_SCRIPT = SCRIPTS / "check_ucoin_links_api.py"
 CATALOG_SYNC_SCRIPT = SCRIPTS / "sync_catalog_images_api.py"
 CATALOG_CHECK_SCRIPT = SCRIPTS / "check_catalog_links_api.py"
 SOUVENIR_CROPPER_SCRIPT = ROOT / "tools" / "souvenir_cropper.py"
+SOUVENIR_PROMOTE_SCRIPT = ROOT / "tools" / "promote_souvenir_crops.py"
+SOUVENIR_UPDATE_SCRIPT = ROOT / "tools" / "update_souvenir_manifest_api.py"
+SOUVENIR_COUNTRY_DIR = ROOT / "fotos" / "paises" / "America" / "EUA" / "souvenir"
 
 CATALOG_LABELS = {
     "normal": "Moedas normais",
@@ -116,7 +121,7 @@ def choose_souvenir_full_action() -> str | None:
     print(
         "\n=== Trocar imagens dos Souvenirs ===\n"
         "1. Processar automaticamente\n"
-        "2. Abrir recortador manual\n"
+        "2. Recortar manualmente e enviar\n"
         "0. Voltar"
     )
     choice = input("Escolha uma opção: ").strip()
@@ -130,27 +135,49 @@ def choose_souvenir_full_action() -> str | None:
     return action
 
 
-def launch_souvenir_cropper() -> None:
+def launch_souvenir_cropper() -> dict[str, object] | None:
     if not SOUVENIR_CROPPER_SCRIPT.is_file():
         print(f"Recortador não encontrado: {SOUVENIR_CROPPER_SCRIPT}")
-        return
-    print("\nA abrir o recortador em http://127.0.0.1:8765 ...")
-    print("Os recortes ficam na área de preparação e ainda não alteram a Base44.")
-    process = subprocess.Popen([sys.executable, str(SOUVENIR_CROPPER_SCRIPT)], cwd=ROOT)
-    time.sleep(1)
-    if process.poll() is not None:
-        print("O recortador terminou antes de ficar disponível. Confirma se a porta 8765 está livre.")
-        return
-    try:
-        input("\nQuando terminares os recortes, prime Enter para fechar a ferramenta...")
-    finally:
-        process.terminate()
+        return None
+    with TemporaryDirectory(prefix="all-coins-souvenir-") as temporary:
+        completion_file = Path(temporary) / "completion.json"
+        command = [
+            sys.executable,
+            str(SOUVENIR_CROPPER_SCRIPT),
+            "--completion-file",
+            str(completion_file),
+        ]
+        print("\nA abrir o recortador em http://127.0.0.1:8765 ...")
+        print("Recorta e confirma as fotografias; no fim usa ‘Finalizar e enviar’ no browser.")
+        print("Os recortes ficam guardados mesmo que canceles com Ctrl+C.")
+        process = subprocess.Popen(command, cwd=ROOT)
+        time.sleep(1)
+        if process.poll() is not None:
+            print("O recortador terminou antes de ficar disponível. Confirma se a porta 8765 está livre.")
+            return None
         try:
-            process.wait(timeout=5)
-        except subprocess.TimeoutExpired:
-            process.kill()
             process.wait()
-    print("Recortador fechado. Os ficheiros preparados foram mantidos.")
+        except KeyboardInterrupt:
+            process.terminate()
+            try:
+                process.wait(timeout=5)
+            except subprocess.TimeoutExpired:
+                process.kill()
+                process.wait()
+            print("\nRecortador cancelado. Os ficheiros preparados foram mantidos.")
+            return None
+        if not completion_file.is_file():
+            print("Recortador fechado sem pedido de finalização. Os ficheiros preparados foram mantidos.")
+            return None
+        try:
+            request = json.loads(completion_file.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError) as exc:
+            print(f"Não foi possível ler o pedido de finalização: {exc}")
+            return None
+        if not isinstance(request, dict):
+            print("O pedido de finalização devolvido pelo recortador é inválido.")
+            return None
+        return request
 
 
 def read_pending_report(catalog: str, record_type: str | None = None) -> dict[str, object] | None:
@@ -411,6 +438,173 @@ def worktree_has_only_country_changes(countries: list[str], catalog: str) -> boo
     return True
 
 
+def worktree_has_only_souvenir_location_changes(location_id: str) -> bool:
+    staging_manifest = ROOT / "recortes_souvenir_teste" / "manifest.json"
+    try:
+        staging = json.loads(staging_manifest.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as exc:
+        print(f"Não foi possível delimitar os ficheiros desta location: {exc}")
+        return False
+    entries = [
+        entry
+        for entry in staging.values()
+        if isinstance(entry, dict) and str(entry.get("location_id")) == location_id
+    ]
+    if not entries:
+        print(f"Não existem recortes preparados para a location {location_id}.")
+        return False
+    root = SOUVENIR_COUNTRY_DIR.relative_to(ROOT)
+    allowed = {
+        (root / "links-internos.txt").as_posix(),
+        (root / "links-externos.txt").as_posix(),
+        (root / "recortes-manifest.json").as_posix(),
+    }
+    allowed.update(
+        (root / "frente" / Path(str(entry.get("file") or "")).name).as_posix()
+        for entry in entries
+    )
+    machines = {int(entry.get("machine") or 0) for entry in entries}
+    original_prefixes = [
+        (root / "original" / f"location-{location_id}-machine-{machine}").as_posix()
+        for machine in machines
+    ]
+    result = subprocess.run(
+        ["git", "status", "--porcelain"], cwd=ROOT, capture_output=True, text=True
+    )
+    if result.returncode != 0:
+        print(result.stderr or "Não foi possível verificar o estado do Git.")
+        return False
+    changed = [line[3:] for line in result.stdout.splitlines() if len(line) > 3]
+    unexpected = [
+        item
+        for item in changed
+        if item not in allowed
+        and not any(
+            item.startswith(f"{prefix}.")
+            and Path(item).suffix.lower() in {".jpg", ".jpeg", ".png", ".gif", ".webp"}
+            for prefix in original_prefixes
+        )
+    ]
+    if unexpected:
+        print("Existem alterações fora da location selecionada:")
+        for item in unexpected:
+            print(f"- {item}")
+        return False
+    return True
+
+
+def verify_souvenir_raw_images(location_id: str, commit_sha: str) -> bool:
+    manifest_path = SOUVENIR_COUNTRY_DIR / "recortes-manifest.json"
+    try:
+        manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as exc:
+        print(f"Não foi possível verificar o manifesto promovido: {exc}")
+        return False
+    entries = [
+        entry
+        for entry in manifest.values()
+        if isinstance(entry, dict) and str(entry.get("location_id")) == location_id
+    ]
+    if not entries:
+        print(f"O manifesto promovido não contém a location {location_id}.")
+        return False
+    print(f"\nA verificar {len(entries)} imagens publicadas no GitHub raw...")
+    for index, entry in enumerate(entries, 1):
+        relative = str(entry.get("front_file") or "")
+        url = str(entry.get("internal_front") or "")
+        local = SOUVENIR_COUNTRY_DIR / relative
+        if not local.is_file() or not url.startswith("https://raw.githubusercontent.com/"):
+            print(f"Imagem promovida inválida: {relative or url}")
+            return False
+        expected = sha256(local.read_bytes()).hexdigest()
+        separator = "&" if "?" in url else "?"
+        verified = False
+        for attempt in range(1, 6):
+            try:
+                request = Request(
+                    f"{url}{separator}commit={quote(commit_sha)}",
+                    headers={"Cache-Control": "no-cache", "User-Agent": "All-Coins/1.0"},
+                )
+                with urlopen(request, timeout=30) as response:
+                    actual = sha256(response.read()).hexdigest()
+                if actual == expected:
+                    verified = True
+                    break
+            except (OSError, URLError):
+                pass
+            if attempt < 5:
+                time.sleep(2)
+        if not verified:
+            print(f"A imagem publicada ainda não corresponde ao ficheiro local: {url}")
+            return False
+        print(f"✓ [{index}/{len(entries)}] {Path(relative).name}")
+    return True
+
+
+def finalize_manual_souvenirs(request: dict[str, object]) -> bool:
+    location_id = str(request.get("location_id") or "")
+    location_name = str(request.get("location_name") or f"location {location_id}")
+    if not location_id:
+        print("O recortador não indicou a location a finalizar.")
+        return False
+    print(f"\n===== Finalizar Souvenirs: {location_name} ({location_id}) =====")
+    if not worktree_has_only_souvenir_location_changes(location_id):
+        print("Os recortes continuam guardados e podem ser finalizados depois.")
+        return False
+    base_command = [sys.executable, str(SOUVENIR_PROMOTE_SCRIPT), "--location-id", location_id]
+    if not run(base_command):
+        print("A validação falhou; nada foi publicado nem alterado na Base44.")
+        return False
+    if not run([*base_command, "--apply"]):
+        print("A promoção falhou; a Base44 não foi alterada.")
+        return False
+    if not worktree_has_only_souvenir_location_changes(location_id):
+        print("A promoção criou alterações inesperadas; publicação interrompida.")
+        return False
+    try:
+        status = run_git(["status", "--porcelain"])
+        if status:
+            relative = SOUVENIR_COUNTRY_DIR.relative_to(ROOT).as_posix()
+            print(f"\nGit: add {relative}")
+            run_git(["add", "--", relative])
+            message = f"Add {location_name} souvenir images"
+            print(f"Git: commit -m {message!r}")
+            run_git(["commit", "-m", message])
+        else:
+            print("Git: os ficheiros promovidos já estavam guardados num commit.")
+        print("Git: push")
+        run_git(["push"])
+        local_sha = run_git(["rev-parse", "HEAD"]).strip()
+        remote_line = run_git(["ls-remote", "--exit-code", "origin", "refs/heads/main"])
+        remote_sha = remote_line.split()[0] if remote_line.split() else ""
+    except RuntimeError as exc:
+        print(f"Falha ao publicar: {exc}")
+        print("A Base44 não foi alterada; podes repetir a finalização depois.")
+        return False
+    if remote_sha != local_sha:
+        print(f"O main remoto ({remote_sha or 'desconhecido'}) não corresponde ao commit local ({local_sha}).")
+        print("A Base44 não foi alterada.")
+        return False
+    print(f"Git: publicação confirmada em {local_sha[:12]}.")
+    if not verify_souvenir_raw_images(location_id, local_sha):
+        print("A Base44 não foi alterada; repete a finalização quando os ficheiros estiverem disponíveis.")
+        return False
+    update_command = [
+        sys.executable,
+        str(SOUVENIR_UPDATE_SCRIPT),
+        "--location-id",
+        location_id,
+    ]
+    if not run(update_command):
+        print("A pré-verificação da Base44 falhou; nenhuma atualização foi enviada.")
+        return False
+    if not run([*update_command, "--apply"]):
+        print("A atualização da Base44 falhou. Consulta o resultado acima antes de repetir.")
+        return False
+    print(f"\nFinalização concluída: {location_name} foi publicada e verificada na Base44.")
+    return True
+
+
 def process_countries(
     countries: list[str], mode: str, catalog: str, record_type: str | None = None
 ) -> None:
@@ -510,7 +704,9 @@ def main() -> int:
             if souvenir_action is None:
                 continue
             if souvenir_action == "manual":
-                launch_souvenir_cropper()
+                completion = launch_souvenir_cropper()
+                if completion is not None:
+                    finalize_manual_souvenirs(completion)
                 wait_for_continue()
                 continue
         countries = choose_countries(catalog, record_type)

@@ -28,26 +28,30 @@ abrir o recortador manual. O recortador:
 - avança automaticamente depois de guardares cada recorte;
 - guarda a associação ao ID num manifesto local, sem escrever ainda na Base44.
 
-Quando todas as fotografias de uma location estiverem confirmadas, valida e
-promove os originais, recortes, manifesto e links para a árvore canónica:
+Quando todas as fotografias da location estiverem confirmadas, o botão
+`Finalizar e enviar` fica disponível. Ao abrir o recortador através do
+`main.py`, esse botão executa o fluxo completo automaticamente:
+
+1. valida as dimensões e o estado de todas as fotografias da location;
+2. promove originais, recortes, manifesto e links para a árvore canónica;
+3. cria o commit e faz push apenas dos ficheiros dessa location;
+4. confirma que o `main` remoto tem o mesmo SHA e que cada URL raw tem o mesmo
+   conteúdo do ficheiro local;
+5. faz um dry-run da Base44 e aplica apenas os campos diferentes
+   (`image_front` e/ou `display_orientation`);
+6. relê cada registo para confirmar a alteração e a preservação dos restantes
+   campos.
+
+Se a publicação ou a verificação raw falhar, a Base44 não é alterada e os
+recortes preparados ficam guardados para repetir a finalização. Para recuperação
+manual, os mesmos passos continuam disponíveis com âmbito explícito:
 
 ```bash
-python3 tools/promote_souvenir_crops.py
-python3 tools/promote_souvenir_crops.py --apply
-```
-
-O primeiro comando apenas valida. O segundo só promove fotografias marcadas
-como completas e recortes com as dimensões finais corretas. Depois do commit,
-push e verificação dos URLs raw, atualiza apenas os IDs desse manifesto:
-
-```bash
+python3 tools/promote_souvenir_crops.py --location-id 1851
+python3 tools/promote_souvenir_crops.py --location-id 1851 --apply
 python3 tools/update_souvenir_manifest_api.py --location-id 1851
 python3 tools/update_souvenir_manifest_api.py --location-id 1851 --apply
 ```
-
-O primeiro comando volta a ser um dry-run; o segundo envia apenas os campos
-que diferem (`image_front` e/ou `display_orientation`) e relê cada registo para
-confirmar a alteração e a preservação dos restantes campos.
 
 Os comandos técnicos estão em [docs/COMMANDS.md](docs/COMMANDS.md).
 
