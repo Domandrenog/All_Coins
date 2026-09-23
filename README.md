@@ -45,8 +45,9 @@ python3 tools/update_souvenir_manifest_api.py --location-id 1851
 python3 tools/update_souvenir_manifest_api.py --location-id 1851 --apply
 ```
 
-O primeiro comando volta a ser um dry-run; o segundo atualiza e relê cada
-registo para confirmar o URL, a orientação e a preservação dos restantes campos.
+O primeiro comando volta a ser um dry-run; o segundo envia apenas os campos
+que diferem (`image_front` e/ou `display_orientation`) e relê cada registo para
+confirmar a alteração e a preservação dos restantes campos.
 
 Os comandos técnicos estão em [docs/COMMANDS.md](docs/COMMANDS.md).
 

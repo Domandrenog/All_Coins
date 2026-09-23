@@ -18,8 +18,12 @@ DEFAULT_MANIFEST = (
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from scripts.sync_catalog_images_api import mutable_payload, verify_preserved_record  # noqa: E402
-from scripts.sync_coin_images_api import API_KEY_ENV, api_request, load_dotenv  # noqa: E402
+from scripts.sync_coin_images_api import (  # noqa: E402
+    API_KEY_ENV,
+    READ_ONLY_FIELDS,
+    api_request,
+    load_dotenv,
+)
 
 
 def load_manifest(path: Path, location_id: str | None) -> list[tuple[str, dict[str, object]]]:
@@ -75,6 +79,34 @@ def preflight(
     return prepared
 
 
+def difference_payload(
+    record: dict[str, object],
+    entry: dict[str, object],
+) -> dict[str, object]:
+    target_url, orientation = desired_values(entry)
+    payload: dict[str, object] = {}
+    if record.get("image_front") != target_url:
+        payload["image_front"] = target_url
+    if record.get("display_orientation") != orientation:
+        payload["display_orientation"] = orientation
+    return payload
+
+
+def verify_partial_update(
+    before: dict[str, object],
+    after: dict[str, object],
+    payload: dict[str, object],
+) -> None:
+    for field, expected in payload.items():
+        if after.get(field) != expected:
+            raise RuntimeError(f"A API não guardou o campo esperado: {field}")
+    for field, value in before.items():
+        if field in READ_ONLY_FIELDS or field in payload:
+            continue
+        if after.get(field) != value:
+            raise RuntimeError(f"Campo alterado inesperadamente: {field}")
+
+
 def apply_updates(
     api_key: str,
     prepared: list[tuple[dict[str, object], dict[str, object]]],
@@ -84,35 +116,25 @@ def apply_updates(
     total = len(prepared)
     started = time.monotonic()
     for index, (before, entry) in enumerate(prepared, 1):
-        target_url, orientation = desired_values(entry)
-        if (
-            before.get("image_front") == target_url
-            and before.get("display_orientation") == orientation
-        ):
+        payload = difference_payload(before, entry)
+        if not payload:
             unchanged += 1
             print(f"✓ [{index}/{total}] já atualizado — {before.get('name') or before['id']}")
             continue
-        back_url = str(before.get("image_back") or "")
-        payload = mutable_payload(before, "souvenir", target_url, back_url, orientation)
         record_id = str(before["id"])
         api_request("PUT", f"/entities/Souvenir/{record_id}", api_key, payload=payload)
         after = api_request("GET", f"/entities/Souvenir/{record_id}", api_key)
         if not isinstance(after, dict):
             raise RuntimeError(f"Resposta inesperada ao verificar {record_id}.")
-        verify_preserved_record(
-            before,
-            after,
-            {"frente": target_url, "tras": back_url},
-            "souvenir",
-            payload,
-        )
+        verify_partial_update(before, after, payload)
         updated += 1
         elapsed = time.monotonic() - started
         average = elapsed / index
         eta = average * (total - index)
         print(
             f"✓ [{index}/{total} | {index / total * 100:.0f}% | "
-            f"decorrido {elapsed:.0f}s | ETA {eta:.0f}s] {before.get('name') or record_id}"
+            f"decorrido {elapsed:.0f}s | ETA {eta:.0f}s] "
+            f"{before.get('name') or record_id} — campos: {', '.join(payload)}"
         )
     return updated, unchanged
 
@@ -152,12 +174,20 @@ def main() -> int:
     try:
         rows = load_manifest(args.manifest.resolve(), args.location_id)
         prepared = preflight(api_key, rows)
-        pending = sum(
-            record.get("image_front") != desired_values(entry)[0]
-            or record.get("display_orientation") != desired_values(entry)[1]
+        differences = [
+            (record, difference_payload(record, entry))
             for record, entry in prepared
+            if difference_payload(record, entry)
+        ]
+        print(
+            f"Pré-verificação concluída: {len(prepared)} registos; "
+            f"{len(differences)} pendentes."
         )
-        print(f"Pré-verificação concluída: {len(prepared)} registos; {pending} pendentes.")
+        for record, payload in differences:
+            print(
+                f"- {record.get('name') or record['id']} ({record['id']}): "
+                f"{', '.join(payload)}"
+            )
         if not args.apply:
             print("Dry-run concluído; a Base44 não foi alterada.")
             return 0
