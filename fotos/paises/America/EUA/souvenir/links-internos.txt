@@ -22,8 +22,32 @@ united-states-anna-pressed-orlando-ea9d6e4f:
 united-states-ant-man-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-ant-man-pressed-orlando.jpg
 
+united-states-apollo-11-capsule-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-apollo-11-capsule-pressed-merritt-island.jpg
+
+united-states-apollo-11-eagle-logo-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-apollo-11-eagle-logo-pressed-merritt-island.jpg
+
+united-states-apollo-logo-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-apollo-logo-pressed-merritt-island.jpg
+
+united-states-apollo-moon-rover-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-apollo-moon-rover-pressed-merritt-island.jpg
+
+united-states-apollo-xiii-logo-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-apollo-xiii-logo-pressed-merritt-island.jpg
+
 united-states-ariel-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-ariel-pressed-orlando.jpg
+
+united-states-artemus-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-artemus-pressed-merritt-island.jpg
+
+united-states-astronaut-on-the-moon-with-u-s-flag-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-astronaut-on-the-moon-with-u-s-flag-pressed-merritt-island.jpg
+
+united-states-astronaut-stepping-onto-moon-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-astronaut-stepping-onto-moon-pressed-merritt-island.jpg
 
 united-states-baby-donald-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-baby-donald-pressed-orlando.jpg
@@ -121,6 +145,9 @@ united-states-cinderella-pressed-orlando-f68c3123:
 united-states-classic-mickey-mouse-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-classic-mickey-mouse-pressed-orlando.jpg
 
+united-states-close-up-of-an-astronaut-on-moon-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-close-up-of-an-astronaut-on-moon-pressed-merritt-island.jpg
+
 united-states-daisy-and-donald-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-daisy-and-donald-pressed-orlando.jpg
 
@@ -202,6 +229,18 @@ united-states-firefighter-mickey-pressed-orlando:
 united-states-fl-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-fl-pressed-orlando.jpg
 
+united-states-flat-globe-view-of-western-hemisphere-with-florida-usa-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-flat-globe-view-of-western-hemisphere-with-florida-usa-pressed-merritt-island.jpg
+
+united-states-flat-nasa-logo-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-flat-nasa-logo-pressed-merritt-island.jpg
+
+united-states-flat-nasa-logo-with-florida-usa-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-flat-nasa-logo-with-florida-usa-pressed-merritt-island.jpg
+
+united-states-gateway-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-gateway-pressed-merritt-island.jpg
+
 united-states-goofy-pressed-orlando-05643de5:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-goofy-pressed-orlando-05643de5.jpg
 
@@ -247,6 +286,9 @@ united-states-hawkeye-pressed-orlando:
 united-states-heartford-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-heartford-pressed-orlando.jpg
 
+united-states-heat-with-space-princess-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-heat-with-space-princess-pressed-merritt-island.jpg
+
 united-states-hitchhiking-ghost-ezra-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-hitchhiking-ghost-ezra-pressed-orlando.jpg
 
@@ -256,14 +298,23 @@ united-states-hitchhiking-ghost-gus-pressed-orlando:
 united-states-hitchhiking-ghost-phineas-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-hitchhiking-ghost-phineas-pressed-orlando.jpg
 
+united-states-hollow-nasa-logo-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-hollow-nasa-logo-pressed-merritt-island.jpg
+
 united-states-house-of-blues-logo-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-house-of-blues-logo-pressed-orlando.jpg
+
+united-states-hubble-space-telescope-nasa-logo-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-hubble-space-telescope-nasa-logo-pressed-merritt-island.jpg
 
 united-states-hulk-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-hulk-pressed-orlando.jpg
 
 united-states-identity-discs-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-identity-discs-pressed-orlando.jpg
+
+united-states-international-space-station-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-international-space-station-pressed-merritt-island.jpg
 
 united-states-iron-man-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-iron-man-pressed-orlando.jpg
@@ -337,6 +388,9 @@ united-states-louis-the-alligator-pressed-orlando:
 united-states-luke-skywalker-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-luke-skywalker-pressed-orlando.jpg
 
+united-states-lunar-rover-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-lunar-rover-pressed-merritt-island.jpg
+
 united-states-mama-odie-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mama-odie-pressed-orlando.jpg
 
@@ -345,6 +399,12 @@ united-states-marching-band-donald-pressed-orlando:
 
 united-states-marching-band-pluto-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-marching-band-pluto-pressed-orlando.jpg
+
+united-states-mars-rover-pressed-merritt-island-7568a643:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mars-rover-pressed-merritt-island-7568a643.jpg
+
+united-states-mars-rover-pressed-merritt-island-8807e141:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mars-rover-pressed-merritt-island-8807e141.jpg
 
 united-states-marvel-agents-of-s-h-i-e-l-d-logo-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-marvel-agents-of-s-h-i-e-l-d-logo-pressed-orlando.jpg
@@ -360,10 +420,13 @@ united-states-mayor-of-halloween-town-pressed-orlando:
 
 united-states-mayra-and-other-critters-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mayra-and-other-critters-pressed-orlando.jpg
-  tras: 
+  tras:
 
 united-states-mayra-the-frog-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mayra-the-frog-pressed-orlando.jpg
+
+united-states-mercury-7-round-logo-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mercury-7-round-logo-pressed-merritt-island.jpg
 
 united-states-merida-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-merida-pressed-orlando.jpg
@@ -497,6 +560,9 @@ united-states-mr-incredible-and-dash-pressed-orlando:
 united-states-mr-incredible-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mr-incredible-pressed-orlando.jpg
 
+united-states-nasa-logo-on-u-s-flag-background-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-nasa-logo-on-u-s-flag-background-pressed-merritt-island.jpg
+
 united-states-naveen-and-tiana-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-naveen-and-tiana-pressed-orlando.jpg
 
@@ -520,6 +586,12 @@ united-states-oogie-boogie-face-pressed-orlando:
 
 united-states-orchestra-conductor-mickey-mouse-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-orchestra-conductor-mickey-mouse-pressed-orlando.jpg
+
+united-states-orion-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-orion-pressed-merritt-island.jpg
+
+united-states-orion-space-capsule-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-orion-space-capsule-pressed-merritt-island.jpg
 
 united-states-ozzie-laying-to-the-right-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-ozzie-laying-to-the-right-pressed-orlando.jpg
@@ -602,8 +674,59 @@ united-states-rio-pressed-orlando:
 united-states-roo-using-his-tail-to-hold-himself-up-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-roo-using-his-tail-to-hold-himself-up-pressed-orlando.jpg
 
+united-states-rounded-nasa-logo-surrounded-by-planets-and-stars-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-rounded-nasa-logo-surrounded-by-planets-and-stars-pressed-merritt-island.jpg
+
+united-states-rounded-nasa-logo-with-6-stars-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-rounded-nasa-logo-with-6-stars-pressed-merritt-island.jpg
+
 united-states-sally-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-sally-pressed-orlando.jpg
+
+united-states-saturn-5-rocket-number-5-instead-of-the-roman-numeral-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-saturn-5-rocket-number-5-instead-of-the-roman-numeral-pressed-merritt-island.jpg
+
+united-states-saturn-v-rocket-launching-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-saturn-v-rocket-launching-pressed-merritt-island.jpg
+
+united-states-saturn-v-rocket-roman-numeral-v-for-5-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-saturn-v-rocket-roman-numeral-v-for-5-pressed-merritt-island.jpg
+
+united-states-shuttle-in-flight-viewed-from-above-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-shuttle-in-flight-viewed-from-above-pressed-merritt-island.jpg
+
+united-states-shuttle-in-space-viewed-from-above-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-shuttle-in-space-viewed-from-above-pressed-merritt-island.jpg
+
+united-states-shuttle-landing-with-a-parachute-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-shuttle-landing-with-a-parachute-pressed-merritt-island.jpg
+
+united-states-shuttle-launch-experience-logo-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-shuttle-launch-experience-logo-pressed-merritt-island.jpg
+
+united-states-shuttle-launch-without-kennedy-space-center-on-coin-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-shuttle-launch-without-kennedy-space-center-on-coin-pressed-merritt-island.jpg
+
+united-states-shuttle-launching-viewed-from-above-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-shuttle-launching-viewed-from-above-pressed-merritt-island.jpg
+
+united-states-shuttle-launching-with-a-view-from-above-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-shuttle-launching-with-a-view-from-above-pressed-merritt-island.jpg
+
+united-states-shuttle-on-boeing-747-inscribed-shuttle-enterprise-747-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-shuttle-on-boeing-747-inscribed-shuttle-enterprise-747-pressed-merritt-island.jpg
+
+united-states-shuttle-on-boeing-747-pressed-merritt-island-4b2dd436:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-shuttle-on-boeing-747-pressed-merritt-island-4b2dd436.jpg
+
+united-states-shuttle-on-boeing-747-pressed-merritt-island-4b2dd43d:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-shuttle-on-boeing-747-pressed-merritt-island-4b2dd43d.jpg
+
+united-states-shuttle-with-cargo-door-open-and-arm-extended-with-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-shuttle-with-cargo-door-open-and-arm-extended-with-pressed-merritt-island.jpg
+
+united-states-shuttle-with-sunshine-background-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-shuttle-with-sunshine-background-pressed-merritt-island.jpg
 
 united-states-shy-mickey-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-shy-mickey-pressed-orlando.jpg
@@ -641,6 +764,18 @@ united-states-space-mountain-mickey-pressed-orlando-05643ddf:
 united-states-space-mountain-mickey-pressed-orlando-0bd7f5cf:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-space-mountain-mickey-pressed-orlando-0bd7f5cf.jpg
 
+united-states-space-shuttle-landing-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-space-shuttle-landing-pressed-merritt-island.jpg
+
+united-states-space-shuttle-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-space-shuttle-pressed-merritt-island.jpg
+
+united-states-space-shuttle-with-flag-background-without-kennedy-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-space-shuttle-with-flag-background-without-kennedy-pressed-merritt-island.jpg
+
+united-states-spaceport-ksc-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-spaceport-ksc-pressed-merritt-island.jpg
+
 united-states-speedway-driver-mickey-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-speedway-driver-mickey-pressed-orlando.jpg
 
@@ -664,6 +799,9 @@ united-states-stormtrooper-pressed-orlando-c4d59a0e:
 
 united-states-sulley-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-sulley-pressed-orlando.jpg
+
+united-states-telescope-with-reach-for-the-stars-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-telescope-with-reach-for-the-stars-pressed-merritt-island.jpg
 
 united-states-thor-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-thor-pressed-orlando.jpg
@@ -706,6 +844,12 @@ united-states-tinker-bell-pressed-orlando-f68c3121:
 
 united-states-train-engineer-mickey-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-train-engineer-mickey-pressed-orlando.jpg
+
+united-states-triangle-logo-with-shuttle-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-triangle-logo-with-shuttle-pressed-merritt-island.jpg
+
+united-states-triangle-logo-with-space-shuttle-pressed-merritt-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-triangle-logo-with-space-shuttle-pressed-merritt-island.jpg
 
 united-states-triceratops-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-triceratops-pressed-orlando.jpg

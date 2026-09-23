@@ -23,6 +23,7 @@ SYNC_SCRIPT = SCRIPTS / "sync_coin_images_api.py"
 CHECK_SCRIPT = SCRIPTS / "check_ucoin_links_api.py"
 CATALOG_SYNC_SCRIPT = SCRIPTS / "sync_catalog_images_api.py"
 CATALOG_CHECK_SCRIPT = SCRIPTS / "check_catalog_links_api.py"
+SOUVENIR_CROPPER_SCRIPT = ROOT / "tools" / "souvenir_cropper.py"
 
 CATALOG_LABELS = {
     "normal": "Moedas normais",
@@ -89,6 +90,67 @@ def choose_catalog(*, allow_all: bool = False) -> list[str] | None:
         print("Opção inválida.")
         return None
     return [catalog]
+
+
+def choose_specific_stage() -> str | None:
+    clear_screen()
+    print(
+        "\n=== Specific stage ===\n"
+        "1. Descarregar imagens\n"
+        "2. Trocar URLs na Base44\n"
+        "0. Voltar"
+    )
+    choice = input("Escolha uma etapa: ").strip()
+    if choice == "0":
+        return None
+    stages = {"1": "download", "2": "api"}
+    stage = stages.get(choice)
+    if not stage:
+        print("Opção inválida.")
+        return None
+    return stage
+
+
+def choose_souvenir_full_action() -> str | None:
+    clear_screen()
+    print(
+        "\n=== Trocar imagens dos Souvenirs ===\n"
+        "1. Processar automaticamente\n"
+        "2. Abrir recortador manual\n"
+        "0. Voltar"
+    )
+    choice = input("Escolha uma opção: ").strip()
+    if choice == "0":
+        return None
+    actions = {"1": "automatic", "2": "manual"}
+    action = actions.get(choice)
+    if not action:
+        print("Opção inválida.")
+        return None
+    return action
+
+
+def launch_souvenir_cropper() -> None:
+    if not SOUVENIR_CROPPER_SCRIPT.is_file():
+        print(f"Recortador não encontrado: {SOUVENIR_CROPPER_SCRIPT}")
+        return
+    print("\nA abrir o recortador em http://127.0.0.1:8765 ...")
+    print("Os recortes ficam na área de preparação e ainda não alteram a Base44.")
+    process = subprocess.Popen([sys.executable, str(SOUVENIR_CROPPER_SCRIPT)], cwd=ROOT)
+    time.sleep(1)
+    if process.poll() is not None:
+        print("O recortador terminou antes de ficar disponível. Confirma se a porta 8765 está livre.")
+        return
+    try:
+        input("\nQuando terminares os recortes, prime Enter para fechar a ferramenta...")
+    finally:
+        process.terminate()
+        try:
+            process.wait(timeout=5)
+        except subprocess.TimeoutExpired:
+            process.kill()
+            process.wait()
+    print("Recortador fechado. Os ficheiros preparados foram mantidos.")
 
 
 def read_pending_report(catalog: str, record_type: str | None = None) -> dict[str, object] | None:
@@ -405,9 +467,8 @@ def print_menu() -> None:
         "\n=== All Coins ===\n"
         "1. Verificar toda a API\n"
         "2. Trocar imagens e atualizar a Base44\n"
-        "3. Descarregar imagens\n"
-        "4. Trocar URLs na Base44\n"
-        "0. Sair"
+        "3. Specific stage\n"
+        "4. Sair"
     )
 
 
@@ -415,7 +476,7 @@ def main() -> int:
     while True:
         print_menu()
         choice = input("Escolha uma opção: ").strip()
-        if choice == "0":
+        if choice in {"0", "4"}:
             return 0
         if choice == "1":
             catalogs = choose_catalog(allow_all=True)
@@ -430,8 +491,13 @@ def main() -> int:
                     run(command, accepted_codes={0, 1})
                 wait_for_continue()
             continue
-        modes = {"2": "full", "3": "download", "4": "api"}
-        if choice not in modes:
+        if choice == "2":
+            mode = "full"
+        elif choice == "3":
+            mode = choose_specific_stage()
+            if mode is None:
+                continue
+        else:
             print("Opção inválida.")
             continue
         catalogs = choose_catalog()
@@ -439,9 +505,17 @@ def main() -> int:
             continue
         catalog = catalogs[0]
         record_type = catalog_type_filter(catalog)
+        if catalog == "souvenir" and mode == "full":
+            souvenir_action = choose_souvenir_full_action()
+            if souvenir_action is None:
+                continue
+            if souvenir_action == "manual":
+                launch_souvenir_cropper()
+                wait_for_continue()
+                continue
         countries = choose_countries(catalog, record_type)
         if countries:
-            process_countries(countries, modes[choice], catalog, record_type)
+            process_countries(countries, mode, catalog, record_type)
             wait_for_continue()
 
 

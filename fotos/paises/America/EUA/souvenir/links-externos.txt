@@ -22,8 +22,32 @@ united-states-anna-pressed-orlando-ea9d6e4f:
 united-states-ant-man-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16084.jpg
 
+united-states-apollo-11-capsule-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_d29e871d-84d5-4d0e-9b38-b2fd6a26f9fb.jpg
+
+united-states-apollo-11-eagle-logo-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_7d0b3aa9-41b6-4e52-a118-6c1bf167c659.jpg
+
+united-states-apollo-logo-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_d29e871d-84d5-4d0e-9b38-b2fd6a26f9fb.jpg
+
+united-states-apollo-moon-rover-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_7d0b3aa9-41b6-4e52-a118-6c1bf167c659.jpg
+
+united-states-apollo-xiii-logo-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_c7a07781-3343-4015-afb6-1cfb2fe5c6df.jpg
+
 united-states-ariel-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18111.jpg
+
+united-states-artemus-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_446fd88d-9995-4272-97f7-180fb4d2d155.jpg
+
+united-states-astronaut-on-the-moon-with-u-s-flag-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_4b49d804-6775-453a-8e77-57e3de513824.jpg
+
+united-states-astronaut-stepping-onto-moon-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_70d7399b-91dc-490d-8671-395006b08c88.jpg
 
 united-states-baby-donald-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW18145.jpg
@@ -121,6 +145,9 @@ united-states-cinderella-pressed-orlando-f68c3123:
 united-states-classic-mickey-mouse-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/MGM0073.jpg
 
+united-states-close-up-of-an-astronaut-on-moon-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_c7a07781-3343-4015-afb6-1cfb2fe5c6df.jpg
+
 united-states-daisy-and-donald-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW18142.jpg
 
@@ -202,6 +229,18 @@ united-states-firefighter-mickey-pressed-orlando:
 united-states-fl-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW17039.jpg
 
+united-states-flat-globe-view-of-western-hemisphere-with-florida-usa-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_a18c603f-d049-4240-9a72-cad754a52868.jpg
+
+united-states-flat-nasa-logo-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_d29e871d-84d5-4d0e-9b38-b2fd6a26f9fb.jpg
+
+united-states-flat-nasa-logo-with-florida-usa-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_a18c603f-d049-4240-9a72-cad754a52868.jpg
+
+united-states-gateway-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_446fd88d-9995-4272-97f7-180fb4d2d155.jpg
+
 united-states-goofy-pressed-orlando-05643de5:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW18088.jpg
 
@@ -247,6 +286,9 @@ united-states-hawkeye-pressed-orlando:
 united-states-heartford-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW25073.jpg
 
+united-states-heat-with-space-princess-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_70d7399b-91dc-490d-8671-395006b08c88.jpg
+
 united-states-hitchhiking-ghost-ezra-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/MK0194.jpg
 
@@ -256,14 +298,23 @@ united-states-hitchhiking-ghost-gus-pressed-orlando:
 united-states-hitchhiking-ghost-phineas-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/MK0195.jpg
 
+united-states-hollow-nasa-logo-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_493ac5be-d99e-4bc4-aa32-c8df1c361cb2.jpg
+
 united-states-house-of-blues-logo-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/DTD0100.jpg
+
+united-states-hubble-space-telescope-nasa-logo-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_70d7399b-91dc-490d-8671-395006b08c88.jpg
 
 united-states-hulk-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16024.jpg
 
 united-states-identity-discs-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW23089.jpg
+
+united-states-international-space-station-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_493ac5be-d99e-4bc4-aa32-c8df1c361cb2.jpg
 
 united-states-iron-man-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16023.jpg
@@ -337,6 +388,9 @@ united-states-louis-the-alligator-pressed-orlando:
 united-states-luke-skywalker-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17026.jpg
 
+united-states-lunar-rover-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_c7a07781-3343-4015-afb6-1cfb2fe5c6df.jpg
+
 united-states-mama-odie-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW25034.jpg
 
@@ -345,6 +399,12 @@ united-states-marching-band-donald-pressed-orlando:
 
 united-states-marching-band-pluto-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW20032.jpg
+
+united-states-mars-rover-pressed-merritt-island-7568a643:
+  frente: http://locations.pennycollector.com/images/machine_9e0a0273-ec3c-441f-9492-7c739df2bf10.jpg
+
+united-states-mars-rover-pressed-merritt-island-8807e141:
+  frente: http://locations.pennycollector.com/images/machine_7d0b3aa9-41b6-4e52-a118-6c1bf167c659.jpg
 
 united-states-marvel-agents-of-s-h-i-e-l-d-logo-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16083.jpg
@@ -360,10 +420,13 @@ united-states-mayor-of-halloween-town-pressed-orlando:
 
 united-states-mayra-and-other-critters-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW24087.jpg
-  tras: 
+  tras:
 
 united-states-mayra-the-frog-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW25035.jpg
+
+united-states-mercury-7-round-logo-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_9e2031ca-2d74-4972-b5ef-6b9929f85212.jpg
 
 united-states-merida-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW20122.jpg
@@ -497,6 +560,9 @@ united-states-mr-incredible-and-dash-pressed-orlando:
 united-states-mr-incredible-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW24055.jpg
 
+united-states-nasa-logo-on-u-s-flag-background-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_4b49d804-6775-453a-8e77-57e3de513824.jpg
+
 united-states-naveen-and-tiana-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW24082.jpg
 
@@ -520,6 +586,12 @@ united-states-oogie-boogie-face-pressed-orlando:
 
 united-states-orchestra-conductor-mickey-mouse-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW20028.jpg
+
+united-states-orion-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_446fd88d-9995-4272-97f7-180fb4d2d155.jpg
+
+united-states-orion-space-capsule-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_4905a4b0-62de-4692-ad9c-8ced82da2e02.jpg
 
 united-states-ozzie-laying-to-the-right-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW25056.jpg
@@ -602,8 +674,59 @@ united-states-rio-pressed-orlando:
 united-states-roo-using-his-tail-to-hold-himself-up-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18117.jpg
 
+united-states-rounded-nasa-logo-surrounded-by-planets-and-stars-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_4905a4b0-62de-4692-ad9c-8ced82da2e02.jpg
+
+united-states-rounded-nasa-logo-with-6-stars-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_9e0a0273-ec3c-441f-9492-7c739df2bf10.jpg
+
 united-states-sally-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17106.jpg
+
+united-states-saturn-5-rocket-number-5-instead-of-the-roman-numeral-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_d29e871d-84d5-4d0e-9b38-b2fd6a26f9fb.jpg
+
+united-states-saturn-v-rocket-launching-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_c7a07781-3343-4015-afb6-1cfb2fe5c6df.jpg
+
+united-states-saturn-v-rocket-roman-numeral-v-for-5-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_9e0a0273-ec3c-441f-9492-7c739df2bf10.jpg
+
+united-states-shuttle-in-flight-viewed-from-above-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_4905a4b0-62de-4692-ad9c-8ced82da2e02.jpg
+
+united-states-shuttle-in-space-viewed-from-above-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_493ac5be-d99e-4bc4-aa32-c8df1c361cb2.jpg
+
+united-states-shuttle-landing-with-a-parachute-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_9e2031ca-2d74-4972-b5ef-6b9929f85212.jpg
+
+united-states-shuttle-launch-experience-logo-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_5c718ff3-1452-4527-a621-ec536c5d2c5d.jpg
+
+united-states-shuttle-launch-without-kennedy-space-center-on-coin-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_a18c603f-d049-4240-9a72-cad754a52868.jpg
+
+united-states-shuttle-launching-viewed-from-above-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_4905a4b0-62de-4692-ad9c-8ced82da2e02.jpg
+
+united-states-shuttle-launching-with-a-view-from-above-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_493ac5be-d99e-4bc4-aa32-c8df1c361cb2.jpg
+
+united-states-shuttle-on-boeing-747-inscribed-shuttle-enterprise-747-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_7d0b3aa9-41b6-4e52-a118-6c1bf167c659.jpg
+
+united-states-shuttle-on-boeing-747-pressed-merritt-island-4b2dd436:
+  frente: http://locations.pennycollector.com/images/machine_5c718ff3-1452-4527-a621-ec536c5d2c5d.jpg
+
+united-states-shuttle-on-boeing-747-pressed-merritt-island-4b2dd43d:
+  frente: http://locations.pennycollector.com/images/machine_9e2031ca-2d74-4972-b5ef-6b9929f85212.jpg
+
+united-states-shuttle-with-cargo-door-open-and-arm-extended-with-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_a18c603f-d049-4240-9a72-cad754a52868.jpg
+
+united-states-shuttle-with-sunshine-background-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_5c718ff3-1452-4527-a621-ec536c5d2c5d.jpg
 
 united-states-shy-mickey-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18100.jpg
@@ -641,6 +764,18 @@ united-states-space-mountain-mickey-pressed-orlando-05643ddf:
 united-states-space-mountain-mickey-pressed-orlando-0bd7f5cf:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW17081.jpg
 
+united-states-space-shuttle-landing-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_4b49d804-6775-453a-8e77-57e3de513824.jpg
+
+united-states-space-shuttle-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_70d7399b-91dc-490d-8671-395006b08c88.jpg
+
+united-states-space-shuttle-with-flag-background-without-kennedy-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_9e0a0273-ec3c-441f-9492-7c739df2bf10.jpg
+
+united-states-spaceport-ksc-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_446fd88d-9995-4272-97f7-180fb4d2d155.jpg
+
 united-states-speedway-driver-mickey-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW16064.jpg
 
@@ -664,6 +799,9 @@ united-states-stormtrooper-pressed-orlando-c4d59a0e:
 
 united-states-sulley-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW25011.jpg
+
+united-states-telescope-with-reach-for-the-stars-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_4b49d804-6775-453a-8e77-57e3de513824.jpg
 
 united-states-thor-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16026.jpg
@@ -706,6 +844,12 @@ united-states-tinker-bell-pressed-orlando-f68c3121:
 
 united-states-train-engineer-mickey-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW19068.jpg
+
+united-states-triangle-logo-with-shuttle-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_5c718ff3-1452-4527-a621-ec536c5d2c5d.jpg
+
+united-states-triangle-logo-with-space-shuttle-pressed-merritt-island:
+  frente: http://locations.pennycollector.com/images/machine_9e2031ca-2d74-4972-b5ef-6b9929f85212.jpg
 
 united-states-triceratops-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW25071.jpg

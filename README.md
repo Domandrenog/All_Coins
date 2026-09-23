@@ -8,8 +8,37 @@ Para o fluxo normal, usa:
 python3 main.py
 ```
 
-O menu permite verificar a API, preparar imagens, executar a migração completa
-ou alterar apenas os URLs da Base44, escolhendo um país ou todos os pendentes.
+O menu principal permite verificar a API, executar a migração completa ou abrir
+`Specific stage`. Nesse submenu ficam as operações isoladas de descarregar
+imagens e trocar apenas os URLs da Base44.
+
+No fluxo completo de `Souvenirs`, podes escolher o processamento automático ou
+abrir o recortador manual. O recortador:
+
+- agrupa as prensadas externas por `location`;
+- ordena-as por máquina e posição;
+- mostra o nome da moeda que deves recortar;
+- reutiliza a mesma montagem nas moedas da mesma máquina;
+- mostra as moedas da fotografia numa grelha 2x2 clicável;
+- usa cada cartão para selecionar ou voltar a editar diretamente uma moeda;
+- mostra na galeria apenas os recortes da máquina selecionada;
+- centra automaticamente a moeda e equilibra as margens do recorte final;
+- mostra se a fotografia está por completar, pronta para confirmar ou completa;
+- permite confirmar ou reabrir explicitamente uma fotografia concluída;
+- avança automaticamente depois de guardares cada recorte;
+- guarda a associação ao ID num manifesto local, sem escrever ainda na Base44.
+
+Quando todas as fotografias de uma location estiverem confirmadas, valida e
+promove os originais, recortes, manifesto e links para a árvore canónica:
+
+```bash
+python3 tools/promote_souvenir_crops.py
+python3 tools/promote_souvenir_crops.py --apply
+```
+
+O primeiro comando apenas valida. O segundo só promove fotografias marcadas
+como completas e recortes com as dimensões finais corretas.
+
 Os comandos técnicos estão em [docs/COMMANDS.md](docs/COMMANDS.md).
 
 Este repositório guarda imagens do catálogo por continente e país e atualiza

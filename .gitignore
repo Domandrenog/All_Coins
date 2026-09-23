@@ -2,5 +2,6 @@
 .env
 ucoin_probe_output/
 ucoin_probe_verso/
+recortes_souvenir_teste/
 __pycache__/
 *.pyc
