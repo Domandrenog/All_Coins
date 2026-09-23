@@ -73,6 +73,10 @@ united-states-black-panther-pressed-orlando:
 united-states-black-widow-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-black-widow-pressed-orlando.jpg
 
+united-states-boston-skyline-coin-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-boston-skyline-coin-boston.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/tras/united-states-boston-skyline-coin-boston.jpg
+
 united-states-bouncing-tigger-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-bouncing-tigger-pressed-orlando.jpg
 
@@ -219,6 +223,10 @@ united-states-elsa-pressed-orlando-ea9d6e50:
 
 united-states-falcon-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-falcon-pressed-orlando.jpg
+
+united-states-faneuil-hall-coin-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-faneuil-hall-coin-boston.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/tras/united-states-faneuil-hall-coin-boston.jpg
 
 united-states-firefighter-donald-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-firefighter-donald-pressed-orlando.jpg
@@ -590,6 +598,18 @@ united-states-octopus-pressed-orlando:
 united-states-olaf-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-olaf-pressed-orlando.jpg
 
+united-states-old-north-church-coin-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-old-north-church-coin-boston.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/tras/united-states-old-north-church-coin-boston.jpg
+
+united-states-old-south-meeting-house-coin-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-old-south-meeting-house-coin-boston.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/tras/united-states-old-south-meeting-house-coin-boston.jpg
+
+united-states-old-state-house-coin-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-old-state-house-coin-boston.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/tras/united-states-old-state-house-coin-boston.jpg
+
 united-states-oogie-boogie-face-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-oogie-boogie-face-pressed-orlando.jpg
 
@@ -816,7 +836,8 @@ united-states-telescope-with-reach-for-the-stars-pressed-merritt-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-telescope-with-reach-for-the-stars-pressed-merritt-island.jpg
 
 united-states-the-american-revolution-collectible-token-album-other-boston:
-  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-the-american-revolution-collectible-token-album-other-boston.jpg
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-the-american-revolution-collectible-token-album-other-boston-a3eaf20e.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/tras/united-states-the-american-revolution-collectible-token-album-other-boston.jpg
 
 united-states-the-seattle-space-needle-penny-book-other-seattle:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-the-seattle-space-needle-penny-book-other-seattle.jpg

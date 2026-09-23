@@ -73,6 +73,10 @@ united-states-black-panther-pressed-orlando:
 united-states-black-widow-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16028.jpg
 
+united-states-boston-skyline-coin-boston:
+  frente: https://static.wixstatic.com/media/1c5ac7_960dba6ddf764d91a134ebbbaf1ea5cc~mv2.png/v1/fill/w_498,h_472,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1c5ac7_960dba6ddf764d91a134ebbbaf1ea5cc~mv2.png
+  tras: https://static.wixstatic.com/media/1c5ac7_36421e6adad040e98126a14ed9fcc4cc~mv2.jpg/v1/fill/w_498,h_472,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1c5ac7_36421e6adad040e98126a14ed9fcc4cc~mv2.jpg
+
 united-states-bouncing-tigger-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW24097.jpg
 
@@ -219,6 +223,10 @@ united-states-elsa-pressed-orlando-ea9d6e50:
 
 united-states-falcon-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16088.jpg
+
+united-states-faneuil-hall-coin-boston:
+  frente: https://static.wixstatic.com/media/1c5ac7_960dba6ddf764d91a134ebbbaf1ea5cc~mv2.png/v1/fill/w_498,h_472,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1c5ac7_960dba6ddf764d91a134ebbbaf1ea5cc~mv2.png
+  tras: https://static.wixstatic.com/media/1c5ac7_36421e6adad040e98126a14ed9fcc4cc~mv2.jpg/v1/fill/w_498,h_472,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1c5ac7_36421e6adad040e98126a14ed9fcc4cc~mv2.jpg
 
 united-states-firefighter-donald-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18020.jpg
@@ -590,6 +598,18 @@ united-states-octopus-pressed-orlando:
 united-states-olaf-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/EPC0161-DTD0121.jpg
 
+united-states-old-north-church-coin-boston:
+  frente: https://static.wixstatic.com/media/1c5ac7_960dba6ddf764d91a134ebbbaf1ea5cc~mv2.png/v1/fill/w_498,h_472,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1c5ac7_960dba6ddf764d91a134ebbbaf1ea5cc~mv2.png
+  tras: https://static.wixstatic.com/media/1c5ac7_36421e6adad040e98126a14ed9fcc4cc~mv2.jpg/v1/fill/w_498,h_472,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1c5ac7_36421e6adad040e98126a14ed9fcc4cc~mv2.jpg
+
+united-states-old-south-meeting-house-coin-boston:
+  frente: https://static.wixstatic.com/media/1c5ac7_960dba6ddf764d91a134ebbbaf1ea5cc~mv2.png/v1/fill/w_498,h_472,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1c5ac7_960dba6ddf764d91a134ebbbaf1ea5cc~mv2.png
+  tras: https://static.wixstatic.com/media/1c5ac7_36421e6adad040e98126a14ed9fcc4cc~mv2.jpg/v1/fill/w_498,h_472,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1c5ac7_36421e6adad040e98126a14ed9fcc4cc~mv2.jpg
+
+united-states-old-state-house-coin-boston:
+  frente: https://static.wixstatic.com/media/1c5ac7_960dba6ddf764d91a134ebbbaf1ea5cc~mv2.png/v1/fill/w_498,h_472,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1c5ac7_960dba6ddf764d91a134ebbbaf1ea5cc~mv2.png
+  tras: https://static.wixstatic.com/media/1c5ac7_36421e6adad040e98126a14ed9fcc4cc~mv2.jpg/v1/fill/w_498,h_472,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1c5ac7_36421e6adad040e98126a14ed9fcc4cc~mv2.jpg
+
 united-states-oogie-boogie-face-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17104.jpg
 
@@ -817,6 +837,7 @@ united-states-telescope-with-reach-for-the-stars-pressed-merritt-island:
 
 united-states-the-american-revolution-collectible-token-album-other-boston:
   frente: https://shop.americasnationalparks.org/cdn/shop/files/449342TheAmericanRevolutionCollectibleTokenAlbum_695x695.jpg?v=1770820509
+  tras: https://shop.americasnationalparks.org/cdn/shop/files/449342TheAmericanRevolutionCollectibleTokenAlbum2_617x617.jpg?v=1770820509
 
 united-states-the-seattle-space-needle-penny-book-other-seattle:
   frente: http://locations.pennycollector.com/images/machine_c037becc-dcc5-4881-a9de-37c2e392baae.jpg
