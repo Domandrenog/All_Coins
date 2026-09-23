@@ -61,6 +61,9 @@ united-states-bamba-pressed-orlando:
 united-states-barrel-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17108.jpg
 
+united-states-battle-of-bunker-hill-pressed-boston:
+  frente: http://locations.pennycollector.com/images/machine_f9d62d6f-4d29-4d7b-9796-cc4db11f44f3.png
+
 united-states-belle-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW25010.jpg
 
@@ -73,9 +76,24 @@ united-states-black-panther-pressed-orlando:
 united-states-black-widow-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16028.jpg
 
+united-states-boston-common-pressed-boston:
+  frente: http://locations.pennycollector.com/images/machine_910dd734-d7ba-4291-b447-69ee209f53f2.jpg
+
+united-states-boston-pressed-boston:
+  frente: http://locations.pennycollector.com/images/machine_28e2b435-ac19-40c6-b6d3-04a70d8c0adb.gif
+
+united-states-boston-public-garden-swan-boat-pressed-boston:
+  frente: http://locations.pennycollector.com/images/machine_28e2b435-ac19-40c6-b6d3-04a70d8c0adb.gif
+
+united-states-boston-s-best-boston-baked-beans-pressed-boston:
+  frente: http://locations.pennycollector.com/images/machine_910dd734-d7ba-4291-b447-69ee209f53f2.jpg
+
 united-states-boston-skyline-coin-boston:
   frente: https://static.wixstatic.com/media/1c5ac7_960dba6ddf764d91a134ebbbaf1ea5cc~mv2.png/v1/fill/w_498,h_472,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1c5ac7_960dba6ddf764d91a134ebbbaf1ea5cc~mv2.png
   tras: https://static.wixstatic.com/media/1c5ac7_36421e6adad040e98126a14ed9fcc4cc~mv2.jpg/v1/fill/w_498,h_472,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1c5ac7_36421e6adad040e98126a14ed9fcc4cc~mv2.jpg
+
+united-states-boston-skyline-pressed-boston:
+  frente: http://locations.pennycollector.com/images/machine_910dd734-d7ba-4291-b447-69ee209f53f2.jpg
 
 united-states-bouncing-tigger-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW24097.jpg
@@ -173,6 +191,9 @@ united-states-dancing-minnie-pressed-orlando:
 united-states-darth-vader-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17025.jpg
 
+united-states-david-ortiz-baseball-player-pressed-boston-81c99a45:
+  frente: http://locations.pennycollector.com/images/machine_858c1830-9b05-4973-b5d3-2f36d4fc9ce5.png
+
 united-states-disney-springs-logo-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/DTD0124.jpg
 
@@ -224,9 +245,24 @@ united-states-elsa-pressed-orlando-ea9d6e50:
 united-states-falcon-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16088.jpg
 
+united-states-faneuil-hall-baston-ma-pressed-boston:
+  frente: http://locations.pennycollector.com/images/machine_0fd3406f-1566-4355-a72c-8c05118cfd08.jpg
+
+united-states-faneuil-hall-baston-mass-pressed-boston:
+  frente: http://locations.pennycollector.com/images/machine_28e2b435-ac19-40c6-b6d3-04a70d8c0adb.gif
+
+united-states-faneuil-hall-boston-mass-faneuil-hall-pressed-boston:
+  frente: http://locations.pennycollector.com/images/machine_686fa5ca-e3d7-4472-a273-9a4a451afebb.jpg
+
 united-states-faneuil-hall-coin-boston:
   frente: https://static.wixstatic.com/media/1c5ac7_960dba6ddf764d91a134ebbbaf1ea5cc~mv2.png/v1/fill/w_498,h_472,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1c5ac7_960dba6ddf764d91a134ebbbaf1ea5cc~mv2.png
   tras: https://static.wixstatic.com/media/1c5ac7_36421e6adad040e98126a14ed9fcc4cc~mv2.jpg/v1/fill/w_498,h_472,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1c5ac7_36421e6adad040e98126a14ed9fcc4cc~mv2.jpg
+
+united-states-faneuil-hall-marketplace-logo-pressed-boston-81c99a44:
+  frente: http://locations.pennycollector.com/images/machine_858c1830-9b05-4973-b5d3-2f36d4fc9ce5.png
+
+united-states-fenway-park-pressed-boston:
+  frente: http://locations.pennycollector.com/images/machine_a0e17339-c4b5-47f3-a468-1f5947dad0c8.jpg
 
 united-states-firefighter-donald-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18020.jpg
@@ -303,6 +339,9 @@ united-states-heartford-pressed-orlando:
 united-states-heat-with-space-princess-pressed-merritt-island:
   frente: http://locations.pennycollector.com/images/machine_70d7399b-91dc-490d-8671-395006b08c88.jpg
 
+united-states-historic-beacon-hill-boston-pressed-boston:
+  frente: http://locations.pennycollector.com/images/machine_910dd734-d7ba-4291-b447-69ee209f53f2.jpg
+
 united-states-hitchhiking-ghost-ezra-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/MK0194.jpg
 
@@ -345,6 +384,9 @@ united-states-jessie-pressed-orlando-52b737b9:
 united-states-jiminy-cricket-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18115.jpg
 
+united-states-john-f-kennedy-john-f-kennedy-35th-president-pressed-boston:
+  frente: http://locations.pennycollector.com/images/machine_686fa5ca-e3d7-4472-a273-9a4a451afebb.jpg
+
 united-states-jungle-cruise-elephant-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW25032.jpg
 
@@ -378,6 +420,9 @@ united-states-lightcycle-pressed-orlando:
 united-states-lilo-stitch-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17016.jpg
 
+united-states-little-brewster-island-pressed-boston:
+  frente: http://locations.pennycollector.com/images/machine_f9d62d6f-4d29-4d7b-9796-cc4db11f44f3.png
+
 united-states-little-green-man-alien-squeeze-toy-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17078.jpg
 
@@ -398,6 +443,9 @@ united-states-louis-pressed-orlando:
 
 united-states-louis-the-alligator-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW24080.jpg
+
+united-states-lucky-penny-pressed-boston:
+  frente: http://locations.pennycollector.com/images/machine_0fd3406f-1566-4355-a72c-8c05118cfd08.jpg
 
 united-states-luke-skywalker-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17026.jpg
@@ -425,6 +473,9 @@ united-states-marvel-agents-of-s-h-i-e-l-d-logo-pressed-orlando:
 
 united-states-marvel-avengers-logo-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16029.jpg
+
+united-states-massachusetts-the-bay-state-pressed-boston:
+  frente: http://locations.pennycollector.com/images/machine_f9d62d6f-4d29-4d7b-9796-cc4db11f44f3.png
 
 united-states-maya-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW25059.jpg
@@ -568,6 +619,12 @@ united-states-minnie-pressed-orlando-cfed9b52:
 united-states-minnie-pressed-orlando-cfed9b5a:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW20045.jpg
 
+united-states-minute-man-pressed-boston:
+  frente: http://locations.pennycollector.com/images/machine_a0e17339-c4b5-47f3-a468-1f5947dad0c8.jpg
+
+united-states-minuteman-statue-new-england-patriots-pressed-boston:
+  frente: http://locations.pennycollector.com/images/machine_686fa5ca-e3d7-4472-a273-9a4a451afebb.jpg
+
 united-states-mowgli-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18114.jpg
 
@@ -598,6 +655,9 @@ united-states-octopus-pressed-orlando:
 united-states-olaf-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/EPC0161-DTD0121.jpg
 
+united-states-old-ironsides-pressed-boston:
+  frente: http://locations.pennycollector.com/images/machine_a0e17339-c4b5-47f3-a468-1f5947dad0c8.jpg
+
 united-states-old-north-church-coin-boston:
   frente: https://static.wixstatic.com/media/1c5ac7_960dba6ddf764d91a134ebbbaf1ea5cc~mv2.png/v1/fill/w_498,h_472,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1c5ac7_960dba6ddf764d91a134ebbbaf1ea5cc~mv2.png
   tras: https://static.wixstatic.com/media/1c5ac7_36421e6adad040e98126a14ed9fcc4cc~mv2.jpg/v1/fill/w_498,h_472,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1c5ac7_36421e6adad040e98126a14ed9fcc4cc~mv2.jpg
@@ -622,8 +682,14 @@ united-states-orion-pressed-merritt-island:
 united-states-orion-space-capsule-pressed-merritt-island:
   frente: http://locations.pennycollector.com/images/machine_4905a4b0-62de-4692-ad9c-8ced82da2e02.jpg
 
+united-states-ouincy-market-pressed-boston:
+  frente: http://locations.pennycollector.com/images/machine_a0e17339-c4b5-47f3-a468-1f5947dad0c8.jpg
+
 united-states-ozzie-laying-to-the-right-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW25056.jpg
+
+united-states-paul-revere-on-horseback-the-british-are-coming-pressed-boston:
+  frente: http://locations.pennycollector.com/images/machine_686fa5ca-e3d7-4472-a273-9a4a451afebb.jpg
 
 united-states-peter-pan-pressed-orlando-52b737b5:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/MK0088.jpg
@@ -693,6 +759,9 @@ united-states-rainforest-cafe-orlando-logo-pressed-orlando:
 
 united-states-rapunzel-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW20124.jpg
+
+united-states-red-sox-logo-pressed-boston-81c99a43:
+  frente: http://locations.pennycollector.com/images/machine_858c1830-9b05-4973-b5d3-2f36d4fc9ce5.png
 
 united-states-red-the-fire-truck-from-the-disney-pixar-cars-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18023.jpg
@@ -814,6 +883,9 @@ united-states-spiderman-pressed-orlando:
 united-states-star-wars-logo-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17029.jpg
 
+united-states-stegosaurus-pressed-boston:
+  frente: http://locations.pennycollector.com/images/machine_9feb4cb0-961c-4534-98af-afec7d0d7c84.jpg
+
 united-states-stitch-pressed-orlando-0bd7f5c8:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW17035.jpg
 
@@ -829,6 +901,9 @@ united-states-stormtrooper-pressed-orlando-c4d59a0e:
 united-states-sulley-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW25011.jpg
 
+united-states-t-rex-pressed-boston:
+  frente: http://locations.pennycollector.com/images/machine_9feb4cb0-961c-4534-98af-afec7d0d7c84.jpg
+
 united-states-tee-shirt-with-logo-pressed-miami:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-tee-shirt-with-logo-pressed-miami-a38e5a88.jpg
 
@@ -838,6 +913,12 @@ united-states-telescope-with-reach-for-the-stars-pressed-merritt-island:
 united-states-the-american-revolution-collectible-token-album-other-boston:
   frente: https://shop.americasnationalparks.org/cdn/shop/files/449342TheAmericanRevolutionCollectibleTokenAlbum_695x695.jpg?v=1770820509
   tras: https://shop.americasnationalparks.org/cdn/shop/files/449342TheAmericanRevolutionCollectibleTokenAlbum2_617x617.jpg?v=1770820509
+
+united-states-the-massachusetts-state-house-not-the-quincy-market-pressed-boston-81c99a42:
+  frente: http://locations.pennycollector.com/images/machine_858c1830-9b05-4973-b5d3-2f36d4fc9ce5.png
+
+united-states-the-ride-of-paul-revere-pressed-boston:
+  frente: http://locations.pennycollector.com/images/machine_0fd3406f-1566-4355-a72c-8c05118cfd08.jpg
 
 united-states-the-seattle-space-needle-penny-book-other-seattle:
   frente: http://locations.pennycollector.com/images/machine_c037becc-dcc5-4881-a9de-37c2e392baae.jpg
@@ -890,6 +971,9 @@ united-states-triangle-logo-with-shuttle-pressed-merritt-island:
 united-states-triangle-logo-with-space-shuttle-pressed-merritt-island:
   frente: http://locations.pennycollector.com/images/machine_9e2031ca-2d74-4972-b5ef-6b9929f85212.jpg
 
+united-states-triceratops-pressed-boston:
+  frente: http://locations.pennycollector.com/images/machine_9feb4cb0-961c-4534-98af-afec7d0d7c84.jpg
+
 united-states-triceratops-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW25071.jpg
 
@@ -922,6 +1006,12 @@ united-states-user-pressed-orlando-ea9d6e52:
 
 united-states-user-pressed-orlando-ea9d6e53:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW23084.jpg
+
+united-states-uss-constitution-old-ironsides-1797-pressed-boston:
+  frente: http://locations.pennycollector.com/images/machine_28e2b435-ac19-40c6-b6d3-04a70d8c0adb.gif
+
+united-states-velociraptor-pressed-boston:
+  frente: http://locations.pennycollector.com/images/machine_9feb4cb0-961c-4534-98af-afec7d0d7c84.jpg
 
 united-states-velociraptor-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW25069.jpg
@@ -968,6 +1058,9 @@ united-states-woody-pressed-orlando-b2a685c1:
 united-states-wooly-mammoth-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW25074.jpg
 
+united-states-world-champions-boston-red-sox-pressed-boston:
+  frente: http://locations.pennycollector.com/images/machine_f9d62d6f-4d29-4d7b-9796-cc4db11f44f3.png
+
 united-states-worried-winnie-the-pooh-rabbit-touching-mouth-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18118.jpg
 
@@ -976,6 +1069,9 @@ united-states-x-wing-starfighter-pressed-orlando-24c9a06f:
 
 united-states-x-wing-starfighter-pressed-orlando-c4d59a0d:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16045.jpg
+
+united-states-zakim-bridge-pressed-boston:
+  frente: http://locations.pennycollector.com/images/machine_0fd3406f-1566-4355-a72c-8c05118cfd08.jpg
 
 united-states-zero-and-doghouse-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW17103.jpg

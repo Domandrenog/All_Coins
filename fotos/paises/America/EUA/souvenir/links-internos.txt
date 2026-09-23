@@ -61,6 +61,9 @@ united-states-bamba-pressed-orlando:
 united-states-barrel-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-barrel-pressed-orlando.jpg
 
+united-states-battle-of-bunker-hill-pressed-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-battle-of-bunker-hill-pressed-boston.jpg
+
 united-states-belle-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-belle-pressed-orlando.jpg
 
@@ -73,9 +76,24 @@ united-states-black-panther-pressed-orlando:
 united-states-black-widow-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-black-widow-pressed-orlando.jpg
 
+united-states-boston-common-pressed-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-boston-common-pressed-boston.jpg
+
+united-states-boston-pressed-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-boston-pressed-boston.jpg
+
+united-states-boston-public-garden-swan-boat-pressed-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-boston-public-garden-swan-boat-pressed-boston.jpg
+
+united-states-boston-s-best-boston-baked-beans-pressed-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-boston-s-best-boston-baked-beans-pressed-boston.jpg
+
 united-states-boston-skyline-coin-boston:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-boston-skyline-coin-boston.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/tras/united-states-boston-skyline-coin-boston.jpg
+
+united-states-boston-skyline-pressed-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-boston-skyline-pressed-boston.jpg
 
 united-states-bouncing-tigger-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-bouncing-tigger-pressed-orlando.jpg
@@ -173,6 +191,9 @@ united-states-dancing-minnie-pressed-orlando:
 united-states-darth-vader-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-darth-vader-pressed-orlando.jpg
 
+united-states-david-ortiz-baseball-player-pressed-boston-81c99a45:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-david-ortiz-baseball-player-pressed-boston-81c99a45.jpg
+
 united-states-disney-springs-logo-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-disney-springs-logo-pressed-orlando.jpg
 
@@ -224,9 +245,24 @@ united-states-elsa-pressed-orlando-ea9d6e50:
 united-states-falcon-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-falcon-pressed-orlando.jpg
 
+united-states-faneuil-hall-baston-ma-pressed-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-faneuil-hall-baston-ma-pressed-boston.jpg
+
+united-states-faneuil-hall-baston-mass-pressed-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-faneuil-hall-baston-mass-pressed-boston.jpg
+
+united-states-faneuil-hall-boston-mass-faneuil-hall-pressed-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-faneuil-hall-boston-mass-faneuil-hall-pressed-boston.jpg
+
 united-states-faneuil-hall-coin-boston:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-faneuil-hall-coin-boston.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/tras/united-states-faneuil-hall-coin-boston.jpg
+
+united-states-faneuil-hall-marketplace-logo-pressed-boston-81c99a44:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-faneuil-hall-marketplace-logo-pressed-boston-81c99a44.jpg
+
+united-states-fenway-park-pressed-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-fenway-park-pressed-boston.jpg
 
 united-states-firefighter-donald-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-firefighter-donald-pressed-orlando.jpg
@@ -303,6 +339,9 @@ united-states-heartford-pressed-orlando:
 united-states-heat-with-space-princess-pressed-merritt-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-heat-with-space-princess-pressed-merritt-island.jpg
 
+united-states-historic-beacon-hill-boston-pressed-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-historic-beacon-hill-boston-pressed-boston.jpg
+
 united-states-hitchhiking-ghost-ezra-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-hitchhiking-ghost-ezra-pressed-orlando.jpg
 
@@ -345,6 +384,9 @@ united-states-jessie-pressed-orlando-52b737b9:
 united-states-jiminy-cricket-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-jiminy-cricket-pressed-orlando.jpg
 
+united-states-john-f-kennedy-john-f-kennedy-35th-president-pressed-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-john-f-kennedy-john-f-kennedy-35th-president-pressed-boston.jpg
+
 united-states-jungle-cruise-elephant-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-jungle-cruise-elephant-pressed-orlando.jpg
 
@@ -378,6 +420,9 @@ united-states-lightcycle-pressed-orlando:
 united-states-lilo-stitch-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-lilo-stitch-pressed-orlando.jpg
 
+united-states-little-brewster-island-pressed-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-little-brewster-island-pressed-boston.jpg
+
 united-states-little-green-man-alien-squeeze-toy-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-little-green-man-alien-squeeze-toy-pressed-orlando.jpg
 
@@ -398,6 +443,9 @@ united-states-louis-pressed-orlando:
 
 united-states-louis-the-alligator-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-louis-the-alligator-pressed-orlando.jpg
+
+united-states-lucky-penny-pressed-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-lucky-penny-pressed-boston.jpg
 
 united-states-luke-skywalker-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-luke-skywalker-pressed-orlando.jpg
@@ -425,6 +473,9 @@ united-states-marvel-agents-of-s-h-i-e-l-d-logo-pressed-orlando:
 
 united-states-marvel-avengers-logo-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-marvel-avengers-logo-pressed-orlando.jpg
+
+united-states-massachusetts-the-bay-state-pressed-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-massachusetts-the-bay-state-pressed-boston.jpg
 
 united-states-maya-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-maya-pressed-orlando.jpg
@@ -568,6 +619,12 @@ united-states-minnie-pressed-orlando-cfed9b52:
 united-states-minnie-pressed-orlando-cfed9b5a:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-minnie-pressed-orlando-cfed9b5a.jpg
 
+united-states-minute-man-pressed-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-minute-man-pressed-boston.jpg
+
+united-states-minuteman-statue-new-england-patriots-pressed-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-minuteman-statue-new-england-patriots-pressed-boston.jpg
+
 united-states-mowgli-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mowgli-pressed-orlando.jpg
 
@@ -598,6 +655,9 @@ united-states-octopus-pressed-orlando:
 united-states-olaf-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-olaf-pressed-orlando.jpg
 
+united-states-old-ironsides-pressed-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-old-ironsides-pressed-boston.jpg
+
 united-states-old-north-church-coin-boston:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-old-north-church-coin-boston.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/tras/united-states-old-north-church-coin-boston.jpg
@@ -622,8 +682,14 @@ united-states-orion-pressed-merritt-island:
 united-states-orion-space-capsule-pressed-merritt-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-orion-space-capsule-pressed-merritt-island.jpg
 
+united-states-ouincy-market-pressed-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-ouincy-market-pressed-boston.jpg
+
 united-states-ozzie-laying-to-the-right-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-ozzie-laying-to-the-right-pressed-orlando.jpg
+
+united-states-paul-revere-on-horseback-the-british-are-coming-pressed-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-paul-revere-on-horseback-the-british-are-coming-pressed-boston.jpg
 
 united-states-peter-pan-pressed-orlando-52b737b5:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-peter-pan-pressed-orlando-52b737b5.jpg
@@ -693,6 +759,9 @@ united-states-rainforest-cafe-orlando-logo-pressed-orlando:
 
 united-states-rapunzel-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-rapunzel-pressed-orlando.jpg
+
+united-states-red-sox-logo-pressed-boston-81c99a43:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-red-sox-logo-pressed-boston-81c99a43.jpg
 
 united-states-red-the-fire-truck-from-the-disney-pixar-cars-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-red-the-fire-truck-from-the-disney-pixar-cars-pressed-orlando.jpg
@@ -814,6 +883,9 @@ united-states-spiderman-pressed-orlando:
 united-states-star-wars-logo-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-star-wars-logo-pressed-orlando.jpg
 
+united-states-stegosaurus-pressed-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-stegosaurus-pressed-boston.jpg
+
 united-states-stitch-pressed-orlando-0bd7f5c8:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-stitch-pressed-orlando-0bd7f5c8.jpg
 
@@ -829,6 +901,9 @@ united-states-stormtrooper-pressed-orlando-c4d59a0e:
 united-states-sulley-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-sulley-pressed-orlando.jpg
 
+united-states-t-rex-pressed-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-t-rex-pressed-boston.jpg
+
 united-states-tee-shirt-with-logo-pressed-miami:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-tee-shirt-with-logo-pressed-miami.jpg
 
@@ -838,6 +913,12 @@ united-states-telescope-with-reach-for-the-stars-pressed-merritt-island:
 united-states-the-american-revolution-collectible-token-album-other-boston:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-the-american-revolution-collectible-token-album-other-boston-a3eaf20e.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/tras/united-states-the-american-revolution-collectible-token-album-other-boston.jpg
+
+united-states-the-massachusetts-state-house-not-the-quincy-market-pressed-boston-81c99a42:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-the-massachusetts-state-house-not-the-quincy-market-pressed-boston-81c99a42.jpg
+
+united-states-the-ride-of-paul-revere-pressed-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-the-ride-of-paul-revere-pressed-boston.jpg
 
 united-states-the-seattle-space-needle-penny-book-other-seattle:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-the-seattle-space-needle-penny-book-other-seattle.jpg
@@ -890,6 +971,9 @@ united-states-triangle-logo-with-shuttle-pressed-merritt-island:
 united-states-triangle-logo-with-space-shuttle-pressed-merritt-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-triangle-logo-with-space-shuttle-pressed-merritt-island.jpg
 
+united-states-triceratops-pressed-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-triceratops-pressed-boston.jpg
+
 united-states-triceratops-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-triceratops-pressed-orlando.jpg
 
@@ -922,6 +1006,12 @@ united-states-user-pressed-orlando-ea9d6e52:
 
 united-states-user-pressed-orlando-ea9d6e53:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-user-pressed-orlando-ea9d6e53.jpg
+
+united-states-uss-constitution-old-ironsides-1797-pressed-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-uss-constitution-old-ironsides-1797-pressed-boston.jpg
+
+united-states-velociraptor-pressed-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-velociraptor-pressed-boston.jpg
 
 united-states-velociraptor-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-velociraptor-pressed-orlando.jpg
@@ -968,6 +1058,9 @@ united-states-woody-pressed-orlando-b2a685c1:
 united-states-wooly-mammoth-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-wooly-mammoth-pressed-orlando.jpg
 
+united-states-world-champions-boston-red-sox-pressed-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-world-champions-boston-red-sox-pressed-boston.jpg
+
 united-states-worried-winnie-the-pooh-rabbit-touching-mouth-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-worried-winnie-the-pooh-rabbit-touching-mouth-pressed-orlando.jpg
 
@@ -976,6 +1069,9 @@ united-states-x-wing-starfighter-pressed-orlando-24c9a06f:
 
 united-states-x-wing-starfighter-pressed-orlando-c4d59a0d:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-x-wing-starfighter-pressed-orlando-c4d59a0d.jpg
+
+united-states-zakim-bridge-pressed-boston:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-zakim-bridge-pressed-boston.jpg
 
 united-states-zero-and-doghouse-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-zero-and-doghouse-pressed-orlando.jpg
