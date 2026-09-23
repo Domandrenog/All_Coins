@@ -242,7 +242,7 @@ united-states-gateway-pressed-merritt-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-gateway-pressed-merritt-island.jpg
 
 united-states-gibson-les-paul-guitar-pressed-miami:
-  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-gibson-les-paul-guitar-pressed-miami.jpg
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-gibson-les-paul-guitar-pressed-miami-0bbdab58.jpg
 
 united-states-goofy-pressed-orlando-05643de5:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-goofy-pressed-orlando-05643de5.jpg
@@ -284,7 +284,7 @@ united-states-han-solo-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-han-solo-pressed-orlando.jpg
 
 united-states-hard-rock-cafe-logo-pressed-miami:
-  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-hard-rock-cafe-logo-pressed-miami.jpg
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-hard-rock-cafe-logo-pressed-miami-646928fb.jpg
 
 united-states-hawkeye-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-hawkeye-pressed-orlando.jpg
@@ -437,7 +437,7 @@ united-states-merida-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-merida-pressed-orlando.jpg
 
 united-states-miami-city-skyline-inside-a-guitar-pick-pressed-miami:
-  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-miami-city-skyline-inside-a-guitar-pick-pressed-miami.jpg
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-miami-city-skyline-inside-a-guitar-pick-pressed-miami-6e6cebf2.jpg
 
 united-states-mickey-and-donald-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-mickey-and-donald-pressed-orlando.jpg
@@ -809,7 +809,7 @@ united-states-sulley-pressed-orlando:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-sulley-pressed-orlando.jpg
 
 united-states-tee-shirt-with-logo-pressed-miami:
-  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-tee-shirt-with-logo-pressed-miami.jpg
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-tee-shirt-with-logo-pressed-miami-a38e5a88.jpg
   tras:
 
 united-states-telescope-with-reach-for-the-stars-pressed-merritt-island:
