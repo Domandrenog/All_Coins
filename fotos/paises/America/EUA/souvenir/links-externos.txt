@@ -242,7 +242,7 @@ united-states-gateway-pressed-merritt-island:
   frente: http://locations.pennycollector.com/images/machine_446fd88d-9995-4272-97f7-180fb4d2d155.jpg
 
 united-states-gibson-les-paul-guitar-pressed-miami:
-  frente: http://locations.pennycollector.com/images/machine_2aa9ed5f-13c9-4ea1-ab12-fb422bad319d.jpg
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-gibson-les-paul-guitar-pressed-miami-0bbdab58.jpg
 
 united-states-goofy-pressed-orlando-05643de5:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW18088.jpg
@@ -284,7 +284,7 @@ united-states-han-solo-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16052.jpg
 
 united-states-hard-rock-cafe-logo-pressed-miami:
-  frente: http://locations.pennycollector.com/images/machine_2aa9ed5f-13c9-4ea1-ab12-fb422bad319d.jpg
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-hard-rock-cafe-logo-pressed-miami-646928fb.jpg
 
 united-states-hawkeye-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16027.jpg
@@ -437,7 +437,8 @@ united-states-merida-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW20122.jpg
 
 united-states-miami-city-skyline-inside-a-guitar-pick-pressed-miami:
-  frente: http://locations.pennycollector.com/images/machine_2aa9ed5f-13c9-4ea1-ab12-fb422bad319d.jpg
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-miami-city-skyline-inside-a-guitar-pick-pressed-miami-6e6cebf2.jpg
+  tras: 
 
 united-states-mickey-and-donald-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW18106.jpg
@@ -809,11 +810,13 @@ united-states-sulley-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Magic%20Kingdom/large/WDW25011.jpg
 
 united-states-tee-shirt-with-logo-pressed-miami:
-  frente: http://locations.pennycollector.com/images/machine_2aa9ed5f-13c9-4ea1-ab12-fb422bad319d.jpg
-  tras:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/souvenir/frente/united-states-tee-shirt-with-logo-pressed-miami-a38e5a88.jpg
 
 united-states-telescope-with-reach-for-the-stars-pressed-merritt-island:
   frente: http://locations.pennycollector.com/images/machine_4b49d804-6775-453a-8e77-57e3de513824.jpg
+
+united-states-the-seattle-space-needle-penny-book-other-seattle:
+  frente: http://locations.pennycollector.com/images/machine_c037becc-dcc5-4881-a9de-37c2e392baae.jpg
 
 united-states-thor-pressed-orlando:
   frente: https://www.presscoins.com/images/coin_images/Downtown%20Disney/large/WDW16026.jpg
