@@ -17,6 +17,10 @@ portugal-barcelos-rooster-pressed-batalha:
 portugal-catedral-de-benagil-token-machine-one-design-but-can-pressed-albufeira:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-catedral-de-benagil-token-machine-one-design-but-can-pressed-albufeira.jpg
 
+portugal-front-batalha-monastery-building-with-mosteiro-da-coin-batalha:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-front-batalha-monastery-building-with-mosteiro-da-coin-batalha.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-front-batalha-monastery-building-with-mosteiro-da-coin-batalha.jpg
+
 portugal-peneco-beach-with-pedal-boat-and-slide-pressed-albufeira:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-peneco-beach-with-pedal-boat-and-slide-pressed-albufeira.jpg
 

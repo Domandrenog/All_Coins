@@ -17,6 +17,10 @@ portugal-barcelos-rooster-pressed-batalha:
 portugal-catedral-de-benagil-token-machine-one-design-but-can-pressed-albufeira:
   frente: http://locations.pennycollector.com/images/machine_feda9006-4058-4d9d-bd3f-b8439c77e928.jpg
 
+portugal-front-batalha-monastery-building-with-mosteiro-da-coin-batalha:
+  frente: http://locations.pennycollector.com/images/machine_2cf1b858-80f2-461c-8f8f-e6265a03000b.jpg
+  tras: http://locations.pennycollector.com/images/machine_2cf1b858-80f2-461c-8f8f-e6265a03000b.jpg
+
 portugal-peneco-beach-with-pedal-boat-and-slide-pressed-albufeira:
   frente: http://locations.pennycollector.com/images/machine_b7890259-2ff9-4380-9a64-e551400824bf.jpg
 
