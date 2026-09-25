@@ -10,6 +10,7 @@ import argparse
 from collections import deque
 import hashlib
 import json
+import math
 import mimetypes
 import os
 import re
@@ -139,6 +140,11 @@ PAGE = r"""<!doctype html>
       <hr>
       <strong>Recorte selecionado</strong>
       <div id="coords" class="status">Ainda não selecionaste um souvenir.</div>
+      <label for="selection-mode">Modo de seleção</label>
+      <select id="selection-mode">
+        <option value="rectangle">Arrastar retângulo</option>
+        <option value="perspective">Marcar 4 vértices</option>
+      </select>
       <label for="orientation">Formato final</label>
       <select id="orientation">
         <option value="landscape">Deitada — 200 × 115 px</option>
@@ -169,6 +175,7 @@ const statusBox = document.querySelector('#status');
 const machineInput = document.querySelector('#machine');
 const paddingInput = document.querySelector('#padding');
 const orientationInput = document.querySelector('#orientation');
+const selectionModeInput = document.querySelector('#selection-mode');
 const cleanupInput = document.querySelector('#cleanup');
 const saved = document.querySelector('#saved');
 const scopeInput = document.querySelector('#scope');
@@ -195,7 +202,14 @@ let currentMachine = null;
 let imageBlob = null;
 let sourceId = null;
 let selection = null;
+let perspectivePoints = [];
 let start = null;
+
+function resetSelection() {
+  selection = null;
+  perspectivePoints = [];
+  start = null;
+}
 
 function targetSize() {
   if (orientationInput.value === 'square') return {width:140, height:140};
@@ -248,6 +262,23 @@ function point(event) {
   };
 }
 
+function orderedPerspectivePoints() {
+  if (perspectivePoints.length !== 4) return perspectivePoints;
+  const center = perspectivePoints.reduce(
+    (result, value) => ({x: result.x + value.x / 4, y: result.y + value.y / 4}),
+    {x: 0, y: 0}
+  );
+  const ordered = [...perspectivePoints].sort((left, right) =>
+    Math.atan2(left.y - center.y, left.x - center.x) -
+    Math.atan2(right.y - center.y, right.x - center.x)
+  );
+  const first = ordered.reduce(
+    (best, value, index) => value.x + value.y < ordered[best].x + ordered[best].y ? index : best,
+    0
+  );
+  return [...ordered.slice(first), ...ordered.slice(0, first)];
+}
+
 function draw() {
   if (!image.complete || !image.naturalWidth) return;
   ctx.clearRect(0, 0, canvas.width, canvas.height);
@@ -264,15 +295,54 @@ function draw() {
     ctx.strokeRect(selection.x, selection.y, selection.width, selection.height);
     ctx.restore();
   }
+  if (perspectivePoints.length) {
+    const points = orderedPerspectivePoints();
+    ctx.save();
+    ctx.beginPath();
+    ctx.moveTo(points[0].x, points[0].y);
+    points.slice(1).forEach(value => ctx.lineTo(value.x, value.y));
+    if (points.length === 4) {
+      ctx.closePath();
+      ctx.save();
+      ctx.fillStyle = 'rgba(0,0,0,.38)';
+      ctx.fillRect(0, 0, canvas.width, canvas.height);
+      ctx.clip();
+      ctx.drawImage(image, 0, 0);
+      ctx.restore();
+    }
+    ctx.strokeStyle = '#ff6a00';
+    ctx.lineWidth = Math.max(2, canvas.width / 350);
+    ctx.stroke();
+    const radius = Math.max(5, canvas.width / 90);
+    perspectivePoints.forEach(value => {
+      ctx.beginPath();
+      ctx.arc(value.x, value.y, radius, 0, Math.PI * 2);
+      ctx.fillStyle = '#ff6a00';
+      ctx.fill();
+      ctx.strokeStyle = 'white';
+      ctx.lineWidth = Math.max(2, radius / 3);
+      ctx.stroke();
+    });
+    ctx.restore();
+  }
 }
 
 function updateSelection() {
-  const valid = selection && selection.width >= 5 && selection.height >= 5;
+  const perspective = selectionModeInput.value === 'perspective';
+  const rectangleValid = selection && selection.width >= 5 && selection.height >= 5;
+  const valid = perspective ? perspectivePoints.length === 4 : rectangleValid;
   saveButton.disabled = !valid || !sourceId;
-  clearButton.disabled = !selection;
-  coords.textContent = valid
-    ? `x=${Math.round(selection.x)}, y=${Math.round(selection.y)}\nSeleção: ${Math.round(selection.width)} × ${Math.round(selection.height)} px\nSaída: ${targetSize().width} × ${targetSize().height} px`
-    : 'Ainda não selecionaste um souvenir.';
+  clearButton.disabled = perspective ? perspectivePoints.length === 0 : !selection;
+  if (perspective) {
+    const target = targetSize();
+    coords.textContent = perspectivePoints.length === 4
+      ? `4/4 vértices marcados\nCorreção de perspetiva ativa\nSaída: ${target.width} × ${target.height} px`
+      : `Marca os quatro vértices: ${perspectivePoints.length}/4`;
+  } else {
+    coords.textContent = rectangleValid
+      ? `x=${Math.round(selection.x)}, y=${Math.round(selection.y)}\nSeleção: ${Math.round(selection.width)} × ${Math.round(selection.height)} px\nSaída: ${targetSize().width} × ${targetSize().height} px`
+      : 'Ainda não selecionaste um souvenir.';
+  }
 }
 
 async function loadBlob(blob, suggestedName='') {
@@ -292,7 +362,7 @@ async function loadBlob(blob, suggestedName='') {
     canvas.height = image.naturalHeight;
     canvas.style.display = 'block';
     empty.style.display = 'none';
-    selection = null;
+    resetSelection();
     draw();
     updateSelection();
     statusBox.textContent = `Original guardado em:\n${result.path}`;
@@ -424,7 +494,7 @@ function displayRecordImage(blob, sourceResult) {
     canvas.height = image.naturalHeight;
     canvas.style.display = 'block';
     empty.style.display = 'none';
-    selection = null;
+    resetSelection();
     draw();
     updateSelection();
     statusBox.textContent = 'Fotografia carregada. Seleciona o souvenir indicado.';
@@ -439,7 +509,7 @@ async function selectRecord(index) {
   currentMachine = currentRecord.machine;
   cleanupInput.checked = ['pressed', 'coin'].includes(currentRecord.type);
   updateFormatOptions();
-  selection = null;
+  resetSelection();
   draw();
   updateSelection();
   renderMachineGallery();
@@ -654,7 +724,7 @@ function advanceQueue() {
   } else {
     assignment.textContent = `${items[0]?.photo_label || `Fotografia ${currentMachine}`} concluída: ${items.length}/${items.length} recortes preparados.`;
     currentRecord = null;
-    selection = null;
+    resetSelection();
     renderMachineGallery();
     draw();
     updateSelection();
@@ -733,26 +803,45 @@ fileInput.onchange = () => fileInput.files[0] && loadBlob(fileInput.files[0], fi
 ['dragleave', 'drop'].forEach(type => drop.addEventListener(type, event => { event.preventDefault(); drop.classList.remove('active'); }));
 drop.addEventListener('drop', event => event.dataTransfer.files[0] && loadBlob(event.dataTransfer.files[0], event.dataTransfer.files[0].name).catch(showError));
 
-canvas.addEventListener('pointerdown', event => { start = point(event); canvas.setPointerCapture(event.pointerId); selection = {x:start.x,y:start.y,width:0,height:0}; draw(); });
+canvas.addEventListener('pointerdown', event => {
+  const current = point(event);
+  if (selectionModeInput.value === 'perspective') {
+    if (perspectivePoints.length === 4) perspectivePoints = [];
+    perspectivePoints.push(current);
+    selection = null;
+    draw();
+    updateSelection();
+    return;
+  }
+  start = current;
+  canvas.setPointerCapture(event.pointerId);
+  selection = {x:start.x,y:start.y,width:0,height:0};
+  perspectivePoints = [];
+  draw();
+});
 canvas.addEventListener('pointermove', event => {
-  if (!start) return;
+  if (selectionModeInput.value !== 'rectangle' || !start) return;
   const current = point(event);
   selection = fixedSelection(start, current);
   draw(); updateSelection();
 });
 canvas.addEventListener('pointerup', () => { start = null; updateSelection(); });
-orientationInput.onchange = () => { selection = null; draw(); updateSelection(); };
-clearButton.onclick = () => { selection = null; draw(); updateSelection(); };
+selectionModeInput.onchange = () => { resetSelection(); draw(); updateSelection(); };
+orientationInput.onchange = () => { resetSelection(); draw(); updateSelection(); };
+clearButton.onclick = () => { resetSelection(); draw(); updateSelection(); };
 
 saveButton.onclick = async () => {
-  if (!selection || !sourceId) return;
+  const perspective = selectionModeInput.value === 'perspective';
+  const valid = perspective ? perspectivePoints.length === 4 : selection;
+  if (!valid || !sourceId) return;
   saveButton.disabled = true;
   statusBox.textContent = 'A guardar recorte…';
   try {
     const response = await fetch('/api/crop', {method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({
       source_id: sourceId, name: currentRecord ? currentRecord.slug : 'recorte', padding: Number(paddingInput.value || 0),
       record_id: currentRecord ? currentRecord.id : '',
-      orientation: orientationInput.value, cleanup: cleanupInput.checked, ...selection
+      orientation: orientationInput.value, cleanup: cleanupInput.checked,
+      ...(perspective ? {points: perspectivePoints} : selection)
     })});
     const result = await response.json();
     if (!response.ok) throw new Error(result.error || 'Falha ao guardar o recorte.');
@@ -1076,6 +1165,74 @@ def set_photo_status(output_dir: Path, record: dict[str, object], completed: boo
     (output_dir / "photo-status.json").write_text(
         json.dumps(statuses, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
+    )
+
+
+def order_quad_points(
+    points: list[tuple[float, float]],
+) -> tuple[tuple[float, float], ...]:
+    if len(points) != 4:
+        raise ValueError("A correção de perspetiva precisa de quatro vértices.")
+    if len(set(points)) != 4:
+        raise ValueError("Os quatro vértices têm de ser diferentes.")
+    center_x = sum(point[0] for point in points) / 4
+    center_y = sum(point[1] for point in points) / 4
+    ordered = sorted(
+        points,
+        key=lambda point: math.atan2(point[1] - center_y, point[0] - center_x),
+    )
+    first = min(
+        range(4),
+        key=lambda index: ordered[index][0] + ordered[index][1],
+    )
+    ordered = ordered[first:] + ordered[:first]
+    area = abs(sum(
+        ordered[index][0] * ordered[(index + 1) % 4][1]
+        - ordered[(index + 1) % 4][0] * ordered[index][1]
+        for index in range(4)
+    )) / 2
+    if area < 25:
+        raise ValueError("Os quatro vértices formam uma área demasiado pequena.")
+    return tuple(ordered)
+
+
+def perspective_crop(
+    image: Image.Image,
+    points: list[tuple[float, float]],
+    size: tuple[int, int],
+    padding: int = 0,
+) -> Image.Image:
+    ordered = list(order_quad_points(points))
+    if padding > 0:
+        center_x = sum(point[0] for point in ordered) / 4
+        center_y = sum(point[1] for point in ordered) / 4
+        edges = [
+            math.hypot(
+                ordered[index][0] - ordered[(index + 1) % 4][0],
+                ordered[index][1] - ordered[(index + 1) % 4][1],
+            )
+            for index in range(4)
+        ]
+        factor = 1 + 2 * padding / max(1.0, min(edges))
+        ordered = [
+            (
+                max(0.0, min(image.width - 1.0, center_x + (x - center_x) * factor)),
+                max(0.0, min(image.height - 1.0, center_y + (y - center_y) * factor)),
+            )
+            for x, y in ordered
+        ]
+    top_left, top_right, bottom_right, bottom_left = ordered
+    quad = (
+        *top_left,
+        *bottom_left,
+        *bottom_right,
+        *top_right,
+    )
+    return image.transform(
+        size,
+        Image.Transform.QUAD,
+        quad,
+        resample=Image.Resampling.BICUBIC,
     )
 
 
@@ -1506,33 +1663,72 @@ class Handler(BaseHTTPRequestHandler):
             record_type, payload.get("orientation"), display_shape
         )
         size = crop_size(record_type, crop_format, display_shape)
+        padding = max(0, min(100, round(float(payload.get("padding", 0)))))
+        raw_points = payload.get("points")
+        perspective_points: list[tuple[float, float]] | None = None
+        if raw_points is not None:
+            if not isinstance(raw_points, list) or len(raw_points) != 4:
+                raise ValueError("A correção de perspetiva precisa de quatro vértices.")
+            try:
+                perspective_points = [
+                    (float(point["x"]), float(point["y"]))
+                    for point in raw_points
+                    if isinstance(point, dict)
+                ]
+            except (KeyError, TypeError, ValueError) as exc:
+                raise ValueError("Os vértices enviados são inválidos.") from exc
+            if len(perspective_points) != 4:
+                raise ValueError("Os vértices enviados são inválidos.")
         with Image.open(source) as opened:
             image = ImageOps.exif_transpose(opened).convert("RGB")
-            x = round(float(payload["x"]))
-            y = round(float(payload["y"]))
-            width = round(float(payload["width"]))
-            height = round(float(payload["height"]))
-            padding = max(0, min(100, round(float(payload.get("padding", 0)))))
-            target_ratio = size[0] / size[1]
-            expanded_width = max(width + 2 * padding, (height + 2 * padding) * target_ratio)
-            expanded_height = expanded_width / target_ratio
-            scale = min(1.0, image.width / expanded_width, image.height / expanded_height)
-            expanded_width *= scale
-            expanded_height *= scale
-            center_x = x + width / 2
-            center_y = y + height / 2
-            left = round(max(0, min(image.width - expanded_width, center_x - expanded_width / 2)))
-            top = round(max(0, min(image.height - expanded_height, center_y - expanded_height / 2)))
-            right = round(left + expanded_width)
-            bottom = round(top + expanded_height)
-            if right - left < 5 or bottom - top < 5:
-                raise ValueError("O recorte selecionado é demasiado pequeno.")
-            cropped = image.crop((left, top, right, bottom))
+            if perspective_points is not None:
+                if any(
+                    x < 0 or y < 0 or x > image.width or y > image.height
+                    for x, y in perspective_points
+                ):
+                    raise ValueError("Um dos vértices está fora da imagem.")
+                ordered_points = order_quad_points(perspective_points)
+                cropped = perspective_crop(image, perspective_points, size, padding)
+                crop_metadata: dict[str, object] = {
+                    "mode": "perspective",
+                    "points": [
+                        {"x": round(x, 2), "y": round(y, 2)}
+                        for x, y in ordered_points
+                    ],
+                }
+            else:
+                x = round(float(payload["x"]))
+                y = round(float(payload["y"]))
+                width = round(float(payload["width"]))
+                height = round(float(payload["height"]))
+                target_ratio = size[0] / size[1]
+                expanded_width = max(width + 2 * padding, (height + 2 * padding) * target_ratio)
+                expanded_height = expanded_width / target_ratio
+                scale = min(1.0, image.width / expanded_width, image.height / expanded_height)
+                expanded_width *= scale
+                expanded_height *= scale
+                center_x = x + width / 2
+                center_y = y + height / 2
+                left = round(max(0, min(image.width - expanded_width, center_x - expanded_width / 2)))
+                top = round(max(0, min(image.height - expanded_height, center_y - expanded_height / 2)))
+                right = round(left + expanded_width)
+                bottom = round(top + expanded_height)
+                if right - left < 5 or bottom - top < 5:
+                    raise ValueError("O recorte selecionado é demasiado pequeno.")
+                cropped = image.crop((left, top, right, bottom))
+                crop_metadata = {
+                    "mode": "rectangle",
+                    "x": x,
+                    "y": y,
+                    "width": width,
+                    "height": height,
+                }
         cleaned = False
         centered = False
         if bool(payload.get("cleanup", True)):
             cropped, cleaned, centered = clean_isolated_edge_residue(cropped)
-        cropped = cropped.resize(size, Image.Resampling.LANCZOS)
+        if cropped.size != size:
+            cropped = cropped.resize(size, Image.Resampling.LANCZOS)
         base = str(record["_slug"]) if record else slugify(str(payload.get("name") or "recorte"))
         side = str(record.get("_side") or "front") if record else "front"
         folder = self.server.output_dir / "crops"
@@ -1573,7 +1769,7 @@ class Handler(BaseHTTPRequestHandler):
                     "file": str(destination),
                     "format": crop_format,
                     "orientation": display_orientation,
-                    "crop": {"x": x, "y": y, "width": width, "height": height},
+                    "crop": crop_metadata,
                     "padding": padding,
                     "cleaned": cleaned,
                     "centered": centered,

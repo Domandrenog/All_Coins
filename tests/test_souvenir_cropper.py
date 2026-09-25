@@ -10,6 +10,8 @@ from tools.souvenir_cropper import (
     clean_isolated_edge_residue,
     completion_request,
     location_progress_rows,
+    order_quad_points,
+    perspective_crop,
     photo_status_for_task,
     photo_status_key,
 )
@@ -33,6 +35,35 @@ class CleanIsolatedEdgeResidueTests(unittest.TestCase):
         self.assertEqual(cleaned.getpixel((100, 48)), coin)
         self.assertEqual(cleaned.getpixel((100, 66)), coin)
         self.assertEqual(cleaned.getpixel((40, 57)), coin)
+
+
+class PerspectiveCropTests(unittest.TestCase):
+    def test_orders_vertices_independently_of_click_order(self):
+        ordered = order_quad_points([
+            (90.0, 90.0), (10.0, 10.0), (10.0, 90.0), (90.0, 10.0),
+        ])
+
+        self.assertEqual(ordered, (
+            (10.0, 10.0), (90.0, 10.0), (90.0, 90.0), (10.0, 90.0),
+        ))
+
+    def test_straightens_quad_to_requested_output_size(self):
+        image = Image.new("RGB", (120, 100), "white")
+        draw = ImageDraw.Draw(image)
+        draw.polygon([(20, 10), (100, 20), (90, 90), (10, 80)], fill=(184, 115, 51))
+
+        cropped = perspective_crop(
+            image,
+            [(90, 90), (20, 10), (10, 80), (100, 20)],
+            (80, 140),
+        )
+
+        self.assertEqual(cropped.size, (80, 140))
+        self.assertNotEqual(cropped.getpixel((40, 70)), (255, 255, 255))
+
+    def test_rejects_repeated_vertices(self):
+        with self.assertRaisesRegex(ValueError, "diferentes"):
+            order_quad_points([(10, 10), (10, 10), (90, 90), (10, 90)])
 
 
 class LocationProgressTests(unittest.TestCase):
@@ -156,6 +187,9 @@ class CompletionRequestTests(unittest.TestCase):
         self.assertIn('id="city"', PAGE)
         self.assertIn("Em pé — 140 × 200 px", PAGE)
         self.assertIn("faltam ${pending}/${all} lados", PAGE)
+        self.assertIn('id="selection-mode"', PAGE)
+        self.assertIn("Marcar 4 vértices", PAGE)
+        self.assertIn("Correção de perspetiva ativa", PAGE)
 
 
 if __name__ == "__main__":
