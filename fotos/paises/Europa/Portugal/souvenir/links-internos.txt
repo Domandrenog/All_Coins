@@ -48,6 +48,9 @@ portugal-front-batalha-monastery-building-with-mosteiro-da-coin-batalha:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-front-batalha-monastery-building-with-mosteiro-da-coin-batalha.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-front-batalha-monastery-building-with-mosteiro-da-coin-batalha.jpg
 
+portugal-island-of-flowers-pressed-curral-das-freiras-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-island-of-flowers-pressed-curral-das-freiras-madeira-island.jpg
+
 portugal-logo-pressed-faro:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-logo-pressed-faro.jpg
 
@@ -59,6 +62,12 @@ portugal-mary-of-nazareth-with-nossa-senhora-da-nazara-pressed-nazare:
 
 portugal-nazareth-sanctuary-with-santuario-nazare-pressed-nazare:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-nazareth-sanctuary-with-santuario-nazare-pressed-nazare.jpg
+
+portugal-nossa-senhora-do-livramento-pressed-curral-das-freiras-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-nossa-senhora-do-livramento-pressed-curral-das-freiras-madeira-island.jpg
+
+portugal-nun-pressed-curral-das-freiras-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-nun-pressed-curral-das-freiras-madeira-island.jpg
 
 portugal-peneco-beach-with-pedal-boat-and-slide-pressed-albufeira:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-peneco-beach-with-pedal-boat-and-slide-pressed-albufeira.jpg
@@ -90,3 +99,6 @@ portugal-telescope-pressed-faro:
 portugal-torre-de-belem-coin-almada:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-torre-de-belem-coin-almada.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-torre-de-belem-coin-almada.jpg
+
+portugal-traditional-house-pressed-curral-das-freiras-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-traditional-house-pressed-curral-das-freiras-madeira-island.jpg

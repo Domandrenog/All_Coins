@@ -827,6 +827,306 @@
     "source_url": "http://locations.pennycollector.com/images/machine_2cf1b858-80f2-461c-8f8f-e6265a03000b.jpg",
     "type": "coin"
   },
+  "6ab65d6b76464c0879ad1241": {
+    "centered": true,
+    "city": "Curral Das Freiras (Madeira Island)",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 6.5,
+          "y": 146.0
+        },
+        {
+          "x": 213.5,
+          "y": 147.0
+        },
+        {
+          "x": 236.5,
+          "y": 485.0
+        },
+        {
+          "x": 7.5,
+          "y": 491.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_f2e9dd34-0e11-4789-82af-7d79f16c8f13.jpg",
+    "format": "portrait",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 6.5,
+          "y": 146.0
+        },
+        {
+          "x": 213.5,
+          "y": 147.0
+        },
+        {
+          "x": 236.5,
+          "y": 485.0
+        },
+        {
+          "x": 7.5,
+          "y": 491.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-nossa-senhora-do-livramento-pressed-curral-das-freiras-madeira-island.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-nossa-senhora-do-livramento-pressed-curral-das-freiras-madeira-island.jpg",
+    "location_id": "394817",
+    "location_name": "Curral Das Freiras (Valley of the Nuns)",
+    "machine": 1,
+    "name": "Nossa Senhora do Livramento",
+    "orientation": "portrait",
+    "original_file": "original/location-394817-photo-1-front.jpg",
+    "original_front": "original/location-394817-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_f2e9dd34-0e11-4789-82af-7d79f16c8f13.jpg",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=394817#machine-1-position-1",
+    "slug": "portugal-nossa-senhora-do-livramento-pressed-curral-das-freiras-madeira-island",
+    "source_url": "http://locations.pennycollector.com/images/machine_f2e9dd34-0e11-4789-82af-7d79f16c8f13.jpg",
+    "type": "pressed"
+  },
+  "6ab65d6b76464c0879ad1242": {
+    "centered": false,
+    "city": "Curral Das Freiras (Madeira Island)",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 216.5,
+          "y": 0.0
+        },
+        {
+          "x": 441.5,
+          "y": 0.0
+        },
+        {
+          "x": 439.5,
+          "y": 331.0
+        },
+        {
+          "x": 229.5,
+          "y": 327.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_f2e9dd34-0e11-4789-82af-7d79f16c8f13.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 216.5,
+          "y": 0.0
+        },
+        {
+          "x": 441.5,
+          "y": 0.0
+        },
+        {
+          "x": 439.5,
+          "y": 331.0
+        },
+        {
+          "x": 229.5,
+          "y": 327.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-traditional-house-pressed-curral-das-freiras-madeira-island.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-traditional-house-pressed-curral-das-freiras-madeira-island.jpg",
+    "location_id": "394817",
+    "location_name": "Curral Das Freiras (Valley of the Nuns)",
+    "machine": 1,
+    "name": "Traditional house",
+    "orientation": "landscape",
+    "original_file": "original/location-394817-photo-1-front.jpg",
+    "original_front": "original/location-394817-photo-1-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_f2e9dd34-0e11-4789-82af-7d79f16c8f13.jpg",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=394817#machine-1-position-2",
+    "slug": "portugal-traditional-house-pressed-curral-das-freiras-madeira-island",
+    "source_url": "http://locations.pennycollector.com/images/machine_f2e9dd34-0e11-4789-82af-7d79f16c8f13.jpg",
+    "type": "pressed"
+  },
+  "6ab65d6b76464c0879ad1243": {
+    "centered": true,
+    "city": "Curral Das Freiras (Madeira Island)",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 436.5,
+          "y": 155.0
+        },
+        {
+          "x": 636.5,
+          "y": 157.0
+        },
+        {
+          "x": 638.5,
+          "y": 504.0
+        },
+        {
+          "x": 423.5,
+          "y": 498.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_f2e9dd34-0e11-4789-82af-7d79f16c8f13.jpg",
+    "format": "portrait",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 436.5,
+          "y": 155.0
+        },
+        {
+          "x": 636.5,
+          "y": 157.0
+        },
+        {
+          "x": 638.5,
+          "y": 504.0
+        },
+        {
+          "x": 423.5,
+          "y": 498.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-nun-pressed-curral-das-freiras-madeira-island.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-nun-pressed-curral-das-freiras-madeira-island.jpg",
+    "location_id": "394817",
+    "location_name": "Curral Das Freiras (Valley of the Nuns)",
+    "machine": 1,
+    "name": "Nun",
+    "orientation": "portrait",
+    "original_file": "original/location-394817-photo-1-front.jpg",
+    "original_front": "original/location-394817-photo-1-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_front": "http://locations.pennycollector.com/images/machine_f2e9dd34-0e11-4789-82af-7d79f16c8f13.jpg",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=394817#machine-1-position-3",
+    "slug": "portugal-nun-pressed-curral-das-freiras-madeira-island",
+    "source_url": "http://locations.pennycollector.com/images/machine_f2e9dd34-0e11-4789-82af-7d79f16c8f13.jpg",
+    "type": "pressed"
+  },
+  "6ab65d6b76464c0879ad1244": {
+    "centered": false,
+    "city": "Curral Das Freiras (Madeira Island)",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 146.5,
+          "y": 442.0
+        },
+        {
+          "x": 478.5,
+          "y": 457.0
+        },
+        {
+          "x": 491.5,
+          "y": 652.0
+        },
+        {
+          "x": 141.5,
+          "y": 648.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_f2e9dd34-0e11-4789-82af-7d79f16c8f13.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 146.5,
+          "y": 442.0
+        },
+        {
+          "x": 478.5,
+          "y": 457.0
+        },
+        {
+          "x": 491.5,
+          "y": 652.0
+        },
+        {
+          "x": 141.5,
+          "y": 648.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-island-of-flowers-pressed-curral-das-freiras-madeira-island.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-island-of-flowers-pressed-curral-das-freiras-madeira-island.jpg",
+    "location_id": "394817",
+    "location_name": "Curral Das Freiras (Valley of the Nuns)",
+    "machine": 1,
+    "name": "Island of Flowers",
+    "orientation": "landscape",
+    "original_file": "original/location-394817-photo-1-front.jpg",
+    "original_front": "original/location-394817-photo-1-front.jpg",
+    "padding": 4,
+    "position": 4,
+    "previous_front": "http://locations.pennycollector.com/images/machine_f2e9dd34-0e11-4789-82af-7d79f16c8f13.jpg",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=394817#machine-1-position-4",
+    "slug": "portugal-island-of-flowers-pressed-curral-das-freiras-madeira-island",
+    "source_url": "http://locations.pennycollector.com/images/machine_f2e9dd34-0e11-4789-82af-7d79f16c8f13.jpg",
+    "type": "pressed"
+  },
   "6ab65d6b76464c0879ad1245": {
     "centered": true,
     "city": "Curral Das Freiras (Madeira Island)",
