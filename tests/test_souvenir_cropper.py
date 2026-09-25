@@ -9,6 +9,7 @@ from tools.souvenir_cropper import (
     PAGE,
     clean_isolated_edge_residue,
     completion_request,
+    location_progress_rows,
     photo_status_for_task,
     photo_status_key,
 )
@@ -32,6 +33,35 @@ class CleanIsolatedEdgeResidueTests(unittest.TestCase):
         self.assertEqual(cleaned.getpixel((100, 48)), coin)
         self.assertEqual(cleaned.getpixel((100, 66)), coin)
         self.assertEqual(cleaned.getpixel((40, 57)), coin)
+
+
+class LocationProgressTests(unittest.TestCase):
+    def test_counts_pending_and_total_sides_for_each_location(self):
+        rows = location_progress_rows([
+            {
+                "_location_id": "one", "_record_id": "a", "_machine": 1,
+                "_internal": False, "continent": "Europa", "country": "Portugal",
+                "city": "Albufeira", "location_name": "Joias da Praia",
+            },
+            {
+                "_location_id": "one", "_record_id": "b", "_machine": 2,
+                "_internal": True, "continent": "Europa", "country": "Portugal",
+                "city": "Albufeira", "location_name": "Joias da Praia",
+            },
+            {
+                "_location_id": "two", "_record_id": "c", "_machine": 1,
+                "_internal": True, "continent": "Europa", "country": "Espanha",
+                "city": "Madrid", "location_name": "Museu",
+            },
+        ])
+
+        by_id = {row["id"]: row for row in rows}
+        self.assertEqual(by_id["one"]["pending_sides"], 1)
+        self.assertEqual(by_id["one"]["total_sides"], 2)
+        self.assertEqual(by_id["one"]["pending_souvenirs"], 1)
+        self.assertEqual(by_id["one"]["total_souvenirs"], 2)
+        self.assertEqual(by_id["two"]["pending_sides"], 0)
+        self.assertEqual(by_id["two"]["total_sides"], 1)
 
 
 class CompletionRequestTests(unittest.TestCase):
@@ -125,6 +155,7 @@ class CompletionRequestTests(unittest.TestCase):
         self.assertIn('id="country"', PAGE)
         self.assertIn('id="city"', PAGE)
         self.assertIn("Em pé — 140 × 200 px", PAGE)
+        self.assertIn("faltam ${pending}/${all} lados", PAGE)
 
 
 if __name__ == "__main__":

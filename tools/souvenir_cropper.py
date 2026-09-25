@@ -185,6 +185,7 @@ const finalizeStatus = document.querySelector('#location-finalize');
 const finalizeButton = document.querySelector('#finalize-location');
 let pipelineEnabled = false;
 let locations = [];
+let locationStats = [];
 let records = [];
 let currentRecord = null;
 let currentIndex = -1;
@@ -513,7 +514,7 @@ function uniqueValues(items, field) {
   return [...new Set(items.map(item => item[field]))].sort((a, b) => a.localeCompare(b, 'pt'));
 }
 
-function fillSelect(select, values, placeholder) {
+function fillSelect(select, values, placeholder, labelForValue = value => value) {
   select.innerHTML = '';
   const empty = document.createElement('option');
   empty.value = '';
@@ -522,10 +523,17 @@ function fillSelect(select, values, placeholder) {
   values.forEach(value => {
     const option = document.createElement('option');
     option.value = value;
-    option.textContent = value;
+    option.textContent = labelForValue(value);
     select.appendChild(option);
   });
   select.disabled = values.length === 0;
+}
+
+function progressLabel(value, field, rows) {
+  const matches = rows.filter(row => row[field] === value);
+  const pending = matches.reduce((total, row) => total + Number(row.pending_sides || 0), 0);
+  const all = matches.reduce((total, row) => total + Number(row.total_sides || 0), 0);
+  return `${value} · faltam ${pending}/${all} lados`;
 }
 
 function locationsAtCurrentLevel() {
@@ -542,7 +550,7 @@ function updateLocations() {
   matches.forEach(location => {
     const option = document.createElement('option');
     option.value = location.id;
-    option.textContent = `${location.name} · ${location.count} souvenirs / ${location.sides} lados / ${location.photos} fotografias`;
+    option.textContent = `${location.name} · faltam ${location.pending_sides}/${location.total_sides} lados · ${location.total_souvenirs} souvenirs / ${location.total_photos} fotografias`;
     locationInput.appendChild(option);
   });
   locationInput.disabled = matches.length === 0;
@@ -559,7 +567,13 @@ function updateCities() {
     location.continent === continentInput.value && location.country === countryInput.value
   );
   const values = uniqueValues(matches, 'city');
-  fillSelect(cityInput, values, 'Escolhe uma cidade…');
+  const stats = locationStats.filter(location =>
+    location.continent === continentInput.value && location.country === countryInput.value
+  );
+  fillSelect(
+    cityInput, values, 'Escolhe uma cidade…',
+    value => progressLabel(value, 'city', stats)
+  );
   locationInput.innerHTML = '<option value="">Escolhe uma cidade…</option>';
   locationInput.disabled = true;
   if (values.length === 1) {
@@ -573,7 +587,13 @@ function updateCities() {
 function updateCountries() {
   const matches = locations.filter(location => location.continent === continentInput.value);
   const values = uniqueValues(matches, 'country');
-  fillSelect(countryInput, values, 'Escolhe um país…');
+  const stats = locationStats.filter(location =>
+    location.continent === continentInput.value
+  );
+  fillSelect(
+    countryInput, values, 'Escolhe um país…',
+    value => progressLabel(value, 'country', stats)
+  );
   cityInput.innerHTML = '<option value="">Escolhe um país…</option>';
   cityInput.disabled = true;
   locationInput.innerHTML = '<option value="">Escolhe uma cidade…</option>';
@@ -590,7 +610,10 @@ async function loadLocations() {
   const response = await fetch(`/api/locations?scope=${encodeURIComponent(scopeInput.value)}`);
   const result = await response.json();
   if (!response.ok) throw new Error(result.error || 'Não foi possível consultar as locations.');
-  locations = result.locations || [];
+  locationStats = result.locations || [];
+  locations = scopeInput.value === 'pending'
+    ? locationStats.filter(location => Number(location.pending_sides || 0) > 0)
+    : locationStats;
   fillSelect(countryInput, [], 'Escolhe um continente…');
   fillSelect(cityInput, [], 'Escolhe um país…');
   fillSelect(locationInput, [], 'Escolhe uma cidade…');
@@ -608,7 +631,10 @@ async function loadLocations() {
     return;
   }
   const continents = uniqueValues(locations, 'continent');
-  fillSelect(continentInput, continents, 'Escolhe um continente…');
+  fillSelect(
+    continentInput, continents, 'Escolhe um continente…',
+    value => progressLabel(value, 'continent', locationStats)
+  );
   if (continents.length === 1) {
     continentInput.value = continents[0];
     updateCountries();
@@ -932,6 +958,43 @@ def load_pending_souvenirs(*, include_internal: bool = False) -> list[dict[str, 
         include_internal=include_internal,
     )
 
+def location_progress_rows(
+    records: list[dict[str, object]],
+) -> list[dict[str, object]]:
+    grouped: dict[str, list[dict[str, object]]] = {}
+    for record in records:
+        grouped.setdefault(str(record["_location_id"]), []).append(record)
+    rows: list[dict[str, object]] = []
+    for location_id, location_records in grouped.items():
+        first = location_records[0]
+        pending = [record for record in location_records if not record.get("_internal")]
+        rows.append({
+            "id": location_id,
+            "name": str(first.get("location_name") or "(sem location)"),
+            "continent": str(first.get("continent") or "(sem continente)"),
+            "country": str(first.get("country") or "(sem país)"),
+            "city": str(first.get("city") or "(sem cidade)"),
+            "total_souvenirs": len({
+                str(record["_record_id"]) for record in location_records
+            }),
+            "pending_souvenirs": len({str(record["_record_id"]) for record in pending}),
+            "total_sides": len(location_records),
+            "pending_sides": len(pending),
+            "total_photos": len({int(record["_machine"]) for record in location_records}),
+            "pending_photos": len({int(record["_machine"]) for record in pending}),
+        })
+    return sorted(
+        rows,
+        key=lambda row: (
+            str(row["continent"]).casefold(),
+            str(row["country"]).casefold(),
+            str(row["city"]).casefold(),
+            str(row["name"]).casefold(),
+            str(row["id"]),
+        ),
+    )
+
+
 def read_manifest(output_dir: Path) -> dict[str, object]:
     path = output_dir / "manifest.json"
     if not path.is_file():
@@ -1252,33 +1315,8 @@ class Handler(BaseHTTPRequestHandler):
             "output_filename": output_file.name if output_file else "",
         }
 
-    def location_rows(self, scope: str = "pending") -> list[dict[str, object]]:
-        grouped: dict[str, list[dict[str, object]]] = {}
-        for record in self.pending_records(scope):
-            grouped.setdefault(str(record["_location_id"]), []).append(record)
-        rows: list[dict[str, object]] = []
-        for location_id, records in grouped.items():
-            first = records[0]
-            rows.append({
-                "id": location_id,
-                "name": str(first.get("location_name") or "(sem location)"),
-                "continent": str(first.get("continent") or "(sem continente)"),
-                "country": str(first.get("country") or "(sem país)"),
-                "city": str(first.get("city") or "(sem cidade)"),
-                "count": len({str(record["_record_id"]) for record in records}),
-                "sides": len(records),
-                "photos": len({int(record["_machine"]) for record in records}),
-            })
-        return sorted(
-            rows,
-            key=lambda row: (
-                str(row["continent"]).casefold(),
-                str(row["country"]).casefold(),
-                str(row["city"]).casefold(),
-                str(row["name"]).casefold(),
-                str(row["id"]),
-            ),
-        )
+    def location_rows(self) -> list[dict[str, object]]:
+        return location_progress_rows(self.pending_records("all"))
 
     def prepare_record_source(self, record_id: str) -> dict[str, str]:
         record = self.server.records_by_id.get(record_id)
@@ -1311,8 +1349,7 @@ class Handler(BaseHTTPRequestHandler):
             return
         if path == "/api/locations":
             try:
-                scope = parse_qs(urlparse(self.path).query).get("scope", ["pending"])[0]
-                self.send_json({"locations": self.location_rows(scope)})
+                self.send_json({"locations": self.location_rows()})
             except Exception as exc:
                 self.send_json({"error": str(exc)}, HTTPStatus.BAD_REQUEST)
             return
