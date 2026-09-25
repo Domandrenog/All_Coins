@@ -826,5 +826,202 @@
     "slug": "portugal-front-batalha-monastery-building-with-mosteiro-da-coin-batalha",
     "source_url": "http://locations.pennycollector.com/images/machine_2cf1b858-80f2-461c-8f8f-e6265a03000b.jpg",
     "type": "coin"
+  },
+  "6ab65d7b3e8625eba72885d7": {
+    "centered": true,
+    "city": "Nazaré",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "height": 231,
+      "mode": "rectangle",
+      "width": 132,
+      "x": 450,
+      "y": 102
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_f126aaea-515d-490d-adc6-fd6f5f29bf98.jpg",
+    "format": "portrait",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "height": 231,
+      "mode": "rectangle",
+      "width": 132,
+      "x": 450,
+      "y": 102
+    },
+    "front_file": "frente/portugal-mary-of-nazareth-with-nossa-senhora-da-nazara-pressed-nazare.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-mary-of-nazareth-with-nossa-senhora-da-nazara-pressed-nazare.jpg",
+    "location_id": "287170",
+    "location_name": "Santuário de Nossa Senhora da Nazaré (Sanctuary of Our Lady of Na",
+    "machine": 1,
+    "name": "Mary of Nazareth with 'Nossa Senhora Da Nazara",
+    "orientation": "portrait",
+    "original_file": "original/location-287170-photo-1-front.jpg",
+    "original_front": "original/location-287170-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_f126aaea-515d-490d-adc6-fd6f5f29bf98.jpg",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287170#machine-1-position-1",
+    "slug": "portugal-mary-of-nazareth-with-nossa-senhora-da-nazara-pressed-nazare",
+    "source_url": "http://locations.pennycollector.com/images/machine_f126aaea-515d-490d-adc6-fd6f5f29bf98.jpg",
+    "type": "pressed"
+  },
+  "6ab65d7b3e8625eba72885d8": {
+    "centered": false,
+    "city": "Nazaré",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 423.0,
+          "y": 338.0
+        },
+        {
+          "x": 630.0,
+          "y": 342.0
+        },
+        {
+          "x": 632.0,
+          "y": 477.0
+        },
+        {
+          "x": 423.0,
+          "y": 467.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_f126aaea-515d-490d-adc6-fd6f5f29bf98.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 423.0,
+          "y": 338.0
+        },
+        {
+          "x": 630.0,
+          "y": 342.0
+        },
+        {
+          "x": 632.0,
+          "y": 477.0
+        },
+        {
+          "x": 423.0,
+          "y": 467.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-nazareth-sanctuary-with-santuario-nazare-pressed-nazare.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-nazareth-sanctuary-with-santuario-nazare-pressed-nazare.jpg",
+    "location_id": "287170",
+    "location_name": "Santuário de Nossa Senhora da Nazaré (Sanctuary of Our Lady of Na",
+    "machine": 1,
+    "name": "Nazareth Sanctuary with 'Santuario Nazare",
+    "orientation": "landscape",
+    "original_file": "original/location-287170-photo-1-front.jpg",
+    "original_front": "original/location-287170-photo-1-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_f126aaea-515d-490d-adc6-fd6f5f29bf98.jpg",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287170#machine-1-position-2",
+    "slug": "portugal-nazareth-sanctuary-with-santuario-nazare-pressed-nazare",
+    "source_url": "http://locations.pennycollector.com/images/machine_f126aaea-515d-490d-adc6-fd6f5f29bf98.jpg",
+    "type": "pressed"
+  },
+  "6ab65d7b3e8625eba72885d9": {
+    "centered": true,
+    "city": "Nazaré",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 453.0,
+          "y": 479.0
+        },
+        {
+          "x": 594.0,
+          "y": 477.0
+        },
+        {
+          "x": 601.0,
+          "y": 695.0
+        },
+        {
+          "x": 457.0,
+          "y": 700.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_f126aaea-515d-490d-adc6-fd6f5f29bf98.jpg",
+    "format": "portrait",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 453.0,
+          "y": 479.0
+        },
+        {
+          "x": 594.0,
+          "y": 477.0
+        },
+        {
+          "x": 601.0,
+          "y": 695.0
+        },
+        {
+          "x": 457.0,
+          "y": 700.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-pictorial-of-the-virgin-mary-intercession-with-milagre-pressed-nazare.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-pictorial-of-the-virgin-mary-intercession-with-milagre-pressed-nazare.jpg",
+    "location_id": "287170",
+    "location_name": "Santuário de Nossa Senhora da Nazaré (Sanctuary of Our Lady of Na",
+    "machine": 1,
+    "name": "Pictorial of the Virgin Mary intercession with 'Milagre…",
+    "orientation": "portrait",
+    "original_file": "original/location-287170-photo-1-front.jpg",
+    "original_front": "original/location-287170-photo-1-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_front": "http://locations.pennycollector.com/images/machine_f126aaea-515d-490d-adc6-fd6f5f29bf98.jpg",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287170#machine-1-position-3",
+    "slug": "portugal-pictorial-of-the-virgin-mary-intercession-with-milagre-pressed-nazare",
+    "source_url": "http://locations.pennycollector.com/images/machine_f126aaea-515d-490d-adc6-fd6f5f29bf98.jpg",
+    "type": "pressed"
   }
 }
