@@ -891,22 +891,14 @@ def build_souvenir_tasks(
     for location_tasks in by_location.values():
         photo_keys = sorted(
             {
-                (
-                    int(task["_original_machine"]),
-                    0 if task["_side"] == "front" else 1,
-                    str(task["_source_url"]),
-                )
+                (int(task["_original_machine"]), str(task["_source_url"]))
                 for task in location_tasks
             }
         )
         photo_numbers = {key: index for index, key in enumerate(photo_keys, 1)}
-        grouped: dict[tuple[int, int, str], list[dict[str, object]]] = {}
+        grouped: dict[tuple[int, str], list[dict[str, object]]] = {}
         for task in location_tasks:
-            key = (
-                int(task["_original_machine"]),
-                0 if task["_side"] == "front" else 1,
-                str(task["_source_url"]),
-            )
+            key = (int(task["_original_machine"]), str(task["_source_url"]))
             task["_machine"] = photo_numbers[key]
             grouped.setdefault(key, []).append(task)
         for photo_tasks in grouped.values():
@@ -916,13 +908,20 @@ def build_souvenir_tasks(
                     int(task.get("ordem") or 9999),
                     str(task.get("name") or "").casefold(),
                     str(task["_record_id"]),
+                    0 if task["_side"] == "front" else 1,
                 )
             )
             positions = [int(task["_original_position"]) for task in photo_tasks]
             use_original = all(value != 9999 for value in positions) and len(set(positions)) == len(positions)
+            photo_sides = {str(task["_side"]) for task in photo_tasks}
+            if photo_sides == {"front", "back"}:
+                side_label = "Frente e Verso"
+            elif photo_sides == {"back"}:
+                side_label = "Verso"
+            else:
+                side_label = "Frente"
             for index, task in enumerate(photo_tasks, 1):
                 task["_position"] = int(task["_original_position"]) if use_original else index
-                side_label = "Frente" if task["_side"] == "front" else "Verso"
                 task["_photo_label"] = f"Fotografia {task['_machine']} · {side_label}"
 
     return sorted(

@@ -111,7 +111,12 @@ class MultiSideTaskTests(unittest.TestCase):
         self.assertEqual(by_side["back"]["_source_side"], "front")
         self.assertTrue(by_side["back"]["_source_was_empty"])
         self.assertFalse(by_side["front"]["_source_was_empty"])
-        self.assertEqual({task["_machine"] for task in tasks}, {1, 2})
+        self.assertEqual({task["_machine"] for task in tasks}, {1})
+        self.assertEqual({task["_position"] for task in tasks}, {1, 2})
+        self.assertEqual(
+            {task["_photo_label"] for task in tasks},
+            {"Fotografia 1 · Frente e Verso"},
+        )
 
 
 class InternalReviewTaskTests(unittest.TestCase):
