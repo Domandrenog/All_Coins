@@ -182,6 +182,8 @@ def difference_payload(
         target = desired_side(entry, side)
         if record.get(field) != target:
             payload[field] = target
+    if "back" in sides and record.get("has_back_image") is not True:
+        payload["has_back_image"] = True
     if "front" in sides:
         orientation = desired_orientation(entry)
         if record.get("display_orientation") != orientation:
@@ -249,6 +251,9 @@ def verify_all(
             field = SIDE_FIELDS[side]
             if current.get(field) != desired_side(entry, side):
                 raise RuntimeError(f"{record_id}: URL final incorreto em {field}.")
+        if "back" in selected_sides(entry):
+            if current.get("has_back_image") is not True:
+                raise RuntimeError(f"{record_id}: imagem de verso não ficou ativada.")
         if "front" in selected_sides(entry):
             if current.get("display_orientation") != desired_orientation(entry):
                 raise RuntimeError(f"{record_id}: orientação final incorreta.")

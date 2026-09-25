@@ -173,8 +173,24 @@ class OtherSouvenirApiGuardTests(unittest.TestCase):
         payload = difference_payload(record, entry)
 
         self.assertEqual(payload, {
-            "image_back": "https://raw.githubusercontent.com/example/back.jpg"
+            "image_back": "https://raw.githubusercontent.com/example/back.jpg",
+            "has_back_image": True,
         })
+
+    def test_existing_back_url_enables_back_image_flag(self):
+        target = "https://raw.githubusercontent.com/example/back.jpg"
+        record = {
+            "id": "coin-1", "type": "coin",
+            "image_back": target, "has_back_image": False,
+        }
+        entry = {
+            "type": "coin", "_selected_sides": ["back"],
+            "internal_back": target,
+        }
+
+        payload = difference_payload(record, entry)
+
+        self.assertEqual(payload, {"has_back_image": True})
 
     @patch("tools.update_souvenir_manifest_api.api_request")
     def test_preflight_accepts_empty_synthesized_coin_back(self, api_request):

@@ -42,7 +42,7 @@ concluídas:
 4. confirma que o `main` remoto tem o mesmo SHA e que cada URL raw tem o mesmo
    conteúdo do ficheiro local;
 5. faz um dry-run da Base44 e aplica apenas os campos diferentes
-   (`image_front` e/ou `display_orientation`);
+   (`image_front`, `image_back`, `has_back_image` e/ou `display_orientation`);
 6. relê cada registo para confirmar a alteração e a preservação dos restantes
    campos.
 
