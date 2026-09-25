@@ -828,9 +828,20 @@ def build_souvenir_tasks(
             continue
         location_id = record_location_id(record)
         original_machine, original_position = record_machine_position(record)
+        side_sources = {
+            side: str(record.get(SIDE_FIELDS[side]) or "").strip()
+            for side in SUPPORTED_SIDES
+        }
         for side in SUPPORTED_SIDES:
-            source = str(record.get(SIDE_FIELDS[side]) or "").strip()
-            internal = source.startswith(DEFAULT_RAW_BASE_URL)
+            source = side_sources[side]
+            source_side = side
+            source_was_empty = not source
+            if source_was_empty and str(record.get("type") or "") == "coin":
+                source_side = "back" if side == "front" else "front"
+                source = side_sources[source_side]
+            internal = bool(side_sources[side]) and side_sources[side].startswith(
+                DEFAULT_RAW_BASE_URL
+            )
             if not source or (internal and not include_internal):
                 continue
             task = dict(record)
@@ -838,6 +849,8 @@ def build_souvenir_tasks(
             task["_record_id"] = record_id
             task["_side"] = side
             task["_source_url"] = source
+            task["_source_side"] = source_side
+            task["_source_was_empty"] = source_was_empty
             task["_internal"] = internal
             task["_location_id"] = location_id
             task["_original_machine"] = original_machine
@@ -976,8 +989,13 @@ def photo_status_for_task(
     if isinstance(current, dict):
         return current
     source = str(task.get("_source_url") or "")
+    side = str(task.get("_side") or "front")
     for value in statuses.values():
-        if isinstance(value, dict) and str(value.get("source_url") or "") == source:
+        if (
+            isinstance(value, dict)
+            and str(value.get("source_url") or "") == source
+            and str(value.get("side") or "front") == side
+        ):
             return value
     return None
 
@@ -1513,6 +1531,8 @@ class Handler(BaseHTTPRequestHandler):
                     "machine": int(record["_machine"]),
                     "position": int(record["_position"]),
                     "source_url": str(record.get("_source_url") or ""),
+                    "source_side": str(record.get("_source_side") or side),
+                    "source_was_empty": bool(record.get("_source_was_empty")),
                     "reference_url": str(record.get("reference_url") or ""),
                     "file": str(destination),
                     "format": crop_format,

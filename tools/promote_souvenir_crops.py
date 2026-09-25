@@ -64,10 +64,12 @@ def photo_is_completed(statuses: dict[str, object], entry: dict[str, object]) ->
     if isinstance(status, dict):
         return bool(status.get("completed"))
     source = str(entry.get("source_url") or "")
+    side = str(entry.get("side") or "front")
     return any(
         isinstance(value, dict)
         and value.get("completed")
         and str(value.get("source_url") or "") == source
+        and str(value.get("side") or "front") == side
         for value in statuses.values()
     )
 
@@ -330,6 +332,8 @@ def promote(args: argparse.Namespace) -> int:
             f"internal_{side}": internal_url,
             f"external_{side}": previous_external,
             f"previous_{side}": source_url,
+            f"{side}_source_side": str(entry.get("source_side") or side),
+            f"{side}_source_was_empty": bool(entry.get("source_was_empty")),
             f"original_{side}": f"original/{original_filename}",
             f"{side}_format": entry["format"],
             f"{side}_orientation": entry["orientation"],

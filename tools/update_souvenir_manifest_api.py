@@ -159,6 +159,8 @@ def preflight(
                 target_url,
             }
             accepted.discard("")
+            if entry.get(f"{side}_source_was_empty"):
+                accepted.add("")
             field = SIDE_FIELDS[side]
             current_url = str(record.get(field) or "")
             if current_url not in accepted:

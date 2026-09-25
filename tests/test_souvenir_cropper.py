@@ -9,6 +9,7 @@ from tools.souvenir_cropper import (
     PAGE,
     clean_isolated_edge_residue,
     completion_request,
+    photo_status_for_task,
     photo_status_key,
 )
 
@@ -94,6 +95,24 @@ class CompletionRequestTests(unittest.TestCase):
 
             with self.assertRaisesRegex(ValueError, "pelo menos uma fotografia"):
                 completion_request(folder, records, "352061")
+
+    def test_shared_source_front_completion_does_not_complete_back(self):
+        source = "https://example.test/front-and-back.jpg"
+        statuses = {
+            "old-front-status": {
+                "completed": True,
+                "source_url": source,
+                "side": "front",
+            }
+        }
+        back_task = {
+            "_location_id": "406415",
+            "_machine": 2,
+            "_side": "back",
+            "_source_url": source,
+        }
+
+        self.assertIsNone(photo_status_for_task(statuses, back_task))
 
     def test_page_contains_the_final_send_control(self):
         self.assertIn('id="finalize-location"', PAGE)

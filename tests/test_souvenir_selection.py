@@ -5,11 +5,27 @@ import unittest
 
 from PIL import Image
 
-from tools.promote_souvenir_crops import load_entries, photo_status_key
+from tools.promote_souvenir_crops import load_entries, photo_is_completed, photo_status_key
 from tools.update_souvenir_manifest_api import load_manifest
 
 
 class CompletedSouvenirSelectionTests(unittest.TestCase):
+    def test_shared_source_front_completion_does_not_approve_back(self):
+        source = "https://example.test/front-and-back.jpg"
+        statuses = {
+            "old-front-status": {
+                "completed": True,
+                "source_url": source,
+                "side": "front",
+            }
+        }
+        back_entry = {
+            "location_id": "406415", "machine": 2,
+            "side": "back", "source_url": source,
+        }
+
+        self.assertFalse(photo_is_completed(statuses, back_entry))
+
     def test_promoter_ignores_an_unfinished_machine(self):
         with TemporaryDirectory() as temporary:
             staging = Path(temporary)

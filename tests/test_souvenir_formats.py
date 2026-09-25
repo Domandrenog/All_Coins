@@ -92,6 +92,27 @@ class MultiSideTaskTests(unittest.TestCase):
         self.assertEqual({task["_location_id"] for task in tasks}.__len__(), 1)
         self.assertEqual({task["_machine"] for task in tasks}, {1, 2})
 
+    def test_coin_reuses_front_montage_when_back_is_empty(self):
+        tasks = build_souvenir_tasks([{
+            "id": "coin-1", "name": "Token", "type": "coin",
+            "continent": "Europa", "country": "Portugal", "city": "Albufeira",
+            "location_name": "Joias da Praia", "display_shape": "oval",
+            "display_orientation": "auto",
+            "image_front": "https://example.test/front-and-back.jpg",
+            "image_back": "", "reference_url": "https://example.test/item",
+        }])
+
+        by_side = {task["_side"]: task for task in tasks}
+        self.assertEqual(set(by_side), {"front", "back"})
+        self.assertEqual(
+            by_side["back"]["_source_url"],
+            "https://example.test/front-and-back.jpg",
+        )
+        self.assertEqual(by_side["back"]["_source_side"], "front")
+        self.assertTrue(by_side["back"]["_source_was_empty"])
+        self.assertFalse(by_side["front"]["_source_was_empty"])
+        self.assertEqual({task["_machine"] for task in tasks}, {1, 2})
+
 
 class InternalReviewTaskTests(unittest.TestCase):
     def test_internal_side_only_appears_in_all_scope(self):
@@ -149,6 +170,25 @@ class OtherSouvenirApiGuardTests(unittest.TestCase):
         self.assertEqual(payload, {
             "image_back": "https://raw.githubusercontent.com/example/back.jpg"
         })
+
+    @patch("tools.update_souvenir_manifest_api.api_request")
+    def test_preflight_accepts_empty_synthesized_coin_back(self, api_request):
+        api_request.return_value = {
+            "id": "coin-1", "type": "coin",
+            "image_front": "https://example.test/front-and-back.jpg",
+            "image_back": "",
+        }
+        entry = {
+            "type": "coin", "_selected_sides": ["back"],
+            "external_back": "https://example.test/front-and-back.jpg",
+            "previous_back": "https://example.test/front-and-back.jpg",
+            "internal_back": "https://raw.githubusercontent.com/example/back.jpg",
+            "back_source_was_empty": True,
+        }
+
+        prepared = preflight("key", [("coin-1", entry)])
+
+        self.assertEqual(len(prepared), 1)
 
     @patch("tools.update_souvenir_manifest_api.api_request")
     def test_preflight_rejects_type_drift(self, api_request):
