@@ -5,11 +5,23 @@ portugal-albufeira-algarve-coin-albufeira:
 portugal-albufeira-pressed-albufeira:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-albufeira-pressed-albufeira.jpg
 
+portugal-albufeira-tunnel-pressed-albufeira:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-albufeira-tunnel-pressed-albufeira.jpg
+
+portugal-art-museum-pressed-albufeira:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-art-museum-pressed-albufeira.jpg
+
 portugal-barcelos-rooster-pressed-batalha:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-barcelos-rooster-pressed-batalha.jpg
 
 portugal-catedral-de-benagil-token-machine-one-design-but-can-pressed-albufeira:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-catedral-de-benagil-token-machine-one-design-but-can-pressed-albufeira.jpg
+
+portugal-peneco-beach-with-pedal-boat-and-slide-pressed-albufeira:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-peneco-beach-with-pedal-boat-and-slide-pressed-albufeira.jpg
+
+portugal-peneco-beach-with-rock-formation-pressed-albufeira:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-peneco-beach-with-rock-formation-pressed-albufeira.jpg
 
 portugal-portugal-pressed-albufeira:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-portugal-pressed-albufeira.jpg

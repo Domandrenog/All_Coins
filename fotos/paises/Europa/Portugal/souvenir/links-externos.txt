@@ -5,11 +5,23 @@ portugal-albufeira-algarve-coin-albufeira:
 portugal-albufeira-pressed-albufeira:
   frente: http://locations.pennycollector.com/images/machine_feda9006-4058-4d9d-bd3f-b8439c77e928.jpg
 
+portugal-albufeira-tunnel-pressed-albufeira:
+  frente: http://locations.pennycollector.com/images/machine_b7890259-2ff9-4380-9a64-e551400824bf.jpg
+
+portugal-art-museum-pressed-albufeira:
+  frente: http://locations.pennycollector.com/images/machine_b7890259-2ff9-4380-9a64-e551400824bf.jpg
+
 portugal-barcelos-rooster-pressed-batalha:
   frente: http://locations.pennycollector.com/images/machine_4080a7e5-e914-4d19-acac-9bfe9fd4e953.jpg
 
 portugal-catedral-de-benagil-token-machine-one-design-but-can-pressed-albufeira:
   frente: http://locations.pennycollector.com/images/machine_feda9006-4058-4d9d-bd3f-b8439c77e928.jpg
+
+portugal-peneco-beach-with-pedal-boat-and-slide-pressed-albufeira:
+  frente: http://locations.pennycollector.com/images/machine_b7890259-2ff9-4380-9a64-e551400824bf.jpg
+
+portugal-peneco-beach-with-rock-formation-pressed-albufeira:
+  frente: http://locations.pennycollector.com/images/machine_b7890259-2ff9-4380-9a64-e551400824bf.jpg
 
 portugal-portugal-pressed-albufeira:
   frente: http://locations.pennycollector.com/images/machine_feda9006-4058-4d9d-bd3f-b8439c77e928.jpg
