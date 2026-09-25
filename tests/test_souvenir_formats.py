@@ -1,11 +1,21 @@
 import os
+from pathlib import Path
+from tempfile import TemporaryDirectory
 import unittest
 from unittest.mock import patch
 
 import main
 
 from scripts.sync_coin_images_api import API_KEY_ENV
-from tools.souvenir_cropper import build_souvenir_tasks, load_pending_souvenirs
+from tools.souvenir_cropper import (
+    PAGE,
+    apply_type_overrides,
+    build_souvenir_tasks,
+    load_pending_souvenirs,
+    manifest_entry_for_task,
+    read_type_overrides,
+    write_type_override,
+)
 from tools.souvenir_formats import crop_size
 from tools.update_souvenir_manifest_api import difference_payload, preflight
 
@@ -119,6 +129,57 @@ class MultiSideTaskTests(unittest.TestCase):
         )
 
 
+class TypeOverrideTaskTests(unittest.TestCase):
+    def test_pressed_record_becomes_coin_with_front_and_back_tasks(self):
+        original = {
+            "id": "coin-1", "name": "Cathedral", "type": "pressed",
+            "continent": "Europa", "country": "Portugal", "city": "Porto",
+            "location_name": "Porto Cathedral", "display_shape": "oval",
+            "image_front": "https://example.test/front-and-back.jpg",
+            "image_back": "",
+            "reference_url": "https://example.test/item#machine-1-position-1",
+        }
+
+        records = apply_type_overrides([original], {"coin-1": "coin"})
+        tasks = build_souvenir_tasks(records)
+
+        self.assertEqual({task["id"] for task in tasks}, {
+            "coin-1:front", "coin-1:back",
+        })
+        self.assertEqual({task["type"] for task in tasks}, {"coin"})
+        self.assertEqual({task["_format"] for task in tasks}, {"square"})
+        self.assertEqual({task["_original_type"] for task in tasks}, {"pressed"})
+        self.assertEqual({task["_type_was_overridden"] for task in tasks}, {True})
+        self.assertEqual({task["_photo_label"] for task in tasks}, {
+            "Fotografia 1 · Frente e Verso",
+        })
+
+    def test_type_override_is_persistent_until_reverted(self):
+        with TemporaryDirectory() as temporary:
+            folder = Path(temporary)
+            write_type_override(folder, "coin-1", "coin", "pressed")
+            self.assertEqual(read_type_overrides(folder), {"coin-1": "coin"})
+
+            write_type_override(folder, "coin-1", "pressed", "pressed")
+            self.assertEqual(read_type_overrides(folder), {})
+
+    def test_crop_prepared_for_old_type_is_not_reused(self):
+        manifest = {
+            "coin-1:front": {"type": "pressed", "file": "old.jpg"},
+        }
+        coin_task = {
+            "id": "coin-1:front", "_record_id": "coin-1",
+            "_side": "front", "type": "coin",
+        }
+
+        self.assertIsNone(manifest_entry_for_task(manifest, coin_task))
+
+    def test_page_exposes_record_type_selector(self):
+        self.assertIn('id="record-type"', PAGE)
+        self.assertIn("/api/record-type", PAGE)
+        self.assertIn("Recorta agora a Frente e o Verso", PAGE)
+
+
 class InternalReviewTaskTests(unittest.TestCase):
     def test_internal_side_only_appears_in_all_scope(self):
         record = {
@@ -191,6 +252,42 @@ class OtherSouvenirApiGuardTests(unittest.TestCase):
         payload = difference_payload(record, entry)
 
         self.assertEqual(payload, {"has_back_image": True})
+
+    def test_type_override_updates_type_and_back_fields_together(self):
+        target = "https://raw.githubusercontent.com/example/back.jpg"
+        record = {
+            "id": "coin-1", "type": "pressed",
+            "image_back": "", "has_back_image": False,
+        }
+        entry = {
+            "type": "coin", "previous_type": "pressed",
+            "type_was_overridden": True, "_selected_sides": ["back"],
+            "internal_back": target, "back_source_was_empty": True,
+        }
+
+        payload = difference_payload(record, entry)
+
+        self.assertEqual(payload, {
+            "type": "coin",
+            "image_back": target,
+            "has_back_image": True,
+        })
+
+    @patch("tools.update_souvenir_manifest_api.api_request")
+    def test_preflight_accepts_explicit_type_override(self, api_request):
+        api_request.return_value = {
+            "id": "coin-1", "type": "pressed", "image_back": "",
+        }
+        entry = {
+            "type": "coin", "previous_type": "pressed",
+            "type_was_overridden": True, "_selected_sides": ["back"],
+            "internal_back": "https://raw.githubusercontent.com/example/back.jpg",
+            "back_source_was_empty": True,
+        }
+
+        prepared = preflight("key", [("coin-1", entry)])
+
+        self.assertEqual(len(prepared), 1)
 
     @patch("tools.update_souvenir_manifest_api.api_request")
     def test_preflight_accepts_empty_synthesized_coin_back(self, api_request):

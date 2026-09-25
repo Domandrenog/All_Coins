@@ -145,10 +145,15 @@ def preflight(
         expected_type = str(entry.get("type") or "pressed")
         if expected_type not in SUPPORTED_SOUVENIR_TYPES:
             raise ValueError(f"{record_id}: tipo não suportado no manifesto: {expected_type}.")
-        if record.get("type") != expected_type:
+        current_type = str(record.get("type") or "")
+        previous_type = str(entry.get("previous_type") or "")
+        type_was_overridden = bool(entry.get("type_was_overridden"))
+        if current_type != expected_type and not (
+            type_was_overridden and current_type == previous_type
+        ):
             raise ValueError(
                 f"{record_id}: tipo mudou desde o recorte; "
-                f"esperado={expected_type!r}, atual={record.get('type')!r}."
+                f"esperado={expected_type!r}, atual={current_type!r}."
             )
         for side in selected_sides(entry):
             target_url = desired_side(entry, side)
@@ -177,6 +182,9 @@ def difference_payload(
 ) -> dict[str, object]:
     payload: dict[str, object] = {}
     sides = selected_sides(entry)
+    expected_type = str(entry.get("type") or "pressed")
+    if entry.get("type_was_overridden") and record.get("type") != expected_type:
+        payload["type"] = expected_type
     for side in sides:
         field = SIDE_FIELDS[side]
         target = desired_side(entry, side)
@@ -251,6 +259,9 @@ def verify_all(
             field = SIDE_FIELDS[side]
             if current.get(field) != desired_side(entry, side):
                 raise RuntimeError(f"{record_id}: URL final incorreto em {field}.")
+        expected_type = str(entry.get("type") or "pressed")
+        if current.get("type") != expected_type:
+            raise RuntimeError(f"{record_id}: tipo final incorreto.")
         if "back" in selected_sides(entry):
             if current.get("has_back_image") is not True:
                 raise RuntimeError(f"{record_id}: imagem de verso não ficou ativada.")

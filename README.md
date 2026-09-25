@@ -25,6 +25,8 @@ abrir o recortador manual. O recortador:
 - centra automaticamente a moeda e equilibra as margens do recorte final;
 - mostra se a fotografia está por completar, pronta para confirmar ou completa;
 - permite confirmar ou reabrir explicitamente uma fotografia concluída;
+- permite corrigir o tipo do souvenir; ao escolher `coin`, cria Frente e Verso
+  quadrados a partir da mesma montagem e guarda a correção até ao envio;
 - avança automaticamente depois de guardares cada recorte;
 - guarda a associação ao ID num manifesto local, sem escrever ainda na Base44.
 
@@ -42,7 +44,8 @@ concluídas:
 4. confirma que o `main` remoto tem o mesmo SHA e que cada URL raw tem o mesmo
    conteúdo do ficheiro local;
 5. faz um dry-run da Base44 e aplica apenas os campos diferentes
-   (`image_front`, `image_back`, `has_back_image` e/ou `display_orientation`);
+   (`type`, `image_front`, `image_back`, `has_back_image` e/ou
+   `display_orientation`);
 6. relê cada registo para confirmar a alteração e a preservação dos restantes
    campos.
 

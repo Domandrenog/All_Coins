@@ -685,32 +685,59 @@ def finalize_manual_souvenirs(request: dict[str, object]) -> bool:
 
 def acknowledge_manual_souvenir_request(request: dict[str, object]) -> None:
     raw_keys = request.get("photo_status_keys")
-    if not isinstance(raw_keys, list):
+    selected = (
+        {str(value) for value in raw_keys if value}
+        if isinstance(raw_keys, list)
+        else set()
+    )
+    status_path = SOUVENIR_STAGING / "photo-status.json"
+    if selected and status_path.is_file():
+        try:
+            statuses = json.loads(status_path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            statuses = None
+        if isinstance(statuses, dict):
+            changed = False
+            for key in selected:
+                status = statuses.get(key)
+                if isinstance(status, dict) and status.get("queued") is not False:
+                    status["queued"] = False
+                    changed = True
+            if changed:
+                temporary = status_path.with_suffix(".tmp")
+                temporary.write_text(
+                    json.dumps(statuses, ensure_ascii=False, indent=2) + "\n",
+                    encoding="utf-8",
+                )
+                temporary.replace(status_path)
+
+    raw_record_ids = request.get("record_ids")
+    record_ids = (
+        {str(value) for value in raw_record_ids if value}
+        if isinstance(raw_record_ids, list)
+        else set()
+    )
+    override_path = SOUVENIR_STAGING / "record-type-overrides.json"
+    if not record_ids or not override_path.is_file():
         return
-    selected = {str(value) for value in raw_keys if value}
-    if not selected:
-        return
-    path = SOUVENIR_STAGING / "photo-status.json"
     try:
-        statuses = json.loads(path.read_text(encoding="utf-8"))
+        overrides = json.loads(override_path.read_text(encoding="utf-8"))
     except (OSError, json.JSONDecodeError):
         return
-    if not isinstance(statuses, dict):
+    if not isinstance(overrides, dict):
         return
     changed = False
-    for key in selected:
-        status = statuses.get(key)
-        if isinstance(status, dict) and status.get("queued") is not False:
-            status["queued"] = False
+    for record_id in record_ids:
+        if record_id in overrides:
+            overrides.pop(record_id)
             changed = True
-    if not changed:
-        return
-    temporary = path.with_suffix(".tmp")
-    temporary.write_text(
-        json.dumps(statuses, ensure_ascii=False, indent=2) + "\n",
-        encoding="utf-8",
-    )
-    temporary.replace(path)
+    if changed:
+        temporary = override_path.with_suffix(".tmp")
+        temporary.write_text(
+            json.dumps(overrides, ensure_ascii=False, indent=2, sort_keys=True) + "\n",
+            encoding="utf-8",
+        )
+        temporary.replace(override_path)
 
 
 def finalize_manual_souvenir_queue(request: dict[str, object]) -> bool:

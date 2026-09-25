@@ -321,7 +321,8 @@ def promote(args: argparse.Namespace) -> int:
         download_key = (int(entry["machine"]), side, source_url)
         original_filename = downloads[download_key][1]
         common_keys = (
-            "name", "type", "display_shape", "slug", "continent", "country", "city",
+            "name", "type", "previous_type", "type_was_overridden",
+            "display_shape", "slug", "continent", "country", "city",
             "location_id", "location_name", "reference_url",
         )
         for field in common_keys:

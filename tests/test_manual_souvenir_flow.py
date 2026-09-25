@@ -74,16 +74,25 @@ class ManualSouvenirFinalizationTests(unittest.TestCase):
             (staging / "photo-status.json").write_text(
                 json.dumps(statuses), encoding="utf-8"
             )
+            (staging / "record-type-overrides.json").write_text(
+                json.dumps({"coin-1": "coin", "coin-2": "other"}),
+                encoding="utf-8",
+            )
             with patch.object(main, "SOUVENIR_STAGING", staging):
                 main.acknowledge_manual_souvenir_request({
-                    "photo_status_keys": ["done"]
+                    "photo_status_keys": ["done"],
+                    "record_ids": ["coin-1"],
                 })
             saved = json.loads(
                 (staging / "photo-status.json").read_text(encoding="utf-8")
             )
+            overrides = json.loads(
+                (staging / "record-type-overrides.json").read_text(encoding="utf-8")
+            )
 
         self.assertFalse(saved["done"]["queued"])
         self.assertTrue(saved["waiting"]["queued"])
+        self.assertEqual(overrides, {"coin-2": "other"})
 
     @patch.object(main, "acknowledge_manual_souvenir_request")
     @patch.object(main, "finalize_manual_souvenirs", side_effect=[True, False])

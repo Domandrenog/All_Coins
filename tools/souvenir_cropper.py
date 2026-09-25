@@ -137,6 +137,13 @@ PAGE = r"""<!doctype html>
         <option value="">Escolhe primeiro uma location</option>
       </select>
       <div id="assignment" class="status assignment">Escolhe uma location para começar.</div>
+      <label for="record-type">Tipo do souvenir</label>
+      <select id="record-type" disabled>
+        <option value="pressed">Prensada</option>
+        <option value="coin">Moeda</option>
+        <option value="card">Cartão</option>
+        <option value="other">Outro</option>
+      </select>
       <hr>
       <strong>Recorte selecionado</strong>
       <div id="coords" class="status">Ainda não selecionaste um souvenir.</div>
@@ -176,6 +183,7 @@ const machineInput = document.querySelector('#machine');
 const paddingInput = document.querySelector('#padding');
 const orientationInput = document.querySelector('#orientation');
 const selectionModeInput = document.querySelector('#selection-mode');
+const recordTypeInput = document.querySelector('#record-type');
 const cleanupInput = document.querySelector('#cleanup');
 const saved = document.querySelector('#saved');
 const scopeInput = document.querySelector('#scope');
@@ -511,6 +519,8 @@ async function selectRecord(index) {
   currentIndex = index;
   currentRecord = records[index];
   currentMachine = currentRecord.machine;
+  recordTypeInput.value = currentRecord.type;
+  recordTypeInput.disabled = false;
   cleanupInput.checked = ['pressed', 'coin'].includes(currentRecord.type);
   updateFormatOptions();
   resetSelection();
@@ -553,6 +563,7 @@ async function loadLocation(locationId) {
     currentIndex = -1;
     currentMachine = null;
     machineInput.disabled = true;
+    recordTypeInput.disabled = true;
     saved.innerHTML = '';
     assignment.textContent = 'Escolhe uma location para começar.';
     updatePhotoProgress();
@@ -573,6 +584,8 @@ async function loadLocation(locationId) {
   });
   machineInput.disabled = machines.length === 0;
   if (!machines.length) {
+    currentRecord = null;
+    recordTypeInput.disabled = true;
     assignment.textContent = 'Esta location não tem lados externos pendentes.';
     saved.innerHTML = '';
     updatePhotoProgress();
@@ -608,6 +621,33 @@ function progressLabel(value, field, rows) {
   const pending = matches.reduce((total, row) => total + Number(row.pending_sides || 0), 0);
   const all = matches.reduce((total, row) => total + Number(row.total_sides || 0), 0);
   return `${value} · faltam ${pending}/${all} lados`;
+}
+
+async function refreshLocationProgressLabels() {
+  const response = await fetch('/api/locations');
+  const result = await response.json();
+  if (!response.ok) throw new Error(result.error || 'Não foi possível atualizar os totais.');
+  locationStats = result.locations || [];
+  locations = scopeInput.value === 'pending'
+    ? locationStats.filter(location => Number(location.pending_sides || 0) > 0)
+    : locationStats;
+  const selectedLevels = [
+    [continentInput, 'continent'],
+    [countryInput, 'country'],
+    [cityInput, 'city'],
+  ];
+  selectedLevels.forEach(([select, field]) => {
+    const value = select.value;
+    const option = [...select.options].find(item => item.value === value);
+    if (value && option) option.textContent = progressLabel(value, field, locationStats);
+  });
+  const location = locationStats.find(item => item.id === locationInput.value);
+  const locationOption = [...locationInput.options].find(
+    item => item.value === locationInput.value
+  );
+  if (location && locationOption) {
+    locationOption.textContent = `${location.name} · faltam ${location.pending_sides}/${location.total_sides} lados · ${location.total_souvenirs} souvenirs / ${location.total_photos} fotografias`;
+  }
 }
 
 function locationsAtCurrentLevel() {
@@ -728,6 +768,7 @@ function advanceQueue() {
   } else {
     assignment.textContent = `${items[0]?.photo_label || `Fotografia ${currentMachine}`} concluída: ${items.length}/${items.length} recortes preparados.`;
     currentRecord = null;
+    recordTypeInput.disabled = true;
     resetSelection();
     renderMachineGallery();
     draw();
@@ -741,6 +782,33 @@ countryInput.onchange = () => updateCities();
 cityInput.onchange = () => updateLocations();
 locationInput.onchange = () => loadLocation(locationInput.value).catch(showError);
 machineInput.onchange = () => selectMachine(machineInput.value).catch(showError);
+recordTypeInput.onchange = async () => {
+  if (!currentRecord) return;
+  const previousType = currentRecord.type;
+  const selectedType = recordTypeInput.value;
+  if (selectedType === previousType) return;
+  recordTypeInput.disabled = true;
+  statusBox.textContent = 'A corrigir o tipo e a reconstruir Frente/Verso…';
+  try {
+    const response = await fetch('/api/record-type', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({record_id: currentRecord.record_id, type: selectedType})
+    });
+    const result = await response.json();
+    if (!response.ok) throw new Error(result.error || 'Não foi possível corrigir o tipo.');
+    await loadLocation(locationInput.value);
+    await refreshLocationProgressLabels();
+    await refreshCompletionSummary();
+    statusBox.textContent = selectedType === 'coin'
+      ? 'Tipo corrigido para Moeda. Recorta agora a Frente e o Verso.'
+      : `Tipo corrigido para ${recordTypeInput.selectedOptions[0]?.textContent || selectedType}.`;
+  } catch (error) {
+    recordTypeInput.value = previousType;
+    recordTypeInput.disabled = false;
+    showError(error);
+  }
+};
 completePhotoButton.onclick = async () => {
   const items = recordsForMachine(currentMachine);
   if (!items.length) return;
@@ -933,6 +1001,64 @@ def record_crop_format(record: dict[str, object]) -> str:
     )
 
 
+def read_type_overrides(output_dir: Path) -> dict[str, str]:
+    path = output_dir / "record-type-overrides.json"
+    if not path.is_file():
+        return {}
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}
+    if not isinstance(data, dict):
+        return {}
+    return {
+        str(record_id): str(record_type)
+        for record_id, record_type in data.items()
+        if str(record_type) in SUPPORTED_SOUVENIR_TYPES
+    }
+
+
+def write_type_override(
+    output_dir: Path,
+    record_id: str,
+    record_type: str,
+    original_type: str,
+) -> None:
+    overrides = read_type_overrides(output_dir)
+    if record_type == original_type:
+        overrides.pop(record_id, None)
+    else:
+        overrides[record_id] = record_type
+    path = output_dir / "record-type-overrides.json"
+    path.parent.mkdir(parents=True, exist_ok=True)
+    temporary = path.with_suffix(".tmp")
+    temporary.write_text(
+        json.dumps(overrides, ensure_ascii=False, indent=2, sort_keys=True) + "\n",
+        encoding="utf-8",
+    )
+    temporary.replace(path)
+
+
+def apply_type_overrides(
+    records: list[dict[str, object]],
+    overrides: dict[str, str] | None = None,
+) -> list[dict[str, object]]:
+    selected = overrides or {}
+    result: list[dict[str, object]] = []
+    for raw_record in records:
+        record = dict(raw_record)
+        record_id = str(record.get("id") or "")
+        original_type = str(record.get("type") or "")
+        requested_type = str(selected.get(record_id) or original_type)
+        if requested_type not in SUPPORTED_SOUVENIR_TYPES:
+            requested_type = original_type
+        record["_original_type"] = original_type
+        record["_type_was_overridden"] = requested_type != original_type
+        record["type"] = requested_type
+        result.append(record)
+    return result
+
+
 def build_souvenir_tasks(
     records: list[dict[str, object]], *, include_internal: bool = False
 ) -> list[dict[str, object]]:
@@ -1034,7 +1160,11 @@ def build_souvenir_tasks(
     )
 
 
-def load_pending_souvenirs(*, include_internal: bool = False) -> list[dict[str, object]]:
+def load_pending_souvenirs(
+    *,
+    include_internal: bool = False,
+    type_overrides: dict[str, str] | None = None,
+) -> list[dict[str, object]]:
     load_dotenv(ROOT / ".env")
     api_key = os.environ.get(API_KEY_ENV)
     if not api_key:
@@ -1047,10 +1177,10 @@ def load_pending_souvenirs(*, include_internal: bool = False) -> list[dict[str, 
     )
     if not isinstance(data, list):
         raise RuntimeError(f"Resposta inesperada ao listar Souvenirs: {data!r}")
-    return build_souvenir_tasks(
-        [row for row in data if isinstance(row, dict)],
-        include_internal=include_internal,
+    records = apply_type_overrides(
+        [row for row in data if isinstance(row, dict)], type_overrides
     )
+    return build_souvenir_tasks(records, include_internal=include_internal)
 
 def location_progress_rows(
     records: list[dict[str, object]],
@@ -1107,7 +1237,12 @@ def manifest_entry_for_task(
     entry = manifest.get(task_id)
     if not isinstance(entry, dict) and task.get("_side") == "front":
         entry = manifest.get(str(task.get("_record_id") or ""))
-    return entry if isinstance(entry, dict) else None
+    if not isinstance(entry, dict):
+        return None
+    entry_type = str(entry.get("type") or "")
+    if entry_type and entry_type != str(task.get("type") or ""):
+        return None
+    return entry
 
 
 def write_manifest(output_dir: Path, task_id: str, entry: dict[str, object]) -> None:
@@ -1487,7 +1622,10 @@ class Handler(BaseHTTPRequestHandler):
 
     def pending_records(self, scope: str = "pending") -> list[dict[str, object]]:
         if self.server.records_cache is None:
-            self.server.records_cache = load_pending_souvenirs(include_internal=True)
+            self.server.records_cache = load_pending_souvenirs(
+                include_internal=True,
+                type_overrides=read_type_overrides(self.server.output_dir),
+            )
             self.server.records_by_id = {
                 str(record["id"]): record for record in self.server.records_cache
             }
@@ -1644,11 +1782,13 @@ class Handler(BaseHTTPRequestHandler):
                 self.save_crop()
             elif path == "/api/photo-status":
                 self.save_photo_status()
+            elif path == "/api/record-type":
+                self.save_record_type()
             elif path == "/api/finalize":
                 self.save_finalize()
             else:
                 self.send_error(HTTPStatus.NOT_FOUND)
-        except (OSError, ValueError, KeyError, Image.UnidentifiedImageError) as exc:
+        except (OSError, ValueError, RuntimeError, KeyError, Image.UnidentifiedImageError) as exc:
             self.send_json({"error": str(exc)}, HTTPStatus.BAD_REQUEST)
 
     def request_body(self) -> bytes:
@@ -1656,6 +1796,43 @@ class Handler(BaseHTTPRequestHandler):
         if length <= 0 or length > 30 * 1024 * 1024:
             raise ValueError("A imagem deve ter entre 1 byte e 30 MB.")
         return self.rfile.read(length)
+
+    def save_record_type(self) -> None:
+        payload = json.loads(self.request_body())
+        record_id = str(payload.get("record_id") or "")
+        record_type = str(payload.get("type") or "")
+        if record_type not in SUPPORTED_SOUVENIR_TYPES:
+            raise ValueError(f"Tipo de souvenir inválido: {record_type!r}.")
+        current = [
+            record for record in self.pending_records("all")
+            if str(record["_record_id"]) == record_id
+        ]
+        if not current:
+            raise ValueError("Souvenir não encontrado na fila de trabalho.")
+        original_type = str(current[0].get("_original_type") or current[0].get("type") or "")
+        write_type_override(
+            self.server.output_dir, record_id, record_type, original_type
+        )
+        self.server.records_cache = load_pending_souvenirs(
+            include_internal=True,
+            type_overrides=read_type_overrides(self.server.output_dir),
+        )
+        self.server.records_by_id = {
+            str(record["id"]): record for record in self.server.records_cache
+        }
+        updated = [
+            record for record in self.server.records_cache
+            if str(record["_record_id"]) == record_id
+        ]
+        if not updated:
+            raise ValueError("A correção de tipo removeu o Souvenir da fila.")
+        for record in updated:
+            set_photo_status(self.server.output_dir, record, False)
+        self.send_json({
+            "record_id": record_id,
+            "type": record_type,
+            "sides": [str(record["_side"]) for record in updated],
+        })
 
     def save_photo_status(self) -> None:
         payload = json.loads(self.request_body())
@@ -1839,6 +2016,8 @@ class Handler(BaseHTTPRequestHandler):
                     "side": side,
                     "name": str(record.get("name") or ""),
                     "type": record_type,
+                    "previous_type": str(record.get("_original_type") or record_type),
+                    "type_was_overridden": bool(record.get("_type_was_overridden")),
                     "display_shape": display_shape,
                     "slug": base,
                     "continent": str(record.get("continent") or ""),
