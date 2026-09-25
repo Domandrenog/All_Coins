@@ -827,6 +827,278 @@
     "source_url": "http://locations.pennycollector.com/images/machine_2cf1b858-80f2-461c-8f8f-e6265a03000b.jpg",
     "type": "coin"
   },
+  "6ab65d6de5e0a45ad98de451": {
+    "centered": true,
+    "city": "Faro",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "height": 327,
+      "mode": "rectangle",
+      "width": 187,
+      "x": 458,
+      "y": 112
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg",
+    "format": "portrait",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "height": 327,
+      "mode": "rectangle",
+      "width": 187,
+      "x": 458,
+      "y": 112
+    },
+    "front_file": "frente/portugal-seahorse-pressed-faro.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-seahorse-pressed-faro.jpg",
+    "location_id": "386175",
+    "location_name": "Algarve Life Sciences Center",
+    "machine": 1,
+    "name": "Seahorse",
+    "orientation": "portrait",
+    "original_file": "original/location-386175-photo-1-front.jpg",
+    "original_front": "original/location-386175-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=386175#machine-1-position-1",
+    "slug": "portugal-seahorse-pressed-faro",
+    "source_url": "http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg",
+    "type": "pressed"
+  },
+  "6ab65d6de5e0a45ad98de452": {
+    "centered": false,
+    "city": "Faro",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 185.5,
+          "y": 4.0
+        },
+        {
+          "x": 490.5,
+          "y": 4.0
+        },
+        {
+          "x": 493.5,
+          "y": 197.0
+        },
+        {
+          "x": 190.5,
+          "y": 192.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 185.5,
+          "y": 4.0
+        },
+        {
+          "x": 490.5,
+          "y": 4.0
+        },
+        {
+          "x": 493.5,
+          "y": 197.0
+        },
+        {
+          "x": 190.5,
+          "y": 192.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-telescope-pressed-faro.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-telescope-pressed-faro.jpg",
+    "location_id": "386175",
+    "location_name": "Algarve Life Sciences Center",
+    "machine": 1,
+    "name": "Telescope",
+    "orientation": "landscape",
+    "original_file": "original/location-386175-photo-1-front.jpg",
+    "original_front": "original/location-386175-photo-1-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=386175#machine-1-position-2",
+    "slug": "portugal-telescope-pressed-faro",
+    "source_url": "http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg",
+    "type": "pressed"
+  },
+  "6ab65d6de5e0a45ad98de453": {
+    "centered": false,
+    "city": "Faro",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 7.5,
+          "y": 173.0
+        },
+        {
+          "x": 316.5,
+          "y": 182.0
+        },
+        {
+          "x": 321.5,
+          "y": 368.0
+        },
+        {
+          "x": 1.5,
+          "y": 381.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 7.5,
+          "y": 173.0
+        },
+        {
+          "x": 316.5,
+          "y": 182.0
+        },
+        {
+          "x": 321.5,
+          "y": 368.0
+        },
+        {
+          "x": 1.5,
+          "y": 381.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-logo-pressed-faro.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-logo-pressed-faro.jpg",
+    "location_id": "386175",
+    "location_name": "Algarve Life Sciences Center",
+    "machine": 1,
+    "name": "Logo",
+    "orientation": "landscape",
+    "original_file": "original/location-386175-photo-1-front.jpg",
+    "original_front": "original/location-386175-photo-1-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_front": "http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=386175#machine-1-position-3",
+    "slug": "portugal-logo-pressed-faro",
+    "source_url": "http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg",
+    "type": "pressed"
+  },
+  "6ab65d6de5e0a45ad98de454": {
+    "centered": false,
+    "city": "Faro",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 183.5,
+          "y": 352.0
+        },
+        {
+          "x": 485.5,
+          "y": 351.0
+        },
+        {
+          "x": 507.5,
+          "y": 557.0
+        },
+        {
+          "x": 177.5,
+          "y": 557.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 183.5,
+          "y": 352.0
+        },
+        {
+          "x": 485.5,
+          "y": 351.0
+        },
+        {
+          "x": 507.5,
+          "y": 557.0
+        },
+        {
+          "x": 177.5,
+          "y": 557.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-building-pressed-faro.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-building-pressed-faro.jpg",
+    "location_id": "386175",
+    "location_name": "Algarve Life Sciences Center",
+    "machine": 1,
+    "name": "Building",
+    "orientation": "landscape",
+    "original_file": "original/location-386175-photo-1-front.jpg",
+    "original_front": "original/location-386175-photo-1-front.jpg",
+    "padding": 4,
+    "position": 4,
+    "previous_front": "http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=386175#machine-1-position-4",
+    "slug": "portugal-building-pressed-faro",
+    "source_url": "http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg",
+    "type": "pressed"
+  },
   "6ab65d7b3e8625eba72885d7": {
     "centered": true,
     "city": "Nazaré",

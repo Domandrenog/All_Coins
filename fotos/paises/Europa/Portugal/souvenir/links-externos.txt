@@ -14,6 +14,9 @@ portugal-art-museum-pressed-albufeira:
 portugal-barcelos-rooster-pressed-batalha:
   frente: http://locations.pennycollector.com/images/machine_4080a7e5-e914-4d19-acac-9bfe9fd4e953.jpg
 
+portugal-building-pressed-faro:
+  frente: http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg
+
 portugal-catedral-de-benagil-token-machine-one-design-but-can-pressed-albufeira:
   frente: http://locations.pennycollector.com/images/machine_feda9006-4058-4d9d-bd3f-b8439c77e928.jpg
 
@@ -32,6 +35,9 @@ portugal-cristo-rei-statue-coin-almada-1f7e611d:
 portugal-front-batalha-monastery-building-with-mosteiro-da-coin-batalha:
   frente: http://locations.pennycollector.com/images/machine_2cf1b858-80f2-461c-8f8f-e6265a03000b.jpg
   tras: http://locations.pennycollector.com/images/machine_2cf1b858-80f2-461c-8f8f-e6265a03000b.jpg
+
+portugal-logo-pressed-faro:
+  frente: http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg
 
 portugal-mary-of-nazareth-with-nossa-senhora-da-nazara-pressed-nazare:
   frente: http://locations.pennycollector.com/images/machine_f126aaea-515d-490d-adc6-fd6f5f29bf98.jpg
@@ -54,8 +60,14 @@ portugal-portugal-pressed-albufeira:
 portugal-santa-maria-da-vitoria-batalha-monastery-with-batalha-pressed-batalha:
   frente: http://locations.pennycollector.com/images/machine_4080a7e5-e914-4d19-acac-9bfe9fd4e953.jpg
 
+portugal-seahorse-pressed-faro:
+  frente: http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg
+
 portugal-senhora-fatima-with-na-sra-de-fatima-pressed-batalha:
   frente: http://locations.pennycollector.com/images/machine_4080a7e5-e914-4d19-acac-9bfe9fd4e953.jpg
+
+portugal-telescope-pressed-faro:
+  frente: http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg
 
 portugal-torre-de-belem-coin-almada:
   frente: http://locations.pennycollector.com/images/machine_94b3f285-6ca9-4fed-a363-97a246321bfe.jpg
