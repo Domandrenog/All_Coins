@@ -14,11 +14,17 @@ portugal-art-museum-pressed-albufeira:
 portugal-barcelos-rooster-pressed-batalha:
   frente: http://locations.pennycollector.com/images/machine_4080a7e5-e914-4d19-acac-9bfe9fd4e953.jpg
 
+portugal-beach-with-lagos-pressed-lagos:
+  frente: http://locations.pennycollector.com/images/machine_409529cd-7293-484e-b175-2f4d513e8236.jpg
+
 portugal-building-pressed-faro:
   frente: http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg
 
 portugal-catedral-de-benagil-token-machine-one-design-but-can-pressed-albufeira:
   frente: http://locations.pennycollector.com/images/machine_feda9006-4058-4d9d-bd3f-b8439c77e928.jpg
+
+portugal-city-of-lagos-pressed-lagos:
+  frente: http://locations.pennycollector.com/images/machine_409529cd-7293-484e-b175-2f4d513e8236.jpg
 
 portugal-cristo-rei-looking-to-lisbon-coin-almada:
   frente: http://locations.pennycollector.com/images/machine_766caa61-1b5d-4efd-a17a-b31a8486b36b.jpg

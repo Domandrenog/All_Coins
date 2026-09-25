@@ -14,11 +14,17 @@ portugal-art-museum-pressed-albufeira:
 portugal-barcelos-rooster-pressed-batalha:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-barcelos-rooster-pressed-batalha.jpg
 
+portugal-beach-with-lagos-pressed-lagos:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-beach-with-lagos-pressed-lagos.jpg
+
 portugal-building-pressed-faro:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-building-pressed-faro.jpg
 
 portugal-catedral-de-benagil-token-machine-one-design-but-can-pressed-albufeira:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-catedral-de-benagil-token-machine-one-design-but-can-pressed-albufeira.jpg
+
+portugal-city-of-lagos-pressed-lagos:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-city-of-lagos-pressed-lagos.jpg
 
 portugal-cristo-rei-looking-to-lisbon-coin-almada:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-cristo-rei-looking-to-lisbon-coin-almada.jpg
