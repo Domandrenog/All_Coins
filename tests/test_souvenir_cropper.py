@@ -8,6 +8,7 @@ from PIL import Image, ImageDraw
 from tools.souvenir_cropper import (
     PAGE,
     clean_isolated_edge_residue,
+    completion_queue,
     completion_request,
     location_progress_rows,
     order_quad_points,
@@ -157,6 +158,58 @@ class CompletionRequestTests(unittest.TestCase):
             with self.assertRaisesRegex(ValueError, "pelo menos uma fotografia"):
                 completion_request(folder, records, "352061")
 
+    def test_global_queue_includes_every_newly_completed_location(self):
+        with TemporaryDirectory() as temporary:
+            folder = Path(temporary)
+            records = [
+                {
+                    "id": "pending-1", "_record_id": "pending-1",
+                    "_location_id": "location-a", "_machine": 1,
+                    "_source_url": "https://example.test/a.jpg", "_side": "front",
+                    "_internal": False, "location_name": "A",
+                },
+                {
+                    "id": "pending-old", "_record_id": "pending-old",
+                    "_location_id": "location-a", "_machine": 1,
+                    "_source_url": "https://example.test/a.jpg", "_side": "front",
+                    "_internal": True, "location_name": "A",
+                },
+                {
+                    "id": "internal-1", "_record_id": "internal-1",
+                    "_location_id": "location-b", "_machine": 1,
+                    "_source_url": "https://example.test/b.jpg", "_side": "front",
+                    "_internal": True, "location_name": "B",
+                },
+                {
+                    "id": "old-1", "_record_id": "old-1",
+                    "_location_id": "location-c", "_machine": 1,
+                    "_source_url": "https://example.test/c.jpg", "_side": "front",
+                    "_internal": True, "location_name": "C",
+                },
+            ]
+            (folder / "manifest.json").write_text(
+                json.dumps({record["id"]: {"file": "unused"} for record in records}),
+                encoding="utf-8",
+            )
+            (folder / "photo-status.json").write_text(
+                json.dumps({
+                    photo_status_key(records[0]): {"completed": True},
+                    photo_status_key(records[2]): {"completed": True, "queued": True},
+                    photo_status_key(records[3]): {"completed": True},
+                }),
+                encoding="utf-8",
+            )
+
+            requests = completion_queue(folder, records)
+
+        self.assertEqual(
+            [request["location_id"] for request in requests],
+            ["location-a", "location-b"],
+        )
+        self.assertEqual(sum(request["photos"] for request in requests), 2)
+        self.assertEqual(sum(request["sides"] for request in requests), 2)
+        self.assertEqual(requests[0]["record_sides"], ["pending-1:front"])
+
     def test_shared_source_front_completion_does_not_complete_back(self):
         source = "https://example.test/front-and-back.jpg"
         statuses = {
@@ -190,6 +243,8 @@ class CompletionRequestTests(unittest.TestCase):
         self.assertIn('id="selection-mode"', PAGE)
         self.assertIn("Marcar 4 vértices", PAGE)
         self.assertIn("Correção de perspetiva ativa", PAGE)
+        self.assertIn("/api/completion-summary", PAGE)
+        self.assertIn("Todas as fotografias que marcaste como completas serão enviadas", PAGE)
 
 
 if __name__ == "__main__":

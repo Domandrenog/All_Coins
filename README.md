@@ -28,11 +28,13 @@ abrir o recortador manual. O recortador:
 - avança automaticamente depois de guardares cada recorte;
 - guarda a associação ao ID num manifesto local, sem escrever ainda na Base44.
 
-O botão `Finalizar e enviar concluídas` está sempre disponível quando o
-recortador é aberto pelo `main.py`. Basta confirmar uma fotografia para a poder
-enviar; máquinas ainda abertas ou parcialmente recortadas ficam guardadas para
-depois. O botão executa automaticamente, apenas para os IDs das fotografias
-marcadas como concluídas:
+O botão `Finalizar e enviar concluídas` fica disponível quando o
+recortador é aberto pelo `main.py` e existe pelo menos uma fotografia confirmada.
+A fila é global: envia todas as fotografias marcadas como concluídas, mesmo que
+estejam noutras locations ou fora dos filtros atualmente selecionados. Fotografias
+ainda abertas ou parcialmente recortadas ficam guardadas para depois. O botão
+executa automaticamente, apenas para os IDs das fotografias marcadas como
+concluídas:
 
 1. valida as dimensões e o estado das fotografias selecionadas;
 2. promove os respetivos originais, recortes, manifesto e links para a árvore canónica;

@@ -191,6 +191,7 @@ const completePhotoButton = document.querySelector('#complete-photo');
 const finalizeStatus = document.querySelector('#location-finalize');
 const finalizeButton = document.querySelector('#finalize-location');
 let pipelineEnabled = false;
+let completionSummary = {locations: 0, records: 0, sides: 0, photos: 0};
 let locations = [];
 let locationStats = [];
 let records = [];
@@ -383,26 +384,29 @@ function machineLabel(machine) {
 }
 
 function updateLocationProgress() {
-  const completedRecords = records.filter(record => record.prepared && record.photo_completed);
-  const completedMachines = new Set(completedRecords.map(record => record.machine));
-  if (!records.length) {
-    finalizeStatus.textContent = 'Escolhe uma location para acompanhar as fotografias.';
-    finalizeButton.disabled = true;
-    return;
-  }
   if (!pipelineEnabled) {
     finalizeStatus.textContent = 'O envio automático só está disponível quando abres o recortador pelo main.py.';
     finalizeButton.disabled = true;
     return;
   }
-  finalizeButton.disabled = false;
-  if (completedRecords.length) {
-    const sideWord = completedRecords.length === 1 ? 'lado' : 'lados';
-    const photoWord = completedMachines.size === 1 ? 'fotografia concluída' : 'fotografias concluídas';
-    finalizeStatus.textContent = `${completedRecords.length} ${sideWord} em ${completedMachines.size} ${photoWord} serão enviados. Os restantes ficam guardados para depois.`;
+  const {locations: locationCount, records: recordCount, sides, photos} = completionSummary;
+  finalizeButton.disabled = photos === 0;
+  if (photos > 0) {
+    const sideWord = sides === 1 ? 'lado' : 'lados';
+    const photoWord = photos === 1 ? 'fotografia concluída' : 'fotografias concluídas';
+    const locationWord = locationCount === 1 ? 'location' : 'locations';
+    finalizeStatus.textContent = `${sides} ${sideWord} de ${recordCount} souvenirs em ${photos} ${photoWord}, distribuídas por ${locationCount} ${locationWord}, serão enviados. Os restantes ficam guardados para depois.`;
     return;
   }
   finalizeStatus.textContent = 'Ainda não marcaste nenhuma fotografia como concluída. Os recortes em curso não serão enviados.';
+}
+
+async function refreshCompletionSummary() {
+  const response = await fetch('/api/completion-summary');
+  const result = await response.json();
+  if (!response.ok) throw new Error(result.error || 'Não foi possível consultar as fotografias concluídas.');
+  completionSummary = result;
+  updateLocationProgress();
 }
 
 
@@ -753,6 +757,7 @@ completePhotoButton.onclick = async () => {
     items.forEach(record => { record.photo_completed = completed; });
     updateMachineOption(currentMachine);
     updatePhotoProgress();
+    await refreshCompletionSummary();
     assignment.textContent = completed
       ? `${items[0]?.photo_label || `Fotografia ${currentMachine}`} confirmada como completa.`
       : `${items[0]?.photo_label || `Fotografia ${currentMachine}`} reaberta para revisão.`;
@@ -761,17 +766,17 @@ completePhotoButton.onclick = async () => {
 
 finalizeButton.onclick = async () => {
   if (!pipelineEnabled) return;
-  const completedRecords = records.filter(record => record.prepared && record.photo_completed);
-  const completedMachines = new Set(completedRecords.map(record => record.machine));
-  if (!completedRecords.length) {
+  await refreshCompletionSummary();
+  const {locations: locationCount, records: recordCount, sides, photos} = completionSummary;
+  if (!photos) {
     finalizeStatus.textContent = 'Marca pelo menos uma fotografia como concluída antes de enviar.';
     return;
   }
-  const locationName = locationInput.selectedOptions[0]?.textContent || locationInput.value;
-  const sideWord = completedRecords.length === 1 ? 'lado' : 'lados';
-  const photoWord = completedMachines.size === 1 ? 'fotografia concluída' : 'fotografias concluídas';
+  const sideWord = sides === 1 ? 'lado' : 'lados';
+  const photoWord = photos === 1 ? 'fotografia concluída' : 'fotografias concluídas';
+  const locationWord = locationCount === 1 ? 'location' : 'locations';
   const confirmed = window.confirm(
-    `Enviar ${completedRecords.length} ${sideWord} de ${completedMachines.size} ${photoWord} em ${locationName}?\n\nAs fotografias ainda abertas ficam guardadas e não serão enviadas.`
+    `Enviar ${sides} ${sideWord} de ${recordCount} souvenirs em ${photos} ${photoWord}, distribuídas por ${locationCount} ${locationWord}?\n\nTodas as fotografias que marcaste como completas serão enviadas. As restantes ficam guardadas para depois.`
   );
   if (!confirmed) return;
   finalizeButton.disabled = true;
@@ -781,7 +786,7 @@ finalizeButton.onclick = async () => {
     const response = await fetch('/api/finalize', {
       method: 'POST',
       headers: {'Content-Type': 'application/json'},
-      body: JSON.stringify({location_id: locationInput.value, scope: scopeInput.value})
+      body: JSON.stringify({})
     });
     const result = await response.json();
     if (!response.ok) throw new Error(result.error || 'Não foi possível enviar as fotografias concluídas.');
@@ -855,6 +860,7 @@ saveButton.onclick = async () => {
       currentRecord.prepared = true;
       renderMachineGallery();
       updatePhotoProgress();
+      await refreshCompletionSummary();
       setTimeout(advanceQueue, 700);
     }
   } catch (error) { showError(error); }
@@ -867,7 +873,7 @@ loadLocations().catch(showError);
 
 fetch('/api/bootstrap').then(response => response.json()).then(async result => {
   pipelineEnabled = Boolean(result.can_finalize);
-  updateLocationProgress();
+  await refreshCompletionSummary();
   if (!result.url) return;
   const response = await fetch(result.url);
   await loadBlob(await response.blob(), result.name || '');
@@ -1151,16 +1157,23 @@ def photo_status_for_task(
     return None
 
 
-def set_photo_status(output_dir: Path, record: dict[str, object], completed: bool) -> None:
+def set_photo_status(
+    output_dir: Path,
+    record: dict[str, object],
+    completed: bool,
+    record_sides: list[str] | None = None,
+) -> None:
     statuses = read_photo_status(output_dir)
     key = photo_status_key(record)
     statuses[key] = {
         "completed": completed,
+        "queued": completed,
         "location_id": str(record["_location_id"]),
         "location_name": str(record.get("location_name") or ""),
         "machine": int(record["_machine"]),
         "source_url": str(record.get("_source_url") or ""),
         "side": str(record.get("_side") or "front"),
+        "record_sides": record_sides if completed and record_sides else [],
     }
     (output_dir / "photo-status.json").write_text(
         json.dumps(statuses, ensure_ascii=False, indent=2) + "\n",
@@ -1349,6 +1362,8 @@ def completion_request(
     output_dir: Path,
     records: list[dict[str, object]],
     location_id: str,
+    *,
+    queued_only: bool = False,
 ) -> dict[str, object]:
     matching = [record for record in records if str(record["_location_id"]) == location_id]
     if not matching:
@@ -1357,17 +1372,41 @@ def completion_request(
     statuses = read_photo_status(output_dir)
     completed_tasks: list[dict[str, object]] = []
     completed_photos: list[int] = []
+    completed_status_keys: list[str] = []
     for machine in sorted({int(record["_machine"]) for record in matching}):
-        photo_tasks = [record for record in matching if int(record["_machine"]) == machine]
-        status = photo_status_for_task(statuses, photo_tasks[0])
+        all_photo_tasks = [
+            record for record in matching if int(record["_machine"]) == machine
+        ]
+        status = photo_status_for_task(statuses, all_photo_tasks[0])
         if not isinstance(status, dict) or not status.get("completed"):
             continue
+        photo_tasks = all_photo_tasks
+        if queued_only:
+            raw_sides = status.get("record_sides")
+            if isinstance(raw_sides, list) and raw_sides:
+                selected_sides = {str(value) for value in raw_sides if value}
+                photo_tasks = [
+                    record for record in all_photo_tasks
+                    if str(record["id"]) in selected_sides
+                ]
+            elif status.get("queued") is True:
+                photo_tasks = all_photo_tasks
+            elif "queued" not in status:
+                photo_tasks = [
+                    record for record in all_photo_tasks
+                    if not bool(record.get("_internal"))
+                ]
+            else:
+                continue
+            if not photo_tasks:
+                continue
         missing = [record for record in photo_tasks if manifest_entry_for_task(manifest, record) is None]
         if missing:
             raise ValueError(
                 f"A fotografia {machine} está concluída, mas ainda tem {len(missing)} recortes em falta."
             )
         completed_photos.append(machine)
+        completed_status_keys.append(photo_status_key(photo_tasks[0]))
         completed_tasks.extend(photo_tasks)
     if not completed_tasks:
         raise ValueError("Marca pelo menos uma fotografia como concluída antes de enviar.")
@@ -1391,6 +1430,35 @@ def completion_request(
         "photos": len(completed_photos),
         "record_ids": record_ids,
         "record_sides": record_sides,
+        "photo_status_keys": completed_status_keys,
+    }
+
+
+def completion_queue(
+    output_dir: Path,
+    records: list[dict[str, object]],
+) -> list[dict[str, object]]:
+    requests: list[dict[str, object]] = []
+    location_ids = sorted({str(record["_location_id"]) for record in records})
+    for location_id in location_ids:
+        try:
+            request = completion_request(
+                output_dir, records, location_id, queued_only=True
+            )
+        except ValueError as exc:
+            if str(exc) == "Marca pelo menos uma fotografia como concluída antes de enviar.":
+                continue
+            raise
+        requests.append(request)
+    return requests
+
+
+def queue_summary(requests: list[dict[str, object]]) -> dict[str, int]:
+    return {
+        "locations": len(requests),
+        "records": sum(int(request["records"]) for request in requests),
+        "sides": sum(int(request["sides"]) for request in requests),
+        "photos": sum(int(request["photos"]) for request in requests),
     }
 
 
@@ -1503,6 +1571,15 @@ class Handler(BaseHTTPRequestHandler):
             self.end_headers()
             self.wfile.write(data)
             return
+        if path == "/api/completion-summary":
+            try:
+                requests = completion_queue(
+                    self.server.output_dir, self.pending_records("all")
+                )
+                self.send_json(queue_summary(requests))
+            except Exception as exc:
+                self.send_json({"error": str(exc)}, HTTPStatus.BAD_REQUEST)
+            return
         if path == "/api/locations":
             try:
                 self.send_json({"locations": self.location_rows()})
@@ -1602,17 +1679,24 @@ class Handler(BaseHTTPRequestHandler):
             ]
             if missing:
                 raise ValueError("Ainda existem lados desta fotografia por recortar.")
+        record_sides = [str(record["id"]) for record in matching]
         for record in matching:
-            set_photo_status(self.server.output_dir, record, completed)
+            set_photo_status(
+                self.server.output_dir, record, completed, record_sides
+            )
         self.send_json({"completed": completed, "machine": machine})
 
     def save_finalize(self) -> None:
         if self.server.completion_file is None:
             raise ValueError("Abre o recortador através do main.py para usar o envio automático.")
-        payload = json.loads(self.request_body())
-        location_id = str(payload.get("location_id") or "")
-        scope = str(payload.get("scope") or "pending")
-        request = completion_request(self.server.output_dir, self.pending_records(scope), location_id)
+        json.loads(self.request_body())
+        requests = completion_queue(
+            self.server.output_dir, self.pending_records("all")
+        )
+        if not requests:
+            raise ValueError("Marca pelo menos uma fotografia como concluída antes de enviar.")
+        summary = queue_summary(requests)
+        request: dict[str, object] = {**summary, "batches": requests}
         destination = self.server.completion_file
         destination.parent.mkdir(parents=True, exist_ok=True)
         temporary = destination.with_suffix(".tmp")
@@ -1622,11 +1706,13 @@ class Handler(BaseHTTPRequestHandler):
         )
         temporary.replace(destination)
         side_word = "lado concluído validado" if request["sides"] == 1 else "lados concluídos validados"
+        photo_word = "fotografia" if request["photos"] == 1 else "fotografias"
         self.send_json({
             **request,
             "message": (
-                f"{request['sides']} {side_word} em {request['records']} Souvenirs. "
-                "O envio automático continua no terminal."
+                f"{request['sides']} {side_word} em {request['records']} Souvenirs, "
+                f"de {request['photos']} {photo_word}. "
+                "O envio de toda a fila continua no terminal."
             ),
         })
         Thread(target=self.server.shutdown, daemon=True).start()
@@ -1831,7 +1917,7 @@ def main() -> int:
     print(f"Recortador disponível em {url}")
     print(f"Recortes de teste: {output / 'crops'}")
     if server.completion_file:
-        print("Usa ‘Finalizar e enviar’ no browser quando a location estiver completa.")
+        print("Usa ‘Finalizar e enviar concluídas’ para enviar todas as fotografias confirmadas.")
     else:
         print("Termina com Ctrl+C.")
     if not args.no_browser:

@@ -28,6 +28,7 @@ CATALOG_CHECK_SCRIPT = SCRIPTS / "check_catalog_links_api.py"
 SOUVENIR_CROPPER_SCRIPT = ROOT / "tools" / "souvenir_cropper.py"
 SOUVENIR_PROMOTE_SCRIPT = ROOT / "tools" / "promote_souvenir_crops.py"
 SOUVENIR_UPDATE_SCRIPT = ROOT / "tools" / "update_souvenir_manifest_api.py"
+SOUVENIR_STAGING = ROOT / "recortes_souvenir_teste"
 
 CATALOG_LABELS = {
     "normal": "Moedas normais",
@@ -681,6 +682,67 @@ def finalize_manual_souvenirs(request: dict[str, object]) -> bool:
     )
     return True
 
+
+def acknowledge_manual_souvenir_request(request: dict[str, object]) -> None:
+    raw_keys = request.get("photo_status_keys")
+    if not isinstance(raw_keys, list):
+        return
+    selected = {str(value) for value in raw_keys if value}
+    if not selected:
+        return
+    path = SOUVENIR_STAGING / "photo-status.json"
+    try:
+        statuses = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return
+    if not isinstance(statuses, dict):
+        return
+    changed = False
+    for key in selected:
+        status = statuses.get(key)
+        if isinstance(status, dict) and status.get("queued") is not False:
+            status["queued"] = False
+            changed = True
+    if not changed:
+        return
+    temporary = path.with_suffix(".tmp")
+    temporary.write_text(
+        json.dumps(statuses, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+    temporary.replace(path)
+
+
+def finalize_manual_souvenir_queue(request: dict[str, object]) -> bool:
+    raw_batches = request.get("batches")
+    if not isinstance(raw_batches, list):
+        succeeded = finalize_manual_souvenirs(request)
+        if succeeded:
+            acknowledge_manual_souvenir_request(request)
+        return succeeded
+    batches = [batch for batch in raw_batches if isinstance(batch, dict)]
+    if not batches:
+        print("O recortador não devolveu fotografias concluídas válidas.")
+        return False
+    print(
+        f"\n===== Fila de Souvenirs: {len(batches)} locations / "
+        f"{request.get('photos') or '?'} fotografias / {request.get('sides') or '?'} lados ====="
+    )
+    succeeded = 0
+    for index, batch in enumerate(batches, 1):
+        print(f"\n===== Location [{index}/{len(batches)}] =====")
+        if finalize_manual_souvenirs(batch):
+            acknowledge_manual_souvenir_request(batch)
+            succeeded += 1
+        else:
+            print("Esta location ficou na fila para poderes repetir o envio depois.")
+    print(
+        f"\nFila processada: {succeeded}/{len(batches)} locations enviadas; "
+        f"{len(batches) - succeeded} ficaram guardadas."
+    )
+    return succeeded == len(batches)
+
+
 def process_countries(
     countries: list[str], mode: str, catalog: str, record_type: str | None = None
 ) -> None:
@@ -782,7 +844,7 @@ def main() -> int:
             if souvenir_action == "manual":
                 completion = launch_souvenir_cropper()
                 if completion is not None:
-                    finalize_manual_souvenirs(completion)
+                    finalize_manual_souvenir_queue(completion)
                 wait_for_continue()
                 continue
         countries = choose_countries(catalog, record_type)
