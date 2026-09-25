@@ -1,0 +1,8 @@
+portugal-barcelos-rooster-pressed-batalha:
+  frente: http://locations.pennycollector.com/images/machine_4080a7e5-e914-4d19-acac-9bfe9fd4e953.jpg
+
+portugal-santa-maria-da-vitoria-batalha-monastery-with-batalha-pressed-batalha:
+  frente: http://locations.pennycollector.com/images/machine_4080a7e5-e914-4d19-acac-9bfe9fd4e953.jpg
+
+portugal-senhora-fatima-with-na-sra-de-fatima-pressed-batalha:
+  frente: http://locations.pennycollector.com/images/machine_4080a7e5-e914-4d19-acac-9bfe9fd4e953.jpg
