@@ -89,11 +89,33 @@ class LocationProgressTests(unittest.TestCase):
 
         by_id = {row["id"]: row for row in rows}
         self.assertEqual(by_id["one"]["pending_sides"], 1)
-        self.assertEqual(by_id["one"]["total_sides"], 2)
+        self.assertEqual(by_id["one"]["total_sides"], 1)
         self.assertEqual(by_id["one"]["pending_souvenirs"], 1)
-        self.assertEqual(by_id["one"]["total_souvenirs"], 2)
+        self.assertEqual(by_id["one"]["total_souvenirs"], 1)
         self.assertEqual(by_id["two"]["pending_sides"], 0)
-        self.assertEqual(by_id["two"]["total_sides"], 1)
+        self.assertEqual(by_id["two"]["total_sides"], 0)
+
+    def test_missing_photos_are_warned_without_inflating_session_total(self):
+        rows = location_progress_rows([
+            {
+                "_location_id": "almada", "_record_id": "ready", "_machine": 1,
+                "_internal": False, "continent": "Europa", "country": "Portugal",
+                "city": "Almada", "location_name": "Almada",
+            },
+            {
+                "_location_id": "almada", "_record_id": "no-photo", "_machine": 2,
+                "_internal": False, "_missing_photo": True,
+                "continent": "Europa", "country": "Portugal",
+                "city": "Almada", "location_name": "Almada",
+            },
+        ])
+
+        [row] = rows
+        self.assertEqual(row["pending_sides"], 1)
+        self.assertEqual(row["total_sides"], 1)
+        self.assertEqual(row["pending_souvenirs"], 1)
+        self.assertEqual(row["total_souvenirs"], 1)
+        self.assertEqual(row["missing_photos"], 1)
 
     def test_completed_photos_reduce_pending_counts_immediately(self):
         records = [
@@ -279,7 +301,9 @@ class CompletionRequestTests(unittest.TestCase):
         self.assertIn('id="country"', PAGE)
         self.assertIn('id="city"', PAGE)
         self.assertIn("Em pé — 140 × 200 px", PAGE)
-        self.assertIn("faltam ${pending}/${all} lados", PAGE)
+        self.assertIn("' · faltam ' + pending + '/' + all + ' lados'", PAGE)
+        self.assertIn("missing-photo-option", PAGE)
+        self.assertIn("⚠ Souvenir sem fotografia", PAGE)
         self.assertIn('id="selection-mode"', PAGE)
         self.assertIn("Marcar 4 vértices", PAGE)
         self.assertIn("Correção de perspetiva ativa", PAGE)

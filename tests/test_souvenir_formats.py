@@ -12,6 +12,7 @@ from tools.souvenir_cropper import (
     PAGE,
     apply_back_image_overrides,
     apply_type_overrides,
+    build_missing_photo_tasks,
     build_souvenir_tasks,
     clone_souvenir_payload,
     create_souvenir_clone,
@@ -51,6 +52,20 @@ class SouvenirFormatTests(unittest.TestCase):
 
 
 class OtherSouvenirQueueTests(unittest.TestCase):
+    def test_record_without_images_becomes_a_missing_photo_warning(self):
+        records = [{
+            "id": "coin-1", "name": "Token sem fotografia", "type": "coin",
+            "continent": "Europa", "country": "Portugal", "city": "Almada",
+            "location_name": "Museu", "image_front": "", "image_back": "",
+        }]
+
+        tasks = build_missing_photo_tasks(records, [])
+
+        self.assertEqual(len(tasks), 1)
+        self.assertEqual(tasks[0]["id"], "coin-1:missing")
+        self.assertTrue(tasks[0]["_missing_photo"])
+        self.assertEqual(tasks[0]["_photo_label"], "⚠ Sem fotografia")
+
     @patch("tools.souvenir_cropper.load_dotenv")
     @patch("tools.souvenir_cropper.api_request")
     def test_external_other_record_is_included(self, api_request, _load_dotenv):

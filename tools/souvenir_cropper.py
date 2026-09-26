@@ -81,6 +81,7 @@ PAGE = r"""<!doctype html>
     .photo-progress button { width: auto; margin: 0; white-space: nowrap; }
     .photo-progress.ready { border-color: #e3aa75; background: #fff4e9; }
     .photo-progress.complete { border-color: #91c6a0; background: #edf8f0; }
+    .photo-progress.missing { border-color: #dc6b62; background: #fff0ef; color: #9f1f18; }
     #drop { min-height: 420px; display: grid; place-items: center; border: 2px dashed #c6b9aa; border-radius: 10px; overflow: auto; background: #fbfaf8; position: relative; }
     #drop.active { border-color: #c16b21; background: #fff7ef; }
     #empty { padding: 40px; text-align: center; color: #756a60; }
@@ -96,6 +97,9 @@ PAGE = r"""<!doctype html>
     .coin-card:hover { border-color: #d59a69; background: #fffaf5; }
     .coin-card.active { border-color: #b95f18; background: #fff5eb; box-shadow: 0 0 0 2px #b95f1820; }
     .coin-card.prepared .coin-state { color: #2f7a45; }
+    .coin-card.missing-photo { border-color: #dc6b62; background: #fff0ef; }
+    .coin-card.missing-photo .coin-state, .missing-photo-warning { color: #a51f18; font-weight: 700; }
+    .missing-photo-option { color: #b42318; font-weight: 700; }
     .coin-thumb { display: grid; place-items: center; width: 82px; height: 64px; object-fit: contain; background: #f4f2ef; border-radius: 7px; color: #8a7f75; font-weight: 700; }
     .coin-card strong, .coin-card small { display: block; overflow-wrap: anywhere; }
     .coin-card small { margin-top: 4px; color: #6e655c; }
@@ -196,6 +200,7 @@ const ctx = canvas.getContext('2d');
 const drop = document.querySelector('#drop');
 const empty = document.querySelector('#empty');
 const fileInput = document.querySelector('#file');
+const chooseButton = document.querySelector('#choose');
 const saveButton = document.querySelector('#save');
 const clearButton = document.querySelector('#clear');
 const coords = document.querySelector('#coords');
@@ -364,7 +369,7 @@ function updateSelection() {
   const perspective = selectionModeInput.value === 'perspective';
   const rectangleValid = selection && selection.width >= 5 && selection.height >= 5;
   const valid = perspective ? perspectivePoints.length === 4 : rectangleValid;
-  saveButton.disabled = !valid || !sourceId;
+  saveButton.disabled = !valid || !sourceId || Boolean(currentRecord?.missing_photo);
   clearButton.disabled = perspective ? perspectivePoints.length === 0 : !selection;
   if (perspective) {
     const target = targetSize();
@@ -379,6 +384,11 @@ function updateSelection() {
 }
 
 async function loadBlob(blob, suggestedName='') {
+  if (currentRecord?.missing_photo) {
+    statusBox.textContent =
+      'Este Souvenir ainda não tem fotografia na Base44. Adiciona primeiro a imagem original.';
+    return;
+  }
   if (!blob || !blob.type.startsWith('image/')) {
     statusBox.textContent = 'O conteúdo colado não é uma imagem.';
     return;
@@ -409,10 +419,14 @@ function recordsForMachine(machine) {
 
 function machineLabel(machine) {
   const items = recordsForMachine(machine);
+  if (items.some(record => record.missing_photo)) {
+    return '⚠ Sem fotografia · é preciso arranjar imagem';
+  }
   const prepared = items.filter(record => record.prepared).length;
   const completed = items.length > 0 && items.every(record => record.photo_completed);
-  const label = items[0]?.photo_label || `Fotografia ${machine}`;
-  return `${label} · ${prepared}/${items.length} recortes${completed ? ' · completa' : ''}`;
+  const label = items[0]?.photo_label || 'Fotografia ' + machine;
+  return label + ' · ' + prepared + '/' + items.length + ' recortes' +
+    (completed ? ' · completa' : '');
 }
 
 function updateLocationProgress() {
@@ -452,6 +466,14 @@ function updatePhotoProgress() {
     completePhotoButton.disabled = true;
     return;
   }
+  if (items.some(record => record.missing_photo)) {
+    photoProgress.className = 'photo-progress missing';
+    photoState.textContent = '⚠ Souvenir sem fotografia';
+    photoCount.textContent = 'É preciso adicionar uma imagem original antes de recortar.';
+    completePhotoButton.textContent = 'Sem fotografia';
+    completePhotoButton.disabled = true;
+    return;
+  }
   const prepared = items.filter(record => record.prepared).length;
   const completed = items.every(record => record.photo_completed);
   photoCount.textContent = `${prepared}/${items.length} recortes preparados · ${items[0]?.photo_label || `Fotografia ${currentMachine}`}`;
@@ -488,28 +510,48 @@ function renderMachineGallery() {
     .forEach(record => {
       const index = records.findIndex(candidate => candidate.id === record.id);
       const side = record.side === 'back' ? 'Verso' : 'Frente';
-      const displayName = record.display_name || `${side} — ${record.name}`;
+      const displayName = record.display_name || side + ' — ' + record.name;
       const article = document.createElement('article');
-      article.className = `coin-card${record.prepared ? ' prepared' : ''}${currentRecord && currentRecord.id === record.id ? ' active' : ''}`;
+      article.className =
+        'coin-card' +
+        (record.prepared ? ' prepared' : '') +
+        (record.missing_photo ? ' missing-photo' : '') +
+        (currentRecord && currentRecord.id === record.id ? ' active' : '');
       article.tabIndex = 0;
       article.setAttribute('role', 'button');
-      article.setAttribute('aria-label', `Selecionar posição ${record.position}: ${displayName}`);
-      const thumbnail = document.createElement(record.prepared && record.output_url ? 'img' : 'span');
+      article.setAttribute(
+        'aria-label',
+        'Selecionar posição ' + record.position + ': ' + displayName
+      );
+      const thumbnail = document.createElement(
+        record.prepared && record.output_url ? 'img' : 'span'
+      );
       thumbnail.className = 'coin-thumb';
       if (record.prepared && record.output_url) {
-        thumbnail.src = `${record.output_url}?v=${Date.now()}`;
+        thumbnail.src = record.output_url + '?v=' + Date.now();
         thumbnail.alt = '';
       } else {
-        thumbnail.textContent = record.position;
+        thumbnail.textContent = record.missing_photo ? '⚠' : record.position;
       }
       const details = document.createElement('div');
       const name = document.createElement('strong');
       name.textContent = displayName;
       const state = document.createElement('small');
       state.className = 'coin-state';
-      const formatLabel = record.format === 'square' ? 'Quadrado' : (record.format === 'portrait' ? 'Em pé' : 'Deitada');
-      const progressLabel = record.prepared ? 'Preparado' : (record.internal ? 'Já interno · pode ser revisto' : 'Por recortar');
-      state.textContent = `${record.type} · Posição ${record.position} · ${formatLabel} · ${progressLabel}`;
+      const formatLabel = record.format === 'square'
+        ? 'Quadrado'
+        : (record.format === 'portrait' ? 'Em pé' : 'Deitada');
+      const progress = record.missing_photo
+        ? '⚠ Sem fotografia · é preciso arranjar imagem'
+        : (
+          record.prepared
+            ? 'Preparado'
+            : (record.internal ? 'Já interno · pode ser revisto' : 'Por recortar')
+        );
+      state.textContent = record.missing_photo
+        ? record.type + ' · ' + progress
+        : record.type + ' · Posição ' + record.position + ' · ' +
+          formatLabel + ' · ' + progress;
       details.append(name, state);
       article.append(thumbnail, details);
       article.onclick = () => selectRecord(index).catch(showError);
@@ -543,7 +585,7 @@ function updateBackImageControl() {
   const isCoin = currentRecord?.type === 'coin';
   coinSidesControl.hidden = !isCoin;
   coinSidesInput.disabled = !isCoin;
-  duplicateRecordButton.disabled = !isCoin;
+  duplicateRecordButton.disabled = !isCoin || Boolean(currentRecord?.missing_photo);
   coinSidesInput.value = (
     isCoin && currentRecord.has_back_image === false ? 'front' : 'both'
   );
@@ -564,20 +606,61 @@ async function selectRecord(index) {
   updateSelection();
   renderMachineGallery();
   const machineItems = recordsForMachine(currentMachine);
-  const numberInMachine = machineItems.findIndex(record => record.id === currentRecord.id) + 1;
+  const numberInMachine =
+    machineItems.findIndex(record => record.id === currentRecord.id) + 1;
+  assignment.classList.toggle(
+    'missing-photo-warning',
+    currentRecord.missing_photo
+  );
+  statusBox.classList.toggle(
+    'missing-photo-warning',
+    currentRecord.missing_photo
+  );
+  chooseButton.disabled = currentRecord.missing_photo;
+  if (currentRecord.missing_photo) {
+    sourceId = null;
+    image = new Image();
+    canvas.style.display = 'none';
+    empty.style.display = 'block';
+    empty.textContent =
+      '⚠ Este Souvenir não tem fotografia. Adiciona primeiro uma imagem na Base44.';
+    assignment.textContent =
+      '⚠ Sem fotografia:\n' + currentRecord.name +
+      '\nTipo: ' + currentRecord.type +
+      '\nÉ preciso arranjar uma imagem antes de recortar.';
+    statusBox.textContent =
+      'Este registo aparece a vermelho porque não tem imagem de Frente nem de Verso.';
+    updateSelection();
+    return;
+  }
+  empty.innerHTML =
+    'Clica aqui e cola a imagem<br><strong>Ctrl+V</strong><br><br>' +
+    'ou usa “Escolher imagem”';
   assignment.textContent =
-    `Recorta este souvenir:\n${currentRecord.display_name || currentRecord.name}\nTipo: ${currentRecord.type} · Formato: ${currentRecord.format}\n${currentRecord.photo_label} · Posição ${currentRecord.position}\n` +
-    `Nesta fotografia: ${numberInMachine}/${machineItems.length}`;
+    'Recorta este souvenir:\n' +
+    (currentRecord.display_name || currentRecord.name) +
+    '\nTipo: ' + currentRecord.type + ' · Formato: ' + currentRecord.format +
+    '\n' + currentRecord.photo_label + ' · Posição ' + currentRecord.position +
+    '\nNesta fotografia: ' + numberInMachine + '/' + machineItems.length;
   statusBox.textContent = 'A carregar a fotografia deste lado…';
-  const response = await fetch(`/api/record-source/${encodeURIComponent(currentRecord.id)}`);
+  const response = await fetch(
+    '/api/record-source/' + encodeURIComponent(currentRecord.id)
+  );
   const result = await response.json();
-  if (!response.ok) throw new Error(result.error || 'Não foi possível carregar a fotografia da máquina.');
+  if (!response.ok) {
+    throw new Error(
+      result.error || 'Não foi possível carregar a fotografia da máquina.'
+    );
+  }
   if (sourceId === result.source_id && image.complete && image.naturalWidth) {
-    statusBox.textContent = 'Fotografia carregada. Seleciona o souvenir indicado.';
+    statusBox.textContent =
+      'Fotografia carregada. Seleciona o souvenir indicado.';
     return;
   }
   const imageResponse = await fetch(result.url);
-  if (!imageResponse.ok) throw new Error('Não foi possível abrir a fotografia preparada.');
+  if (!imageResponse.ok) {
+    throw new Error('Não foi possível abrir a fotografia preparada.');
+  }
   displayRecordImage(await imageResponse.blob(), result);
 }
 
@@ -649,16 +732,43 @@ function fillSelect(select, values, placeholder, labelForValue = value => value)
     const option = document.createElement('option');
     option.value = value;
     option.textContent = labelForValue(value);
+    if (option.textContent.includes('⚠')) {
+      option.className = 'missing-photo-option';
+    }
     select.appendChild(option);
   });
   select.disabled = values.length === 0;
 }
 
+function missingPhotoWarning(rows) {
+  const missing = rows.reduce(
+    (total, row) => total + Number(row.missing_photos || 0),
+    0
+  );
+  if (!missing) return '';
+  return ' · ⚠ ' + missing + ' sem ' +
+    (missing === 1 ? 'fotografia' : 'fotografias');
+}
+
 function progressLabel(value, field, rows) {
   const matches = rows.filter(row => row[field] === value);
-  const pending = matches.reduce((total, row) => total + Number(row.pending_sides || 0), 0);
-  const all = matches.reduce((total, row) => total + Number(row.total_sides || 0), 0);
-  return `${value} · faltam ${pending}/${all} lados`;
+  const pending = matches.reduce(
+    (total, row) => total + Number(row.pending_sides || 0),
+    0
+  );
+  const all = matches.reduce(
+    (total, row) => total + Number(row.total_sides || 0),
+    0
+  );
+  return value + ' · faltam ' + pending + '/' + all + ' lados' +
+    missingPhotoWarning(matches);
+}
+
+function locationProgressLabel(location) {
+  return location.name + ' · faltam ' + location.pending_sides + '/' +
+    location.total_sides + ' lados' + missingPhotoWarning([location]) +
+    ' · ' + location.total_souvenirs + ' souvenirs / ' +
+    location.total_photos + ' fotografias';
 }
 
 async function refreshLocationProgressLabels() {
@@ -667,7 +777,10 @@ async function refreshLocationProgressLabels() {
   if (!response.ok) throw new Error(result.error || 'Não foi possível atualizar os totais.');
   locationStats = result.locations || [];
   locations = scopeInput.value === 'pending'
-    ? locationStats.filter(location => Number(location.pending_sides || 0) > 0)
+    ? locationStats.filter(location =>
+        Number(location.pending_sides || 0) > 0 ||
+        Number(location.missing_photos || 0) > 0
+      )
     : locationStats;
   const selectedLevels = [
     [continentInput, 'continent'],
@@ -677,14 +790,22 @@ async function refreshLocationProgressLabels() {
   selectedLevels.forEach(([select, field]) => {
     const value = select.value;
     const option = [...select.options].find(item => item.value === value);
-    if (value && option) option.textContent = progressLabel(value, field, locationStats);
+    if (value && option) {
+      option.textContent = progressLabel(value, field, locationStats);
+      option.className = option.textContent.includes('⚠')
+        ? 'missing-photo-option'
+        : '';
+    }
   });
   const location = locationStats.find(item => item.id === locationInput.value);
   const locationOption = [...locationInput.options].find(
     item => item.value === locationInput.value
   );
   if (location && locationOption) {
-    locationOption.textContent = `${location.name} · faltam ${location.pending_sides}/${location.total_sides} lados · ${location.total_souvenirs} souvenirs / ${location.total_photos} fotografias`;
+    locationOption.textContent = locationProgressLabel(location);
+    locationOption.className = Number(location.missing_photos || 0) > 0
+      ? 'missing-photo-option'
+      : '';
   }
 }
 
@@ -702,7 +823,10 @@ function updateLocations() {
   matches.forEach(location => {
     const option = document.createElement('option');
     option.value = location.id;
-    option.textContent = `${location.name} · faltam ${location.pending_sides}/${location.total_sides} lados · ${location.total_souvenirs} souvenirs / ${location.total_photos} fotografias`;
+    option.textContent = locationProgressLabel(location);
+    if (Number(location.missing_photos || 0) > 0) {
+      option.className = 'missing-photo-option';
+    }
     locationInput.appendChild(option);
   });
   locationInput.disabled = matches.length === 0;
@@ -764,7 +888,10 @@ async function loadLocations() {
   if (!response.ok) throw new Error(result.error || 'Não foi possível consultar as locations.');
   locationStats = result.locations || [];
   locations = scopeInput.value === 'pending'
-    ? locationStats.filter(location => Number(location.pending_sides || 0) > 0)
+    ? locationStats.filter(location =>
+        Number(location.pending_sides || 0) > 0 ||
+        Number(location.missing_photos || 0) > 0
+      )
     : locationStats;
   fillSelect(countryInput, [], 'Escolhe um continente…');
   fillSelect(cityInput, [], 'Escolhe um país…');
@@ -988,7 +1115,7 @@ document.addEventListener('paste', event => {
   const item = [...event.clipboardData.items].find(value => value.type.startsWith('image/'));
   if (item) { event.preventDefault(); loadBlob(item.getAsFile()).catch(showError); }
 });
-document.querySelector('#choose').onclick = () => fileInput.click();
+chooseButton.onclick = () => fileInput.click();
 fileInput.onchange = () => fileInput.files[0] && loadBlob(fileInput.files[0], fileInput.files[0].name).catch(showError);
 ['dragenter', 'dragover'].forEach(type => drop.addEventListener(type, event => { event.preventDefault(); drop.classList.add('active'); }));
 ['dragleave', 'drop'].forEach(type => drop.addEventListener(type, event => { event.preventDefault(); drop.classList.remove('active'); }));
@@ -1075,6 +1202,8 @@ def slugify(value: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", normalized.lower()).strip("-") or "recorte"
 
 def side_display_name(record: dict[str, object]) -> str:
+    if record.get("_missing_photo"):
+        return f"⚠ Sem fotografia — {record.get('name') or 'Sem nome'}"
     side = str(record.get("_side") or record.get("side") or "front")
     label = "Verso" if side == "back" else "Frente"
     description = str(record.get("description") or "").strip()
@@ -1493,6 +1622,52 @@ def build_souvenir_tasks(
     )
 
 
+def build_missing_photo_tasks(
+    records: list[dict[str, object]],
+    existing_tasks: list[dict[str, object]],
+) -> list[dict[str, object]]:
+    next_machine: dict[str, int] = {}
+    for task in existing_tasks:
+        location_id = str(task["_location_id"])
+        next_machine[location_id] = max(
+            next_machine.get(location_id, 0),
+            int(task["_machine"]),
+        )
+    missing: list[dict[str, object]] = []
+    for record in records:
+        record_id = str(record.get("id") or "")
+        record_type = str(record.get("type") or "")
+        if not record_id or record_type not in SUPPORTED_SOUVENIR_TYPES:
+            continue
+        if any(str(record.get(field) or "").strip() for field in SIDE_FIELDS.values()):
+            continue
+        location_id = record_location_id(record)
+        next_machine[location_id] = next_machine.get(location_id, 0) + 1
+        task = dict(record)
+        task.update({
+            "id": f"{record_id}:missing",
+            "_record_id": record_id,
+            "_side": "missing",
+            "_source_url": "",
+            "_source_side": "",
+            "_source_was_empty": True,
+            "_internal": False,
+            "_missing_photo": True,
+            "_location_id": location_id,
+            "_original_machine": 9999,
+            "_original_position": 9999,
+            "_machine": next_machine[location_id],
+            "_position": 1,
+            "_photo_label": "⚠ Sem fotografia",
+            "_format": record_crop_format(record),
+            "_slug": slugify(
+                f"{record.get('country') or ''}-{record.get('name') or record_id}"
+            ),
+        })
+        missing.append(task)
+    return missing
+
+
 def load_pending_souvenirs(
     *,
     include_internal: bool = False,
@@ -1515,7 +1690,22 @@ def load_pending_souvenirs(
         [row for row in data if isinstance(row, dict)], type_overrides
     )
     records = apply_back_image_overrides(records, back_image_overrides)
-    return build_souvenir_tasks(records, include_internal=include_internal)
+    tasks = build_souvenir_tasks(records, include_internal=include_internal)
+    tasks.extend(build_missing_photo_tasks(records, tasks))
+    return sorted(
+        tasks,
+        key=lambda item: (
+            str(item.get("continent") or "").casefold(),
+            str(item.get("country") or "").casefold(),
+            str(item.get("city") or "").casefold(),
+            str(item.get("location_name") or "").casefold(),
+            str(item["_location_id"]),
+            int(item["_machine"]),
+            int(item["_position"]),
+            str(item.get("name") or "").casefold(),
+        ),
+    )
+
 
 def location_progress_rows(
     records: list[dict[str, object]],
@@ -1528,11 +1718,18 @@ def location_progress_rows(
     rows: list[dict[str, object]] = []
     for location_id, location_records in grouped.items():
         first = location_records[0]
-        pending = [
+        session_records = [
             record
             for record in location_records
-            if not record.get("_internal")
-            and not bool(
+            if not record.get("_internal") and not record.get("_missing_photo")
+        ]
+        missing_photo_records = [
+            record for record in location_records if record.get("_missing_photo")
+        ]
+        pending = [
+            record
+            for record in session_records
+            if not bool(
                 (photo_status_for_task(statuses, record) or {}).get("completed")
             )
         ]
@@ -1543,13 +1740,16 @@ def location_progress_rows(
             "country": str(first.get("country") or "(sem país)"),
             "city": str(first.get("city") or "(sem cidade)"),
             "total_souvenirs": len({
-                str(record["_record_id"]) for record in location_records
+                str(record["_record_id"]) for record in session_records
             }),
             "pending_souvenirs": len({str(record["_record_id"]) for record in pending}),
-            "total_sides": len(location_records),
+            "total_sides": len(session_records),
             "pending_sides": len(pending),
-            "total_photos": len({int(record["_machine"]) for record in location_records}),
+            "total_photos": len({int(record["_machine"]) for record in session_records}),
             "pending_photos": len({int(record["_machine"]) for record in pending}),
+            "missing_photos": len({
+                str(record["_record_id"]) for record in missing_photo_records
+            }),
         })
     return sorted(
         rows,
@@ -2002,6 +2202,7 @@ class Handler(BaseHTTPRequestHandler):
             "display_name": side_display_name(record),
             "description": str(record.get("description") or ""),
             "type": str(record.get("type") or ""),
+            "missing_photo": bool(record.get("_missing_photo")),
             "has_back_image": record.get("_has_back_image_override") is not False,
             "display_shape": str(record.get("display_shape") or ""),
             "continent": str(record.get("continent") or ""),
@@ -2036,6 +2237,10 @@ class Handler(BaseHTTPRequestHandler):
         record = self.server.records_by_id.get(record_id)
         if record is None:
             raise ValueError("Souvenir não encontrado na fila desta location.")
+        if record.get("_missing_photo"):
+            raise ValueError(
+                "Este Souvenir não tem fotografia. Adiciona primeiro uma imagem na Base44."
+            )
         source_url = str(record.get("_source_url") or "")
         source_id = self.server.source_cache.get(source_url)
         if source_id:
@@ -2398,6 +2603,11 @@ class Handler(BaseHTTPRequestHandler):
             record = self.server.records_by_id.get(task_id)
             if record is None:
                 raise ValueError("O lado selecionado já não pertence à fila de trabalho.")
+            if record.get("_missing_photo"):
+                raise ValueError(
+                    "Este Souvenir não tem fotografia. "
+                    "Adiciona primeiro uma imagem na Base44."
+                )
         record_type = str(record.get("type") or "pressed") if record else "pressed"
         display_shape = str(record.get("display_shape") or "") if record else ""
         crop_format = normalize_crop_format(
