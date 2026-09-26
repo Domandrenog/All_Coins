@@ -35,6 +35,9 @@ portugal-basilica-of-our-lady-of-the-rosary-of-fatima-and-statue-pressed-fatima:
 portugal-beach-with-lagos-pressed-lagos:
   frente: http://locations.pennycollector.com/images/machine_409529cd-7293-484e-b175-2f4d513e8236.jpg
 
+portugal-belem-tower-with-torre-de-belem-pressed-lisbon-lisboa:
+  frente: http://locations.pennycollector.com/images/machine_68169adb-a1e9-404f-be9f-3db76bf138e6.jpg
+
 portugal-building-pressed-faro:
   frente: http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg
 
@@ -187,6 +190,9 @@ portugal-image-of-a-woman-praying-with-n-sra-de-fatima-pressed-fatima:
 portugal-island-of-flowers-pressed-curral-das-freiras-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_f2e9dd34-0e11-4789-82af-7d79f16c8f13.jpg
 
+portugal-jeronimos-monastery-with-mosteiro-dos-jeronimos-pressed-lisbon-lisboa:
+  frente: http://locations.pennycollector.com/images/machine_68169adb-a1e9-404f-be9f-3db76bf138e6.jpg
+
 portugal-logo-pressed-faro:
   frente: http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg
 
@@ -220,6 +226,9 @@ portugal-mary-of-nazareth-with-nossa-senhora-da-nazara-pressed-nazare:
 portugal-monchique-pressed-foia-monchique:
   frente: http://locations.pennycollector.com/images/machine_aae43e01-a0d7-4a76-ac4d-13284c522871.jpg
 
+portugal-monument-to-discoveries-statue-with-padrao-dos-pressed-lisbon-lisboa:
+  frente: http://locations.pennycollector.com/images/machine_68169adb-a1e9-404f-be9f-3db76bf138e6.jpg
+
 portugal-n-sra-do-carmo-penha-guimaraes-pressed-guimaraes:
   frente: http://locations.pennycollector.com/images/machine_f276080b-1c53-4a42-8f24-9e5c26966e60.jpg
 
@@ -247,6 +256,10 @@ portugal-nossa-senhora-do-livramento-pressed-curral-das-freiras-madeira-island:
 portugal-nun-pressed-curral-das-freiras-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_f2e9dd34-0e11-4789-82af-7d79f16c8f13.jpg
 
+portugal-obverse-gold-color-belem-tower-with-torre-de-belem-coin-lisbon-lisboa:
+  frente: http://locations.pennycollector.com/images/machine_02ea9dff-e0e2-490d-9f34-47d126f6d353.jpg
+  tras: http://locations.pennycollector.com/images/machine_02ea9dff-e0e2-490d-9f34-47d126f6d353.jpg
+
 portugal-obverse-gold-colored-old-cathedral-of-coimbra-coin-coimbra:
   frente: http://locations.pennycollector.com/images/machine_d96afc38-6118-4a42-8a4a-bf1ee0b5a38a.jpg
   tras: http://locations.pennycollector.com/images/machine_d96afc38-6118-4a42-8a4a-bf1ee0b5a38a.jpg
@@ -258,6 +271,10 @@ portugal-obverse-image-of-the-inside-of-the-church-from-a-coin-tomar:
 portugal-obverse-image-of-the-janela-do-capitulo-coin-tomar:
   frente: http://locations.pennycollector.com/images/machine_e87b2c7b-c215-41b4-862d-12fe55681837.jpg
   tras: http://locations.pennycollector.com/images/machine_e87b2c7b-c215-41b4-862d-12fe55681837.jpg
+
+portugal-obverse-silver-color-close-up-of-belem-tower-with-coin-lisbon-lisboa:
+  frente: http://locations.pennycollector.com/images/machine_02ea9dff-e0e2-490d-9f34-47d126f6d353.jpg
+  tras: http://locations.pennycollector.com/images/machine_02ea9dff-e0e2-490d-9f34-47d126f6d353.jpg
 
 portugal-obverse-silver-colored-medieval-knight-in-full-armor-coin-coimbra:
   frente: http://locations.pennycollector.com/images/machine_d96afc38-6118-4a42-8a4a-bf1ee0b5a38a.jpg
