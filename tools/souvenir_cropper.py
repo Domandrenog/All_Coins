@@ -89,6 +89,7 @@ PAGE = r"""<!doctype html>
     .coin-thumb { display: grid; place-items: center; width: 82px; height: 64px; object-fit: contain; background: #f4f2ef; border-radius: 7px; color: #8a7f75; font-weight: 700; }
     .coin-card strong, .coin-card small { display: block; overflow-wrap: anywhere; }
     .coin-card small { margin-top: 4px; color: #6e655c; }
+    [hidden] { display: none !important; }
     .check { display: flex; gap: 8px; align-items: flex-start; margin-top: 13px; font-size: 13px; color: #554c44; }
     .check input { width: auto; margin-top: 2px; }
     .assignment { border: 1px solid #e4b88f; background: #fff5eb; }
@@ -144,6 +145,10 @@ PAGE = r"""<!doctype html>
         <option value="card">Cartão</option>
         <option value="other">Outro</option>
       </select>
+      <label id="back-image-control" class="check" hidden>
+        <input id="has-back-image" type="checkbox" checked>
+        <span>Esta moeda tem imagem de verso</span>
+      </label>
       <hr>
       <strong>Recorte selecionado</strong>
       <div id="coords" class="status">Ainda não selecionaste um souvenir.</div>
@@ -184,6 +189,8 @@ const paddingInput = document.querySelector('#padding');
 const orientationInput = document.querySelector('#orientation');
 const selectionModeInput = document.querySelector('#selection-mode');
 const recordTypeInput = document.querySelector('#record-type');
+const backImageControl = document.querySelector('#back-image-control');
+const hasBackImageInput = document.querySelector('#has-back-image');
 const cleanupInput = document.querySelector('#cleanup');
 const saved = document.querySelector('#saved');
 const scopeInput = document.querySelector('#scope');
@@ -515,6 +522,13 @@ function displayRecordImage(blob, sourceResult) {
   image.src = URL.createObjectURL(blob);
 }
 
+function updateBackImageControl() {
+  const isCoin = currentRecord?.type === 'coin';
+  backImageControl.hidden = !isCoin;
+  hasBackImageInput.disabled = !isCoin;
+  hasBackImageInput.checked = isCoin && currentRecord.has_back_image !== false;
+}
+
 async function selectRecord(index) {
   if (index < 0 || index >= records.length) return;
   currentIndex = index;
@@ -522,6 +536,7 @@ async function selectRecord(index) {
   currentMachine = currentRecord.machine;
   recordTypeInput.value = currentRecord.type;
   recordTypeInput.disabled = false;
+  updateBackImageControl();
   cleanupInput.checked = ['pressed', 'coin'].includes(currentRecord.type);
   updateFormatOptions();
   resetSelection();
@@ -565,6 +580,7 @@ async function loadLocation(locationId) {
     currentMachine = null;
     machineInput.disabled = true;
     recordTypeInput.disabled = true;
+    updateBackImageControl();
     saved.innerHTML = '';
     assignment.textContent = 'Escolhe uma location para começar.';
     updatePhotoProgress();
@@ -587,6 +603,7 @@ async function loadLocation(locationId) {
   if (!machines.length) {
     currentRecord = null;
     recordTypeInput.disabled = true;
+    updateBackImageControl();
     assignment.textContent = 'Esta location não tem lados externos pendentes.';
     saved.innerHTML = '';
     updatePhotoProgress();
@@ -770,6 +787,7 @@ function advanceQueue() {
     assignment.textContent = `${items[0]?.photo_label || `Fotografia ${currentMachine}`} concluída: ${items.length}/${items.length} recortes preparados.`;
     currentRecord = null;
     recordTypeInput.disabled = true;
+    updateBackImageControl();
     resetSelection();
     renderMachineGallery();
     draw();
@@ -783,6 +801,35 @@ countryInput.onchange = () => updateCities();
 cityInput.onchange = () => updateLocations();
 locationInput.onchange = () => loadLocation(locationInput.value).catch(showError);
 machineInput.onchange = () => selectMachine(machineInput.value).catch(showError);
+hasBackImageInput.onchange = async () => {
+  if (!currentRecord || currentRecord.type !== 'coin') return;
+  const recordId = currentRecord.record_id;
+  const hasBackImage = hasBackImageInput.checked;
+  hasBackImageInput.disabled = true;
+  statusBox.textContent = hasBackImage
+    ? 'A adicionar o Verso à fila desta moeda…'
+    : 'A remover o Verso da fila desta moeda…';
+  try {
+    const response = await fetch('/api/record-back-image', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({record_id: recordId, has_back_image: hasBackImage})
+    });
+    const result = await response.json();
+    if (!response.ok) throw new Error(result.error || 'Não foi possível alterar o Verso.');
+    await loadLocation(locationInput.value);
+    await refreshLocationProgressLabels();
+    await refreshCompletionSummary();
+    statusBox.textContent = hasBackImage
+      ? 'Verso ativado. Recorta agora a Frente e o Verso.'
+      : 'Moeda configurada apenas com Frente; o Verso deixou de ficar pendente.';
+  } catch (error) {
+    hasBackImageInput.checked = !hasBackImage;
+    hasBackImageInput.disabled = false;
+    showError(error);
+  }
+};
+
 recordTypeInput.onchange = async () => {
   if (!currentRecord) return;
   const previousType = currentRecord.type;
@@ -1075,6 +1122,116 @@ def write_type_override(
     temporary.replace(path)
 
 
+def read_back_image_overrides(output_dir: Path) -> dict[str, bool]:
+    path = output_dir / "record-back-image-overrides.json"
+    if not path.is_file():
+        return {}
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}
+    if not isinstance(data, dict):
+        return {}
+    return {
+        str(record_id): False
+        for record_id, has_back_image in data.items()
+        if has_back_image is False
+    }
+
+
+def write_back_image_override(
+    output_dir: Path,
+    record_id: str,
+    has_back_image: bool,
+) -> None:
+    overrides = read_back_image_overrides(output_dir)
+    if has_back_image:
+        overrides.pop(record_id, None)
+    else:
+        overrides[record_id] = False
+    path = output_dir / "record-back-image-overrides.json"
+    path.parent.mkdir(parents=True, exist_ok=True)
+    temporary = path.with_suffix(".tmp")
+    temporary.write_text(
+        json.dumps(overrides, ensure_ascii=False, indent=2, sort_keys=True) + "\n",
+        encoding="utf-8",
+    )
+    temporary.replace(path)
+
+
+def apply_back_image_overrides(
+    records: list[dict[str, object]],
+    overrides: dict[str, bool] | None = None,
+) -> list[dict[str, object]]:
+    selected = overrides or {}
+    result: list[dict[str, object]] = []
+    for raw_record in records:
+        record = dict(raw_record)
+        record_id = str(record.get("id") or "")
+        record["_has_back_image_override"] = (
+            selected[record_id] if record_id in selected else None
+        )
+        result.append(record)
+    return result
+
+
+def update_manifest_back_image_override(
+    output_dir: Path,
+    record_id: str,
+    has_back_image: bool,
+    tasks: list[dict[str, object]] | None = None,
+) -> None:
+    manifest = read_manifest(output_dir)
+    if not manifest:
+        return
+    tasks_by_id = {str(task["id"]): task for task in (tasks or [])}
+    changed = False
+    for key, raw_entry in manifest.items():
+        if not isinstance(raw_entry, dict):
+            continue
+        entry_record_id = str(
+            raw_entry.get("record_id") or str(key).partition(":")[0]
+        )
+        if entry_record_id != record_id:
+            continue
+        entry = raw_entry
+        if has_back_image:
+            changed = (
+                entry.pop("has_back_image_override", None) is not None
+                or entry.pop("has_back_image_was_overridden", None) is not None
+                or changed
+            )
+        else:
+            if (
+                entry.get("has_back_image_override") is not False
+                or entry.get("has_back_image_was_overridden") is not True
+            ):
+                entry["has_back_image_override"] = False
+                entry["has_back_image_was_overridden"] = True
+                changed = True
+        task = tasks_by_id.get(str(key))
+        if task is not None:
+            refreshed = {
+                "machine": int(task["_machine"]),
+                "position": int(task["_position"]),
+                "source_url": str(task.get("_source_url") or ""),
+                "source_side": str(task.get("_source_side") or task.get("_side") or "front"),
+                "source_was_empty": bool(task.get("_source_was_empty")),
+            }
+            for field, value in refreshed.items():
+                if entry.get(field) != value:
+                    entry[field] = value
+                    changed = True
+    if changed:
+        path = output_dir / "manifest.json"
+        temporary = path.with_suffix(".tmp")
+        temporary.write_text(
+            json.dumps(manifest, ensure_ascii=False, indent=2) + "\n",
+            encoding="utf-8",
+        )
+        temporary.replace(path)
+
+
 def apply_type_overrides(
     records: list[dict[str, object]],
     overrides: dict[str, str] | None = None,
@@ -1115,7 +1272,15 @@ def build_souvenir_tasks(
             side: str(record.get(SIDE_FIELDS[side]) or "").strip()
             for side in SUPPORTED_SIDES
         }
-        for side in SUPPORTED_SIDES:
+        sides = (
+            ("front",)
+            if (
+                str(record.get("type") or "") == "coin"
+                and record.get("_has_back_image_override") is False
+            )
+            else SUPPORTED_SIDES
+        )
+        for side in sides:
             source = side_sources[side]
             source_side = side
             source_was_empty = not source
@@ -1200,6 +1365,7 @@ def load_pending_souvenirs(
     *,
     include_internal: bool = False,
     type_overrides: dict[str, str] | None = None,
+    back_image_overrides: dict[str, bool] | None = None,
 ) -> list[dict[str, object]]:
     load_dotenv(ROOT / ".env")
     api_key = os.environ.get(API_KEY_ENV)
@@ -1216,6 +1382,7 @@ def load_pending_souvenirs(
     records = apply_type_overrides(
         [row for row in data if isinstance(row, dict)], type_overrides
     )
+    records = apply_back_image_overrides(records, back_image_overrides)
     return build_souvenir_tasks(records, include_internal=include_internal)
 
 def location_progress_rows(
@@ -1670,6 +1837,9 @@ class Handler(BaseHTTPRequestHandler):
             self.server.records_cache = load_pending_souvenirs(
                 include_internal=True,
                 type_overrides=read_type_overrides(self.server.output_dir),
+                back_image_overrides=read_back_image_overrides(
+                    self.server.output_dir
+                ),
             )
             self.server.records_by_id = {
                 str(record["id"]): record for record in self.server.records_cache
@@ -1700,6 +1870,7 @@ class Handler(BaseHTTPRequestHandler):
             "display_name": side_display_name(record),
             "description": str(record.get("description") or ""),
             "type": str(record.get("type") or ""),
+            "has_back_image": record.get("_has_back_image_override") is not False,
             "display_shape": str(record.get("display_shape") or ""),
             "continent": str(record.get("continent") or ""),
             "country": str(record.get("country") or ""),
@@ -1833,6 +2004,8 @@ class Handler(BaseHTTPRequestHandler):
                 self.save_photo_status()
             elif path == "/api/record-type":
                 self.save_record_type()
+            elif path == "/api/record-back-image":
+                self.save_record_back_image()
             elif path == "/api/finalize":
                 self.save_finalize()
             else:
@@ -1862,9 +2035,17 @@ class Handler(BaseHTTPRequestHandler):
         write_type_override(
             self.server.output_dir, record_id, record_type, original_type
         )
+        if record_type != "coin":
+            write_back_image_override(self.server.output_dir, record_id, True)
+            update_manifest_back_image_override(
+                self.server.output_dir, record_id, True
+            )
         self.server.records_cache = load_pending_souvenirs(
             include_internal=True,
             type_overrides=read_type_overrides(self.server.output_dir),
+            back_image_overrides=read_back_image_overrides(
+                self.server.output_dir
+            ),
         )
         self.server.records_by_id = {
             str(record["id"]): record for record in self.server.records_cache
@@ -1880,6 +2061,55 @@ class Handler(BaseHTTPRequestHandler):
         self.send_json({
             "record_id": record_id,
             "type": record_type,
+            "sides": [str(record["_side"]) for record in updated],
+        })
+
+    def save_record_back_image(self) -> None:
+        payload = json.loads(self.request_body())
+        record_id = str(payload.get("record_id") or "")
+        raw_has_back_image = payload.get("has_back_image")
+        if not isinstance(raw_has_back_image, bool):
+            raise ValueError("Indica se esta moeda tem imagem de verso.")
+        current = [
+            record for record in self.pending_records("all")
+            if str(record["_record_id"]) == record_id
+        ]
+        if not current:
+            raise ValueError("Souvenir não encontrado na fila de trabalho.")
+        if str(current[0].get("type") or "") != "coin":
+            raise ValueError("A opção de verso só está disponível para moedas.")
+        for record in current:
+            set_photo_status(self.server.output_dir, record, False)
+        write_back_image_override(
+            self.server.output_dir, record_id, raw_has_back_image
+        )
+        self.server.records_cache = load_pending_souvenirs(
+            include_internal=True,
+            type_overrides=read_type_overrides(self.server.output_dir),
+            back_image_overrides=read_back_image_overrides(
+                self.server.output_dir
+            ),
+        )
+        self.server.records_by_id = {
+            str(record["id"]): record for record in self.server.records_cache
+        }
+        updated = [
+            record for record in self.server.records_cache
+            if str(record["_record_id"]) == record_id
+        ]
+        if not updated:
+            raise ValueError("A alteração do Verso removeu a moeda da fila.")
+        update_manifest_back_image_override(
+            self.server.output_dir,
+            record_id,
+            raw_has_back_image,
+            updated,
+        )
+        for record in updated:
+            set_photo_status(self.server.output_dir, record, False)
+        self.send_json({
+            "record_id": record_id,
+            "has_back_image": raw_has_back_image,
             "sides": [str(record["_side"]) for record in updated],
         })
 
@@ -2067,6 +2297,10 @@ class Handler(BaseHTTPRequestHandler):
                     "type": record_type,
                     "previous_type": str(record.get("_original_type") or record_type),
                     "type_was_overridden": bool(record.get("_type_was_overridden")),
+                    "has_back_image_override": record.get("_has_back_image_override"),
+                    "has_back_image_was_overridden": (
+                        record.get("_has_back_image_override") is False
+                    ),
                     "display_shape": display_shape,
                     "slug": base,
                     "continent": str(record.get("continent") or ""),

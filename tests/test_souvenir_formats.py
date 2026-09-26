@@ -1,3 +1,4 @@
+import json
 import os
 from pathlib import Path
 from tempfile import TemporaryDirectory
@@ -9,12 +10,16 @@ import main
 from scripts.sync_coin_images_api import API_KEY_ENV
 from tools.souvenir_cropper import (
     PAGE,
+    apply_back_image_overrides,
     apply_type_overrides,
     build_souvenir_tasks,
     load_pending_souvenirs,
     manifest_entry_for_task,
+    read_back_image_overrides,
     read_type_overrides,
     side_display_name,
+    update_manifest_back_image_override,
+    write_back_image_override,
     write_type_override,
 )
 from tools.souvenir_formats import crop_size
@@ -129,6 +134,62 @@ class MultiSideTaskTests(unittest.TestCase):
             {"Fotografia 1 · Frente e Verso"},
         )
 
+    def test_coin_can_explicitly_skip_the_back_task(self):
+        records = apply_back_image_overrides(
+            [{
+                "id": "coin-1", "name": "Token", "type": "coin",
+                "continent": "Europa", "country": "Portugal", "city": "Coimbra",
+                "location_name": "Coimbra", "display_shape": "circle",
+                "image_front": "https://example.test/front-and-back.jpg",
+                "image_back": "", "reference_url": "https://example.test/item",
+            }],
+            {"coin-1": False},
+        )
+
+        tasks = build_souvenir_tasks(records)
+
+        self.assertEqual([task["id"] for task in tasks], ["coin-1:front"])
+        self.assertIs(tasks[0]["_has_back_image_override"], False)
+        self.assertEqual(tasks[0]["_photo_label"], "Fotografia 1 · Frente")
+
+
+class BackImageOverrideTests(unittest.TestCase):
+    def test_no_back_choice_is_persistent_until_reenabled(self):
+        with TemporaryDirectory() as temporary:
+            folder = Path(temporary)
+            write_back_image_override(folder, "coin-1", False)
+            self.assertEqual(read_back_image_overrides(folder), {"coin-1": False})
+
+            write_back_image_override(folder, "coin-1", True)
+            self.assertEqual(read_back_image_overrides(folder), {})
+
+    def test_existing_front_crop_receives_no_back_metadata_and_new_position(self):
+        with TemporaryDirectory() as temporary:
+            folder = Path(temporary)
+            (folder / "manifest.json").write_text(
+                '{"coin-1:front":{"record_id":"coin-1","machine":2,"position":2}}',
+                encoding="utf-8",
+            )
+            update_manifest_back_image_override(
+                folder,
+                "coin-1",
+                False,
+                [{
+                    "id": "coin-1:front", "_machine": 1, "_position": 1,
+                    "_source_url": "https://example.test/source.jpg",
+                    "_source_side": "front", "_source_was_empty": False,
+                }],
+            )
+            manifest = json.loads(
+                (folder / "manifest.json").read_text(encoding="utf-8")
+            )
+
+        entry = manifest["coin-1:front"]
+        self.assertIs(entry["has_back_image_override"], False)
+        self.assertTrue(entry["has_back_image_was_overridden"])
+        self.assertEqual(entry["machine"], 1)
+        self.assertEqual(entry["position"], 1)
+
 
 class SideDisplayNameTests(unittest.TestCase):
     def test_uses_front_and_reverse_parts_from_shared_description(self):
@@ -210,6 +271,8 @@ class TypeOverrideTaskTests(unittest.TestCase):
     def test_page_exposes_record_type_selector(self):
         self.assertIn('id="record-type"', PAGE)
         self.assertIn("/api/record-type", PAGE)
+        self.assertIn('id="has-back-image"', PAGE)
+        self.assertIn("/api/record-back-image", PAGE)
         self.assertIn("Recorta agora a Frente e o Verso", PAGE)
 
 
@@ -270,6 +333,26 @@ class OtherSouvenirApiGuardTests(unittest.TestCase):
             "image_back": "https://raw.githubusercontent.com/example/back.jpg",
             "has_back_image": True,
         })
+
+    def test_front_only_coin_disables_back_without_deleting_its_url(self):
+        old_back = "https://example.test/old-back.jpg"
+        front = "https://raw.githubusercontent.com/example/front.jpg"
+        record = {
+            "id": "coin-1", "type": "coin",
+            "image_front": front, "image_back": old_back,
+            "has_back_image": True, "display_orientation": "auto",
+        }
+        entry = {
+            "type": "coin", "_selected_sides": ["front"],
+            "internal_front": front, "orientation": "auto",
+            "has_back_image_override": False,
+            "has_back_image_was_overridden": True,
+        }
+
+        payload = difference_payload(record, entry)
+
+        self.assertEqual(payload, {"has_back_image": False})
+        self.assertEqual(record["image_back"], old_back)
 
     def test_existing_back_url_enables_back_image_flag(self):
         target = "https://raw.githubusercontent.com/example/back.jpg"

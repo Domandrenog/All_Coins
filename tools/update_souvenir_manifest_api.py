@@ -133,6 +133,15 @@ def desired_orientation(entry: dict[str, object]) -> str:
     return orientation
 
 
+def desired_has_back_image(entry: dict[str, object]) -> bool | None:
+    if not entry.get("has_back_image_was_overridden"):
+        return None
+    value = entry.get("has_back_image_override")
+    if not isinstance(value, bool):
+        raise ValueError("Override de imagem de verso inválido no manifesto.")
+    return value
+
+
 def preflight(
     api_key: str,
     rows: list[tuple[str, dict[str, object]]],
@@ -145,6 +154,15 @@ def preflight(
         expected_type = str(entry.get("type") or "pressed")
         if expected_type not in SUPPORTED_SOUVENIR_TYPES:
             raise ValueError(f"{record_id}: tipo não suportado no manifesto: {expected_type}.")
+        back_image_override = desired_has_back_image(entry)
+        if back_image_override is not None and expected_type != "coin":
+            raise ValueError(
+                f"{record_id}: override de verso só é válido para moedas."
+            )
+        if back_image_override is False and "back" in selected_sides(entry):
+            raise ValueError(
+                f"{record_id}: o manifesto não pode enviar o Verso e desativá-lo."
+            )
         current_type = str(record.get("type") or "")
         previous_type = str(entry.get("previous_type") or "")
         type_was_overridden = bool(entry.get("type_was_overridden"))
@@ -190,7 +208,11 @@ def difference_payload(
         target = desired_side(entry, side)
         if record.get(field) != target:
             payload[field] = target
-    if "back" in sides and record.get("has_back_image") is not True:
+    back_image_override = desired_has_back_image(entry)
+    if back_image_override is not None:
+        if record.get("has_back_image") != back_image_override:
+            payload["has_back_image"] = back_image_override
+    elif "back" in sides and record.get("has_back_image") is not True:
         payload["has_back_image"] = True
     if "front" in sides:
         orientation = desired_orientation(entry)
@@ -262,7 +284,13 @@ def verify_all(
         expected_type = str(entry.get("type") or "pressed")
         if current.get("type") != expected_type:
             raise RuntimeError(f"{record_id}: tipo final incorreto.")
-        if "back" in selected_sides(entry):
+        back_image_override = desired_has_back_image(entry)
+        if back_image_override is not None:
+            if current.get("has_back_image") != back_image_override:
+                raise RuntimeError(
+                    f"{record_id}: estado da imagem de verso não ficou correto."
+                )
+        elif "back" in selected_sides(entry):
             if current.get("has_back_image") is not True:
                 raise RuntimeError(f"{record_id}: imagem de verso não ficou ativada.")
         if "front" in selected_sides(entry):

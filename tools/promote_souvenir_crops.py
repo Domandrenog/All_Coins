@@ -322,9 +322,13 @@ def promote(args: argparse.Namespace) -> int:
         original_filename = downloads[download_key][1]
         common_keys = (
             "name", "type", "previous_type", "type_was_overridden",
+            "has_back_image_override", "has_back_image_was_overridden",
             "display_shape", "slug", "continent", "country", "city",
             "location_id", "location_name", "reference_url",
         )
+        if not entry.get("has_back_image_was_overridden"):
+            canonical.pop("has_back_image_override", None)
+            canonical.pop("has_back_image_was_overridden", None)
         for field in common_keys:
             if field in entry:
                 canonical[field] = entry[field]
