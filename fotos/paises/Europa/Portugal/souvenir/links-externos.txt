@@ -17,6 +17,9 @@ portugal-art-museum-pressed-albufeira:
 portugal-barcelos-rooster-pressed-batalha:
   frente: http://locations.pennycollector.com/images/machine_4080a7e5-e914-4d19-acac-9bfe9fd4e953.jpg
 
+portugal-basilica-of-our-lady-of-the-rosary-of-fatima-and-statue-pressed-fatima:
+  frente: http://locations.pennycollector.com/images/machine_5ce7d575-ab3b-49f8-9faa-9324a02e5739.jpg
+
 portugal-beach-with-lagos-pressed-lagos:
   frente: http://locations.pennycollector.com/images/machine_409529cd-7293-484e-b175-2f4d513e8236.jpg
 
@@ -72,6 +75,9 @@ portugal-front-facade-of-the-santa-cruz-church-with-igreja-de-pressed-coimbra:
 
 portugal-gao-de-barcelos-pressed-guimaraes:
   frente: http://locations.pennycollector.com/images/machine_8155d1b3-d605-43c5-b12a-6d3ba169c643.jpg
+
+portugal-image-of-a-woman-praying-with-n-sra-de-fatima-pressed-fatima:
+  frente: http://locations.pennycollector.com/images/machine_5ce7d575-ab3b-49f8-9faa-9324a02e5739.jpg
 
 portugal-island-of-flowers-pressed-curral-das-freiras-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_f2e9dd34-0e11-4789-82af-7d79f16c8f13.jpg
@@ -153,6 +159,9 @@ portugal-sto-antonio-pressed-braga:
 
 portugal-telescope-pressed-faro:
   frente: http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg
+
+portugal-three-believers-kneeling-in-front-of-fatima-statue-with-pressed-fatima:
+  frente: http://locations.pennycollector.com/images/machine_5ce7d575-ab3b-49f8-9faa-9324a02e5739.jpg
 
 portugal-tomb-of-king-henriques-with-tumulo-d-alfonso-henriques-pressed-coimbra:
   frente: http://locations.pennycollector.com/images/machine_7bba5537-2a20-4957-99ee-02721487505f.jpg

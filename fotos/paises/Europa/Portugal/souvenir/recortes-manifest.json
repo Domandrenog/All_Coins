@@ -2469,6 +2469,237 @@
     "source_url": "http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg",
     "type": "pressed"
   },
+  "6ab65d6de5e0a45ad98de455": {
+    "centered": false,
+    "city": "Fátima",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 497.5,
+          "y": 198.0
+        },
+        {
+          "x": 648.5,
+          "y": 199.0
+        },
+        {
+          "x": 645.5,
+          "y": 428.0
+        },
+        {
+          "x": 500.5,
+          "y": 418.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_5ce7d575-ab3b-49f8-9faa-9324a02e5739.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 497.5,
+          "y": 198.0
+        },
+        {
+          "x": 648.5,
+          "y": 199.0
+        },
+        {
+          "x": 645.5,
+          "y": 428.0
+        },
+        {
+          "x": 500.5,
+          "y": 418.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-three-believers-kneeling-in-front-of-fatima-statue-with-pressed-fatima.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-three-believers-kneeling-in-front-of-fatima-statue-with-pressed-fatima.jpg",
+    "location_id": "302875",
+    "location_name": "Loja São Jose",
+    "machine": 1,
+    "name": "Three believers kneeling in front of Fátima statue with…",
+    "orientation": "portrait",
+    "original_file": "original/location-302875-photo-1-front.jpg",
+    "original_front": "original/location-302875-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_5ce7d575-ab3b-49f8-9faa-9324a02e5739.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=302875#machine-1-position-1",
+    "slug": "portugal-three-believers-kneeling-in-front-of-fatima-statue-with-pressed-fatima",
+    "source_url": "http://locations.pennycollector.com/images/machine_5ce7d575-ab3b-49f8-9faa-9324a02e5739.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d6de5e0a45ad98de456": {
+    "centered": true,
+    "city": "Fátima",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 408.5,
+          "y": 398.0
+        },
+        {
+          "x": 543.5,
+          "y": 394.0
+        },
+        {
+          "x": 560.5,
+          "y": 631.0
+        },
+        {
+          "x": 405.5,
+          "y": 627.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_5ce7d575-ab3b-49f8-9faa-9324a02e5739.jpg",
+    "format": "portrait",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 408.5,
+          "y": 398.0
+        },
+        {
+          "x": 543.5,
+          "y": 394.0
+        },
+        {
+          "x": 560.5,
+          "y": 631.0
+        },
+        {
+          "x": 405.5,
+          "y": 627.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-basilica-of-our-lady-of-the-rosary-of-fatima-and-statue-pressed-fatima.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-basilica-of-our-lady-of-the-rosary-of-fatima-and-statue-pressed-fatima.jpg",
+    "location_id": "302875",
+    "location_name": "Loja São Jose",
+    "machine": 1,
+    "name": "Basilica of Our Lady of the Rosary of Fatima and statue…",
+    "orientation": "portrait",
+    "original_file": "original/location-302875-photo-1-front.jpg",
+    "original_front": "original/location-302875-photo-1-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_5ce7d575-ab3b-49f8-9faa-9324a02e5739.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=302875#machine-1-position-2",
+    "slug": "portugal-basilica-of-our-lady-of-the-rosary-of-fatima-and-statue-pressed-fatima",
+    "source_url": "http://locations.pennycollector.com/images/machine_5ce7d575-ab3b-49f8-9faa-9324a02e5739.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d6de5e0a45ad98de457": {
+    "centered": false,
+    "city": "Fátima",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 401.5,
+          "y": 4.0
+        },
+        {
+          "x": 538.5,
+          "y": 1.0
+        },
+        {
+          "x": 551.5,
+          "y": 237.0
+        },
+        {
+          "x": 402.5,
+          "y": 234.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_5ce7d575-ab3b-49f8-9faa-9324a02e5739.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 401.5,
+          "y": 4.0
+        },
+        {
+          "x": 538.5,
+          "y": 1.0
+        },
+        {
+          "x": 551.5,
+          "y": 237.0
+        },
+        {
+          "x": 402.5,
+          "y": 234.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-image-of-a-woman-praying-with-n-sra-de-fatima-pressed-fatima.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-image-of-a-woman-praying-with-n-sra-de-fatima-pressed-fatima.jpg",
+    "location_id": "302875",
+    "location_name": "Loja São Jose",
+    "machine": 1,
+    "name": "Image of a woman praying with 'N. Sra de Fátima",
+    "orientation": "portrait",
+    "original_file": "original/location-302875-photo-1-front.jpg",
+    "original_front": "original/location-302875-photo-1-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_front": "http://locations.pennycollector.com/images/machine_5ce7d575-ab3b-49f8-9faa-9324a02e5739.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=302875#machine-1-position-3",
+    "slug": "portugal-image-of-a-woman-praying-with-n-sra-de-fatima-pressed-fatima",
+    "source_url": "http://locations.pennycollector.com/images/machine_5ce7d575-ab3b-49f8-9faa-9324a02e5739.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
   "6ab65d76de3d617d872a8364": {
     "centered": false,
     "city": "Guimarães",

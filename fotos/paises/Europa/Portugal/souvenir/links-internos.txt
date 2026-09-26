@@ -17,6 +17,9 @@ portugal-art-museum-pressed-albufeira:
 portugal-barcelos-rooster-pressed-batalha:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-barcelos-rooster-pressed-batalha.jpg
 
+portugal-basilica-of-our-lady-of-the-rosary-of-fatima-and-statue-pressed-fatima:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-basilica-of-our-lady-of-the-rosary-of-fatima-and-statue-pressed-fatima.jpg
+
 portugal-beach-with-lagos-pressed-lagos:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-beach-with-lagos-pressed-lagos.jpg
 
@@ -72,6 +75,9 @@ portugal-front-facade-of-the-santa-cruz-church-with-igreja-de-pressed-coimbra:
 
 portugal-gao-de-barcelos-pressed-guimaraes:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-gao-de-barcelos-pressed-guimaraes.jpg
+
+portugal-image-of-a-woman-praying-with-n-sra-de-fatima-pressed-fatima:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-image-of-a-woman-praying-with-n-sra-de-fatima-pressed-fatima.jpg
 
 portugal-island-of-flowers-pressed-curral-das-freiras-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-island-of-flowers-pressed-curral-das-freiras-madeira-island.jpg
@@ -153,6 +159,9 @@ portugal-sto-antonio-pressed-braga:
 
 portugal-telescope-pressed-faro:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-telescope-pressed-faro.jpg
+
+portugal-three-believers-kneeling-in-front-of-fatima-statue-with-pressed-fatima:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-three-believers-kneeling-in-front-of-fatima-statue-with-pressed-fatima.jpg
 
 portugal-tomb-of-king-henriques-with-tumulo-d-alfonso-henriques-pressed-coimbra:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-tomb-of-king-henriques-with-tumulo-d-alfonso-henriques-pressed-coimbra.jpg
