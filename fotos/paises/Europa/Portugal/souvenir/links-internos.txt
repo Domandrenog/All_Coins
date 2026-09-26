@@ -109,6 +109,9 @@ portugal-madeira-island-pressed-funchal-madeira-island-fc0d976d:
 portugal-madeira-island-pressed-porto-moniz-madeira-island-6c945ada:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-madeira-island-pressed-porto-moniz-madeira-island-6c945ada.jpg
 
+portugal-madeira-island-pressed-porto-moniz-madeira-island-6c945add:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-madeira-island-pressed-porto-moniz-madeira-island-6c945add.jpg
+
 portugal-madeira-island-there-are-also-2-tokens-to-buy-in-the-pressed-camara-dos-lobos-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-madeira-island-there-are-also-2-tokens-to-buy-in-the-pressed-camara-dos-lobos-madeira-island.jpg
 
@@ -177,6 +180,9 @@ portugal-praia-de-rocha-algarve-coin-portimao-a72885de:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-praia-de-rocha-algarve-coin-portimao-a72885de.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-praia-de-rocha-algarve-coin-portimao-a72885de.jpg
 
+portugal-ribeira-pressed-porto-moniz-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-ribeira-pressed-porto-moniz-madeira-island.jpg
+
 portugal-s-judas-tadeu-pressed-braga:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-s-judas-tadeu-pressed-braga.jpg
 
@@ -231,3 +237,6 @@ portugal-traditional-house-pressed-curral-das-freiras-madeira-island:
 
 portugal-university-of-coimbra-viewed-from-the-mondego-river-pressed-coimbra:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-university-of-coimbra-viewed-from-the-mondego-river-pressed-coimbra.jpg
+
+portugal-veu-da-noiva-pressed-porto-moniz-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-veu-da-noiva-pressed-porto-moniz-madeira-island.jpg

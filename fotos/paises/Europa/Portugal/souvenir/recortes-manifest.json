@@ -5043,6 +5043,237 @@
     "type": "pressed",
     "type_was_overridden": false
   },
+  "6ab65d7dcb7f53936c945adb": {
+    "centered": false,
+    "city": "Porto Moniz (Madeira Island)",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 260.5,
+          "y": 3.0
+        },
+        {
+          "x": 643.5,
+          "y": 9.0
+        },
+        {
+          "x": 646.5,
+          "y": 271.0
+        },
+        {
+          "x": 270.5,
+          "y": 257.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_009ea1e5-1d56-4a15-82d8-fe7c80d08bd0.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 260.5,
+          "y": 3.0
+        },
+        {
+          "x": 643.5,
+          "y": 9.0
+        },
+        {
+          "x": 646.5,
+          "y": 271.0
+        },
+        {
+          "x": 270.5,
+          "y": 257.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-ribeira-pressed-porto-moniz-madeira-island.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-ribeira-pressed-porto-moniz-madeira-island.jpg",
+    "location_id": "395023",
+    "location_name": "Snack-Bar o Veu da Noiva",
+    "machine": 1,
+    "name": "Ribeira",
+    "orientation": "landscape",
+    "original_file": "original/location-395023-photo-1-front.jpg",
+    "original_front": "original/location-395023-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_009ea1e5-1d56-4a15-82d8-fe7c80d08bd0.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=395023#machine-1-position-1",
+    "slug": "portugal-ribeira-pressed-porto-moniz-madeira-island",
+    "source_url": "http://locations.pennycollector.com/images/machine_009ea1e5-1d56-4a15-82d8-fe7c80d08bd0.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d7dcb7f53936c945adc": {
+    "centered": true,
+    "city": "Porto Moniz (Madeira Island)",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 2.5,
+          "y": 102.0
+        },
+        {
+          "x": 267.5,
+          "y": 106.0
+        },
+        {
+          "x": 283.5,
+          "y": 525.0
+        },
+        {
+          "x": 8.5,
+          "y": 523.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_009ea1e5-1d56-4a15-82d8-fe7c80d08bd0.jpg",
+    "format": "portrait",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 2.5,
+          "y": 102.0
+        },
+        {
+          "x": 267.5,
+          "y": 106.0
+        },
+        {
+          "x": 283.5,
+          "y": 525.0
+        },
+        {
+          "x": 8.5,
+          "y": 523.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-veu-da-noiva-pressed-porto-moniz-madeira-island.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-veu-da-noiva-pressed-porto-moniz-madeira-island.jpg",
+    "location_id": "395023",
+    "location_name": "Snack-Bar o Veu da Noiva",
+    "machine": 1,
+    "name": "Veu Da Noiva",
+    "orientation": "portrait",
+    "original_file": "original/location-395023-photo-1-front.jpg",
+    "original_front": "original/location-395023-photo-1-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_009ea1e5-1d56-4a15-82d8-fe7c80d08bd0.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=395023#machine-1-position-2",
+    "slug": "portugal-veu-da-noiva-pressed-porto-moniz-madeira-island",
+    "source_url": "http://locations.pennycollector.com/images/machine_009ea1e5-1d56-4a15-82d8-fe7c80d08bd0.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d7dcb7f53936c945add": {
+    "centered": false,
+    "city": "Porto Moniz (Madeira Island)",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 261.5,
+          "y": 350.0
+        },
+        {
+          "x": 642.5,
+          "y": 356.0
+        },
+        {
+          "x": 649.5,
+          "y": 598.0
+        },
+        {
+          "x": 251.5,
+          "y": 604.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_009ea1e5-1d56-4a15-82d8-fe7c80d08bd0.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 261.5,
+          "y": 350.0
+        },
+        {
+          "x": 642.5,
+          "y": 356.0
+        },
+        {
+          "x": 649.5,
+          "y": 598.0
+        },
+        {
+          "x": 251.5,
+          "y": 604.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-madeira-island-pressed-porto-moniz-madeira-island-6c945add.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-madeira-island-pressed-porto-moniz-madeira-island-6c945add.jpg",
+    "location_id": "395023",
+    "location_name": "Snack-Bar o Veu da Noiva",
+    "machine": 1,
+    "name": "Madeira Island",
+    "orientation": "landscape",
+    "original_file": "original/location-395023-photo-1-front.jpg",
+    "original_front": "original/location-395023-photo-1-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_front": "http://locations.pennycollector.com/images/machine_009ea1e5-1d56-4a15-82d8-fe7c80d08bd0.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=395023#machine-1-position-3",
+    "slug": "portugal-madeira-island-pressed-porto-moniz-madeira-island-6c945add",
+    "source_url": "http://locations.pennycollector.com/images/machine_009ea1e5-1d56-4a15-82d8-fe7c80d08bd0.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
   "6ab65d7f28a53410c79d5e1a": {
     "centered": false,
     "city": "Vila Viçosa ",

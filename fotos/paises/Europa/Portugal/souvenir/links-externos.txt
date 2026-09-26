@@ -109,6 +109,9 @@ portugal-madeira-island-pressed-funchal-madeira-island-fc0d976d:
 portugal-madeira-island-pressed-porto-moniz-madeira-island-6c945ada:
   frente: http://locations.pennycollector.com/images/machine_a8659840-9126-4c1f-b038-1bf2283d83f5.jpg
 
+portugal-madeira-island-pressed-porto-moniz-madeira-island-6c945add:
+  frente: http://locations.pennycollector.com/images/machine_009ea1e5-1d56-4a15-82d8-fe7c80d08bd0.jpg
+
 portugal-madeira-island-there-are-also-2-tokens-to-buy-in-the-pressed-camara-dos-lobos-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_b2e86ff2-1fee-4d1d-9c13-0ce5e86b9ed4.jpg
 
@@ -177,6 +180,9 @@ portugal-praia-de-rocha-algarve-coin-portimao-a72885de:
   frente: http://locations.pennycollector.com/images/machine_17d40e58-762c-4e73-a01d-825ea6730035.jpg
   tras: http://locations.pennycollector.com/images/machine_17d40e58-762c-4e73-a01d-825ea6730035.jpg
 
+portugal-ribeira-pressed-porto-moniz-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_009ea1e5-1d56-4a15-82d8-fe7c80d08bd0.jpg
+
 portugal-s-judas-tadeu-pressed-braga:
   frente: http://locations.pennycollector.com/images/machine_a67d8226-db57-4f95-bd63-3dd77510139d.jpg
 
@@ -231,3 +237,6 @@ portugal-traditional-house-pressed-curral-das-freiras-madeira-island:
 
 portugal-university-of-coimbra-viewed-from-the-mondego-river-pressed-coimbra:
   frente: http://locations.pennycollector.com/images/machine_e315c576-6361-4d23-b895-a47a2662b75f.jpg
+
+portugal-veu-da-noiva-pressed-porto-moniz-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_009ea1e5-1d56-4a15-82d8-fe7c80d08bd0.jpg
