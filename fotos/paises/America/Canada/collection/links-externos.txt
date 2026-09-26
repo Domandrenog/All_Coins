@@ -1,0 +1,71 @@
+canada-1-dolar-150o-aniversario-nascimento-de-lucy-maud-montgomery-colorido-2024:
+  frente: https://i.ucoin.net/coin/70/360/70360228-2/canada-1-dollar-2024.jpg
+  tras: https://i.ucoin.net/coin/70/360/70360228-1/canada-1-dollar-2024.jpg
+
+canada-1-dolar-elsie-macgill-colorido-2023:
+  frente: https://i.ucoin.net/coin/62/641/62641353-2/canada-1-dollar-2023.jpg
+  tras: https://i.ucoin.net/coin/62/641/62641353-1/canada-1-dollar-2023.jpg
+
+canada-1-dolar-oscar-peterson-colorido-2022:
+  frente: https://i.ucoin.net/coin/57/359/57359174-2/canada-1-dollar-2022.jpg
+  tras: https://i.ucoin.net/coin/57/359/57359174-1/canada-1-dollar-2022.jpg
+
+canada-2-dolares-100o-aniversario-nascimento-de-jean-paul-riopelle-colorido-2023:
+  frente: https://i.ucoin.net/coin/63/924/63924687-2/canada-2-dollars-2023.jpg
+  tras: https://i.ucoin.net/coin/63/924/63924687-1/canada-2-dollars-2023.jpg
+
+canada-2-dolares-50o-aniversario-torre-nacional-canadense-colorido-2026:
+  frente: https://i.ucoin.net/coin/84/753/84753390-2/canada-2-dollars-2026.jpg
+  tras: https://i.ucoin.net/coin/84/753/84753390-1/canada-2-dollars-2026.jpg
+
+canada-2-dolares-celebracao-da-cultura-de-nunangat-inuit-colorido-2024:
+  frente: https://i.ucoin.net/coin/73/050/73050628-2/canada-2-dollars-2024.jpg
+  tras: https://i.ucoin.net/coin/73/050/73050628-1/canada-2-dollars-2024.jpg
+
+canada-2-dolares-centenario-fim-da-primeira-guerra-mundial-colorido-2018:
+  frente: https://i.ucoin.net/coin/27/509/27509189-2/canada-2-dollars-2018.jpg
+  tras: https://i.ucoin.net/coin/27/509/27509189-1/canada-2-dollars-2018.jpg
+
+canada-2-dolares-homenagem-ao-soldado-desconhecido-do-canada-colorido-2025:
+  frente: https://i.ucoin.net/coin/83/187/83187028-2/canada-2-dollars-2025.jpg
+  tras: https://i.ucoin.net/coin/83/187/83187028-1/canada-2-dollars-2025.jpg
+
+canada-2-dolares-tributo-a-rainha-elizabeth-ii-anel-escuro-2022:
+  frente: https://i.ucoin.net/coin/84/333/84333620-2/canada-2-dollars-2022.jpg
+  tras: https://i.ucoin.net/coin/84/333/84333620-1/canada-2-dollars-2022.jpg
+
+canada-25-centimos-125o-aniversario-da-taca-stanley-2017:
+  frente: https://i.ucoin.net/coin/37/235/37235412-2/canada-25-cents-2017.jpg
+  tras: https://i.ucoin.net/coin/37/235/37235412-1/canada-25-cents-2017.jpg
+
+canada-25-centimos-50-aniversario-bandeira-canadense-2015:
+  frente: https://i.ucoin.net/coin/37/235/37235808-2/canada-25-cents-2015.jpg
+  tras: https://i.ucoin.net/coin/37/235/37235808-1/canada-25-cents-2015.jpg
+
+canada-25-centimos-65o-aniversario-da-segunda-guerra-mundial-2010:
+  frente: https://i.ucoin.net/coin/27/507/27507394-2/canada-25-cents-2010.jpg
+  tras: https://i.ucoin.net/coin/27/507/27507394-1/canada-25-cents-2010.jpg
+
+canada-25-centimos-90o-aniversario-do-armisticio-da-i-guerra-mundial-2008:
+  frente: https://i.ucoin.net/coin/49/400/49400871-2/canada-25-cents-2008.jpg
+  tras: https://i.ucoin.net/coin/49/400/49400871-1/canada-25-cents-2008.jpg
+
+canada-25-centimos-guerra-de-1812-charles-de-salaberry-colorido-2013:
+  frente: https://i.ucoin.net/coin/27/508/27508233-2/canada-25-cents-2013.jpg
+  tras: https://i.ucoin.net/coin/27/508/27508233-1/canada-25-cents-2013.jpg
+
+canada-25-centimos-medalha-de-ouro-em-hoquei-no-gelo-feminino-salt-lake-city-2002-2009:
+  frente: https://i.ucoin.net/coin/27/511/27511118-2/canada-25-cents-2009.jpg
+  tras: https://i.ucoin.net/coin/27/511/27511118-1/canada-25-cents-2009.jpg
+
+canada-25-centimos-natureza-lendaria-bisonte-das-florestas-colorido-2011:
+  frente: https://i.ucoin.net/coin/27/167/27167599-2/canada-25-cents-2011.jpg
+  tras: https://i.ucoin.net/coin/27/167/27167599-1/canada-25-cents-2011.jpg
+
+canada-25-centimos-natureza-lendaria-falcao-peregrino-2011:
+  frente: https://i.ucoin.net/coin/29/275/29275754-2/canada-25-cents-2011.jpg
+  tras: https://i.ucoin.net/coin/29/275/29275754-1/canada-25-cents-2011.jpg
+
+canada-25-centimos-vida-no-norte-2013:
+  frente: https://i.ucoin.net/coin/37/236/37236070-2/canada-25-cents-2013.jpg
+  tras: https://i.ucoin.net/coin/37/236/37236070-1/canada-25-cents-2013.jpg

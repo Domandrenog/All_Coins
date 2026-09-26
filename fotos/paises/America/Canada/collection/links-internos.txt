@@ -1,0 +1,71 @@
+canada-1-dolar-150o-aniversario-nascimento-de-lucy-maud-montgomery-colorido-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/frente/canada-1-dolar-150o-aniversario-nascimento-de-lucy-maud-montgomery-colorido-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/tras/canada-1-dolar-150o-aniversario-nascimento-de-lucy-maud-montgomery-colorido-2024.jpg
+
+canada-1-dolar-elsie-macgill-colorido-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/frente/canada-1-dolar-elsie-macgill-colorido-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/tras/canada-1-dolar-elsie-macgill-colorido-2023.jpg
+
+canada-1-dolar-oscar-peterson-colorido-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/frente/canada-1-dolar-oscar-peterson-colorido-2022.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/tras/canada-1-dolar-oscar-peterson-colorido-2022.jpg
+
+canada-2-dolares-100o-aniversario-nascimento-de-jean-paul-riopelle-colorido-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/frente/canada-2-dolares-100o-aniversario-nascimento-de-jean-paul-riopelle-colorido-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/tras/canada-2-dolares-100o-aniversario-nascimento-de-jean-paul-riopelle-colorido-2023.jpg
+
+canada-2-dolares-50o-aniversario-torre-nacional-canadense-colorido-2026:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/frente/canada-2-dolares-50o-aniversario-torre-nacional-canadense-colorido-2026.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/tras/canada-2-dolares-50o-aniversario-torre-nacional-canadense-colorido-2026.jpg
+
+canada-2-dolares-celebracao-da-cultura-de-nunangat-inuit-colorido-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/frente/canada-2-dolares-celebracao-da-cultura-de-nunangat-inuit-colorido-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/tras/canada-2-dolares-celebracao-da-cultura-de-nunangat-inuit-colorido-2024.jpg
+
+canada-2-dolares-centenario-fim-da-primeira-guerra-mundial-colorido-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/frente/canada-2-dolares-centenario-fim-da-primeira-guerra-mundial-colorido-2018.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/tras/canada-2-dolares-centenario-fim-da-primeira-guerra-mundial-colorido-2018.jpg
+
+canada-2-dolares-homenagem-ao-soldado-desconhecido-do-canada-colorido-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/frente/canada-2-dolares-homenagem-ao-soldado-desconhecido-do-canada-colorido-2025.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/tras/canada-2-dolares-homenagem-ao-soldado-desconhecido-do-canada-colorido-2025.jpg
+
+canada-2-dolares-tributo-a-rainha-elizabeth-ii-anel-escuro-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/frente/canada-2-dolares-tributo-a-rainha-elizabeth-ii-anel-escuro-2022.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/tras/canada-2-dolares-tributo-a-rainha-elizabeth-ii-anel-escuro-2022.jpg
+
+canada-25-centimos-125o-aniversario-da-taca-stanley-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/frente/canada-25-centimos-125o-aniversario-da-taca-stanley-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/tras/canada-25-centimos-125o-aniversario-da-taca-stanley-2017.jpg
+
+canada-25-centimos-50-aniversario-bandeira-canadense-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/frente/canada-25-centimos-50-aniversario-bandeira-canadense-2015.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/tras/canada-25-centimos-50-aniversario-bandeira-canadense-2015.jpg
+
+canada-25-centimos-65o-aniversario-da-segunda-guerra-mundial-2010:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/frente/canada-25-centimos-65o-aniversario-da-segunda-guerra-mundial-2010.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/tras/canada-25-centimos-65o-aniversario-da-segunda-guerra-mundial-2010.jpg
+
+canada-25-centimos-90o-aniversario-do-armisticio-da-i-guerra-mundial-2008:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/frente/canada-25-centimos-90o-aniversario-do-armisticio-da-i-guerra-mundial-2008.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/tras/canada-25-centimos-90o-aniversario-do-armisticio-da-i-guerra-mundial-2008.jpg
+
+canada-25-centimos-guerra-de-1812-charles-de-salaberry-colorido-2013:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/frente/canada-25-centimos-guerra-de-1812-charles-de-salaberry-colorido-2013.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/tras/canada-25-centimos-guerra-de-1812-charles-de-salaberry-colorido-2013.jpg
+
+canada-25-centimos-medalha-de-ouro-em-hoquei-no-gelo-feminino-salt-lake-city-2002-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/frente/canada-25-centimos-medalha-de-ouro-em-hoquei-no-gelo-feminino-salt-lake-city-2002-2009.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/tras/canada-25-centimos-medalha-de-ouro-em-hoquei-no-gelo-feminino-salt-lake-city-2002-2009.jpg
+
+canada-25-centimos-natureza-lendaria-bisonte-das-florestas-colorido-2011:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/frente/canada-25-centimos-natureza-lendaria-bisonte-das-florestas-colorido-2011.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/tras/canada-25-centimos-natureza-lendaria-bisonte-das-florestas-colorido-2011.jpg
+
+canada-25-centimos-natureza-lendaria-falcao-peregrino-2011:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/frente/canada-25-centimos-natureza-lendaria-falcao-peregrino-2011.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/tras/canada-25-centimos-natureza-lendaria-falcao-peregrino-2011.jpg
+
+canada-25-centimos-vida-no-norte-2013:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/frente/canada-25-centimos-vida-no-norte-2013.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Canada/collection/tras/canada-25-centimos-vida-no-norte-2013.jpg
