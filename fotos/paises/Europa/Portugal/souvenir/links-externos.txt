@@ -398,6 +398,9 @@ portugal-senhora-fatima-in-front-of-the-sanctuary-of-our-lady-of-pressed-coimbra
 portugal-senhora-fatima-with-na-sra-de-fatima-pressed-batalha:
   frente: http://locations.pennycollector.com/images/machine_4080a7e5-e914-4d19-acac-9bfe9fd4e953.jpg
 
+portugal-side-and-front-view-of-the-ascensor-da-nazare-with-pressed-nazare:
+  frente: http://locations.pennycollector.com/images/machine_c3bebec0-60d5-45e0-8852-fedad8365c4b.jpg
+
 portugal-silver-a-view-over-funchal-rear-madeira-island-coin-funchal-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_606290ad-d1d9-4fdc-9ac4-b9ce555ae9d7.jpg
   tras: http://locations.pennycollector.com/images/machine_606290ad-d1d9-4fdc-9ac4-b9ce555ae9d7.jpg
@@ -452,8 +455,17 @@ portugal-university-of-coimbra-viewed-from-the-mondego-river-pressed-coimbra:
 portugal-veu-da-noiva-pressed-porto-moniz-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_009ea1e5-1d56-4a15-82d8-fe7c80d08bd0.jpg
 
+portugal-view-of-forte-de-sao-miguel-arcanjo-and-a-100-foot-wave-pressed-nazare:
+  frente: http://locations.pennycollector.com/images/machine_c3bebec0-60d5-45e0-8852-fedad8365c4b.jpg
+
+portugal-view-of-forte-de-sao-miguel-arcanjo-and-the-atlantic-pressed-nazare:
+  frente: http://locations.pennycollector.com/images/machine_c3bebec0-60d5-45e0-8852-fedad8365c4b.jpg
+
 portugal-viewpoint-pressed-funchal-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_e520c271-208e-45e1-a87f-16992f39b427.jpg
 
 portugal-woman-praying-pressed-fatima:
   frente: http://locations.pennycollector.com/images/machine_29dbd204-a8ab-4ed3-b2e3-0523d12489c2.jpg
+
+portugal-woman-standing-next-to-a-fisherman-holding-a-rope-with-pressed-nazare:
+  frente: http://locations.pennycollector.com/images/machine_c3bebec0-60d5-45e0-8852-fedad8365c4b.jpg

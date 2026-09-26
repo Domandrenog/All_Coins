@@ -10323,6 +10323,322 @@
     "type": "pressed",
     "type_was_overridden": false
   },
+  "6ab851d1c1d9b5dfbe15f098": {
+    "centered": true,
+    "city": "Nazaré",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 260.4,
+          "y": 3.6
+        },
+        {
+          "x": 447.6,
+          "y": 1.2
+        },
+        {
+          "x": 444.4,
+          "y": 119.6
+        },
+        {
+          "x": 258.0,
+          "y": 115.6
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_c3bebec0-60d5-45e0-8852-fedad8365c4b.jpg",
+    "format": "landscape",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 260.4,
+          "y": 3.6
+        },
+        {
+          "x": 447.6,
+          "y": 1.2
+        },
+        {
+          "x": 444.4,
+          "y": 119.6
+        },
+        {
+          "x": 258.0,
+          "y": 115.6
+        }
+      ]
+    },
+    "front_file": "frente/portugal-view-of-forte-de-sao-miguel-arcanjo-and-the-atlantic-pressed-nazare.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-view-of-forte-de-sao-miguel-arcanjo-and-the-atlantic-pressed-nazare.jpg",
+    "location_id": "414903",
+    "location_name": "Casa Miradouro Regional Gifts",
+    "machine": 1,
+    "name": "View of Forte de São Miguel Arcanjo and the Atlantic…",
+    "orientation": "landscape",
+    "original_file": "original/location-414903-photo-1-front.jpg",
+    "original_front": "original/location-414903-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_c3bebec0-60d5-45e0-8852-fedad8365c4b.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=414903#machine-1-position-1",
+    "slug": "portugal-view-of-forte-de-sao-miguel-arcanjo-and-the-atlantic-pressed-nazare",
+    "source_url": "http://locations.pennycollector.com/images/machine_c3bebec0-60d5-45e0-8852-fedad8365c4b.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab851d1c1d9b5dfbe15f099": {
+    "centered": true,
+    "city": "Nazaré",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 451.6,
+          "y": 121.2
+        },
+        {
+          "x": 562.8,
+          "y": 121.2
+        },
+        {
+          "x": 577.2,
+          "y": 300.4
+        },
+        {
+          "x": 451.6,
+          "y": 305.2
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_c3bebec0-60d5-45e0-8852-fedad8365c4b.jpg",
+    "format": "portrait",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 451.6,
+          "y": 121.2
+        },
+        {
+          "x": 562.8,
+          "y": 121.2
+        },
+        {
+          "x": 577.2,
+          "y": 300.4
+        },
+        {
+          "x": 451.6,
+          "y": 305.2
+        }
+      ]
+    },
+    "front_file": "frente/portugal-side-and-front-view-of-the-ascensor-da-nazare-with-pressed-nazare.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-side-and-front-view-of-the-ascensor-da-nazare-with-pressed-nazare.jpg",
+    "location_id": "414903",
+    "location_name": "Casa Miradouro Regional Gifts",
+    "machine": 1,
+    "name": "Side and front view of the Ascensor da Nazaré with…",
+    "orientation": "portrait",
+    "original_file": "original/location-414903-photo-1-front.jpg",
+    "original_front": "original/location-414903-photo-1-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_c3bebec0-60d5-45e0-8852-fedad8365c4b.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=414903#machine-1-position-2",
+    "slug": "portugal-side-and-front-view-of-the-ascensor-da-nazare-with-pressed-nazare",
+    "source_url": "http://locations.pennycollector.com/images/machine_c3bebec0-60d5-45e0-8852-fedad8365c4b.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab851d1c1d9b5dfbe15f09a": {
+    "centered": false,
+    "city": "Nazaré",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 535.6,
+          "y": 270.8
+        },
+        {
+          "x": 644.4,
+          "y": 272.4
+        },
+        {
+          "x": 647.6,
+          "y": 466.0
+        },
+        {
+          "x": 528.4,
+          "y": 466.8
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_c3bebec0-60d5-45e0-8852-fedad8365c4b.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 535.6,
+          "y": 270.8
+        },
+        {
+          "x": 644.4,
+          "y": 272.4
+        },
+        {
+          "x": 647.6,
+          "y": 466.0
+        },
+        {
+          "x": 528.4,
+          "y": 466.8
+        }
+      ]
+    },
+    "front_file": "frente/portugal-woman-standing-next-to-a-fisherman-holding-a-rope-with-pressed-nazare.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-woman-standing-next-to-a-fisherman-holding-a-rope-with-pressed-nazare.jpg",
+    "location_id": "414903",
+    "location_name": "Casa Miradouro Regional Gifts",
+    "machine": 1,
+    "name": "Woman standing next to a Fisherman holding a rope with…",
+    "orientation": "portrait",
+    "original_file": "original/location-414903-photo-1-front.jpg",
+    "original_front": "original/location-414903-photo-1-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_front": "http://locations.pennycollector.com/images/machine_c3bebec0-60d5-45e0-8852-fedad8365c4b.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=414903#machine-1-position-3",
+    "slug": "portugal-woman-standing-next-to-a-fisherman-holding-a-rope-with-pressed-nazare",
+    "source_url": "http://locations.pennycollector.com/images/machine_c3bebec0-60d5-45e0-8852-fedad8365c4b.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab851d1c1d9b5dfbe15f09b": {
+    "centered": true,
+    "city": "Nazaré",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 454.8,
+          "y": 466.0
+        },
+        {
+          "x": 643.6,
+          "y": 473.2
+        },
+        {
+          "x": 642.8,
+          "y": 585.2
+        },
+        {
+          "x": 454.0,
+          "y": 582.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_c3bebec0-60d5-45e0-8852-fedad8365c4b.jpg",
+    "format": "landscape",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 454.8,
+          "y": 466.0
+        },
+        {
+          "x": 643.6,
+          "y": 473.2
+        },
+        {
+          "x": 642.8,
+          "y": 585.2
+        },
+        {
+          "x": 454.0,
+          "y": 582.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-view-of-forte-de-sao-miguel-arcanjo-and-a-100-foot-wave-pressed-nazare.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-view-of-forte-de-sao-miguel-arcanjo-and-a-100-foot-wave-pressed-nazare.jpg",
+    "location_id": "414903",
+    "location_name": "Casa Miradouro Regional Gifts",
+    "machine": 1,
+    "name": "View of Forte de São Miguel Arcanjo and a 100 foot wave…",
+    "orientation": "landscape",
+    "original_file": "original/location-414903-photo-1-front.jpg",
+    "original_front": "original/location-414903-photo-1-front.jpg",
+    "padding": 4,
+    "position": 4,
+    "previous_front": "http://locations.pennycollector.com/images/machine_c3bebec0-60d5-45e0-8852-fedad8365c4b.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=414903#machine-1-position-4",
+    "slug": "portugal-view-of-forte-de-sao-miguel-arcanjo-and-a-100-foot-wave-pressed-nazare",
+    "source_url": "http://locations.pennycollector.com/images/machine_c3bebec0-60d5-45e0-8852-fedad8365c4b.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
   "6ab851d1c1d9b5dfbe15f09c": {
     "back_centered": false,
     "back_cleaned": true,

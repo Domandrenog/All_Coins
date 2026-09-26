@@ -398,6 +398,9 @@ portugal-senhora-fatima-in-front-of-the-sanctuary-of-our-lady-of-pressed-coimbra
 portugal-senhora-fatima-with-na-sra-de-fatima-pressed-batalha:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-senhora-fatima-with-na-sra-de-fatima-pressed-batalha.jpg
 
+portugal-side-and-front-view-of-the-ascensor-da-nazare-with-pressed-nazare:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-side-and-front-view-of-the-ascensor-da-nazare-with-pressed-nazare.jpg
+
 portugal-silver-a-view-over-funchal-rear-madeira-island-coin-funchal-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-silver-a-view-over-funchal-rear-madeira-island-coin-funchal-madeira-island.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-silver-a-view-over-funchal-rear-madeira-island-coin-funchal-madeira-island.jpg
@@ -452,8 +455,17 @@ portugal-university-of-coimbra-viewed-from-the-mondego-river-pressed-coimbra:
 portugal-veu-da-noiva-pressed-porto-moniz-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-veu-da-noiva-pressed-porto-moniz-madeira-island.jpg
 
+portugal-view-of-forte-de-sao-miguel-arcanjo-and-a-100-foot-wave-pressed-nazare:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-view-of-forte-de-sao-miguel-arcanjo-and-a-100-foot-wave-pressed-nazare.jpg
+
+portugal-view-of-forte-de-sao-miguel-arcanjo-and-the-atlantic-pressed-nazare:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-view-of-forte-de-sao-miguel-arcanjo-and-the-atlantic-pressed-nazare.jpg
+
 portugal-viewpoint-pressed-funchal-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-viewpoint-pressed-funchal-madeira-island.jpg
 
 portugal-woman-praying-pressed-fatima:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-woman-praying-pressed-fatima.jpg
+
+portugal-woman-standing-next-to-a-fisherman-holding-a-rope-with-pressed-nazare:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-woman-standing-next-to-a-fisherman-holding-a-rope-with-pressed-nazare.jpg
