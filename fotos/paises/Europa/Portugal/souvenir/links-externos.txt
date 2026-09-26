@@ -72,6 +72,9 @@ portugal-chamine-tipica-do-algarve-pressed-foia-monchique:
 portugal-chapel-pressed-ribeiro-frio-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_5d79fba4-8bd1-44d3-9e7e-720db8b307c8.jpg
 
+portugal-children-of-the-fatima-miracle-token-machine-is-outside-pressed-fatima:
+  frente: http://locations.pennycollector.com/images/machine_29dbd204-a8ab-4ed3-b2e3-0523d12489c2.jpg
+
 portugal-city-of-lagos-pressed-lagos:
   frente: http://locations.pennycollector.com/images/machine_409529cd-7293-484e-b175-2f4d513e8236.jpg
 
@@ -284,6 +287,9 @@ portugal-s-judas-tadeu-pressed-braga:
 portugal-san-antonio-foia-statue-pressed-foia-monchique:
   frente: http://locations.pennycollector.com/images/machine_aae43e01-a0d7-4a76-ac4d-13284c522871.jpg
 
+portugal-sanctuary-of-fatima-pressed-fatima:
+  frente: http://locations.pennycollector.com/images/machine_29dbd204-a8ab-4ed3-b2e3-0523d12489c2.jpg
+
 portugal-santa-maria-da-vitoria-batalha-monastery-with-batalha-pressed-batalha:
   frente: http://locations.pennycollector.com/images/machine_4080a7e5-e914-4d19-acac-9bfe9fd4e953.jpg
 
@@ -333,6 +339,9 @@ portugal-telescope-pressed-faro:
 portugal-three-believers-kneeling-in-front-of-fatima-statue-with-pressed-fatima:
   frente: http://locations.pennycollector.com/images/machine_5ce7d575-ab3b-49f8-9faa-9324a02e5739.jpg
 
+portugal-three-children-praying-to-mary-pressed-fatima:
+  frente: http://locations.pennycollector.com/images/machine_29dbd204-a8ab-4ed3-b2e3-0523d12489c2.jpg
+
 portugal-tomb-of-king-henriques-with-tumulo-d-alfonso-henriques-pressed-coimbra:
   frente: http://locations.pennycollector.com/images/machine_7bba5537-2a20-4957-99ee-02721487505f.jpg
 
@@ -354,3 +363,6 @@ portugal-veu-da-noiva-pressed-porto-moniz-madeira-island:
 
 portugal-viewpoint-pressed-funchal-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_e520c271-208e-45e1-a87f-16992f39b427.jpg
+
+portugal-woman-praying-pressed-fatima:
+  frente: http://locations.pennycollector.com/images/machine_29dbd204-a8ab-4ed3-b2e3-0523d12489c2.jpg

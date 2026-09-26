@@ -3742,6 +3742,314 @@
     "type": "pressed",
     "type_was_overridden": false
   },
+  "6ab65d6de5e0a45ad98de458": {
+    "centered": true,
+    "city": "Fátima",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 517.5,
+          "y": 452.0
+        },
+        {
+          "x": 634.5,
+          "y": 450.0
+        },
+        {
+          "x": 647.5,
+          "y": 653.0
+        },
+        {
+          "x": 517.5,
+          "y": 653.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_29dbd204-a8ab-4ed3-b2e3-0523d12489c2.jpg",
+    "format": "portrait",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 517.5,
+          "y": 452.0
+        },
+        {
+          "x": 634.5,
+          "y": 450.0
+        },
+        {
+          "x": 647.5,
+          "y": 653.0
+        },
+        {
+          "x": 517.5,
+          "y": 653.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-sanctuary-of-fatima-pressed-fatima.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-sanctuary-of-fatima-pressed-fatima.jpg",
+    "location_id": "454593",
+    "location_name": "Loja Virginia",
+    "machine": 1,
+    "name": "Sanctuary of Fátima",
+    "orientation": "portrait",
+    "original_file": "original/location-454593-photo-1-front.jpg",
+    "original_front": "original/location-454593-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_29dbd204-a8ab-4ed3-b2e3-0523d12489c2.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=454593#machine-1-position-1",
+    "slug": "portugal-sanctuary-of-fatima-pressed-fatima",
+    "source_url": "http://locations.pennycollector.com/images/machine_29dbd204-a8ab-4ed3-b2e3-0523d12489c2.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d6de5e0a45ad98de459": {
+    "centered": false,
+    "city": "Fátima",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 515.5,
+          "y": 142.0
+        },
+        {
+          "x": 646.5,
+          "y": 145.0
+        },
+        {
+          "x": 647.5,
+          "y": 339.0
+        },
+        {
+          "x": 516.5,
+          "y": 347.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_29dbd204-a8ab-4ed3-b2e3-0523d12489c2.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 515.5,
+          "y": 142.0
+        },
+        {
+          "x": 646.5,
+          "y": 145.0
+        },
+        {
+          "x": 647.5,
+          "y": 339.0
+        },
+        {
+          "x": 516.5,
+          "y": 347.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-woman-praying-pressed-fatima.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-woman-praying-pressed-fatima.jpg",
+    "location_id": "454593",
+    "location_name": "Loja Virginia",
+    "machine": 1,
+    "name": "Woman praying",
+    "orientation": "portrait",
+    "original_file": "original/location-454593-photo-1-front.jpg",
+    "original_front": "original/location-454593-photo-1-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_29dbd204-a8ab-4ed3-b2e3-0523d12489c2.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=454593#machine-1-position-2",
+    "slug": "portugal-woman-praying-pressed-fatima",
+    "source_url": "http://locations.pennycollector.com/images/machine_29dbd204-a8ab-4ed3-b2e3-0523d12489c2.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d6de5e0a45ad98de45a": {
+    "centered": false,
+    "city": "Fátima",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 424.5,
+          "y": 2.0
+        },
+        {
+          "x": 553.5,
+          "y": 0.0
+        },
+        {
+          "x": 553.5,
+          "y": 194.0
+        },
+        {
+          "x": 427.5,
+          "y": 195.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_29dbd204-a8ab-4ed3-b2e3-0523d12489c2.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 424.5,
+          "y": 2.0
+        },
+        {
+          "x": 553.5,
+          "y": 0.0
+        },
+        {
+          "x": 553.5,
+          "y": 194.0
+        },
+        {
+          "x": 427.5,
+          "y": 195.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-three-children-praying-to-mary-pressed-fatima.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-three-children-praying-to-mary-pressed-fatima.jpg",
+    "location_id": "454593",
+    "location_name": "Loja Virginia",
+    "machine": 1,
+    "name": "Three children praying to Mary",
+    "orientation": "portrait",
+    "original_file": "original/location-454593-photo-1-front.jpg",
+    "original_front": "original/location-454593-photo-1-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_front": "http://locations.pennycollector.com/images/machine_29dbd204-a8ab-4ed3-b2e3-0523d12489c2.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=454593#machine-1-position-3",
+    "slug": "portugal-three-children-praying-to-mary-pressed-fatima",
+    "source_url": "http://locations.pennycollector.com/images/machine_29dbd204-a8ab-4ed3-b2e3-0523d12489c2.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d6f1c9bc481d254e213": {
+    "centered": true,
+    "city": "Fátima",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 424.5,
+          "y": 295.0
+        },
+        {
+          "x": 540.5,
+          "y": 294.0
+        },
+        {
+          "x": 557.5,
+          "y": 501.0
+        },
+        {
+          "x": 424.5,
+          "y": 501.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_29dbd204-a8ab-4ed3-b2e3-0523d12489c2.jpg",
+    "format": "portrait",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 424.5,
+          "y": 295.0
+        },
+        {
+          "x": 540.5,
+          "y": 294.0
+        },
+        {
+          "x": 557.5,
+          "y": 501.0
+        },
+        {
+          "x": 424.5,
+          "y": 501.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-children-of-the-fatima-miracle-token-machine-is-outside-pressed-fatima.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-children-of-the-fatima-miracle-token-machine-is-outside-pressed-fatima.jpg",
+    "location_id": "454593",
+    "location_name": "Loja Virginia",
+    "machine": 1,
+    "name": "Children of the Fatima miracle. Token Machine is outside…",
+    "orientation": "portrait",
+    "original_file": "original/location-454593-photo-1-front.jpg",
+    "original_front": "original/location-454593-photo-1-front.jpg",
+    "padding": 4,
+    "position": 4,
+    "previous_front": "http://locations.pennycollector.com/images/machine_29dbd204-a8ab-4ed3-b2e3-0523d12489c2.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=454593#machine-1-position-4",
+    "slug": "portugal-children-of-the-fatima-miracle-token-machine-is-outside-pressed-fatima",
+    "source_url": "http://locations.pennycollector.com/images/machine_29dbd204-a8ab-4ed3-b2e3-0523d12489c2.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
   "6ab65d6f1c9bc481d254e218": {
     "centered": true,
     "city": "Fóia, Monchique",
