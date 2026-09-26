@@ -85,11 +85,21 @@ portugal-front-facade-of-the-old-cathedral-building-with-se-pressed-coimbra:
 portugal-front-facade-of-the-santa-cruz-church-with-igreja-de-pressed-coimbra:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-front-facade-of-the-santa-cruz-church-with-igreja-de-pressed-coimbra.jpg
 
+portugal-funchal-cathedral-pressed-funchal-madeira-island-d21577d4:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-funchal-cathedral-pressed-funchal-madeira-island-d21577d4.jpg
+
 portugal-funchal-pressed-funchal-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-funchal-pressed-funchal-madeira-island.jpg
 
+portugal-funchal-view-pressed-funchal-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-funchal-view-pressed-funchal-madeira-island.jpg
+
 portugal-gao-de-barcelos-pressed-guimaraes:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-gao-de-barcelos-pressed-guimaraes.jpg
+
+portugal-gold-a-view-over-funchal-coin-funchal-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-gold-a-view-over-funchal-coin-funchal-madeira-island.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-gold-a-view-over-funchal-coin-funchal-madeira-island.jpg
 
 portugal-image-of-a-woman-praying-with-n-sra-de-fatima-pressed-fatima:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-image-of-a-woman-praying-with-n-sra-de-fatima-pressed-fatima.jpg
@@ -102,6 +112,9 @@ portugal-logo-pressed-faro:
 
 portugal-madeira-island-pressed-curral-das-freiras-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-madeira-island-pressed-curral-das-freiras-madeira-island.jpg
+
+portugal-madeira-island-pressed-funchal-madeira-island-d21577d7:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-madeira-island-pressed-funchal-madeira-island-d21577d7.jpg
 
 portugal-madeira-island-pressed-funchal-madeira-island-fc0d976d:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-madeira-island-pressed-funchal-madeira-island-fc0d976d.jpg
@@ -195,6 +208,9 @@ portugal-santa-maria-da-vitoria-batalha-monastery-with-batalha-pressed-batalha:
 portugal-santana-traditional-house-pressed-curral-das-freiras-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-santana-traditional-house-pressed-curral-das-freiras-madeira-island.jpg
 
+portugal-santana-traditional-house-pressed-funchal-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-santana-traditional-house-pressed-funchal-madeira-island.jpg
+
 portugal-santana-traditional-houses-pressed-porto-moniz-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-santana-traditional-houses-pressed-porto-moniz-madeira-island.jpg
 
@@ -215,6 +231,10 @@ portugal-seahorse-pressed-faro:
 
 portugal-senhora-fatima-with-na-sra-de-fatima-pressed-batalha:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-senhora-fatima-with-na-sra-de-fatima-pressed-batalha.jpg
+
+portugal-silver-a-view-over-funchal-rear-madeira-island-coin-funchal-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-silver-a-view-over-funchal-rear-madeira-island-coin-funchal-madeira-island.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-silver-a-view-over-funchal-rear-madeira-island-coin-funchal-madeira-island.jpg
 
 portugal-sto-antonio-pressed-braga:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-sto-antonio-pressed-braga.jpg
