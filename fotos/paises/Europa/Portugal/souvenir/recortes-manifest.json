@@ -2854,6 +2854,314 @@
     "type": "pressed",
     "type_was_overridden": false
   },
+  "6ab65d6f1c9bc481d254e218": {
+    "centered": true,
+    "city": "Fóia, Monchique",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 408.5,
+          "y": 70.0
+        },
+        {
+          "x": 549.5,
+          "y": 77.0
+        },
+        {
+          "x": 541.5,
+          "y": 286.0
+        },
+        {
+          "x": 412.5,
+          "y": 284.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_aae43e01-a0d7-4a76-ac4d-13284c522871.jpg",
+    "format": "portrait",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 408.5,
+          "y": 70.0
+        },
+        {
+          "x": 549.5,
+          "y": 77.0
+        },
+        {
+          "x": 541.5,
+          "y": 286.0
+        },
+        {
+          "x": 412.5,
+          "y": 284.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-san-antonio-foia-statue-pressed-foia-monchique.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-san-antonio-foia-statue-pressed-foia-monchique.jpg",
+    "location_id": "336733",
+    "location_name": "Snack-Bar O Planalto da Fóia",
+    "machine": 1,
+    "name": "San Antonio, Foia', statue",
+    "orientation": "portrait",
+    "original_file": "original/location-336733-photo-1-front.jpg",
+    "original_front": "original/location-336733-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_aae43e01-a0d7-4a76-ac4d-13284c522871.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=336733#machine-1-position-1",
+    "slug": "portugal-san-antonio-foia-statue-pressed-foia-monchique",
+    "source_url": "http://locations.pennycollector.com/images/machine_aae43e01-a0d7-4a76-ac4d-13284c522871.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d6f1c9bc481d254e219": {
+    "centered": true,
+    "city": "Fóia, Monchique",
+    "cleaned": false,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 541.5,
+          "y": 140.0
+        },
+        {
+          "x": 647.5,
+          "y": 151.0
+        },
+        {
+          "x": 639.5,
+          "y": 385.0
+        },
+        {
+          "x": 489.5,
+          "y": 359.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_aae43e01-a0d7-4a76-ac4d-13284c522871.jpg",
+    "format": "portrait",
+    "front_centered": true,
+    "front_cleaned": false,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 541.5,
+          "y": 140.0
+        },
+        {
+          "x": 647.5,
+          "y": 151.0
+        },
+        {
+          "x": 639.5,
+          "y": 385.0
+        },
+        {
+          "x": 489.5,
+          "y": 359.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-chamine-tipica-do-algarve-pressed-foia-monchique.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-chamine-tipica-do-algarve-pressed-foia-monchique.jpg",
+    "location_id": "336733",
+    "location_name": "Snack-Bar O Planalto da Fóia",
+    "machine": 1,
+    "name": "Chamine Tipica Do Algarve",
+    "orientation": "portrait",
+    "original_file": "original/location-336733-photo-1-front.jpg",
+    "original_front": "original/location-336733-photo-1-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_aae43e01-a0d7-4a76-ac4d-13284c522871.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=336733#machine-1-position-2",
+    "slug": "portugal-chamine-tipica-do-algarve-pressed-foia-monchique",
+    "source_url": "http://locations.pennycollector.com/images/machine_aae43e01-a0d7-4a76-ac4d-13284c522871.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d6f1c9bc481d254e21a": {
+    "centered": false,
+    "city": "Fóia, Monchique",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 298.5,
+          "y": 231.0
+        },
+        {
+          "x": 421.5,
+          "y": 214.0
+        },
+        {
+          "x": 460.5,
+          "y": 424.0
+        },
+        {
+          "x": 320.5,
+          "y": 458.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_aae43e01-a0d7-4a76-ac4d-13284c522871.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 298.5,
+          "y": 231.0
+        },
+        {
+          "x": 421.5,
+          "y": 214.0
+        },
+        {
+          "x": 460.5,
+          "y": 424.0
+        },
+        {
+          "x": 320.5,
+          "y": 458.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-portugal-pressed-foia-monchique.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-portugal-pressed-foia-monchique.jpg",
+    "location_id": "336733",
+    "location_name": "Snack-Bar O Planalto da Fóia",
+    "machine": 1,
+    "name": "Portugal",
+    "orientation": "portrait",
+    "original_file": "original/location-336733-photo-1-front.jpg",
+    "original_front": "original/location-336733-photo-1-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_front": "http://locations.pennycollector.com/images/machine_aae43e01-a0d7-4a76-ac4d-13284c522871.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=336733#machine-1-position-3",
+    "slug": "portugal-portugal-pressed-foia-monchique",
+    "source_url": "http://locations.pennycollector.com/images/machine_aae43e01-a0d7-4a76-ac4d-13284c522871.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d6f1c9bc481d254e21b": {
+    "centered": true,
+    "city": "Fóia, Monchique",
+    "cleaned": false,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 340.5,
+          "y": 420.0
+        },
+        {
+          "x": 529.5,
+          "y": 432.0
+        },
+        {
+          "x": 534.5,
+          "y": 526.0
+        },
+        {
+          "x": 323.5,
+          "y": 529.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_aae43e01-a0d7-4a76-ac4d-13284c522871.jpg",
+    "format": "landscape",
+    "front_centered": true,
+    "front_cleaned": false,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 340.5,
+          "y": 420.0
+        },
+        {
+          "x": 529.5,
+          "y": 432.0
+        },
+        {
+          "x": 534.5,
+          "y": 526.0
+        },
+        {
+          "x": 323.5,
+          "y": 529.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-monchique-pressed-foia-monchique.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-monchique-pressed-foia-monchique.jpg",
+    "location_id": "336733",
+    "location_name": "Snack-Bar O Planalto da Fóia",
+    "machine": 1,
+    "name": "Monchique",
+    "orientation": "landscape",
+    "original_file": "original/location-336733-photo-1-front.jpg",
+    "original_front": "original/location-336733-photo-1-front.jpg",
+    "padding": 4,
+    "position": 4,
+    "previous_front": "http://locations.pennycollector.com/images/machine_aae43e01-a0d7-4a76-ac4d-13284c522871.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=336733#machine-1-position-4",
+    "slug": "portugal-monchique-pressed-foia-monchique",
+    "source_url": "http://locations.pennycollector.com/images/machine_aae43e01-a0d7-4a76-ac4d-13284c522871.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
   "6ab65d76de3d617d872a8364": {
     "centered": false,
     "city": "Guimarães",

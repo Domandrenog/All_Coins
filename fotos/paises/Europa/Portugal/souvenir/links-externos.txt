@@ -39,6 +39,9 @@ portugal-catedral-do-porto-portugal-feb-9-2019-there-is-no-a-coin-porto:
   frente: http://locations.pennycollector.com/images/machine_cb87ba43-85ec-41c7-8421-7ab1b38397bd.jpg
   tras: http://locations.pennycollector.com/images/machine_cb87ba43-85ec-41c7-8421-7ab1b38397bd.jpg
 
+portugal-chamine-tipica-do-algarve-pressed-foia-monchique:
+  frente: http://locations.pennycollector.com/images/machine_aae43e01-a0d7-4a76-ac4d-13284c522871.jpg
+
 portugal-city-of-lagos-pressed-lagos:
   frente: http://locations.pennycollector.com/images/machine_409529cd-7293-484e-b175-2f4d513e8236.jpg
 
@@ -97,6 +100,9 @@ portugal-madeira-island-there-are-also-2-tokens-to-buy-in-the-pressed-camara-dos
 portugal-mary-of-nazareth-with-nossa-senhora-da-nazara-pressed-nazare:
   frente: http://locations.pennycollector.com/images/machine_f126aaea-515d-490d-adc6-fd6f5f29bf98.jpg
 
+portugal-monchique-pressed-foia-monchique:
+  frente: http://locations.pennycollector.com/images/machine_aae43e01-a0d7-4a76-ac4d-13284c522871.jpg
+
 portugal-n-sra-do-carmo-penha-guimaraes-pressed-guimaraes:
   frente: http://locations.pennycollector.com/images/machine_f276080b-1c53-4a42-8f24-9e5c26966e60.jpg
 
@@ -130,8 +136,14 @@ portugal-pictorial-of-the-virgin-mary-intercession-with-milagre-pressed-nazare:
 portugal-portugal-pressed-albufeira:
   frente: http://locations.pennycollector.com/images/machine_feda9006-4058-4d9d-bd3f-b8439c77e928.jpg
 
+portugal-portugal-pressed-foia-monchique:
+  frente: http://locations.pennycollector.com/images/machine_aae43e01-a0d7-4a76-ac4d-13284c522871.jpg
+
 portugal-s-judas-tadeu-pressed-braga:
   frente: http://locations.pennycollector.com/images/machine_a67d8226-db57-4f95-bd63-3dd77510139d.jpg
+
+portugal-san-antonio-foia-statue-pressed-foia-monchique:
+  frente: http://locations.pennycollector.com/images/machine_aae43e01-a0d7-4a76-ac4d-13284c522871.jpg
 
 portugal-santa-maria-da-vitoria-batalha-monastery-with-batalha-pressed-batalha:
   frente: http://locations.pennycollector.com/images/machine_4080a7e5-e914-4d19-acac-9bfe9fd4e953.jpg
