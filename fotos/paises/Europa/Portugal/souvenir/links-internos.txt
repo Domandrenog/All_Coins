@@ -23,6 +23,12 @@ portugal-beach-with-lagos-pressed-lagos:
 portugal-building-pressed-faro:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-building-pressed-faro.jpg
 
+portugal-cabo-giro-from-camara-dos-lobos-pressed-camara-dos-lobos-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-cabo-giro-from-camara-dos-lobos-pressed-camara-dos-lobos-madeira-island.jpg
+
+portugal-cabo-giro-viewpoint-pressed-camara-dos-lobos-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-cabo-giro-viewpoint-pressed-camara-dos-lobos-madeira-island.jpg
+
 portugal-catedral-de-benagil-token-machine-one-design-but-can-pressed-albufeira:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-catedral-de-benagil-token-machine-one-design-but-can-pressed-albufeira.jpg
 
@@ -75,6 +81,9 @@ portugal-logo-pressed-faro:
 
 portugal-madeira-island-pressed-curral-das-freiras-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-madeira-island-pressed-curral-das-freiras-madeira-island.jpg
+
+portugal-madeira-island-there-are-also-2-tokens-to-buy-in-the-pressed-camara-dos-lobos-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-madeira-island-there-are-also-2-tokens-to-buy-in-the-pressed-camara-dos-lobos-madeira-island.jpg
 
 portugal-mary-of-nazareth-with-nossa-senhora-da-nazara-pressed-nazare:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-mary-of-nazareth-with-nossa-senhora-da-nazara-pressed-nazare.jpg

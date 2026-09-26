@@ -1135,6 +1135,237 @@
     "type": "pressed",
     "type_was_overridden": false
   },
+  "6ab65d65fd6f8dd10d7ffa4a": {
+    "centered": false,
+    "city": "Câmara dos Lobos (madeira Island)",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 4.5,
+          "y": 366.0
+        },
+        {
+          "x": 375.5,
+          "y": 367.0
+        },
+        {
+          "x": 385.5,
+          "y": 616.0
+        },
+        {
+          "x": 9.5,
+          "y": 616.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_b2e86ff2-1fee-4d1d-9c13-0ce5e86b9ed4.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 4.5,
+          "y": 366.0
+        },
+        {
+          "x": 375.5,
+          "y": 367.0
+        },
+        {
+          "x": 385.5,
+          "y": 616.0
+        },
+        {
+          "x": 9.5,
+          "y": 616.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-cabo-giro-from-camara-dos-lobos-pressed-camara-dos-lobos-madeira-island.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-cabo-giro-from-camara-dos-lobos-pressed-camara-dos-lobos-madeira-island.jpg",
+    "location_id": "287711",
+    "location_name": "Cabo Girão Viewpoint",
+    "machine": 1,
+    "name": "Cabo Giro from Camara Dos Lobos",
+    "orientation": "landscape",
+    "original_file": "original/location-287711-photo-1-front.jpg",
+    "original_front": "original/location-287711-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_b2e86ff2-1fee-4d1d-9c13-0ce5e86b9ed4.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287711#machine-1-position-1",
+    "slug": "portugal-cabo-giro-from-camara-dos-lobos-pressed-camara-dos-lobos-madeira-island",
+    "source_url": "http://locations.pennycollector.com/images/machine_b2e86ff2-1fee-4d1d-9c13-0ce5e86b9ed4.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d65fd6f8dd10d7ffa4b": {
+    "centered": false,
+    "city": "Câmara dos Lobos (madeira Island)",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 389.5,
+          "y": 106.0
+        },
+        {
+          "x": 643.5,
+          "y": 115.0
+        },
+        {
+          "x": 649.5,
+          "y": 496.0
+        },
+        {
+          "x": 386.5,
+          "y": 503.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_b2e86ff2-1fee-4d1d-9c13-0ce5e86b9ed4.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 389.5,
+          "y": 106.0
+        },
+        {
+          "x": 643.5,
+          "y": 115.0
+        },
+        {
+          "x": 649.5,
+          "y": 496.0
+        },
+        {
+          "x": 386.5,
+          "y": 503.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-cabo-giro-viewpoint-pressed-camara-dos-lobos-madeira-island.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-cabo-giro-viewpoint-pressed-camara-dos-lobos-madeira-island.jpg",
+    "location_id": "287711",
+    "location_name": "Cabo Girão Viewpoint",
+    "machine": 1,
+    "name": "Cabo Giro viewpoint",
+    "orientation": "portrait",
+    "original_file": "original/location-287711-photo-1-front.jpg",
+    "original_front": "original/location-287711-photo-1-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_b2e86ff2-1fee-4d1d-9c13-0ce5e86b9ed4.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287711#machine-1-position-2",
+    "slug": "portugal-cabo-giro-viewpoint-pressed-camara-dos-lobos-madeira-island",
+    "source_url": "http://locations.pennycollector.com/images/machine_b2e86ff2-1fee-4d1d-9c13-0ce5e86b9ed4.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d67cf4b4e3943561b37": {
+    "centered": false,
+    "city": "Câmara dos Lobos (madeira Island)",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 2.5,
+          "y": 0.0
+        },
+        {
+          "x": 399.5,
+          "y": 11.0
+        },
+        {
+          "x": 384.5,
+          "y": 256.0
+        },
+        {
+          "x": 2.5,
+          "y": 260.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_b2e86ff2-1fee-4d1d-9c13-0ce5e86b9ed4.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 2.5,
+          "y": 0.0
+        },
+        {
+          "x": 399.5,
+          "y": 11.0
+        },
+        {
+          "x": 384.5,
+          "y": 256.0
+        },
+        {
+          "x": 2.5,
+          "y": 260.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-madeira-island-there-are-also-2-tokens-to-buy-in-the-pressed-camara-dos-lobos-madeira-island.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-madeira-island-there-are-also-2-tokens-to-buy-in-the-pressed-camara-dos-lobos-madeira-island.jpg",
+    "location_id": "287711",
+    "location_name": "Cabo Girão Viewpoint",
+    "machine": 1,
+    "name": "Madeira Island. There are also 2 tokens to buy in the…",
+    "orientation": "landscape",
+    "original_file": "original/location-287711-photo-1-front.jpg",
+    "original_front": "original/location-287711-photo-1-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_front": "http://locations.pennycollector.com/images/machine_b2e86ff2-1fee-4d1d-9c13-0ce5e86b9ed4.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287711#machine-1-position-3",
+    "slug": "portugal-madeira-island-there-are-also-2-tokens-to-buy-in-the-pressed-camara-dos-lobos-madeira-island",
+    "source_url": "http://locations.pennycollector.com/images/machine_b2e86ff2-1fee-4d1d-9c13-0ce5e86b9ed4.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
   "6ab65d6976ee7bd0f81ea60f": {
     "centered": true,
     "city": "Coimbra",

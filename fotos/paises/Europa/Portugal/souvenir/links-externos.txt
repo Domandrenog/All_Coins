@@ -23,6 +23,12 @@ portugal-beach-with-lagos-pressed-lagos:
 portugal-building-pressed-faro:
   frente: http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg
 
+portugal-cabo-giro-from-camara-dos-lobos-pressed-camara-dos-lobos-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_b2e86ff2-1fee-4d1d-9c13-0ce5e86b9ed4.jpg
+
+portugal-cabo-giro-viewpoint-pressed-camara-dos-lobos-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_b2e86ff2-1fee-4d1d-9c13-0ce5e86b9ed4.jpg
+
 portugal-catedral-de-benagil-token-machine-one-design-but-can-pressed-albufeira:
   frente: http://locations.pennycollector.com/images/machine_feda9006-4058-4d9d-bd3f-b8439c77e928.jpg
 
@@ -75,6 +81,9 @@ portugal-logo-pressed-faro:
 
 portugal-madeira-island-pressed-curral-das-freiras-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_b5b1e237-0cc1-4c73-845f-c94ddf7a426a.jpg
+
+portugal-madeira-island-there-are-also-2-tokens-to-buy-in-the-pressed-camara-dos-lobos-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_b2e86ff2-1fee-4d1d-9c13-0ce5e86b9ed4.jpg
 
 portugal-mary-of-nazareth-with-nossa-senhora-da-nazara-pressed-nazare:
   frente: http://locations.pennycollector.com/images/machine_f126aaea-515d-490d-adc6-fd6f5f29bf98.jpg
