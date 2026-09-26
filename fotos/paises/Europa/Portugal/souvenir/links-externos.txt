@@ -102,6 +102,15 @@ portugal-cristo-rei-statue-coin-almada-1f7e611d:
 portugal-discovery-of-madeira-in-1419-pressed-funchal-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_28c4fd6d-d010-4ce4-a301-446b0f08e485.jpg
 
+portugal-dolphin-jumping-right-over-name-pressed-guia:
+  frente: http://locations.pennycollector.com/images/machine_1f185c9c-c86d-4ece-b9cd-6d8537b8f989.jpg
+
+portugal-dolphin-jumping-right-over-name-with-saying-pressed-guia:
+  frente: http://locations.pennycollector.com/images/machine_1f185c9c-c86d-4ece-b9cd-6d8537b8f989.jpg
+
+portugal-dolphine-swimming-right-over-name-pressed-guia:
+  frente: http://locations.pennycollector.com/images/machine_31844185-637e-4d79-9ba0-8cc46514f831.jpg
+
 portugal-don-afonso-henriques-guimaraes-pressed-guimaraes:
   frente: http://locations.pennycollector.com/images/machine_c4d4260e-2f09-41ca-95f3-6fc9057ff315.jpg
 
@@ -343,6 +352,9 @@ portugal-se-de-braga-pressed-braga:
 portugal-seahorse-pressed-faro:
   frente: http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg
 
+portugal-seal-over-name-pressed-guia:
+  frente: http://locations.pennycollector.com/images/machine_31844185-637e-4d79-9ba0-8cc46514f831.jpg
+
 portugal-senhora-fatima-in-front-of-the-sanctuary-of-our-lady-of-pressed-coimbra:
   frente: http://locations.pennycollector.com/images/machine_666e529e-ddb3-4dbb-9fa1-caa02b212acf.jpg
 
@@ -374,6 +386,9 @@ portugal-three-children-praying-to-mary-pressed-fatima:
 portugal-three-children-praying-to-our-lady-of-fatima-pressed-fatima:
   frente: http://locations.pennycollector.com/images/machine_2a401c39-ff62-4b55-bdf7-1c72d944d7b1.jpg
 
+portugal-together-we-protect-pressed-guia:
+  frente: http://locations.pennycollector.com/images/machine_1f185c9c-c86d-4ece-b9cd-6d8537b8f989.jpg
+
 portugal-tomb-of-king-henriques-with-tumulo-d-alfonso-henriques-pressed-coimbra:
   frente: http://locations.pennycollector.com/images/machine_7bba5537-2a20-4957-99ee-02721487505f.jpg
 
@@ -386,6 +401,9 @@ portugal-traditional-house-pressed-curral-das-freiras-madeira-island:
 
 portugal-trout-farm-pressed-ribeiro-frio-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_5d79fba4-8bd1-44d3-9e7e-720db8b307c8.jpg
+
+portugal-two-parrots-pressed-guia:
+  frente: http://locations.pennycollector.com/images/machine_31844185-637e-4d79-9ba0-8cc46514f831.jpg
 
 portugal-university-of-coimbra-viewed-from-the-mondego-river-pressed-coimbra:
   frente: http://locations.pennycollector.com/images/machine_e315c576-6361-4d23-b895-a47a2662b75f.jpg

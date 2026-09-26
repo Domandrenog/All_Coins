@@ -5957,6 +5957,480 @@
     "type": "coin",
     "type_was_overridden": false
   },
+  "6ab65d73dce3c8c8d21577da": {
+    "centered": true,
+    "city": "Guia ",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 3.0,
+          "y": 203.5
+        },
+        {
+          "x": 260.0,
+          "y": 209.5
+        },
+        {
+          "x": 271.0,
+          "y": 357.5
+        },
+        {
+          "x": 10.0,
+          "y": 362.5
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_1f185c9c-c86d-4ece-b9cd-6d8537b8f989.jpg",
+    "format": "landscape",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 3.0,
+          "y": 203.5
+        },
+        {
+          "x": 260.0,
+          "y": 209.5
+        },
+        {
+          "x": 271.0,
+          "y": 357.5
+        },
+        {
+          "x": 10.0,
+          "y": 362.5
+        }
+      ]
+    },
+    "front_file": "frente/portugal-dolphin-jumping-right-over-name-pressed-guia.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-dolphin-jumping-right-over-name-pressed-guia.jpg",
+    "location_id": "277072",
+    "location_name": "Zoomarine",
+    "machine": 1,
+    "name": "Dolphin jumping right over name",
+    "orientation": "landscape",
+    "original_file": "original/location-277072-photo-1-front.jpg",
+    "original_front": "original/location-277072-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_1f185c9c-c86d-4ece-b9cd-6d8537b8f989.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=277072#machine-1-position-1",
+    "slug": "portugal-dolphin-jumping-right-over-name-pressed-guia",
+    "source_url": "http://locations.pennycollector.com/images/machine_1f185c9c-c86d-4ece-b9cd-6d8537b8f989.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d74e00d32469f12df8f": {
+    "centered": true,
+    "city": "Guia ",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 5.0,
+          "y": 2.5
+        },
+        {
+          "x": 283.0,
+          "y": 12.5
+        },
+        {
+          "x": 268.0,
+          "y": 175.5
+        },
+        {
+          "x": 7.0,
+          "y": 176.5
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_1f185c9c-c86d-4ece-b9cd-6d8537b8f989.jpg",
+    "format": "landscape",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 5.0,
+          "y": 2.5
+        },
+        {
+          "x": 283.0,
+          "y": 12.5
+        },
+        {
+          "x": 268.0,
+          "y": 175.5
+        },
+        {
+          "x": 7.0,
+          "y": 176.5
+        }
+      ]
+    },
+    "front_file": "frente/portugal-dolphin-jumping-right-over-name-with-saying-pressed-guia.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-dolphin-jumping-right-over-name-with-saying-pressed-guia.jpg",
+    "location_id": "277072",
+    "location_name": "Zoomarine",
+    "machine": 1,
+    "name": "Dolphin jumping right over name with saying",
+    "orientation": "landscape",
+    "original_file": "original/location-277072-photo-1-front.jpg",
+    "original_front": "original/location-277072-photo-1-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_1f185c9c-c86d-4ece-b9cd-6d8537b8f989.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=277072#machine-1-position-2",
+    "slug": "portugal-dolphin-jumping-right-over-name-with-saying-pressed-guia",
+    "source_url": "http://locations.pennycollector.com/images/machine_1f185c9c-c86d-4ece-b9cd-6d8537b8f989.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d74e00d32469f12df90": {
+    "centered": false,
+    "city": "Guia ",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 283.0,
+          "y": 67.5
+        },
+        {
+          "x": 442.0,
+          "y": 83.5
+        },
+        {
+          "x": 429.0,
+          "y": 323.5
+        },
+        {
+          "x": 260.0,
+          "y": 313.5
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_1f185c9c-c86d-4ece-b9cd-6d8537b8f989.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 283.0,
+          "y": 67.5
+        },
+        {
+          "x": 442.0,
+          "y": 83.5
+        },
+        {
+          "x": 429.0,
+          "y": 323.5
+        },
+        {
+          "x": 260.0,
+          "y": 313.5
+        }
+      ]
+    },
+    "front_file": "frente/portugal-together-we-protect-pressed-guia.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-together-we-protect-pressed-guia.jpg",
+    "location_id": "277072",
+    "location_name": "Zoomarine",
+    "machine": 1,
+    "name": "Together We Protect",
+    "orientation": "portrait",
+    "original_file": "original/location-277072-photo-1-front.jpg",
+    "original_front": "original/location-277072-photo-1-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_front": "http://locations.pennycollector.com/images/machine_1f185c9c-c86d-4ece-b9cd-6d8537b8f989.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=277072#machine-1-position-3",
+    "slug": "portugal-together-we-protect-pressed-guia",
+    "source_url": "http://locations.pennycollector.com/images/machine_1f185c9c-c86d-4ece-b9cd-6d8537b8f989.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d74e00d32469f12df91": {
+    "centered": false,
+    "city": "Guia ",
+    "cleaned": false,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 194.0,
+          "y": 13.5
+        },
+        {
+          "x": 438.0,
+          "y": 15.5
+        },
+        {
+          "x": 434.0,
+          "y": 163.5
+        },
+        {
+          "x": 194.0,
+          "y": 165.5
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_31844185-637e-4d79-9ba0-8cc46514f831.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": false,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 194.0,
+          "y": 13.5
+        },
+        {
+          "x": 438.0,
+          "y": 15.5
+        },
+        {
+          "x": 434.0,
+          "y": 163.5
+        },
+        {
+          "x": 194.0,
+          "y": 165.5
+        }
+      ]
+    },
+    "front_file": "frente/portugal-seal-over-name-pressed-guia.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-seal-over-name-pressed-guia.jpg",
+    "location_id": "277072",
+    "location_name": "Zoomarine",
+    "machine": 2,
+    "name": "Seal over name",
+    "orientation": "landscape",
+    "original_file": "original/location-277072-photo-2-front.jpg",
+    "original_front": "original/location-277072-photo-2-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_31844185-637e-4d79-9ba0-8cc46514f831.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=277072#machine-2-position-1",
+    "slug": "portugal-seal-over-name-pressed-guia",
+    "source_url": "http://locations.pennycollector.com/images/machine_31844185-637e-4d79-9ba0-8cc46514f831.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d74e00d32469f12df92": {
+    "centered": false,
+    "city": "Guia ",
+    "cleaned": false,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 0.0,
+          "y": 64.5
+        },
+        {
+          "x": 172.0,
+          "y": 63.5
+        },
+        {
+          "x": 178.0,
+          "y": 285.5
+        },
+        {
+          "x": 17.0,
+          "y": 295.5
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_31844185-637e-4d79-9ba0-8cc46514f831.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": false,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 0.0,
+          "y": 64.5
+        },
+        {
+          "x": 172.0,
+          "y": 63.5
+        },
+        {
+          "x": 178.0,
+          "y": 285.5
+        },
+        {
+          "x": 17.0,
+          "y": 295.5
+        }
+      ]
+    },
+    "front_file": "frente/portugal-two-parrots-pressed-guia.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-two-parrots-pressed-guia.jpg",
+    "location_id": "277072",
+    "location_name": "Zoomarine",
+    "machine": 2,
+    "name": "Two Parrots",
+    "orientation": "landscape",
+    "original_file": "original/location-277072-photo-2-front.jpg",
+    "original_front": "original/location-277072-photo-2-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_31844185-637e-4d79-9ba0-8cc46514f831.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=277072#machine-2-position-2",
+    "slug": "portugal-two-parrots-pressed-guia",
+    "source_url": "http://locations.pennycollector.com/images/machine_31844185-637e-4d79-9ba0-8cc46514f831.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d74e00d32469f12df93": {
+    "centered": false,
+    "city": "Guia ",
+    "cleaned": false,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 200.0,
+          "y": 210.5
+        },
+        {
+          "x": 438.0,
+          "y": 208.5
+        },
+        {
+          "x": 441.0,
+          "y": 354.5
+        },
+        {
+          "x": 205.0,
+          "y": 355.5
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_31844185-637e-4d79-9ba0-8cc46514f831.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": false,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 200.0,
+          "y": 210.5
+        },
+        {
+          "x": 438.0,
+          "y": 208.5
+        },
+        {
+          "x": 441.0,
+          "y": 354.5
+        },
+        {
+          "x": 205.0,
+          "y": 355.5
+        }
+      ]
+    },
+    "front_file": "frente/portugal-dolphine-swimming-right-over-name-pressed-guia.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-dolphine-swimming-right-over-name-pressed-guia.jpg",
+    "location_id": "277072",
+    "location_name": "Zoomarine",
+    "machine": 2,
+    "name": "Dolphine swimming right over name",
+    "orientation": "landscape",
+    "original_file": "original/location-277072-photo-2-front.jpg",
+    "original_front": "original/location-277072-photo-2-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_front": "http://locations.pennycollector.com/images/machine_31844185-637e-4d79-9ba0-8cc46514f831.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=277072#machine-2-position-3",
+    "slug": "portugal-dolphine-swimming-right-over-name-pressed-guia",
+    "source_url": "http://locations.pennycollector.com/images/machine_31844185-637e-4d79-9ba0-8cc46514f831.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
   "6ab65d74e00d32469f12df94": {
     "centered": true,
     "city": "Guimarães",

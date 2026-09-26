@@ -102,6 +102,15 @@ portugal-cristo-rei-statue-coin-almada-1f7e611d:
 portugal-discovery-of-madeira-in-1419-pressed-funchal-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-discovery-of-madeira-in-1419-pressed-funchal-madeira-island.jpg
 
+portugal-dolphin-jumping-right-over-name-pressed-guia:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-dolphin-jumping-right-over-name-pressed-guia.jpg
+
+portugal-dolphin-jumping-right-over-name-with-saying-pressed-guia:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-dolphin-jumping-right-over-name-with-saying-pressed-guia.jpg
+
+portugal-dolphine-swimming-right-over-name-pressed-guia:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-dolphine-swimming-right-over-name-pressed-guia.jpg
+
 portugal-don-afonso-henriques-guimaraes-pressed-guimaraes:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-don-afonso-henriques-guimaraes-pressed-guimaraes.jpg
 
@@ -343,6 +352,9 @@ portugal-se-de-braga-pressed-braga:
 portugal-seahorse-pressed-faro:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-seahorse-pressed-faro.jpg
 
+portugal-seal-over-name-pressed-guia:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-seal-over-name-pressed-guia.jpg
+
 portugal-senhora-fatima-in-front-of-the-sanctuary-of-our-lady-of-pressed-coimbra:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-senhora-fatima-in-front-of-the-sanctuary-of-our-lady-of-pressed-coimbra.jpg
 
@@ -374,6 +386,9 @@ portugal-three-children-praying-to-mary-pressed-fatima:
 portugal-three-children-praying-to-our-lady-of-fatima-pressed-fatima:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-three-children-praying-to-our-lady-of-fatima-pressed-fatima.jpg
 
+portugal-together-we-protect-pressed-guia:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-together-we-protect-pressed-guia.jpg
+
 portugal-tomb-of-king-henriques-with-tumulo-d-alfonso-henriques-pressed-coimbra:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-tomb-of-king-henriques-with-tumulo-d-alfonso-henriques-pressed-coimbra.jpg
 
@@ -386,6 +401,9 @@ portugal-traditional-house-pressed-curral-das-freiras-madeira-island:
 
 portugal-trout-farm-pressed-ribeiro-frio-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-trout-farm-pressed-ribeiro-frio-madeira-island.jpg
+
+portugal-two-parrots-pressed-guia:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-two-parrots-pressed-guia.jpg
 
 portugal-university-of-coimbra-viewed-from-the-mondego-river-pressed-coimbra:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-university-of-coimbra-viewed-from-the-mondego-river-pressed-coimbra.jpg
