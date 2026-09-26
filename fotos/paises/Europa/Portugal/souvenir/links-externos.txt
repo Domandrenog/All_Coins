@@ -133,11 +133,28 @@ portugal-peneco-beach-with-rock-formation-pressed-albufeira:
 portugal-pictorial-of-the-virgin-mary-intercession-with-milagre-pressed-nazare:
   frente: http://locations.pennycollector.com/images/machine_f126aaea-515d-490d-adc6-fd6f5f29bf98.jpg
 
+portugal-portimao-pressed-portimao:
+  frente: http://locations.pennycollector.com/images/machine_40fea727-17f8-4569-9063-601e04c24a1b.jpg
+
 portugal-portugal-pressed-albufeira:
   frente: http://locations.pennycollector.com/images/machine_feda9006-4058-4d9d-bd3f-b8439c77e928.jpg
 
 portugal-portugal-pressed-foia-monchique:
   frente: http://locations.pennycollector.com/images/machine_aae43e01-a0d7-4a76-ac4d-13284c522871.jpg
+
+portugal-portugal-pressed-portimao:
+  frente: http://locations.pennycollector.com/images/machine_40fea727-17f8-4569-9063-601e04c24a1b.jpg
+
+portugal-praia-da-rocha-pressed-portimao:
+  frente: http://locations.pennycollector.com/images/machine_40fea727-17f8-4569-9063-601e04c24a1b.jpg
+
+portugal-praia-de-rocha-algarve-coin-portimao:
+  frente: http://locations.pennycollector.com/images/machine_17d40e58-762c-4e73-a01d-825ea6730035.jpg
+  tras: http://locations.pennycollector.com/images/machine_17d40e58-762c-4e73-a01d-825ea6730035.jpg
+
+portugal-praia-de-rocha-algarve-coin-portimao-a72885de:
+  frente: http://locations.pennycollector.com/images/machine_17d40e58-762c-4e73-a01d-825ea6730035.jpg
+  tras: http://locations.pennycollector.com/images/machine_17d40e58-762c-4e73-a01d-825ea6730035.jpg
 
 portugal-s-judas-tadeu-pressed-braga:
   frente: http://locations.pennycollector.com/images/machine_a67d8226-db57-4f95-bd63-3dd77510139d.jpg

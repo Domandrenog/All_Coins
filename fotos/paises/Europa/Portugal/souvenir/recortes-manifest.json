@@ -3992,6 +3992,373 @@
     "source_url": "http://locations.pennycollector.com/images/machine_f126aaea-515d-490d-adc6-fd6f5f29bf98.jpg",
     "type": "pressed"
   },
+  "6ab65d7b3e8625eba72885da": {
+    "centered": false,
+    "city": "Portimão",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 409.5,
+          "y": 16.0
+        },
+        {
+          "x": 646.5,
+          "y": 23.0
+        },
+        {
+          "x": 647.5,
+          "y": 177.0
+        },
+        {
+          "x": 407.5,
+          "y": 183.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_40fea727-17f8-4569-9063-601e04c24a1b.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 409.5,
+          "y": 16.0
+        },
+        {
+          "x": 646.5,
+          "y": 23.0
+        },
+        {
+          "x": 647.5,
+          "y": 177.0
+        },
+        {
+          "x": 407.5,
+          "y": 183.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-portimao-pressed-portimao.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-portimao-pressed-portimao.jpg",
+    "location_id": "344094",
+    "location_name": "Praia da Rocha",
+    "machine": 1,
+    "name": "Portimao",
+    "orientation": "landscape",
+    "original_file": "original/location-344094-photo-1-front.jpg",
+    "original_front": "original/location-344094-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_40fea727-17f8-4569-9063-601e04c24a1b.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=344094#machine-1-position-1",
+    "slug": "portugal-portimao-pressed-portimao",
+    "source_url": "http://locations.pennycollector.com/images/machine_40fea727-17f8-4569-9063-601e04c24a1b.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d7b3e8625eba72885db": {
+    "centered": true,
+    "city": "Portimão",
+    "cleaned": false,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 446.5,
+          "y": 178.0
+        },
+        {
+          "x": 603.5,
+          "y": 180.0
+        },
+        {
+          "x": 601.5,
+          "y": 412.0
+        },
+        {
+          "x": 444.5,
+          "y": 414.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_40fea727-17f8-4569-9063-601e04c24a1b.jpg",
+    "format": "portrait",
+    "front_centered": true,
+    "front_cleaned": false,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 446.5,
+          "y": 178.0
+        },
+        {
+          "x": 603.5,
+          "y": 180.0
+        },
+        {
+          "x": 601.5,
+          "y": 412.0
+        },
+        {
+          "x": 444.5,
+          "y": 414.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-portugal-pressed-portimao.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-portugal-pressed-portimao.jpg",
+    "location_id": "344094",
+    "location_name": "Praia da Rocha",
+    "machine": 1,
+    "name": "Portugal",
+    "orientation": "portrait",
+    "original_file": "original/location-344094-photo-1-front.jpg",
+    "original_front": "original/location-344094-photo-1-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_40fea727-17f8-4569-9063-601e04c24a1b.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=344094#machine-1-position-2",
+    "slug": "portugal-portugal-pressed-portimao",
+    "source_url": "http://locations.pennycollector.com/images/machine_40fea727-17f8-4569-9063-601e04c24a1b.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d7b3e8625eba72885dc": {
+    "centered": false,
+    "city": "Portimão",
+    "cleaned": false,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 402.5,
+          "y": 404.0
+        },
+        {
+          "x": 622.5,
+          "y": 408.0
+        },
+        {
+          "x": 638.5,
+          "y": 572.0
+        },
+        {
+          "x": 405.5,
+          "y": 573.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_40fea727-17f8-4569-9063-601e04c24a1b.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": false,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 402.5,
+          "y": 404.0
+        },
+        {
+          "x": 622.5,
+          "y": 408.0
+        },
+        {
+          "x": 638.5,
+          "y": 572.0
+        },
+        {
+          "x": 405.5,
+          "y": 573.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-praia-da-rocha-pressed-portimao.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-praia-da-rocha-pressed-portimao.jpg",
+    "location_id": "344094",
+    "location_name": "Praia da Rocha",
+    "machine": 1,
+    "name": "Praia Da Rocha",
+    "orientation": "landscape",
+    "original_file": "original/location-344094-photo-1-front.jpg",
+    "original_front": "original/location-344094-photo-1-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_front": "http://locations.pennycollector.com/images/machine_40fea727-17f8-4569-9063-601e04c24a1b.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=344094#machine-1-position-3",
+    "slug": "portugal-praia-da-rocha-pressed-portimao",
+    "source_url": "http://locations.pennycollector.com/images/machine_40fea727-17f8-4569-9063-601e04c24a1b.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d7b3e8625eba72885dd": {
+    "back_centered": true,
+    "back_cleaned": true,
+    "back_crop": {
+      "height": 320,
+      "mode": "rectangle",
+      "width": 320,
+      "x": 318,
+      "y": 42
+    },
+    "back_file": "tras/portugal-praia-de-rocha-algarve-coin-portimao.jpg",
+    "back_format": "square",
+    "back_orientation": "auto",
+    "back_padding": 4,
+    "back_source_side": "front",
+    "back_source_was_empty": true,
+    "centered": true,
+    "city": "Portimão",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "height": 310,
+      "mode": "rectangle",
+      "width": 310,
+      "x": 4,
+      "y": 55
+    },
+    "display_shape": "oval",
+    "external_back": "http://locations.pennycollector.com/images/machine_17d40e58-762c-4e73-a01d-825ea6730035.jpg",
+    "external_front": "http://locations.pennycollector.com/images/machine_17d40e58-762c-4e73-a01d-825ea6730035.jpg",
+    "format": "square",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "height": 310,
+      "mode": "rectangle",
+      "width": 310,
+      "x": 4,
+      "y": 55
+    },
+    "front_file": "frente/portugal-praia-de-rocha-algarve-coin-portimao.jpg",
+    "front_format": "square",
+    "front_orientation": "auto",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_back": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-praia-de-rocha-algarve-coin-portimao.jpg",
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-praia-de-rocha-algarve-coin-portimao.jpg",
+    "location_id": "344094",
+    "location_name": "Praia da Rocha",
+    "machine": 2,
+    "name": "Praia DE Rocha, Algarve",
+    "orientation": "auto",
+    "original_back": "original/location-344094-photo-2-back.jpg",
+    "original_file": "original/location-344094-photo-2-front.jpg",
+    "original_front": "original/location-344094-photo-2-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_back": "http://locations.pennycollector.com/images/machine_17d40e58-762c-4e73-a01d-825ea6730035.jpg",
+    "previous_front": "http://locations.pennycollector.com/images/machine_17d40e58-762c-4e73-a01d-825ea6730035.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=344094#machine-2-position-1",
+    "slug": "portugal-praia-de-rocha-algarve-coin-portimao",
+    "source_url": "http://locations.pennycollector.com/images/machine_17d40e58-762c-4e73-a01d-825ea6730035.jpg",
+    "type": "coin",
+    "type_was_overridden": true
+  },
+  "6ab65d7b3e8625eba72885de": {
+    "back_centered": true,
+    "back_cleaned": false,
+    "back_crop": {
+      "height": 325,
+      "mode": "rectangle",
+      "width": 325,
+      "x": 308,
+      "y": 375
+    },
+    "back_file": "tras/portugal-praia-de-rocha-algarve-coin-portimao-a72885de.jpg",
+    "back_format": "square",
+    "back_orientation": "auto",
+    "back_padding": 4,
+    "back_source_side": "front",
+    "back_source_was_empty": true,
+    "centered": true,
+    "city": "Portimão",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "height": 316,
+      "mode": "rectangle",
+      "width": 316,
+      "x": 2,
+      "y": 376
+    },
+    "display_shape": "oval",
+    "external_back": "http://locations.pennycollector.com/images/machine_17d40e58-762c-4e73-a01d-825ea6730035.jpg",
+    "external_front": "http://locations.pennycollector.com/images/machine_17d40e58-762c-4e73-a01d-825ea6730035.jpg",
+    "format": "square",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "height": 316,
+      "mode": "rectangle",
+      "width": 316,
+      "x": 2,
+      "y": 376
+    },
+    "front_file": "frente/portugal-praia-de-rocha-algarve-coin-portimao-a72885de.jpg",
+    "front_format": "square",
+    "front_orientation": "auto",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_back": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-praia-de-rocha-algarve-coin-portimao-a72885de.jpg",
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-praia-de-rocha-algarve-coin-portimao-a72885de.jpg",
+    "location_id": "344094",
+    "location_name": "Praia da Rocha",
+    "machine": 2,
+    "name": "Praia DE Rocha, Algarve",
+    "orientation": "auto",
+    "original_back": "original/location-344094-photo-2-back.jpg",
+    "original_file": "original/location-344094-photo-2-front.jpg",
+    "original_front": "original/location-344094-photo-2-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_back": "http://locations.pennycollector.com/images/machine_17d40e58-762c-4e73-a01d-825ea6730035.jpg",
+    "previous_front": "http://locations.pennycollector.com/images/machine_17d40e58-762c-4e73-a01d-825ea6730035.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=344094#machine-2-position-2",
+    "slug": "portugal-praia-de-rocha-algarve-coin-portimao-a72885de",
+    "source_url": "http://locations.pennycollector.com/images/machine_17d40e58-762c-4e73-a01d-825ea6730035.jpg",
+    "type": "coin",
+    "type_was_overridden": true
+  },
   "6ab65d7b3e8625eba72885df": {
     "back_centered": false,
     "back_cleaned": true,

@@ -133,11 +133,28 @@ portugal-peneco-beach-with-rock-formation-pressed-albufeira:
 portugal-pictorial-of-the-virgin-mary-intercession-with-milagre-pressed-nazare:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-pictorial-of-the-virgin-mary-intercession-with-milagre-pressed-nazare.jpg
 
+portugal-portimao-pressed-portimao:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-portimao-pressed-portimao.jpg
+
 portugal-portugal-pressed-albufeira:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-portugal-pressed-albufeira.jpg
 
 portugal-portugal-pressed-foia-monchique:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-portugal-pressed-foia-monchique.jpg
+
+portugal-portugal-pressed-portimao:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-portugal-pressed-portimao.jpg
+
+portugal-praia-da-rocha-pressed-portimao:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-praia-da-rocha-pressed-portimao.jpg
+
+portugal-praia-de-rocha-algarve-coin-portimao:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-praia-de-rocha-algarve-coin-portimao.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-praia-de-rocha-algarve-coin-portimao.jpg
+
+portugal-praia-de-rocha-algarve-coin-portimao-a72885de:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-praia-de-rocha-algarve-coin-portimao-a72885de.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-praia-de-rocha-algarve-coin-portimao-a72885de.jpg
 
 portugal-s-judas-tadeu-pressed-braga:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-s-judas-tadeu-pressed-braga.jpg
