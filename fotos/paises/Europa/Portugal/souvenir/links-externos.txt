@@ -14,6 +14,9 @@ portugal-aqui-nasceu-portugal-pressed-guimaraes:
 portugal-art-museum-pressed-albufeira:
   frente: http://locations.pennycollector.com/images/machine_b7890259-2ff9-4380-9a64-e551400824bf.jpg
 
+portugal-bailinho-da-madeira-local-folk-song-pressed-funchal-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_2cde75cb-1e2a-49d1-a7b2-2ea781ebdd7f.jpg
+
 portugal-barcelos-rooster-pressed-batalha:
   frente: http://locations.pennycollector.com/images/machine_4080a7e5-e914-4d19-acac-9bfe9fd4e953.jpg
 
@@ -38,6 +41,9 @@ portugal-catedral-de-benagil-token-machine-one-design-but-can-pressed-albufeira:
 portugal-catedral-do-porto-portugal-feb-9-2019-there-is-no-a-coin-porto:
   frente: http://locations.pennycollector.com/images/machine_cb87ba43-85ec-41c7-8421-7ab1b38397bd.jpg
   tras: http://locations.pennycollector.com/images/machine_cb87ba43-85ec-41c7-8421-7ab1b38397bd.jpg
+
+portugal-cathedral-pressed-funchal-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_2cde75cb-1e2a-49d1-a7b2-2ea781ebdd7f.jpg
 
 portugal-chamine-tipica-do-algarve-pressed-foia-monchique:
   frente: http://locations.pennycollector.com/images/machine_aae43e01-a0d7-4a76-ac4d-13284c522871.jpg
@@ -79,6 +85,9 @@ portugal-front-facade-of-the-old-cathedral-building-with-se-pressed-coimbra:
 portugal-front-facade-of-the-santa-cruz-church-with-igreja-de-pressed-coimbra:
   frente: http://locations.pennycollector.com/images/machine_7bba5537-2a20-4957-99ee-02721487505f.jpg
 
+portugal-funchal-pressed-funchal-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_2cde75cb-1e2a-49d1-a7b2-2ea781ebdd7f.jpg
+
 portugal-gao-de-barcelos-pressed-guimaraes:
   frente: http://locations.pennycollector.com/images/machine_8155d1b3-d605-43c5-b12a-6d3ba169c643.jpg
 
@@ -93,6 +102,9 @@ portugal-logo-pressed-faro:
 
 portugal-madeira-island-pressed-curral-das-freiras-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_b5b1e237-0cc1-4c73-845f-c94ddf7a426a.jpg
+
+portugal-madeira-island-pressed-funchal-madeira-island-fc0d976d:
+  frente: http://locations.pennycollector.com/images/machine_2cde75cb-1e2a-49d1-a7b2-2ea781ebdd7f.jpg
 
 portugal-madeira-island-there-are-also-2-tokens-to-buy-in-the-pressed-camara-dos-lobos-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_b2e86ff2-1fee-4d1d-9c13-0ce5e86b9ed4.jpg

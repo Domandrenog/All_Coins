@@ -14,6 +14,9 @@ portugal-aqui-nasceu-portugal-pressed-guimaraes:
 portugal-art-museum-pressed-albufeira:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-art-museum-pressed-albufeira.jpg
 
+portugal-bailinho-da-madeira-local-folk-song-pressed-funchal-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-bailinho-da-madeira-local-folk-song-pressed-funchal-madeira-island.jpg
+
 portugal-barcelos-rooster-pressed-batalha:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-barcelos-rooster-pressed-batalha.jpg
 
@@ -38,6 +41,9 @@ portugal-catedral-de-benagil-token-machine-one-design-but-can-pressed-albufeira:
 portugal-catedral-do-porto-portugal-feb-9-2019-there-is-no-a-coin-porto:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-catedral-do-porto-portugal-feb-9-2019-there-is-no-a-coin-porto.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-catedral-do-porto-portugal-feb-9-2019-there-is-no-a-coin-porto.jpg
+
+portugal-cathedral-pressed-funchal-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-cathedral-pressed-funchal-madeira-island.jpg
 
 portugal-chamine-tipica-do-algarve-pressed-foia-monchique:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-chamine-tipica-do-algarve-pressed-foia-monchique.jpg
@@ -79,6 +85,9 @@ portugal-front-facade-of-the-old-cathedral-building-with-se-pressed-coimbra:
 portugal-front-facade-of-the-santa-cruz-church-with-igreja-de-pressed-coimbra:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-front-facade-of-the-santa-cruz-church-with-igreja-de-pressed-coimbra.jpg
 
+portugal-funchal-pressed-funchal-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-funchal-pressed-funchal-madeira-island.jpg
+
 portugal-gao-de-barcelos-pressed-guimaraes:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-gao-de-barcelos-pressed-guimaraes.jpg
 
@@ -93,6 +102,9 @@ portugal-logo-pressed-faro:
 
 portugal-madeira-island-pressed-curral-das-freiras-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-madeira-island-pressed-curral-das-freiras-madeira-island.jpg
+
+portugal-madeira-island-pressed-funchal-madeira-island-fc0d976d:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-madeira-island-pressed-funchal-madeira-island-fc0d976d.jpg
 
 portugal-madeira-island-there-are-also-2-tokens-to-buy-in-the-pressed-camara-dos-lobos-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-madeira-island-there-are-also-2-tokens-to-buy-in-the-pressed-camara-dos-lobos-madeira-island.jpg
