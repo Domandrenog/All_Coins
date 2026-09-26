@@ -178,6 +178,10 @@ portugal-gold-a-view-over-funchal-coin-funchal-madeira-island:
 portugal-guimaraes-pressed-guimaraes:
   frente: http://locations.pennycollector.com/images/machine_90dec15f-00cf-4874-a656-22b477b99b92.jpeg
 
+portugal-hard-rock-logo-with-hard-rock-cafe-lisbon-guitar-coin-lisbon-lisboa:
+  frente: http://locations.pennycollector.com/images/machine_cb3d7ec9-bb77-453d-9f50-c1f6f6382585.jpg
+  tras: http://locations.pennycollector.com/images/machine_cb3d7ec9-bb77-453d-9f50-c1f6f6382585.jpg
+
 portugal-holy-queen-isabella-with-rainha-santa-isabel-coimbra-pressed-coimbra:
   frente: http://locations.pennycollector.com/images/machine_666e529e-ddb3-4dbb-9fa1-caa02b212acf.jpg
 

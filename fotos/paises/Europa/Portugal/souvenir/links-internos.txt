@@ -178,6 +178,10 @@ portugal-gold-a-view-over-funchal-coin-funchal-madeira-island:
 portugal-guimaraes-pressed-guimaraes:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-guimaraes-pressed-guimaraes.jpg
 
+portugal-hard-rock-logo-with-hard-rock-cafe-lisbon-guitar-coin-lisbon-lisboa:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-hard-rock-logo-with-hard-rock-cafe-lisbon-guitar-coin-lisbon-lisboa.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-hard-rock-logo-with-hard-rock-cafe-lisbon-guitar-coin-lisbon-lisboa.jpg
+
 portugal-holy-queen-isabella-with-rainha-santa-isabel-coimbra-pressed-coimbra:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-holy-queen-isabella-with-rainha-santa-isabel-coimbra-pressed-coimbra.jpg
 
