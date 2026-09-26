@@ -300,6 +300,17 @@ class CompletionRequestTests(unittest.TestCase):
         self.assertIn('id="continent"', PAGE)
         self.assertIn('id="country"', PAGE)
         self.assertIn('id="city"', PAGE)
+        self.assertIn('id="navigation-panel"', PAGE)
+        self.assertIn('class="panel photo-panel"', PAGE)
+        self.assertIn('id="controls-panel"', PAGE)
+        self.assertLess(
+            PAGE.index('id="navigation-panel"'),
+            PAGE.index('class="panel photo-panel"'),
+        )
+        self.assertLess(
+            PAGE.index('class="panel photo-panel"'),
+            PAGE.index('id="controls-panel"'),
+        )
         self.assertIn("Em pé — 140 × 200 px", PAGE)
         self.assertIn("' · faltam ' + pending + '/' + all + ' lados'", PAGE)
         self.assertIn("missing-photo-option", PAGE)

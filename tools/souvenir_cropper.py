@@ -70,11 +70,12 @@ PAGE = r"""<!doctype html>
   <style>
     :root { color-scheme: light; font-family: Inter, system-ui, sans-serif; }
     body { margin: 0; background: #f4f1eb; color: #27221d; }
-    main { max-width: 1180px; margin: 0 auto; padding: 24px; }
+    main { max-width: 1500px; margin: 0 auto; padding: 24px; }
     h1 { margin: 0 0 6px; font-size: 28px; }
     .hint { color: #71685e; margin: 0 0 18px; }
-    .layout { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 18px; }
+    .layout { display: grid; grid-template-columns: 260px minmax(420px, 1fr) 300px; gap: 16px; align-items: start; }
     .panel { background: white; border: 1px solid #ded7ce; border-radius: 14px; padding: 16px; box-shadow: 0 3px 16px #4a392214; }
+    .navigation-panel, .controls-panel { min-width: 0; }
     .photo-progress { display: flex; justify-content: space-between; gap: 14px; align-items: center; margin-bottom: 12px; padding: 11px 12px; border: 1px solid #dfd5ca; border-radius: 10px; background: #f5f1ec; }
     .photo-progress strong, .photo-progress small { display: block; }
     .photo-progress small { margin-top: 2px; color: #6e655c; }
@@ -109,7 +110,15 @@ PAGE = r"""<!doctype html>
     .assignment { border: 1px solid #e4b88f; background: #fff5eb; }
     .assignment strong { display: block; font-size: 16px; color: #8d430e; margin-bottom: 4px; }
     .assignment small { color: #6e6258; }
-    @media (max-width: 800px) { .layout { grid-template-columns: 1fr; } }
+    @media (max-width: 1100px) {
+      .layout { grid-template-columns: 250px minmax(0, 1fr); }
+      .controls-panel { grid-column: 1 / -1; }
+    }
+    @media (max-width: 720px) {
+      main { padding: 14px; }
+      .layout { grid-template-columns: 1fr; }
+      .controls-panel { grid-column: auto; }
+    }
   </style>
 </head>
 <body>
@@ -117,21 +126,7 @@ PAGE = r"""<!doctype html>
   <h1>Recortador de Souvenirs</h1>
   <p class="hint">Filtra por continente, país, cidade e location. Recorta cada frente ou verso indicado; também podes colar outra montagem com Ctrl+V.</p>
   <div class="layout">
-    <section class="panel">
-      <div id="photo-progress" class="photo-progress">
-        <div><strong id="photo-state">Escolhe uma fotografia</strong><small id="photo-count">Sem progresso para mostrar.</small></div>
-        <button id="complete-photo" disabled>Marcar fotografia como feita</button>
-      </div>
-      <div id="drop">
-        <div id="empty">Clica aqui e cola a imagem<br><strong>Ctrl+V</strong><br><br>ou usa “Escolher imagem”</div>
-        <canvas id="canvas"></canvas>
-      </div>
-      <input id="file" type="file" accept="image/*" hidden>
-      <button id="choose" class="secondary">Escolher imagem</button>
-      <div id="status" class="status">Os ficheiros guardados aparecerão aqui.</div>
-      <div id="saved" class="saved"></div>
-    </section>
-    <aside class="panel">
+    <aside id="navigation-panel" class="panel navigation-panel">
       <label for="scope">Estado</label>
       <select id="scope">
         <option value="pending">Por tratar</option>
@@ -152,6 +147,22 @@ PAGE = r"""<!doctype html>
         <option value="">Escolhe primeiro uma location</option>
       </select>
       <div id="assignment" class="status assignment">Escolhe uma location para começar.</div>
+    </aside>
+    <section class="panel photo-panel">
+      <div id="photo-progress" class="photo-progress">
+        <div><strong id="photo-state">Escolhe uma fotografia</strong><small id="photo-count">Sem progresso para mostrar.</small></div>
+        <button id="complete-photo" disabled>Marcar fotografia como feita</button>
+      </div>
+      <div id="drop">
+        <div id="empty">Clica aqui e cola a imagem<br><strong>Ctrl+V</strong><br><br>ou usa “Escolher imagem”</div>
+        <canvas id="canvas"></canvas>
+      </div>
+      <input id="file" type="file" accept="image/*" hidden>
+      <button id="choose" class="secondary">Escolher imagem</button>
+      <div id="status" class="status">Os ficheiros guardados aparecerão aqui.</div>
+      <div id="saved" class="saved"></div>
+    </section>
+    <aside id="controls-panel" class="panel controls-panel">
       <label for="record-type">Tipo do souvenir</label>
       <select id="record-type" disabled>
         <option value="pressed">Prensada</option>
