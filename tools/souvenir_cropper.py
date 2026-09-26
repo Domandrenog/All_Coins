@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Ferramenta local para percorrer uma location e recortar os seus Souvenirs.
 
-Lê a fila na Base44, mas não escreve na API nem nas imagens canónicas.
+Lê a fila na Base44. Só cria um registo na API quando o utilizador confirma
+explicitamente que existe uma moeda em falta; os recortes seguem o fluxo normal.
 """
 
 from __future__ import annotations
@@ -30,6 +31,15 @@ from PIL import Image, ImageFilter, ImageOps
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_OUTPUT = ROOT / "recortes_souvenir_teste"
+SOUVENIR_CLONE_FIELDS = (
+    "name", "continent", "country", "city", "type", "condition",
+    "location_name", "adquirida_por", "description", "display_shape",
+    "display_orientation", "has_back_image", "image_front", "image_back",
+    "acquisition_date", "notes", "reference_url", "ordem", "hidden",
+)
+SOUVENIR_REQUIRED_FIELDS = (
+    "name", "continent", "country", "city", "type", "condition",
+)
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
@@ -151,6 +161,9 @@ PAGE = r"""<!doctype html>
           <option value="both">Frente e Verso</option>
           <option value="front">Só Frente</option>
         </select>
+        <button id="duplicate-record" class="secondary" type="button">
+          + Adicionar moeda em falta nesta fotografia
+        </button>
       </div>
       <hr>
       <strong>Recorte selecionado</strong>
@@ -194,6 +207,7 @@ const selectionModeInput = document.querySelector('#selection-mode');
 const recordTypeInput = document.querySelector('#record-type');
 const coinSidesControl = document.querySelector('#coin-sides-control');
 const coinSidesInput = document.querySelector('#coin-sides');
+const duplicateRecordButton = document.querySelector('#duplicate-record');
 const cleanupInput = document.querySelector('#cleanup');
 const saved = document.querySelector('#saved');
 const scopeInput = document.querySelector('#scope');
@@ -529,6 +543,7 @@ function updateBackImageControl() {
   const isCoin = currentRecord?.type === 'coin';
   coinSidesControl.hidden = !isCoin;
   coinSidesInput.disabled = !isCoin;
+  duplicateRecordButton.disabled = !isCoin;
   coinSidesInput.value = (
     isCoin && currentRecord.has_back_image === false ? 'front' : 'both'
   );
@@ -806,6 +821,54 @@ countryInput.onchange = () => updateCities();
 cityInput.onchange = () => updateLocations();
 locationInput.onchange = () => loadLocation(locationInput.value).catch(showError);
 machineInput.onchange = () => selectMachine(machineInput.value).catch(showError);
+duplicateRecordButton.onclick = async () => {
+  if (!currentRecord || currentRecord.type !== 'coin') return;
+  const sourceRecordId = currentRecord.record_id;
+  const sourceName = currentRecord.name;
+  const enteredName = window.prompt(
+    'Nome da moeda em falta:',
+    sourceName
+  );
+  if (enteredName === null) return;
+  const newName = enteredName.trim();
+  if (!newName || newName.localeCompare(sourceName.trim(), 'pt', {sensitivity: 'base'}) === 0) {
+    window.alert('Escreve um nome diferente para a nova moeda.');
+    return;
+  }
+  const confirmed = window.confirm(
+    'Criar agora "' + newName + '" na Base44?\n\n' +
+    'Serão copiadas exatamente as características de "' + sourceName + '", ' +
+    'incluindo location, tipo, estado e fotografia. Apenas o nome muda.'
+  );
+  if (!confirmed) return;
+  duplicateRecordButton.disabled = true;
+  statusBox.textContent = 'A criar "' + newName + '" na Base44…';
+  try {
+    const response = await fetch('/api/duplicate-record', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({record_id: sourceRecordId, name: newName})
+    });
+    const result = await response.json();
+    if (!response.ok) throw new Error(result.error || 'Não foi possível criar a moeda.');
+    await loadLocation(locationInput.value);
+    const createdIndex = records.findIndex(
+      record => record.record_id === result.record_id
+    );
+    if (createdIndex >= 0) await selectRecord(createdIndex);
+    await refreshLocationProgressLabels();
+    await refreshCompletionSummary();
+    const createdSides = (result.sides || []).includes('back')
+      ? 'a Frente e o Verso'
+      : 'a Frente';
+    statusBox.textContent =
+      '"' + result.name + '" criada na Base44. Recorta agora ' + createdSides + '.';
+  } catch (error) {
+    updateBackImageControl();
+    showError(error);
+  }
+};
+
 coinSidesInput.onchange = async () => {
   if (!currentRecord || currentRecord.type !== 'coin') return;
   const recordId = currentRecord.record_id;
@@ -1126,6 +1189,69 @@ def write_type_override(
         encoding="utf-8",
     )
     temporary.replace(path)
+
+
+def clone_souvenir_payload(
+    source: dict[str, object],
+    new_name: str,
+) -> dict[str, object]:
+    name = new_name.strip()
+    source_name = str(source.get("name") or "").strip()
+    if not name:
+        raise ValueError("Indica o nome da moeda em falta.")
+    if name.casefold() == source_name.casefold():
+        raise ValueError("O nome da nova moeda tem de ser diferente.")
+    payload = {
+        field: source[field]
+        for field in SOUVENIR_CLONE_FIELDS
+        if field in source
+    }
+    payload["name"] = name
+    if source.get("_has_back_image_override") is False:
+        payload["has_back_image"] = False
+    missing = [
+        field
+        for field in SOUVENIR_REQUIRED_FIELDS
+        if payload.get(field) in (None, "")
+    ]
+    if missing:
+        raise ValueError(
+            "Não é possível duplicar o Souvenir; campos obrigatórios em falta: "
+            + ", ".join(missing)
+        )
+    return payload
+
+
+def create_souvenir_clone(
+    source: dict[str, object],
+    new_name: str,
+    api_key: str,
+) -> dict[str, object]:
+    payload = clone_souvenir_payload(source, new_name)
+    created = api_request(
+        "POST", "/entities/Souvenir", api_key, payload=payload
+    )
+    if not isinstance(created, dict) or not created.get("id"):
+        raise RuntimeError(f"Resposta inesperada ao criar o Souvenir: {created!r}")
+    record_id = str(created["id"])
+    verified = api_request(
+        "GET", f"/entities/Souvenir/{record_id}", api_key
+    )
+    if not isinstance(verified, dict) or str(verified.get("id") or "") != record_id:
+        raise RuntimeError(
+            f"Não foi possível confirmar o Souvenir criado: {record_id}."
+        )
+    different = [
+        field
+        for field, expected in payload.items()
+        if expected not in (None, "") and verified.get(field) != expected
+    ]
+    if different:
+        raise RuntimeError(
+            "A Base44 não copiou corretamente os campos: "
+            + ", ".join(different)
+        )
+    return verified
 
 
 def read_back_image_overrides(output_dir: Path) -> dict[str, bool]:
@@ -2012,6 +2138,8 @@ class Handler(BaseHTTPRequestHandler):
                 self.save_record_type()
             elif path == "/api/record-back-image":
                 self.save_record_back_image()
+            elif path == "/api/duplicate-record":
+                self.save_duplicate_record()
             elif path == "/api/finalize":
                 self.save_finalize()
             else:
@@ -2069,6 +2197,71 @@ class Handler(BaseHTTPRequestHandler):
             "type": record_type,
             "sides": [str(record["_side"]) for record in updated],
         })
+
+    def save_duplicate_record(self) -> None:
+        payload = json.loads(self.request_body())
+        record_id = str(payload.get("record_id") or "")
+        new_name = str(payload.get("name") or "").strip()
+        current = [
+            record for record in self.pending_records("all")
+            if str(record["_record_id"]) == record_id
+        ]
+        if not current:
+            raise ValueError("Souvenir de origem não encontrado.")
+        source = current[0]
+        if str(source.get("type") or "") != "coin":
+            raise ValueError("Só é possível adicionar uma moeda a partir de outra moeda.")
+        location_id = str(source["_location_id"])
+        duplicate_name = any(
+            str(record["_record_id"]) != record_id
+            and str(record["_location_id"]) == location_id
+            and str(record.get("name") or "").strip().casefold() == new_name.casefold()
+            for record in self.pending_records("all")
+        )
+        if duplicate_name:
+            raise ValueError(
+                "Já existe um Souvenir com esse nome nesta location."
+            )
+        load_dotenv(ROOT / ".env")
+        api_key = os.environ.get(API_KEY_ENV)
+        if not api_key:
+            raise RuntimeError(f"Define {API_KEY_ENV} no ficheiro .env.")
+        live_source = api_request(
+            "GET", f"/entities/Souvenir/{record_id}", api_key
+        )
+        if (
+            not isinstance(live_source, dict)
+            or str(live_source.get("id") or "") != record_id
+        ):
+            raise RuntimeError(
+                "Não foi possível confirmar o Souvenir de origem na Base44."
+            )
+        clone_source = dict(live_source)
+        if source.get("_type_was_overridden"):
+            clone_source["type"] = source["type"]
+        if source.get("_has_back_image_override") is False:
+            clone_source["_has_back_image_override"] = False
+        created = create_souvenir_clone(clone_source, new_name, api_key)
+        created_id = str(created["id"])
+        if source.get("_has_back_image_override") is False:
+            write_back_image_override(
+                self.server.output_dir, created_id, False
+            )
+        self.server.records_cache = None
+        self.server.records_by_id = {}
+        created_tasks = [
+            record for record in self.pending_records("all")
+            if str(record["_record_id"]) == created_id
+        ]
+        if not created_tasks:
+            raise RuntimeError(
+                f"A moeda {created_id} foi criada, mas não entrou na fila."
+            )
+        self.send_json({
+            "record_id": created_id,
+            "name": str(created.get("name") or new_name),
+            "sides": [str(record["_side"]) for record in created_tasks],
+        }, HTTPStatus.CREATED)
 
     def save_record_back_image(self) -> None:
         payload = json.loads(self.request_body())

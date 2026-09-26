@@ -13,6 +13,8 @@ from tools.souvenir_cropper import (
     apply_back_image_overrides,
     apply_type_overrides,
     build_souvenir_tasks,
+    clone_souvenir_payload,
+    create_souvenir_clone,
     load_pending_souvenirs,
     manifest_entry_for_task,
     read_back_image_overrides,
@@ -153,6 +155,76 @@ class MultiSideTaskTests(unittest.TestCase):
         self.assertEqual(tasks[0]["_photo_label"], "Fotografia 1 · Frente")
 
 
+class SouvenirCloneTests(unittest.TestCase):
+    def source(self):
+        return {
+            "id": "coin-1:front",
+            "_record_id": "coin-1",
+            "_has_back_image_override": None,
+            "name": "Fátima Sanctuary",
+            "continent": "Europa",
+            "country": "Portugal",
+            "city": "Fátima",
+            "type": "coin",
+            "condition": "Não Tenho",
+            "location_name": "Loja Virginia",
+            "description": "Descrição original",
+            "display_shape": "circle",
+            "display_orientation": "auto",
+            "has_back_image": True,
+            "image_front": "https://example.test/montage.jpg",
+            "image_back": "",
+            "reference_url": "https://example.test/location=1",
+            "ordem": 4,
+            "hidden": False,
+            "created_date": "2026-01-01",
+        }
+
+    def test_clone_changes_only_the_name_and_ignores_derived_fields(self):
+        payload = clone_souvenir_payload(
+            self.source(), "Fátima Sanctuary — Silver"
+        )
+
+        self.assertEqual(payload["name"], "Fátima Sanctuary — Silver")
+        self.assertEqual(payload["location_name"], "Loja Virginia")
+        self.assertEqual(payload["image_front"], "https://example.test/montage.jpg")
+        self.assertEqual(payload["has_back_image"], True)
+        self.assertNotIn("id", payload)
+        self.assertNotIn("_record_id", payload)
+        self.assertNotIn("created_date", payload)
+
+    def test_clone_requires_a_different_name(self):
+        with self.assertRaisesRegex(ValueError, "diferente"):
+            clone_souvenir_payload(self.source(), "fátima sanctuary")
+
+    @patch("tools.souvenir_cropper.api_request")
+    def test_creation_is_verified_in_base44(self, api_request):
+        source = self.source()
+        payload = clone_souvenir_payload(source, "Fátima Sanctuary — Silver")
+        api_request.side_effect = [
+            {"id": "new-coin"},
+            {"id": "new-coin", **payload},
+        ]
+
+        created = create_souvenir_clone(
+            source, "Fátima Sanctuary — Silver", "test-key"
+        )
+
+        self.assertEqual(created["id"], "new-coin")
+        self.assertEqual(created["name"], "Fátima Sanctuary — Silver")
+        self.assertEqual(api_request.call_count, 2)
+        self.assertEqual(api_request.call_args_list[0].args[:3], (
+            "POST", "/entities/Souvenir", "test-key",
+        ))
+        self.assertEqual(
+            api_request.call_args_list[0].kwargs["payload"],
+            payload,
+        )
+        self.assertEqual(api_request.call_args_list[1].args[:3], (
+            "GET", "/entities/Souvenir/new-coin", "test-key",
+        ))
+
+
 class BackImageOverrideTests(unittest.TestCase):
     def test_no_back_choice_is_persistent_until_reenabled(self):
         with TemporaryDirectory() as temporary:
@@ -274,6 +346,9 @@ class TypeOverrideTaskTests(unittest.TestCase):
         self.assertIn('id="coin-sides"', PAGE)
         self.assertIn("Frente e Verso", PAGE)
         self.assertIn("Só Frente", PAGE)
+        self.assertIn('id="duplicate-record"', PAGE)
+        self.assertIn("Adicionar moeda em falta", PAGE)
+        self.assertIn("/api/duplicate-record", PAGE)
         self.assertIn("/api/record-back-image", PAGE)
         self.assertIn("Recorta agora a Frente e o Verso", PAGE)
 
