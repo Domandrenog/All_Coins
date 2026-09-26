@@ -14,6 +14,9 @@ portugal-almedina-tower-with-torre-de-almedina-coimbra-pressed-coimbra:
 portugal-aqui-nasceu-portugal-pressed-guimaraes:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-aqui-nasceu-portugal-pressed-guimaraes.jpg
 
+portugal-aqui-nascue-portugal-castle-pressed-guimaraes:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-aqui-nascue-portugal-castle-pressed-guimaraes.jpg
+
 portugal-art-museum-pressed-albufeira:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-art-museum-pressed-albufeira.jpg
 
@@ -43,6 +46,9 @@ portugal-cabo-giro-from-camara-dos-lobos-pressed-camara-dos-lobos-madeira-island
 
 portugal-cabo-giro-viewpoint-pressed-camara-dos-lobos-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-cabo-giro-viewpoint-pressed-camara-dos-lobos-madeira-island.jpg
+
+portugal-cantrarinha-dos-namorados-guimaraes-pressed-guimaraes:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-cantrarinha-dos-namorados-guimaraes-pressed-guimaraes.jpg
 
 portugal-catedral-de-benagil-token-machine-one-design-but-can-pressed-albufeira:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-catedral-de-benagil-token-machine-one-design-but-can-pressed-albufeira.jpg
@@ -87,6 +93,9 @@ portugal-cristo-rei-statue-coin-almada-1f7e611d:
 portugal-discovery-of-madeira-in-1419-pressed-funchal-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-discovery-of-madeira-in-1419-pressed-funchal-madeira-island.jpg
 
+portugal-don-afonso-henriques-guimaraes-pressed-guimaraes:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-don-afonso-henriques-guimaraes-pressed-guimaraes.jpg
+
 portugal-don-afonso-henriques-pressed-guimaraes:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-don-afonso-henriques-pressed-guimaraes.jpg
 
@@ -127,12 +136,18 @@ portugal-funchal-pressed-funchal-madeira-island:
 portugal-funchal-view-pressed-funchal-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-funchal-view-pressed-funchal-madeira-island.jpg
 
+portugal-galo-de-barcelos-portugal-pressed-guimaraes:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-galo-de-barcelos-portugal-pressed-guimaraes.jpg
+
 portugal-gao-de-barcelos-pressed-guimaraes:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-gao-de-barcelos-pressed-guimaraes.jpg
 
 portugal-gold-a-view-over-funchal-coin-funchal-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-gold-a-view-over-funchal-coin-funchal-madeira-island.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-gold-a-view-over-funchal-coin-funchal-madeira-island.jpg
+
+portugal-guimaraes-pressed-guimaraes:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-guimaraes-pressed-guimaraes.jpg
 
 portugal-holy-queen-isabella-with-rainha-santa-isabel-coimbra-pressed-coimbra:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-holy-queen-isabella-with-rainha-santa-isabel-coimbra-pressed-coimbra.jpg
@@ -292,6 +307,9 @@ portugal-silver-a-view-over-funchal-rear-madeira-island-coin-funchal-madeira-isl
 
 portugal-sto-antonio-pressed-braga:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-sto-antonio-pressed-braga.jpg
+
+portugal-telefffico-guimaraes-pressed-guimaraes:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-telefffico-guimaraes-pressed-guimaraes.jpg
 
 portugal-telescope-pressed-faro:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-telescope-pressed-faro.jpg

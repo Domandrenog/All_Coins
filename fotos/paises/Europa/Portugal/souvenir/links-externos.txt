@@ -14,6 +14,9 @@ portugal-almedina-tower-with-torre-de-almedina-coimbra-pressed-coimbra:
 portugal-aqui-nasceu-portugal-pressed-guimaraes:
   frente: http://locations.pennycollector.com/images/machine_8155d1b3-d605-43c5-b12a-6d3ba169c643.jpg
 
+portugal-aqui-nascue-portugal-castle-pressed-guimaraes:
+  frente: http://locations.pennycollector.com/images/machine_c4d4260e-2f09-41ca-95f3-6fc9057ff315.jpg
+
 portugal-art-museum-pressed-albufeira:
   frente: http://locations.pennycollector.com/images/machine_b7890259-2ff9-4380-9a64-e551400824bf.jpg
 
@@ -43,6 +46,9 @@ portugal-cabo-giro-from-camara-dos-lobos-pressed-camara-dos-lobos-madeira-island
 
 portugal-cabo-giro-viewpoint-pressed-camara-dos-lobos-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_b2e86ff2-1fee-4d1d-9c13-0ce5e86b9ed4.jpg
+
+portugal-cantrarinha-dos-namorados-guimaraes-pressed-guimaraes:
+  frente: http://locations.pennycollector.com/images/machine_90dec15f-00cf-4874-a656-22b477b99b92.jpeg
 
 portugal-catedral-de-benagil-token-machine-one-design-but-can-pressed-albufeira:
   frente: http://locations.pennycollector.com/images/machine_feda9006-4058-4d9d-bd3f-b8439c77e928.jpg
@@ -87,6 +93,9 @@ portugal-cristo-rei-statue-coin-almada-1f7e611d:
 portugal-discovery-of-madeira-in-1419-pressed-funchal-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_28c4fd6d-d010-4ce4-a301-446b0f08e485.jpg
 
+portugal-don-afonso-henriques-guimaraes-pressed-guimaraes:
+  frente: http://locations.pennycollector.com/images/machine_c4d4260e-2f09-41ca-95f3-6fc9057ff315.jpg
+
 portugal-don-afonso-henriques-pressed-guimaraes:
   frente: http://locations.pennycollector.com/images/machine_8155d1b3-d605-43c5-b12a-6d3ba169c643.jpg
 
@@ -127,12 +136,18 @@ portugal-funchal-pressed-funchal-madeira-island:
 portugal-funchal-view-pressed-funchal-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_f60876c3-bf6e-4b6a-bdb3-4b96f91892ea.jpg
 
+portugal-galo-de-barcelos-portugal-pressed-guimaraes:
+  frente: http://locations.pennycollector.com/images/machine_c4d4260e-2f09-41ca-95f3-6fc9057ff315.jpg
+
 portugal-gao-de-barcelos-pressed-guimaraes:
   frente: http://locations.pennycollector.com/images/machine_8155d1b3-d605-43c5-b12a-6d3ba169c643.jpg
 
 portugal-gold-a-view-over-funchal-coin-funchal-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_606290ad-d1d9-4fdc-9ac4-b9ce555ae9d7.jpg
   tras: http://locations.pennycollector.com/images/machine_606290ad-d1d9-4fdc-9ac4-b9ce555ae9d7.jpg
+
+portugal-guimaraes-pressed-guimaraes:
+  frente: http://locations.pennycollector.com/images/machine_90dec15f-00cf-4874-a656-22b477b99b92.jpeg
 
 portugal-holy-queen-isabella-with-rainha-santa-isabel-coimbra-pressed-coimbra:
   frente: http://locations.pennycollector.com/images/machine_666e529e-ddb3-4dbb-9fa1-caa02b212acf.jpg
@@ -292,6 +307,9 @@ portugal-silver-a-view-over-funchal-rear-madeira-island-coin-funchal-madeira-isl
 
 portugal-sto-antonio-pressed-braga:
   frente: http://locations.pennycollector.com/images/machine_a67d8226-db57-4f95-bd63-3dd77510139d.jpg
+
+portugal-telefffico-guimaraes-pressed-guimaraes:
+  frente: http://locations.pennycollector.com/images/machine_90dec15f-00cf-4874-a656-22b477b99b92.jpeg
 
 portugal-telescope-pressed-faro:
   frente: http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg

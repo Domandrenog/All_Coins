@@ -5146,6 +5146,468 @@
     "type": "coin",
     "type_was_overridden": false
   },
+  "6ab65d74e00d32469f12df94": {
+    "centered": true,
+    "city": "Guimarães",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 0.5,
+          "y": 95.0
+        },
+        {
+          "x": 220.5,
+          "y": 70.0
+        },
+        {
+          "x": 283.5,
+          "y": 436.0
+        },
+        {
+          "x": 20.5,
+          "y": 481.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_90dec15f-00cf-4874-a656-22b477b99b92.jpeg",
+    "format": "portrait",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 0.5,
+          "y": 95.0
+        },
+        {
+          "x": 220.5,
+          "y": 70.0
+        },
+        {
+          "x": 283.5,
+          "y": 436.0
+        },
+        {
+          "x": 20.5,
+          "y": 481.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-telefffico-guimaraes-pressed-guimaraes.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-telefffico-guimaraes-pressed-guimaraes.jpg",
+    "location_id": "427608",
+    "location_name": "Lar de Santa Estefânia (Convent)",
+    "machine": 1,
+    "name": "Telefffico Guimarães",
+    "orientation": "portrait",
+    "original_file": "original/location-427608-photo-1-front.jpg",
+    "original_front": "original/location-427608-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_90dec15f-00cf-4874-a656-22b477b99b92.jpeg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=427608#machine-1-position-1",
+    "slug": "portugal-telefffico-guimaraes-pressed-guimaraes",
+    "source_url": "http://locations.pennycollector.com/images/machine_90dec15f-00cf-4874-a656-22b477b99b92.jpeg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d74e00d32469f12df95": {
+    "centered": false,
+    "city": "Guimarães",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 185.5,
+          "y": 1.0
+        },
+        {
+          "x": 444.5,
+          "y": 1.0
+        },
+        {
+          "x": 485.5,
+          "y": 380.0
+        },
+        {
+          "x": 224.5,
+          "y": 409.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_90dec15f-00cf-4874-a656-22b477b99b92.jpeg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 185.5,
+          "y": 1.0
+        },
+        {
+          "x": 444.5,
+          "y": 1.0
+        },
+        {
+          "x": 485.5,
+          "y": 380.0
+        },
+        {
+          "x": 224.5,
+          "y": 409.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-cantrarinha-dos-namorados-guimaraes-pressed-guimaraes.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-cantrarinha-dos-namorados-guimaraes-pressed-guimaraes.jpg",
+    "location_id": "427608",
+    "location_name": "Lar de Santa Estefânia (Convent)",
+    "machine": 1,
+    "name": "Cantrarinha Dos Namorados Guimarães",
+    "orientation": "portrait",
+    "original_file": "original/location-427608-photo-1-front.jpg",
+    "original_front": "original/location-427608-photo-1-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_90dec15f-00cf-4874-a656-22b477b99b92.jpeg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=427608#machine-1-position-2",
+    "slug": "portugal-cantrarinha-dos-namorados-guimaraes-pressed-guimaraes",
+    "source_url": "http://locations.pennycollector.com/images/machine_90dec15f-00cf-4874-a656-22b477b99b92.jpeg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d74e00d32469f12df96": {
+    "centered": false,
+    "city": "Guimarães",
+    "cleaned": false,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 370.5,
+          "y": 144.0
+        },
+        {
+          "x": 606.5,
+          "y": 124.0
+        },
+        {
+          "x": 648.5,
+          "y": 486.0
+        },
+        {
+          "x": 427.5,
+          "y": 524.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_90dec15f-00cf-4874-a656-22b477b99b92.jpeg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": false,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 370.5,
+          "y": 144.0
+        },
+        {
+          "x": 606.5,
+          "y": 124.0
+        },
+        {
+          "x": 648.5,
+          "y": 486.0
+        },
+        {
+          "x": 427.5,
+          "y": 524.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-guimaraes-pressed-guimaraes.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-guimaraes-pressed-guimaraes.jpg",
+    "location_id": "427608",
+    "location_name": "Lar de Santa Estefânia (Convent)",
+    "machine": 1,
+    "name": "Guimarães",
+    "orientation": "portrait",
+    "original_file": "original/location-427608-photo-1-front.jpg",
+    "original_front": "original/location-427608-photo-1-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_front": "http://locations.pennycollector.com/images/machine_90dec15f-00cf-4874-a656-22b477b99b92.jpeg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=427608#machine-1-position-3",
+    "slug": "portugal-guimaraes-pressed-guimaraes",
+    "source_url": "http://locations.pennycollector.com/images/machine_90dec15f-00cf-4874-a656-22b477b99b92.jpeg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d74e00d32469f12df97": {
+    "centered": false,
+    "city": "Guimarães",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 119.5,
+          "y": 4.0
+        },
+        {
+          "x": 349.5,
+          "y": 5.0
+        },
+        {
+          "x": 376.5,
+          "y": 337.0
+        },
+        {
+          "x": 157.5,
+          "y": 360.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_c4d4260e-2f09-41ca-95f3-6fc9057ff315.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 119.5,
+          "y": 4.0
+        },
+        {
+          "x": 349.5,
+          "y": 5.0
+        },
+        {
+          "x": 376.5,
+          "y": 337.0
+        },
+        {
+          "x": 157.5,
+          "y": 360.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-galo-de-barcelos-portugal-pressed-guimaraes.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-galo-de-barcelos-portugal-pressed-guimaraes.jpg",
+    "location_id": "427608",
+    "location_name": "Lar de Santa Estefânia (Convent)",
+    "machine": 2,
+    "name": "Galo De Barcelos Portugal",
+    "orientation": "portrait",
+    "original_file": "original/location-427608-photo-2-front.jpg",
+    "original_front": "original/location-427608-photo-2-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_c4d4260e-2f09-41ca-95f3-6fc9057ff315.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=427608#machine-2-position-1",
+    "slug": "portugal-galo-de-barcelos-portugal-pressed-guimaraes",
+    "source_url": "http://locations.pennycollector.com/images/machine_c4d4260e-2f09-41ca-95f3-6fc9057ff315.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d74e00d32469f12df98": {
+    "centered": false,
+    "city": "Guimarães",
+    "cleaned": false,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 457.5,
+          "y": 0.0
+        },
+        {
+          "x": 647.5,
+          "y": 42.0
+        },
+        {
+          "x": 619.5,
+          "y": 391.0
+        },
+        {
+          "x": 405.5,
+          "y": 344.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_c4d4260e-2f09-41ca-95f3-6fc9057ff315.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": false,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 457.5,
+          "y": 0.0
+        },
+        {
+          "x": 647.5,
+          "y": 42.0
+        },
+        {
+          "x": 619.5,
+          "y": 391.0
+        },
+        {
+          "x": 405.5,
+          "y": 344.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-don-afonso-henriques-guimaraes-pressed-guimaraes.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-don-afonso-henriques-guimaraes-pressed-guimaraes.jpg",
+    "location_id": "427608",
+    "location_name": "Lar de Santa Estefânia (Convent)",
+    "machine": 2,
+    "name": "Don Afonso Henriques Guimarães",
+    "orientation": "portrait",
+    "original_file": "original/location-427608-photo-2-front.jpg",
+    "original_front": "original/location-427608-photo-2-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_c4d4260e-2f09-41ca-95f3-6fc9057ff315.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=427608#machine-2-position-2",
+    "slug": "portugal-don-afonso-henriques-guimaraes-pressed-guimaraes",
+    "source_url": "http://locations.pennycollector.com/images/machine_c4d4260e-2f09-41ca-95f3-6fc9057ff315.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d76de3d617d872a8363": {
+    "centered": false,
+    "city": "Guimarães",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 169.5,
+          "y": 274.0
+        },
+        {
+          "x": 519.5,
+          "y": 308.0
+        },
+        {
+          "x": 516.5,
+          "y": 466.0
+        },
+        {
+          "x": 145.5,
+          "y": 463.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_c4d4260e-2f09-41ca-95f3-6fc9057ff315.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 169.5,
+          "y": 274.0
+        },
+        {
+          "x": 519.5,
+          "y": 308.0
+        },
+        {
+          "x": 516.5,
+          "y": 466.0
+        },
+        {
+          "x": 145.5,
+          "y": 463.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-aqui-nascue-portugal-castle-pressed-guimaraes.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-aqui-nascue-portugal-castle-pressed-guimaraes.jpg",
+    "location_id": "427608",
+    "location_name": "Lar de Santa Estefânia (Convent)",
+    "machine": 2,
+    "name": "Aqui Nascue Portugal', Castle",
+    "orientation": "landscape",
+    "original_file": "original/location-427608-photo-2-front.jpg",
+    "original_front": "original/location-427608-photo-2-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_front": "http://locations.pennycollector.com/images/machine_c4d4260e-2f09-41ca-95f3-6fc9057ff315.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=427608#machine-2-position-3",
+    "slug": "portugal-aqui-nascue-portugal-castle-pressed-guimaraes",
+    "source_url": "http://locations.pennycollector.com/images/machine_c4d4260e-2f09-41ca-95f3-6fc9057ff315.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
   "6ab65d76de3d617d872a8364": {
     "centered": false,
     "city": "Guimarães",
