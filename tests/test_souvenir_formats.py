@@ -279,6 +279,30 @@ class BackImageOverrideTests(unittest.TestCase):
 
 
 class SideDisplayNameTests(unittest.TestCase):
+    def test_new_name_overrides_the_copied_description(self):
+        base = {
+            "name": "Front: Nossa Senhora de Fátima/ Reverse: Eight stars",
+            "description": (
+                "Front: Fatima Sanctuary/ Reverse: Eight stars surrounding "
+                "an outline of Portugal"
+            ),
+        }
+
+        front = side_display_name({**base, "_side": "front"})
+        back = side_display_name({**base, "_side": "back"})
+
+        self.assertEqual(front, "Frente — Nossa Senhora de Fátima")
+        self.assertEqual(back, "Verso — Eight stars")
+
+    def test_simple_new_name_is_used_for_the_front(self):
+        result = side_display_name({
+            "_side": "front",
+            "name": "Nossa Senhora de Fátima",
+            "description": "Front: Fatima Sanctuary/ Reverse: Eight stars",
+        })
+
+        self.assertEqual(result, "Frente — Nossa Senhora de Fátima")
+
     def test_uses_front_and_reverse_parts_from_shared_description(self):
         base = {
             "name": "Front: (Gold colored) Entry building…",

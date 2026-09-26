@@ -1216,25 +1216,41 @@ def side_display_name(record: dict[str, object]) -> str:
         return f"⚠ Sem fotografia — {record.get('name') or 'Sem nome'}"
     side = str(record.get("_side") or record.get("side") or "front")
     label = "Verso" if side == "back" else "Frente"
-    description = str(record.get("description") or "").strip()
-    if side == "back" and description:
-        match = re.search(
-            r"(?:^|\s*/\s*)(?:back|rear|reverse|verso)(?:\s+[^:]*)?\s*:\s*(.+)$",
-            description,
-            re.IGNORECASE,
-        )
-        if match:
-            return f"{label} — {match.group(1).strip()}"
-    if side == "front" and description:
-        match = re.search(
-            r"^\s*(?:front|obverse|frente)\s*:\s*(.*?)"
-            r"(?=\s*/\s*(?:back|rear|reverse|verso)(?:\s+[^:]*)?\s*:|$)",
-            description,
-            re.IGNORECASE,
-        )
-        if match and match.group(1).strip():
-            return f"{label} — {match.group(1).strip()}"
     name = str(record.get("name") or "Sem nome").strip()
+    description = str(record.get("description") or "").strip()
+
+    def extract_part(value: str) -> str:
+        if side == "back":
+            match = re.search(
+                r"(?:^|\s*/\s*)(?:back|rear|reverse|verso)"
+                r"(?:\s+[^:]*)?\s*:\s*(.+)$",
+                value,
+                re.IGNORECASE,
+            )
+        else:
+            match = re.search(
+                r"^\s*(?:front|obverse|frente)\s*:\s*(.*?)"
+                r"(?=\s*/\s*(?:back|rear|reverse|verso)"
+                r"(?:\s+[^:]*)?\s*:|$)",
+                value,
+                re.IGNORECASE,
+            )
+        return match.group(1).strip() if match else ""
+
+    name_part = extract_part(name)
+    description_part = extract_part(description)
+    if name_part:
+        truncated = name_part.endswith(("…", "..."))
+        prefix = name_part.rstrip("…. ").casefold()
+        if (
+            truncated
+            and description_part
+            and description_part.casefold().startswith(prefix)
+        ):
+            return f"{label} — {description_part}"
+        return f"{label} — {name_part}"
+    if side == "back" and description_part:
+        return f"{label} — {description_part}"
     cleaned = re.sub(
         r"^\s*(?:front|obverse|frente|back|rear|reverse|verso)"
         r"(?:\s+[^:]*)?\s*:\s*",
