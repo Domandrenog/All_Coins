@@ -226,6 +226,14 @@ portugal-nossa-senhora-do-livramento-pressed-curral-das-freiras-madeira-island:
 portugal-nun-pressed-curral-das-freiras-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-nun-pressed-curral-das-freiras-madeira-island.jpg
 
+portugal-obverse-gold-colored-old-cathedral-of-coimbra-coin-coimbra:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-gold-colored-old-cathedral-of-coimbra-coin-coimbra.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-gold-colored-old-cathedral-of-coimbra-coin-coimbra.jpg
+
+portugal-obverse-silver-colored-medieval-knight-in-full-armor-coin-coimbra:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-silver-colored-medieval-knight-in-full-armor-coin-coimbra.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-silver-colored-medieval-knight-in-full-armor-coin-coimbra.jpg
+
 portugal-our-lady-of-fatima-catholic-title-for-the-virgin-mary-pressed-coimbra:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-our-lady-of-fatima-catholic-title-for-the-virgin-mary-pressed-coimbra.jpg
 

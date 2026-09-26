@@ -226,6 +226,14 @@ portugal-nossa-senhora-do-livramento-pressed-curral-das-freiras-madeira-island:
 portugal-nun-pressed-curral-das-freiras-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_f2e9dd34-0e11-4789-82af-7d79f16c8f13.jpg
 
+portugal-obverse-gold-colored-old-cathedral-of-coimbra-coin-coimbra:
+  frente: http://locations.pennycollector.com/images/machine_d96afc38-6118-4a42-8a4a-bf1ee0b5a38a.jpg
+  tras: http://locations.pennycollector.com/images/machine_d96afc38-6118-4a42-8a4a-bf1ee0b5a38a.jpg
+
+portugal-obverse-silver-colored-medieval-knight-in-full-armor-coin-coimbra:
+  frente: http://locations.pennycollector.com/images/machine_d96afc38-6118-4a42-8a4a-bf1ee0b5a38a.jpg
+  tras: http://locations.pennycollector.com/images/machine_d96afc38-6118-4a42-8a4a-bf1ee0b5a38a.jpg
+
 portugal-our-lady-of-fatima-catholic-title-for-the-virgin-mary-pressed-coimbra:
   frente: http://locations.pennycollector.com/images/machine_21bc0039-a7a4-40b1-92c4-9dbf08a2bb7e.jpg
 
