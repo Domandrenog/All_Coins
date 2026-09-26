@@ -6950,6 +6950,314 @@
     "type": "pressed",
     "type_was_overridden": false
   },
+  "6ab65d7dcb7f53936c945ade": {
+    "centered": true,
+    "city": "Ribeiro Frio (Madeira Island)",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 2.5,
+          "y": 122.0
+        },
+        {
+          "x": 218.5,
+          "y": 118.0
+        },
+        {
+          "x": 219.5,
+          "y": 457.0
+        },
+        {
+          "x": 9.5,
+          "y": 467.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_5d79fba4-8bd1-44d3-9e7e-720db8b307c8.jpg",
+    "format": "portrait",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 2.5,
+          "y": 122.0
+        },
+        {
+          "x": 218.5,
+          "y": 118.0
+        },
+        {
+          "x": 219.5,
+          "y": 457.0
+        },
+        {
+          "x": 9.5,
+          "y": 467.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-nossa-senhora-de-fatima-pressed-ribeiro-frio-madeira-island.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-nossa-senhora-de-fatima-pressed-ribeiro-frio-madeira-island.jpg",
+    "location_id": "424919",
+    "location_name": "Souvenirs Ribeiro Frio",
+    "machine": 1,
+    "name": "Nossa Senhora de Fátima",
+    "orientation": "portrait",
+    "original_file": "original/location-424919-photo-1-front.jpg",
+    "original_front": "original/location-424919-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_5d79fba4-8bd1-44d3-9e7e-720db8b307c8.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=424919#machine-1-position-1",
+    "slug": "portugal-nossa-senhora-de-fatima-pressed-ribeiro-frio-madeira-island",
+    "source_url": "http://locations.pennycollector.com/images/machine_5d79fba4-8bd1-44d3-9e7e-720db8b307c8.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d7dcb7f53936c945adf": {
+    "centered": false,
+    "city": "Ribeiro Frio (Madeira Island)",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 181.5,
+          "y": 374.0
+        },
+        {
+          "x": 476.5,
+          "y": 379.0
+        },
+        {
+          "x": 490.5,
+          "y": 589.0
+        },
+        {
+          "x": 182.5,
+          "y": 589.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_5d79fba4-8bd1-44d3-9e7e-720db8b307c8.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 181.5,
+          "y": 374.0
+        },
+        {
+          "x": 476.5,
+          "y": 379.0
+        },
+        {
+          "x": 490.5,
+          "y": 589.0
+        },
+        {
+          "x": 182.5,
+          "y": 589.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-trout-farm-pressed-ribeiro-frio-madeira-island.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-trout-farm-pressed-ribeiro-frio-madeira-island.jpg",
+    "location_id": "424919",
+    "location_name": "Souvenirs Ribeiro Frio",
+    "machine": 1,
+    "name": "Trout farm",
+    "orientation": "landscape",
+    "original_file": "original/location-424919-photo-1-front.jpg",
+    "original_front": "original/location-424919-photo-1-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_5d79fba4-8bd1-44d3-9e7e-720db8b307c8.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=424919#machine-1-position-2",
+    "slug": "portugal-trout-farm-pressed-ribeiro-frio-madeira-island",
+    "source_url": "http://locations.pennycollector.com/images/machine_5d79fba4-8bd1-44d3-9e7e-720db8b307c8.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d7dcb7f53936c945ae0": {
+    "centered": true,
+    "city": "Ribeiro Frio (Madeira Island)",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 448.5,
+          "y": 120.0
+        },
+        {
+          "x": 649.5,
+          "y": 117.0
+        },
+        {
+          "x": 646.5,
+          "y": 448.0
+        },
+        {
+          "x": 444.5,
+          "y": 450.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_5d79fba4-8bd1-44d3-9e7e-720db8b307c8.jpg",
+    "format": "portrait",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 448.5,
+          "y": 120.0
+        },
+        {
+          "x": 649.5,
+          "y": 117.0
+        },
+        {
+          "x": 646.5,
+          "y": 448.0
+        },
+        {
+          "x": 444.5,
+          "y": 450.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-chapel-pressed-ribeiro-frio-madeira-island.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-chapel-pressed-ribeiro-frio-madeira-island.jpg",
+    "location_id": "424919",
+    "location_name": "Souvenirs Ribeiro Frio",
+    "machine": 1,
+    "name": "Chapel",
+    "orientation": "portrait",
+    "original_file": "original/location-424919-photo-1-front.jpg",
+    "original_front": "original/location-424919-photo-1-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_front": "http://locations.pennycollector.com/images/machine_5d79fba4-8bd1-44d3-9e7e-720db8b307c8.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=424919#machine-1-position-3",
+    "slug": "portugal-chapel-pressed-ribeiro-frio-madeira-island",
+    "source_url": "http://locations.pennycollector.com/images/machine_5d79fba4-8bd1-44d3-9e7e-720db8b307c8.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d7dcb7f53936c945ae1": {
+    "centered": true,
+    "city": "Ribeiro Frio (Madeira Island)",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 172.5,
+          "y": 1.0
+        },
+        {
+          "x": 485.5,
+          "y": 8.0
+        },
+        {
+          "x": 488.5,
+          "y": 212.0
+        },
+        {
+          "x": 186.5,
+          "y": 213.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_5d79fba4-8bd1-44d3-9e7e-720db8b307c8.jpg",
+    "format": "landscape",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 172.5,
+          "y": 1.0
+        },
+        {
+          "x": 485.5,
+          "y": 8.0
+        },
+        {
+          "x": 488.5,
+          "y": 212.0
+        },
+        {
+          "x": 186.5,
+          "y": 213.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-madeira-island-pressed-ribeiro-frio-madeira-island.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-madeira-island-pressed-ribeiro-frio-madeira-island.jpg",
+    "location_id": "424919",
+    "location_name": "Souvenirs Ribeiro Frio",
+    "machine": 1,
+    "name": "Madeira Island",
+    "orientation": "landscape",
+    "original_file": "original/location-424919-photo-1-front.jpg",
+    "original_front": "original/location-424919-photo-1-front.jpg",
+    "padding": 4,
+    "position": 4,
+    "previous_front": "http://locations.pennycollector.com/images/machine_5d79fba4-8bd1-44d3-9e7e-720db8b307c8.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=424919#machine-1-position-4",
+    "slug": "portugal-madeira-island-pressed-ribeiro-frio-madeira-island",
+    "source_url": "http://locations.pennycollector.com/images/machine_5d79fba4-8bd1-44d3-9e7e-720db8b307c8.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
   "6ab65d7f28a53410c79d5e1a": {
     "centered": false,
     "city": "Vila Viçosa ",

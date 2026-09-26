@@ -63,6 +63,9 @@ portugal-center-for-studies-in-planning-urbanism-and-pressed-coimbra-f81ea60e:
 portugal-chamine-tipica-do-algarve-pressed-foia-monchique:
   frente: http://locations.pennycollector.com/images/machine_aae43e01-a0d7-4a76-ac4d-13284c522871.jpg
 
+portugal-chapel-pressed-ribeiro-frio-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_5d79fba4-8bd1-44d3-9e7e-720db8b307c8.jpg
+
 portugal-city-of-lagos-pressed-lagos:
   frente: http://locations.pennycollector.com/images/machine_409529cd-7293-484e-b175-2f4d513e8236.jpg
 
@@ -161,6 +164,9 @@ portugal-madeira-island-pressed-porto-moniz-madeira-island-6c945ada:
 portugal-madeira-island-pressed-porto-moniz-madeira-island-6c945add:
   frente: http://locations.pennycollector.com/images/machine_009ea1e5-1d56-4a15-82d8-fe7c80d08bd0.jpg
 
+portugal-madeira-island-pressed-ribeiro-frio-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_5d79fba4-8bd1-44d3-9e7e-720db8b307c8.jpg
+
 portugal-madeira-island-there-are-also-2-tokens-to-buy-in-the-pressed-camara-dos-lobos-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_b2e86ff2-1fee-4d1d-9c13-0ce5e86b9ed4.jpg
 
@@ -187,6 +193,9 @@ portugal-nossa-senhora-da-conceicao-padroeira-de-portugal-pressed-vila-vicosa:
 
 portugal-nossa-senhora-de-braga-pressed-braga:
   frente: http://locations.pennycollector.com/images/machine_a67d8226-db57-4f95-bd63-3dd77510139d.jpg
+
+portugal-nossa-senhora-de-fatima-pressed-ribeiro-frio-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_5d79fba4-8bd1-44d3-9e7e-720db8b307c8.jpg
 
 portugal-nossa-senhora-do-livramento-pressed-curral-das-freiras-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_f2e9dd34-0e11-4789-82af-7d79f16c8f13.jpg
@@ -299,6 +308,9 @@ portugal-torre-de-belem-coin-almada:
 
 portugal-traditional-house-pressed-curral-das-freiras-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_f2e9dd34-0e11-4789-82af-7d79f16c8f13.jpg
+
+portugal-trout-farm-pressed-ribeiro-frio-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_5d79fba4-8bd1-44d3-9e7e-720db8b307c8.jpg
 
 portugal-university-of-coimbra-viewed-from-the-mondego-river-pressed-coimbra:
   frente: http://locations.pennycollector.com/images/machine_e315c576-6361-4d23-b895-a47a2662b75f.jpg
