@@ -4050,6 +4050,237 @@
     "type": "pressed",
     "type_was_overridden": false
   },
+  "6ab65d6f1c9bc481d254e215": {
+    "centered": false,
+    "city": "Fátima",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 444.5,
+          "y": 384.0
+        },
+        {
+          "x": 595.5,
+          "y": 387.0
+        },
+        {
+          "x": 598.5,
+          "y": 627.0
+        },
+        {
+          "x": 443.5,
+          "y": 621.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_2a401c39-ff62-4b55-bdf7-1c72d944d7b1.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 444.5,
+          "y": 384.0
+        },
+        {
+          "x": 595.5,
+          "y": 387.0
+        },
+        {
+          "x": 598.5,
+          "y": 627.0
+        },
+        {
+          "x": 443.5,
+          "y": 621.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-our-lady-of-fatima-wearing-a-crown-pressed-fatima.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-our-lady-of-fatima-wearing-a-crown-pressed-fatima.jpg",
+    "location_id": "454660",
+    "location_name": "Santa Ana & São Jorge Gift Shop",
+    "machine": 1,
+    "name": "Our Lady of Fátima wearing a crown",
+    "orientation": "portrait",
+    "original_file": "original/location-454660-photo-1-front.jpg",
+    "original_front": "original/location-454660-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_2a401c39-ff62-4b55-bdf7-1c72d944d7b1.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=454660#machine-1-position-1",
+    "slug": "portugal-our-lady-of-fatima-wearing-a-crown-pressed-fatima",
+    "source_url": "http://locations.pennycollector.com/images/machine_2a401c39-ff62-4b55-bdf7-1c72d944d7b1.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d6f1c9bc481d254e216": {
+    "centered": false,
+    "city": "Fátima",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 551.5,
+          "y": 182.0
+        },
+        {
+          "x": 702.5,
+          "y": 188.0
+        },
+        {
+          "x": 703.5,
+          "y": 426.0
+        },
+        {
+          "x": 547.5,
+          "y": 422.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_2a401c39-ff62-4b55-bdf7-1c72d944d7b1.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 551.5,
+          "y": 182.0
+        },
+        {
+          "x": 702.5,
+          "y": 188.0
+        },
+        {
+          "x": 703.5,
+          "y": 426.0
+        },
+        {
+          "x": 547.5,
+          "y": 422.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-three-children-praying-to-our-lady-of-fatima-pressed-fatima.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-three-children-praying-to-our-lady-of-fatima-pressed-fatima.jpg",
+    "location_id": "454660",
+    "location_name": "Santa Ana & São Jorge Gift Shop",
+    "machine": 1,
+    "name": "Three children praying to Our Lady of Fátima",
+    "orientation": "portrait",
+    "original_file": "original/location-454660-photo-1-front.jpg",
+    "original_front": "original/location-454660-photo-1-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_2a401c39-ff62-4b55-bdf7-1c72d944d7b1.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=454660#machine-1-position-2",
+    "slug": "portugal-three-children-praying-to-our-lady-of-fatima-pressed-fatima",
+    "source_url": "http://locations.pennycollector.com/images/machine_2a401c39-ff62-4b55-bdf7-1c72d944d7b1.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d6f1c9bc481d254e217": {
+    "centered": false,
+    "city": "Fátima",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 433.5,
+          "y": 1.0
+        },
+        {
+          "x": 590.5,
+          "y": 4.0
+        },
+        {
+          "x": 586.5,
+          "y": 237.0
+        },
+        {
+          "x": 438.5,
+          "y": 229.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_2a401c39-ff62-4b55-bdf7-1c72d944d7b1.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 433.5,
+          "y": 1.0
+        },
+        {
+          "x": 590.5,
+          "y": 4.0
+        },
+        {
+          "x": 586.5,
+          "y": 237.0
+        },
+        {
+          "x": 438.5,
+          "y": 229.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-our-lady-of-fatima-pressed-fatima.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-our-lady-of-fatima-pressed-fatima.jpg",
+    "location_id": "454660",
+    "location_name": "Santa Ana & São Jorge Gift Shop",
+    "machine": 1,
+    "name": "Our Lady of Fátima",
+    "orientation": "portrait",
+    "original_file": "original/location-454660-photo-1-front.jpg",
+    "original_front": "original/location-454660-photo-1-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_front": "http://locations.pennycollector.com/images/machine_2a401c39-ff62-4b55-bdf7-1c72d944d7b1.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=454660#machine-1-position-3",
+    "slug": "portugal-our-lady-of-fatima-pressed-fatima",
+    "source_url": "http://locations.pennycollector.com/images/machine_2a401c39-ff62-4b55-bdf7-1c72d944d7b1.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
   "6ab65d6f1c9bc481d254e218": {
     "centered": true,
     "city": "Fóia, Monchique",

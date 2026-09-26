@@ -240,6 +240,12 @@ portugal-obverse-silver-colored-medieval-knight-in-full-armor-coin-coimbra:
 portugal-our-lady-of-fatima-catholic-title-for-the-virgin-mary-pressed-coimbra:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-our-lady-of-fatima-catholic-title-for-the-virgin-mary-pressed-coimbra.jpg
 
+portugal-our-lady-of-fatima-pressed-fatima:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-our-lady-of-fatima-pressed-fatima.jpg
+
+portugal-our-lady-of-fatima-wearing-a-crown-pressed-fatima:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-our-lady-of-fatima-wearing-a-crown-pressed-fatima.jpg
+
 portugal-peneco-beach-with-pedal-boat-and-slide-pressed-albufeira:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-peneco-beach-with-pedal-boat-and-slide-pressed-albufeira.jpg
 
@@ -341,6 +347,9 @@ portugal-three-believers-kneeling-in-front-of-fatima-statue-with-pressed-fatima:
 
 portugal-three-children-praying-to-mary-pressed-fatima:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-three-children-praying-to-mary-pressed-fatima.jpg
+
+portugal-three-children-praying-to-our-lady-of-fatima-pressed-fatima:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-three-children-praying-to-our-lady-of-fatima-pressed-fatima.jpg
 
 portugal-tomb-of-king-henriques-with-tumulo-d-alfonso-henriques-pressed-coimbra:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-tomb-of-king-henriques-with-tumulo-d-alfonso-henriques-pressed-coimbra.jpg

@@ -240,6 +240,12 @@ portugal-obverse-silver-colored-medieval-knight-in-full-armor-coin-coimbra:
 portugal-our-lady-of-fatima-catholic-title-for-the-virgin-mary-pressed-coimbra:
   frente: http://locations.pennycollector.com/images/machine_21bc0039-a7a4-40b1-92c4-9dbf08a2bb7e.jpg
 
+portugal-our-lady-of-fatima-pressed-fatima:
+  frente: http://locations.pennycollector.com/images/machine_2a401c39-ff62-4b55-bdf7-1c72d944d7b1.jpg
+
+portugal-our-lady-of-fatima-wearing-a-crown-pressed-fatima:
+  frente: http://locations.pennycollector.com/images/machine_2a401c39-ff62-4b55-bdf7-1c72d944d7b1.jpg
+
 portugal-peneco-beach-with-pedal-boat-and-slide-pressed-albufeira:
   frente: http://locations.pennycollector.com/images/machine_b7890259-2ff9-4380-9a64-e551400824bf.jpg
 
@@ -341,6 +347,9 @@ portugal-three-believers-kneeling-in-front-of-fatima-statue-with-pressed-fatima:
 
 portugal-three-children-praying-to-mary-pressed-fatima:
   frente: http://locations.pennycollector.com/images/machine_29dbd204-a8ab-4ed3-b2e3-0523d12489c2.jpg
+
+portugal-three-children-praying-to-our-lady-of-fatima-pressed-fatima:
+  frente: http://locations.pennycollector.com/images/machine_2a401c39-ff62-4b55-bdf7-1c72d944d7b1.jpg
 
 portugal-tomb-of-king-henriques-with-tumulo-d-alfonso-henriques-pressed-coimbra:
   frente: http://locations.pennycollector.com/images/machine_7bba5537-2a20-4957-99ee-02721487505f.jpg
