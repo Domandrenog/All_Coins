@@ -4086,6 +4086,314 @@
     "type": "pressed",
     "type_was_overridden": false
   },
+  "6ab65d71df6c9dc0fc0d976e": {
+    "centered": false,
+    "city": "Funchal (Madeira Island)",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 3.5,
+          "y": 4.0
+        },
+        {
+          "x": 236.5,
+          "y": 5.0
+        },
+        {
+          "x": 218.5,
+          "y": 357.0
+        },
+        {
+          "x": 7.5,
+          "y": 370.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_28c4fd6d-d010-4ce4-a301-446b0f08e485.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 3.5,
+          "y": 4.0
+        },
+        {
+          "x": 236.5,
+          "y": 5.0
+        },
+        {
+          "x": 218.5,
+          "y": 357.0
+        },
+        {
+          "x": 7.5,
+          "y": 370.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-funchal-gondola-pressed-funchal-madeira-island.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-funchal-gondola-pressed-funchal-madeira-island.jpg",
+    "location_id": "422881",
+    "location_name": "Madeira Story Centre",
+    "machine": 1,
+    "name": "Funchal Gondola",
+    "orientation": "portrait",
+    "original_file": "original/location-422881-photo-1-front.jpg",
+    "original_front": "original/location-422881-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_28c4fd6d-d010-4ce4-a301-446b0f08e485.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=422881#machine-1-position-1",
+    "slug": "portugal-funchal-gondola-pressed-funchal-madeira-island",
+    "source_url": "http://locations.pennycollector.com/images/machine_28c4fd6d-d010-4ce4-a301-446b0f08e485.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d71df6c9dc0fc0d976f": {
+    "centered": false,
+    "city": "Funchal (Madeira Island)",
+    "cleaned": false,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 233.5,
+          "y": 1.0
+        },
+        {
+          "x": 616.5,
+          "y": 6.0
+        },
+        {
+          "x": 610.5,
+          "y": 211.0
+        },
+        {
+          "x": 237.5,
+          "y": 195.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_28c4fd6d-d010-4ce4-a301-446b0f08e485.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": false,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 233.5,
+          "y": 1.0
+        },
+        {
+          "x": 616.5,
+          "y": 6.0
+        },
+        {
+          "x": 610.5,
+          "y": 211.0
+        },
+        {
+          "x": 237.5,
+          "y": 195.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-funchal-port-pressed-funchal-madeira-island.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-funchal-port-pressed-funchal-madeira-island.jpg",
+    "location_id": "422881",
+    "location_name": "Madeira Story Centre",
+    "machine": 1,
+    "name": "Funchal Port",
+    "orientation": "landscape",
+    "original_file": "original/location-422881-photo-1-front.jpg",
+    "original_front": "original/location-422881-photo-1-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_28c4fd6d-d010-4ce4-a301-446b0f08e485.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=422881#machine-1-position-2",
+    "slug": "portugal-funchal-port-pressed-funchal-madeira-island",
+    "source_url": "http://locations.pennycollector.com/images/machine_28c4fd6d-d010-4ce4-a301-446b0f08e485.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d71df6c9dc0fc0d9770": {
+    "centered": false,
+    "city": "Funchal (Madeira Island)",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 7.5,
+          "y": 364.0
+        },
+        {
+          "x": 393.5,
+          "y": 379.0
+        },
+        {
+          "x": 400.5,
+          "y": 613.0
+        },
+        {
+          "x": 7.5,
+          "y": 611.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_28c4fd6d-d010-4ce4-a301-446b0f08e485.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 7.5,
+          "y": 364.0
+        },
+        {
+          "x": 393.5,
+          "y": 379.0
+        },
+        {
+          "x": 400.5,
+          "y": 613.0
+        },
+        {
+          "x": 7.5,
+          "y": 611.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-funchal-cathedral-pressed-funchal-madeira-island-fc0d9770.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-funchal-cathedral-pressed-funchal-madeira-island-fc0d9770.jpg",
+    "location_id": "422881",
+    "location_name": "Madeira Story Centre",
+    "machine": 1,
+    "name": "Funchal Cathedral",
+    "orientation": "landscape",
+    "original_file": "original/location-422881-photo-1-front.jpg",
+    "original_front": "original/location-422881-photo-1-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_front": "http://locations.pennycollector.com/images/machine_28c4fd6d-d010-4ce4-a301-446b0f08e485.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=422881#machine-1-position-3",
+    "slug": "portugal-funchal-cathedral-pressed-funchal-madeira-island-fc0d9770",
+    "source_url": "http://locations.pennycollector.com/images/machine_28c4fd6d-d010-4ce4-a301-446b0f08e485.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d71df6c9dc0fc0d9771": {
+    "centered": false,
+    "city": "Funchal (Madeira Island)",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 421.5,
+          "y": 213.0
+        },
+        {
+          "x": 642.5,
+          "y": 214.0
+        },
+        {
+          "x": 645.5,
+          "y": 617.0
+        },
+        {
+          "x": 419.5,
+          "y": 618.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_28c4fd6d-d010-4ce4-a301-446b0f08e485.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 421.5,
+          "y": 213.0
+        },
+        {
+          "x": 642.5,
+          "y": 214.0
+        },
+        {
+          "x": 645.5,
+          "y": 617.0
+        },
+        {
+          "x": 419.5,
+          "y": 618.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-discovery-of-madeira-in-1419-pressed-funchal-madeira-island.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-discovery-of-madeira-in-1419-pressed-funchal-madeira-island.jpg",
+    "location_id": "422881",
+    "location_name": "Madeira Story Centre",
+    "machine": 1,
+    "name": "Discovery of Madeira in 1419",
+    "orientation": "portrait",
+    "original_file": "original/location-422881-photo-1-front.jpg",
+    "original_front": "original/location-422881-photo-1-front.jpg",
+    "padding": 4,
+    "position": 4,
+    "previous_front": "http://locations.pennycollector.com/images/machine_28c4fd6d-d010-4ce4-a301-446b0f08e485.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=422881#machine-1-position-4",
+    "slug": "portugal-discovery-of-madeira-in-1419-pressed-funchal-madeira-island",
+    "source_url": "http://locations.pennycollector.com/images/machine_28c4fd6d-d010-4ce4-a301-446b0f08e485.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
   "6ab65d73dce3c8c8d21577d4": {
     "centered": true,
     "city": "Funchal (Madeira Island)",

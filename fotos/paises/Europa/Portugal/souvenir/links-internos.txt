@@ -78,6 +78,9 @@ portugal-cristo-rei-statue-coin-almada-1f7e611d:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-cristo-rei-statue-coin-almada-1f7e611d.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-cristo-rei-statue-coin-almada-1f7e611d.jpg
 
+portugal-discovery-of-madeira-in-1419-pressed-funchal-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-discovery-of-madeira-in-1419-pressed-funchal-madeira-island.jpg
+
 portugal-don-afonso-henriques-pressed-guimaraes:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-don-afonso-henriques-pressed-guimaraes.jpg
 
@@ -102,6 +105,15 @@ portugal-front-facade-of-the-santa-cruz-church-with-igreja-de-pressed-coimbra:
 
 portugal-funchal-cathedral-pressed-funchal-madeira-island-d21577d4:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-funchal-cathedral-pressed-funchal-madeira-island-d21577d4.jpg
+
+portugal-funchal-cathedral-pressed-funchal-madeira-island-fc0d9770:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-funchal-cathedral-pressed-funchal-madeira-island-fc0d9770.jpg
+
+portugal-funchal-gondola-pressed-funchal-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-funchal-gondola-pressed-funchal-madeira-island.jpg
+
+portugal-funchal-port-pressed-funchal-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-funchal-port-pressed-funchal-madeira-island.jpg
 
 portugal-funchal-pressed-funchal-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-funchal-pressed-funchal-madeira-island.jpg

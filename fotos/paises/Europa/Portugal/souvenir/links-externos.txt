@@ -78,6 +78,9 @@ portugal-cristo-rei-statue-coin-almada-1f7e611d:
   frente: http://locations.pennycollector.com/images/machine_94b3f285-6ca9-4fed-a363-97a246321bfe.jpg
   tras: http://locations.pennycollector.com/images/machine_94b3f285-6ca9-4fed-a363-97a246321bfe.jpg
 
+portugal-discovery-of-madeira-in-1419-pressed-funchal-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_28c4fd6d-d010-4ce4-a301-446b0f08e485.jpg
+
 portugal-don-afonso-henriques-pressed-guimaraes:
   frente: http://locations.pennycollector.com/images/machine_8155d1b3-d605-43c5-b12a-6d3ba169c643.jpg
 
@@ -102,6 +105,15 @@ portugal-front-facade-of-the-santa-cruz-church-with-igreja-de-pressed-coimbra:
 
 portugal-funchal-cathedral-pressed-funchal-madeira-island-d21577d4:
   frente: http://locations.pennycollector.com/images/machine_f60876c3-bf6e-4b6a-bdb3-4b96f91892ea.jpg
+
+portugal-funchal-cathedral-pressed-funchal-madeira-island-fc0d9770:
+  frente: http://locations.pennycollector.com/images/machine_28c4fd6d-d010-4ce4-a301-446b0f08e485.jpg
+
+portugal-funchal-gondola-pressed-funchal-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_28c4fd6d-d010-4ce4-a301-446b0f08e485.jpg
+
+portugal-funchal-port-pressed-funchal-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_28c4fd6d-d010-4ce4-a301-446b0f08e485.jpg
 
 portugal-funchal-pressed-funchal-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_2cde75cb-1e2a-49d1-a7b2-2ea781ebdd7f.jpg
