@@ -1135,6 +1135,160 @@
     "type": "pressed",
     "type_was_overridden": false
   },
+  "6ab65d6976ee7bd0f81ea60f": {
+    "centered": true,
+    "city": "Coimbra",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 438.5,
+          "y": 96.0
+        },
+        {
+          "x": 602.5,
+          "y": 95.0
+        },
+        {
+          "x": 605.5,
+          "y": 385.0
+        },
+        {
+          "x": 430.5,
+          "y": 377.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_7bba5537-2a20-4957-99ee-02721487505f.jpg",
+    "format": "portrait",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 438.5,
+          "y": 96.0
+        },
+        {
+          "x": 602.5,
+          "y": 95.0
+        },
+        {
+          "x": 605.5,
+          "y": 385.0
+        },
+        {
+          "x": 430.5,
+          "y": 377.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-front-facade-of-the-santa-cruz-church-with-igreja-de-pressed-coimbra.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-front-facade-of-the-santa-cruz-church-with-igreja-de-pressed-coimbra.jpg",
+    "location_id": "287465",
+    "location_name": "Mosteiro de Santa Cruz (Santa Cruz Monastery)",
+    "machine": 1,
+    "name": "Front facade of the Santa Cruz church with 'Igreja de…",
+    "orientation": "portrait",
+    "original_file": "original/location-287465-photo-1-front.jpg",
+    "original_front": "original/location-287465-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_7bba5537-2a20-4957-99ee-02721487505f.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287465#machine-1-position-1",
+    "slug": "portugal-front-facade-of-the-santa-cruz-church-with-igreja-de-pressed-coimbra",
+    "source_url": "http://locations.pennycollector.com/images/machine_7bba5537-2a20-4957-99ee-02721487505f.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d6976ee7bd0f81ea610": {
+    "centered": true,
+    "city": "Coimbra",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 385.5,
+          "y": 405.0
+        },
+        {
+          "x": 640.5,
+          "y": 419.0
+        },
+        {
+          "x": 645.5,
+          "y": 584.0
+        },
+        {
+          "x": 386.5,
+          "y": 584.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_7bba5537-2a20-4957-99ee-02721487505f.jpg",
+    "format": "landscape",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 385.5,
+          "y": 405.0
+        },
+        {
+          "x": 640.5,
+          "y": 419.0
+        },
+        {
+          "x": 645.5,
+          "y": 584.0
+        },
+        {
+          "x": 386.5,
+          "y": 584.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-tomb-of-king-henriques-with-tumulo-d-alfonso-henriques-pressed-coimbra.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-tomb-of-king-henriques-with-tumulo-d-alfonso-henriques-pressed-coimbra.jpg",
+    "location_id": "287465",
+    "location_name": "Mosteiro de Santa Cruz (Santa Cruz Monastery)",
+    "machine": 1,
+    "name": "Tomb of King Henriques with 'Tumulo D. Alfonso Henriques…",
+    "orientation": "landscape",
+    "original_file": "original/location-287465-photo-1-front.jpg",
+    "original_front": "original/location-287465-photo-1-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_7bba5537-2a20-4957-99ee-02721487505f.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287465#machine-1-position-2",
+    "slug": "portugal-tomb-of-king-henriques-with-tumulo-d-alfonso-henriques-pressed-coimbra",
+    "source_url": "http://locations.pennycollector.com/images/machine_7bba5537-2a20-4957-99ee-02721487505f.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
   "6ab65d6976ee7bd0f81ea613": {
     "centered": false,
     "city": "Coimbra",

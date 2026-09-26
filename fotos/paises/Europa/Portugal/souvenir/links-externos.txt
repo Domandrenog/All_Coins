@@ -57,6 +57,9 @@ portugal-front-batalha-monastery-building-with-mosteiro-da-coin-batalha:
 portugal-front-facade-of-the-old-cathedral-building-with-se-pressed-coimbra:
   frente: http://locations.pennycollector.com/images/machine_c5153f93-3398-469f-9470-0354cc4b2d7f.jpg
 
+portugal-front-facade-of-the-santa-cruz-church-with-igreja-de-pressed-coimbra:
+  frente: http://locations.pennycollector.com/images/machine_7bba5537-2a20-4957-99ee-02721487505f.jpg
+
 portugal-gao-de-barcelos-pressed-guimaraes:
   frente: http://locations.pennycollector.com/images/machine_8155d1b3-d605-43c5-b12a-6d3ba169c643.jpg
 
@@ -137,6 +140,9 @@ portugal-sto-antonio-pressed-braga:
 
 portugal-telescope-pressed-faro:
   frente: http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg
+
+portugal-tomb-of-king-henriques-with-tumulo-d-alfonso-henriques-pressed-coimbra:
+  frente: http://locations.pennycollector.com/images/machine_7bba5537-2a20-4957-99ee-02721487505f.jpg
 
 portugal-torre-de-belem-coin-almada:
   frente: http://locations.pennycollector.com/images/machine_94b3f285-6ca9-4fed-a363-97a246321bfe.jpg

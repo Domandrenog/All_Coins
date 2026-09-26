@@ -57,6 +57,9 @@ portugal-front-batalha-monastery-building-with-mosteiro-da-coin-batalha:
 portugal-front-facade-of-the-old-cathedral-building-with-se-pressed-coimbra:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-front-facade-of-the-old-cathedral-building-with-se-pressed-coimbra.jpg
 
+portugal-front-facade-of-the-santa-cruz-church-with-igreja-de-pressed-coimbra:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-front-facade-of-the-santa-cruz-church-with-igreja-de-pressed-coimbra.jpg
+
 portugal-gao-de-barcelos-pressed-guimaraes:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-gao-de-barcelos-pressed-guimaraes.jpg
 
@@ -137,6 +140,9 @@ portugal-sto-antonio-pressed-braga:
 
 portugal-telescope-pressed-faro:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-telescope-pressed-faro.jpg
+
+portugal-tomb-of-king-henriques-with-tumulo-d-alfonso-henriques-pressed-coimbra:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-tomb-of-king-henriques-with-tumulo-d-alfonso-henriques-pressed-coimbra.jpg
 
 portugal-torre-de-belem-coin-almada:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-torre-de-belem-coin-almada.jpg
