@@ -8,6 +8,9 @@ portugal-albufeira-pressed-albufeira:
 portugal-albufeira-tunnel-pressed-albufeira:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-albufeira-tunnel-pressed-albufeira.jpg
 
+portugal-aqui-nasceu-portugal-pressed-guimaraes:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-aqui-nasceu-portugal-pressed-guimaraes.jpg
+
 portugal-art-museum-pressed-albufeira:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-art-museum-pressed-albufeira.jpg
 
@@ -38,6 +41,9 @@ portugal-cristo-rei-statue-coin-almada-1f7e611d:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-cristo-rei-statue-coin-almada-1f7e611d.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-cristo-rei-statue-coin-almada-1f7e611d.jpg
 
+portugal-don-afonso-henriques-pressed-guimaraes:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-don-afonso-henriques-pressed-guimaraes.jpg
+
 portugal-eira-do-serrado-hotel-and-spa-pressed-curral-das-freiras-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-eira-do-serrado-hotel-and-spa-pressed-curral-das-freiras-madeira-island.jpg
 
@@ -47,6 +53,9 @@ portugal-eira-do-serrado-viewpoint-pressed-curral-das-freiras-madeira-island:
 portugal-front-batalha-monastery-building-with-mosteiro-da-coin-batalha:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-front-batalha-monastery-building-with-mosteiro-da-coin-batalha.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-front-batalha-monastery-building-with-mosteiro-da-coin-batalha.jpg
+
+portugal-gao-de-barcelos-pressed-guimaraes:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-gao-de-barcelos-pressed-guimaraes.jpg
 
 portugal-island-of-flowers-pressed-curral-das-freiras-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-island-of-flowers-pressed-curral-das-freiras-madeira-island.jpg

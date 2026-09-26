@@ -1699,6 +1699,237 @@
     "source_url": "http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg",
     "type": "pressed"
   },
+  "6ab65d76de3d617d872a8364": {
+    "centered": false,
+    "city": "Guimarães",
+    "cleaned": false,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 0.5,
+          "y": 44.0
+        },
+        {
+          "x": 324.5,
+          "y": 0.0
+        },
+        {
+          "x": 413.5,
+          "y": 527.0
+        },
+        {
+          "x": 13.5,
+          "y": 528.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_8155d1b3-d605-43c5-b12a-6d3ba169c643.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": false,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 0.5,
+          "y": 44.0
+        },
+        {
+          "x": 324.5,
+          "y": 0.0
+        },
+        {
+          "x": 413.5,
+          "y": 527.0
+        },
+        {
+          "x": 13.5,
+          "y": 528.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-don-afonso-henriques-pressed-guimaraes.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-don-afonso-henriques-pressed-guimaraes.jpg",
+    "location_id": "287394",
+    "location_name": "Palace of the Dukes of Braganza",
+    "machine": 1,
+    "name": "Don Afonso Henriques",
+    "orientation": "portrait",
+    "original_file": "original/location-287394-photo-1-front.jpg",
+    "original_front": "original/location-287394-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_8155d1b3-d605-43c5-b12a-6d3ba169c643.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287394#machine-1-position-1",
+    "slug": "portugal-don-afonso-henriques-pressed-guimaraes",
+    "source_url": "http://locations.pennycollector.com/images/machine_8155d1b3-d605-43c5-b12a-6d3ba169c643.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d76de3d617d872a8365": {
+    "centered": false,
+    "city": "Guimarães",
+    "cleaned": false,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 413.5,
+          "y": 2.0
+        },
+        {
+          "x": 646.5,
+          "y": 65.0
+        },
+        {
+          "x": 544.5,
+          "y": 342.0
+        },
+        {
+          "x": 312.5,
+          "y": 277.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_8155d1b3-d605-43c5-b12a-6d3ba169c643.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": false,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 413.5,
+          "y": 2.0
+        },
+        {
+          "x": 646.5,
+          "y": 65.0
+        },
+        {
+          "x": 544.5,
+          "y": 342.0
+        },
+        {
+          "x": 312.5,
+          "y": 277.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-gao-de-barcelos-pressed-guimaraes.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-gao-de-barcelos-pressed-guimaraes.jpg",
+    "location_id": "287394",
+    "location_name": "Palace of the Dukes of Braganza",
+    "machine": 1,
+    "name": "Gao de Barcelos",
+    "orientation": "portrait",
+    "original_file": "original/location-287394-photo-1-front.jpg",
+    "original_front": "original/location-287394-photo-1-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_8155d1b3-d605-43c5-b12a-6d3ba169c643.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287394#machine-1-position-2",
+    "slug": "portugal-gao-de-barcelos-pressed-guimaraes",
+    "source_url": "http://locations.pennycollector.com/images/machine_8155d1b3-d605-43c5-b12a-6d3ba169c643.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d76de3d617d872a8366": {
+    "centered": false,
+    "city": "Guimarães",
+    "cleaned": false,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 317.5,
+          "y": 252.0
+        },
+        {
+          "x": 646.5,
+          "y": 297.0
+        },
+        {
+          "x": 635.5,
+          "y": 536.0
+        },
+        {
+          "x": 282.5,
+          "y": 515.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_8155d1b3-d605-43c5-b12a-6d3ba169c643.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": false,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 317.5,
+          "y": 252.0
+        },
+        {
+          "x": 646.5,
+          "y": 297.0
+        },
+        {
+          "x": 635.5,
+          "y": 536.0
+        },
+        {
+          "x": 282.5,
+          "y": 515.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-aqui-nasceu-portugal-pressed-guimaraes.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-aqui-nasceu-portugal-pressed-guimaraes.jpg",
+    "location_id": "287394",
+    "location_name": "Palace of the Dukes of Braganza",
+    "machine": 1,
+    "name": "Aquí Nasceu Portugal",
+    "orientation": "landscape",
+    "original_file": "original/location-287394-photo-1-front.jpg",
+    "original_front": "original/location-287394-photo-1-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_front": "http://locations.pennycollector.com/images/machine_8155d1b3-d605-43c5-b12a-6d3ba169c643.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287394#machine-1-position-3",
+    "slug": "portugal-aqui-nasceu-portugal-pressed-guimaraes",
+    "source_url": "http://locations.pennycollector.com/images/machine_8155d1b3-d605-43c5-b12a-6d3ba169c643.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
   "6ab65d76de3d617d872a8367": {
     "centered": false,
     "city": "Guimaraes",

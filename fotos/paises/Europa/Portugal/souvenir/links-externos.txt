@@ -8,6 +8,9 @@ portugal-albufeira-pressed-albufeira:
 portugal-albufeira-tunnel-pressed-albufeira:
   frente: http://locations.pennycollector.com/images/machine_b7890259-2ff9-4380-9a64-e551400824bf.jpg
 
+portugal-aqui-nasceu-portugal-pressed-guimaraes:
+  frente: http://locations.pennycollector.com/images/machine_8155d1b3-d605-43c5-b12a-6d3ba169c643.jpg
+
 portugal-art-museum-pressed-albufeira:
   frente: http://locations.pennycollector.com/images/machine_b7890259-2ff9-4380-9a64-e551400824bf.jpg
 
@@ -38,6 +41,9 @@ portugal-cristo-rei-statue-coin-almada-1f7e611d:
   frente: http://locations.pennycollector.com/images/machine_94b3f285-6ca9-4fed-a363-97a246321bfe.jpg
   tras: http://locations.pennycollector.com/images/machine_94b3f285-6ca9-4fed-a363-97a246321bfe.jpg
 
+portugal-don-afonso-henriques-pressed-guimaraes:
+  frente: http://locations.pennycollector.com/images/machine_8155d1b3-d605-43c5-b12a-6d3ba169c643.jpg
+
 portugal-eira-do-serrado-hotel-and-spa-pressed-curral-das-freiras-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_b5b1e237-0cc1-4c73-845f-c94ddf7a426a.jpg
 
@@ -47,6 +53,9 @@ portugal-eira-do-serrado-viewpoint-pressed-curral-das-freiras-madeira-island:
 portugal-front-batalha-monastery-building-with-mosteiro-da-coin-batalha:
   frente: http://locations.pennycollector.com/images/machine_2cf1b858-80f2-461c-8f8f-e6265a03000b.jpg
   tras: http://locations.pennycollector.com/images/machine_2cf1b858-80f2-461c-8f8f-e6265a03000b.jpg
+
+portugal-gao-de-barcelos-pressed-guimaraes:
+  frente: http://locations.pennycollector.com/images/machine_8155d1b3-d605-43c5-b12a-6d3ba169c643.jpg
 
 portugal-island-of-flowers-pressed-curral-das-freiras-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_f2e9dd34-0e11-4789-82af-7d79f16c8f13.jpg
