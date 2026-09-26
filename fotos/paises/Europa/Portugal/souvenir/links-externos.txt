@@ -67,6 +67,9 @@ portugal-front-batalha-monastery-building-with-mosteiro-da-coin-batalha:
   frente: http://locations.pennycollector.com/images/machine_2cf1b858-80f2-461c-8f8f-e6265a03000b.jpg
   tras: http://locations.pennycollector.com/images/machine_2cf1b858-80f2-461c-8f8f-e6265a03000b.jpg
 
+portugal-front-facade-of-the-new-cathedral-building-pressed-coimbra:
+  frente: http://locations.pennycollector.com/images/machine_e315c576-6361-4d23-b895-a47a2662b75f.jpg
+
 portugal-front-facade-of-the-old-cathedral-building-with-se-pressed-coimbra:
   frente: http://locations.pennycollector.com/images/machine_c5153f93-3398-469f-9470-0354cc4b2d7f.jpg
 
@@ -172,3 +175,6 @@ portugal-torre-de-belem-coin-almada:
 
 portugal-traditional-house-pressed-curral-das-freiras-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_f2e9dd34-0e11-4789-82af-7d79f16c8f13.jpg
+
+portugal-university-of-coimbra-viewed-from-the-mondego-river-pressed-coimbra:
+  frente: http://locations.pennycollector.com/images/machine_e315c576-6361-4d23-b895-a47a2662b75f.jpg
