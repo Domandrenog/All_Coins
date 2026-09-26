@@ -8531,6 +8531,296 @@
     "type": "pressed",
     "type_was_overridden": false
   },
+  "6ab65d7f28a53410c79d5e16": {
+    "centered": false,
+    "city": "Tomar",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 366.0,
+          "y": 157.0
+        },
+        {
+          "x": 622.0,
+          "y": 159.0
+        },
+        {
+          "x": 627.0,
+          "y": 346.0
+        },
+        {
+          "x": 372.0,
+          "y": 338.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_f9c0b0bc-14cb-4db6-b596-c8ec04331e6c.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 366.0,
+          "y": 157.0
+        },
+        {
+          "x": 622.0,
+          "y": 159.0
+        },
+        {
+          "x": 627.0,
+          "y": 346.0
+        },
+        {
+          "x": 372.0,
+          "y": 338.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-outside-view-of-the-charola-do-convento-de-cristo-pressed-tomar.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-outside-view-of-the-charola-do-convento-de-cristo-pressed-tomar.jpg",
+    "location_id": "455917",
+    "location_name": "Convento do Cristo (Convent of Christ)",
+    "machine": 1,
+    "name": "Outside view of the Charola do Convento de Cristo",
+    "orientation": "landscape",
+    "original_file": "original/location-455917-photo-1-front.jpg",
+    "original_front": "original/location-455917-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_f9c0b0bc-14cb-4db6-b596-c8ec04331e6c.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=455917#machine-1-position-1",
+    "slug": "portugal-outside-view-of-the-charola-do-convento-de-cristo-pressed-tomar",
+    "source_url": "http://locations.pennycollector.com/images/machine_f9c0b0bc-14cb-4db6-b596-c8ec04331e6c.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d7f28a53410c79d5e17": {
+    "centered": true,
+    "city": "Tomar",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 431.0,
+          "y": 431.0
+        },
+        {
+          "x": 610.0,
+          "y": 427.0
+        },
+        {
+          "x": 614.0,
+          "y": 693.0
+        },
+        {
+          "x": 432.0,
+          "y": 696.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_f9c0b0bc-14cb-4db6-b596-c8ec04331e6c.jpg",
+    "format": "portrait",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 431.0,
+          "y": 431.0
+        },
+        {
+          "x": 610.0,
+          "y": 427.0
+        },
+        {
+          "x": 614.0,
+          "y": 693.0
+        },
+        {
+          "x": 432.0,
+          "y": 696.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-templar-knight-holding-a-sword-pressed-tomar.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-templar-knight-holding-a-sword-pressed-tomar.jpg",
+    "location_id": "455917",
+    "location_name": "Convento do Cristo (Convent of Christ)",
+    "machine": 1,
+    "name": "Templar Knight holding a sword",
+    "orientation": "portrait",
+    "original_file": "original/location-455917-photo-1-front.jpg",
+    "original_front": "original/location-455917-photo-1-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_f9c0b0bc-14cb-4db6-b596-c8ec04331e6c.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=455917#machine-1-position-2",
+    "slug": "portugal-templar-knight-holding-a-sword-pressed-tomar",
+    "source_url": "http://locations.pennycollector.com/images/machine_f9c0b0bc-14cb-4db6-b596-c8ec04331e6c.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d7f28a53410c79d5e18": {
+    "back_centered": true,
+    "back_cleaned": true,
+    "back_crop": {
+      "height": 182,
+      "mode": "rectangle",
+      "width": 182,
+      "x": 318,
+      "y": 121
+    },
+    "back_file": "tras/portugal-obverse-image-of-the-janela-do-capitulo-coin-tomar.jpg",
+    "back_format": "square",
+    "back_orientation": "auto",
+    "back_padding": 4,
+    "back_source_side": "front",
+    "back_source_was_empty": true,
+    "centered": true,
+    "city": "Tomar",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "height": 186,
+      "mode": "rectangle",
+      "width": 186,
+      "x": 464,
+      "y": 0
+    },
+    "display_shape": "oval",
+    "external_back": "http://locations.pennycollector.com/images/machine_e87b2c7b-c215-41b4-862d-12fe55681837.jpg",
+    "external_front": "http://locations.pennycollector.com/images/machine_e87b2c7b-c215-41b4-862d-12fe55681837.jpg",
+    "format": "square",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "height": 186,
+      "mode": "rectangle",
+      "width": 186,
+      "x": 464,
+      "y": 0
+    },
+    "front_file": "frente/portugal-obverse-image-of-the-janela-do-capitulo-coin-tomar.jpg",
+    "front_format": "square",
+    "front_orientation": "auto",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_back": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-image-of-the-janela-do-capitulo-coin-tomar.jpg",
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-image-of-the-janela-do-capitulo-coin-tomar.jpg",
+    "location_id": "455917",
+    "location_name": "Convento do Cristo (Convent of Christ)",
+    "machine": 2,
+    "name": "Obverse: Image of the Janela do Capítulo",
+    "orientation": "auto",
+    "original_back": "original/location-455917-photo-2-back.jpg",
+    "original_file": "original/location-455917-photo-2-front.jpg",
+    "original_front": "original/location-455917-photo-2-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_back": "http://locations.pennycollector.com/images/machine_e87b2c7b-c215-41b4-862d-12fe55681837.jpg",
+    "previous_front": "http://locations.pennycollector.com/images/machine_e87b2c7b-c215-41b4-862d-12fe55681837.jpg",
+    "previous_type": "coin",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=455917#machine-2-position-1",
+    "slug": "portugal-obverse-image-of-the-janela-do-capitulo-coin-tomar",
+    "source_url": "http://locations.pennycollector.com/images/machine_e87b2c7b-c215-41b4-862d-12fe55681837.jpg",
+    "type": "coin",
+    "type_was_overridden": false
+  },
+  "6ab65d7f28a53410c79d5e19": {
+    "back_centered": true,
+    "back_cleaned": true,
+    "back_crop": {
+      "height": 185,
+      "mode": "rectangle",
+      "width": 185,
+      "x": 318,
+      "y": 369
+    },
+    "back_file": "tras/portugal-obverse-image-of-the-inside-of-the-church-from-a-coin-tomar.jpg",
+    "back_format": "square",
+    "back_orientation": "auto",
+    "back_padding": 4,
+    "back_source_side": "front",
+    "back_source_was_empty": true,
+    "centered": true,
+    "city": "Tomar",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "height": 191,
+      "mode": "rectangle",
+      "width": 191,
+      "x": 452,
+      "y": 250
+    },
+    "display_shape": "oval",
+    "external_back": "http://locations.pennycollector.com/images/machine_e87b2c7b-c215-41b4-862d-12fe55681837.jpg",
+    "external_front": "http://locations.pennycollector.com/images/machine_e87b2c7b-c215-41b4-862d-12fe55681837.jpg",
+    "format": "square",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "height": 191,
+      "mode": "rectangle",
+      "width": 191,
+      "x": 452,
+      "y": 250
+    },
+    "front_file": "frente/portugal-obverse-image-of-the-inside-of-the-church-from-a-coin-tomar.jpg",
+    "front_format": "square",
+    "front_orientation": "auto",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_back": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-image-of-the-inside-of-the-church-from-a-coin-tomar.jpg",
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-image-of-the-inside-of-the-church-from-a-coin-tomar.jpg",
+    "location_id": "455917",
+    "location_name": "Convento do Cristo (Convent of Christ)",
+    "machine": 2,
+    "name": "Obverse: Image of the inside of the church from a…",
+    "orientation": "auto",
+    "original_back": "original/location-455917-photo-2-back.jpg",
+    "original_file": "original/location-455917-photo-2-front.jpg",
+    "original_front": "original/location-455917-photo-2-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_back": "http://locations.pennycollector.com/images/machine_e87b2c7b-c215-41b4-862d-12fe55681837.jpg",
+    "previous_front": "http://locations.pennycollector.com/images/machine_e87b2c7b-c215-41b4-862d-12fe55681837.jpg",
+    "previous_type": "coin",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=455917#machine-2-position-2",
+    "slug": "portugal-obverse-image-of-the-inside-of-the-church-from-a-coin-tomar",
+    "source_url": "http://locations.pennycollector.com/images/machine_e87b2c7b-c215-41b4-862d-12fe55681837.jpg",
+    "type": "coin",
+    "type_was_overridden": false
+  },
   "6ab65d7f28a53410c79d5e1a": {
     "centered": false,
     "city": "Vila Viçosa ",

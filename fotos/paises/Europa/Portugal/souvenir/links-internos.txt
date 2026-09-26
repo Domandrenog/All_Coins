@@ -233,6 +233,14 @@ portugal-obverse-gold-colored-old-cathedral-of-coimbra-coin-coimbra:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-gold-colored-old-cathedral-of-coimbra-coin-coimbra.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-gold-colored-old-cathedral-of-coimbra-coin-coimbra.jpg
 
+portugal-obverse-image-of-the-inside-of-the-church-from-a-coin-tomar:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-image-of-the-inside-of-the-church-from-a-coin-tomar.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-image-of-the-inside-of-the-church-from-a-coin-tomar.jpg
+
+portugal-obverse-image-of-the-janela-do-capitulo-coin-tomar:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-image-of-the-janela-do-capitulo-coin-tomar.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-image-of-the-janela-do-capitulo-coin-tomar.jpg
+
 portugal-obverse-silver-colored-medieval-knight-in-full-armor-coin-coimbra:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-silver-colored-medieval-knight-in-full-armor-coin-coimbra.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-silver-colored-medieval-knight-in-full-armor-coin-coimbra.jpg
@@ -245,6 +253,9 @@ portugal-our-lady-of-fatima-pressed-fatima:
 
 portugal-our-lady-of-fatima-wearing-a-crown-pressed-fatima:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-our-lady-of-fatima-wearing-a-crown-pressed-fatima.jpg
+
+portugal-outside-view-of-the-charola-do-convento-de-cristo-pressed-tomar:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-outside-view-of-the-charola-do-convento-de-cristo-pressed-tomar.jpg
 
 portugal-peneco-beach-with-pedal-boat-and-slide-pressed-albufeira:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-peneco-beach-with-pedal-boat-and-slide-pressed-albufeira.jpg
@@ -341,6 +352,9 @@ portugal-telefffico-guimaraes-pressed-guimaraes:
 
 portugal-telescope-pressed-faro:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-telescope-pressed-faro.jpg
+
+portugal-templar-knight-holding-a-sword-pressed-tomar:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-templar-knight-holding-a-sword-pressed-tomar.jpg
 
 portugal-three-believers-kneeling-in-front-of-fatima-statue-with-pressed-fatima:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-three-believers-kneeling-in-front-of-fatima-statue-with-pressed-fatima.jpg

@@ -233,6 +233,14 @@ portugal-obverse-gold-colored-old-cathedral-of-coimbra-coin-coimbra:
   frente: http://locations.pennycollector.com/images/machine_d96afc38-6118-4a42-8a4a-bf1ee0b5a38a.jpg
   tras: http://locations.pennycollector.com/images/machine_d96afc38-6118-4a42-8a4a-bf1ee0b5a38a.jpg
 
+portugal-obverse-image-of-the-inside-of-the-church-from-a-coin-tomar:
+  frente: http://locations.pennycollector.com/images/machine_e87b2c7b-c215-41b4-862d-12fe55681837.jpg
+  tras: http://locations.pennycollector.com/images/machine_e87b2c7b-c215-41b4-862d-12fe55681837.jpg
+
+portugal-obverse-image-of-the-janela-do-capitulo-coin-tomar:
+  frente: http://locations.pennycollector.com/images/machine_e87b2c7b-c215-41b4-862d-12fe55681837.jpg
+  tras: http://locations.pennycollector.com/images/machine_e87b2c7b-c215-41b4-862d-12fe55681837.jpg
+
 portugal-obverse-silver-colored-medieval-knight-in-full-armor-coin-coimbra:
   frente: http://locations.pennycollector.com/images/machine_d96afc38-6118-4a42-8a4a-bf1ee0b5a38a.jpg
   tras: http://locations.pennycollector.com/images/machine_d96afc38-6118-4a42-8a4a-bf1ee0b5a38a.jpg
@@ -245,6 +253,9 @@ portugal-our-lady-of-fatima-pressed-fatima:
 
 portugal-our-lady-of-fatima-wearing-a-crown-pressed-fatima:
   frente: http://locations.pennycollector.com/images/machine_2a401c39-ff62-4b55-bdf7-1c72d944d7b1.jpg
+
+portugal-outside-view-of-the-charola-do-convento-de-cristo-pressed-tomar:
+  frente: http://locations.pennycollector.com/images/machine_f9c0b0bc-14cb-4db6-b596-c8ec04331e6c.jpg
 
 portugal-peneco-beach-with-pedal-boat-and-slide-pressed-albufeira:
   frente: http://locations.pennycollector.com/images/machine_b7890259-2ff9-4380-9a64-e551400824bf.jpg
@@ -341,6 +352,9 @@ portugal-telefffico-guimaraes-pressed-guimaraes:
 
 portugal-telescope-pressed-faro:
   frente: http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg
+
+portugal-templar-knight-holding-a-sword-pressed-tomar:
+  frente: http://locations.pennycollector.com/images/machine_f9c0b0bc-14cb-4db6-b596-c8ec04331e6c.jpg
 
 portugal-three-believers-kneeling-in-front-of-fatima-statue-with-pressed-fatima:
   frente: http://locations.pennycollector.com/images/machine_5ce7d575-ab3b-49f8-9faa-9324a02e5739.jpg
