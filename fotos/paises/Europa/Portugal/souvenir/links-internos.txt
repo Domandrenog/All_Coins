@@ -8,6 +8,9 @@ portugal-albufeira-pressed-albufeira:
 portugal-albufeira-tunnel-pressed-albufeira:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-albufeira-tunnel-pressed-albufeira.jpg
 
+portugal-almedina-tower-with-torre-de-almedina-coimbra-pressed-coimbra:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-almedina-tower-with-torre-de-almedina-coimbra-pressed-coimbra.jpg
+
 portugal-aqui-nasceu-portugal-pressed-guimaraes:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-aqui-nasceu-portugal-pressed-guimaraes.jpg
 
@@ -44,6 +47,9 @@ portugal-catedral-do-porto-portugal-feb-9-2019-there-is-no-a-coin-porto:
 
 portugal-cathedral-pressed-funchal-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-cathedral-pressed-funchal-madeira-island.jpg
+
+portugal-center-for-studies-in-planning-urbanism-and-pressed-coimbra-43561b3c:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-center-for-studies-in-planning-urbanism-and-pressed-coimbra-43561b3c.jpg
 
 portugal-chamine-tipica-do-algarve-pressed-foia-monchique:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-chamine-tipica-do-algarve-pressed-foia-monchique.jpg
@@ -100,6 +106,9 @@ portugal-gao-de-barcelos-pressed-guimaraes:
 portugal-gold-a-view-over-funchal-coin-funchal-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-gold-a-view-over-funchal-coin-funchal-madeira-island.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-gold-a-view-over-funchal-coin-funchal-madeira-island.jpg
+
+portugal-holy-queen-isabella-with-rainha-santa-isabel-coimbra-pressed-coimbra:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-holy-queen-isabella-with-rainha-santa-isabel-coimbra-pressed-coimbra.jpg
 
 portugal-image-of-a-woman-praying-with-n-sra-de-fatima-pressed-fatima:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-image-of-a-woman-praying-with-n-sra-de-fatima-pressed-fatima.jpg
@@ -228,6 +237,9 @@ portugal-se-de-braga-pressed-braga:
 
 portugal-seahorse-pressed-faro:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-seahorse-pressed-faro.jpg
+
+portugal-senhora-fatima-in-front-of-the-sanctuary-of-our-lady-of-pressed-coimbra:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-senhora-fatima-in-front-of-the-sanctuary-of-our-lady-of-pressed-coimbra.jpg
 
 portugal-senhora-fatima-with-na-sra-de-fatima-pressed-batalha:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-senhora-fatima-with-na-sra-de-fatima-pressed-batalha.jpg

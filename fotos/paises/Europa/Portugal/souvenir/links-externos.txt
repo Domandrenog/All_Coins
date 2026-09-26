@@ -8,6 +8,9 @@ portugal-albufeira-pressed-albufeira:
 portugal-albufeira-tunnel-pressed-albufeira:
   frente: http://locations.pennycollector.com/images/machine_b7890259-2ff9-4380-9a64-e551400824bf.jpg
 
+portugal-almedina-tower-with-torre-de-almedina-coimbra-pressed-coimbra:
+  frente: http://locations.pennycollector.com/images/machine_666e529e-ddb3-4dbb-9fa1-caa02b212acf.jpg
+
 portugal-aqui-nasceu-portugal-pressed-guimaraes:
   frente: http://locations.pennycollector.com/images/machine_8155d1b3-d605-43c5-b12a-6d3ba169c643.jpg
 
@@ -44,6 +47,9 @@ portugal-catedral-do-porto-portugal-feb-9-2019-there-is-no-a-coin-porto:
 
 portugal-cathedral-pressed-funchal-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_2cde75cb-1e2a-49d1-a7b2-2ea781ebdd7f.jpg
+
+portugal-center-for-studies-in-planning-urbanism-and-pressed-coimbra-43561b3c:
+  frente: http://locations.pennycollector.com/images/machine_666e529e-ddb3-4dbb-9fa1-caa02b212acf.jpg
 
 portugal-chamine-tipica-do-algarve-pressed-foia-monchique:
   frente: http://locations.pennycollector.com/images/machine_aae43e01-a0d7-4a76-ac4d-13284c522871.jpg
@@ -100,6 +106,9 @@ portugal-gao-de-barcelos-pressed-guimaraes:
 portugal-gold-a-view-over-funchal-coin-funchal-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_606290ad-d1d9-4fdc-9ac4-b9ce555ae9d7.jpg
   tras: http://locations.pennycollector.com/images/machine_606290ad-d1d9-4fdc-9ac4-b9ce555ae9d7.jpg
+
+portugal-holy-queen-isabella-with-rainha-santa-isabel-coimbra-pressed-coimbra:
+  frente: http://locations.pennycollector.com/images/machine_666e529e-ddb3-4dbb-9fa1-caa02b212acf.jpg
 
 portugal-image-of-a-woman-praying-with-n-sra-de-fatima-pressed-fatima:
   frente: http://locations.pennycollector.com/images/machine_5ce7d575-ab3b-49f8-9faa-9324a02e5739.jpg
@@ -228,6 +237,9 @@ portugal-se-de-braga-pressed-braga:
 
 portugal-seahorse-pressed-faro:
   frente: http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg
+
+portugal-senhora-fatima-in-front-of-the-sanctuary-of-our-lady-of-pressed-coimbra:
+  frente: http://locations.pennycollector.com/images/machine_666e529e-ddb3-4dbb-9fa1-caa02b212acf.jpg
 
 portugal-senhora-fatima-with-na-sra-de-fatima-pressed-batalha:
   frente: http://locations.pennycollector.com/images/machine_4080a7e5-e914-4d19-acac-9bfe9fd4e953.jpg
