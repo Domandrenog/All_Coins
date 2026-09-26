@@ -264,6 +264,10 @@ portugal-obverse-gold-color-belem-tower-with-torre-de-belem-coin-lisbon-lisboa:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-gold-color-belem-tower-with-torre-de-belem-coin-lisbon-lisboa.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-gold-color-belem-tower-with-torre-de-belem-coin-lisbon-lisboa.jpg
 
+portugal-obverse-gold-color-the-ocean-coach-with-museu-coin-lisbon-lisboa:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-gold-color-the-ocean-coach-with-museu-coin-lisbon-lisboa.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-gold-color-the-ocean-coach-with-museu-coin-lisbon-lisboa.jpg
+
 portugal-obverse-gold-colored-old-cathedral-of-coimbra-coin-coimbra:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-gold-colored-old-cathedral-of-coimbra-coin-coimbra.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-gold-colored-old-cathedral-of-coimbra-coin-coimbra.jpg
@@ -279,6 +283,10 @@ portugal-obverse-image-of-the-janela-do-capitulo-coin-tomar:
 portugal-obverse-silver-color-close-up-of-belem-tower-with-coin-lisbon-lisboa:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-silver-color-close-up-of-belem-tower-with-coin-lisbon-lisboa.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-silver-color-close-up-of-belem-tower-with-coin-lisbon-lisboa.jpg
+
+portugal-obverse-silver-color-coach-for-philip-ii-with-museu-coin-lisbon-lisboa:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-silver-color-coach-for-philip-ii-with-museu-coin-lisbon-lisboa.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-silver-color-coach-for-philip-ii-with-museu-coin-lisbon-lisboa.jpg
 
 portugal-obverse-silver-colored-medieval-knight-in-full-armor-coin-coimbra:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-silver-colored-medieval-knight-in-full-armor-coin-coimbra.jpg

@@ -264,6 +264,10 @@ portugal-obverse-gold-color-belem-tower-with-torre-de-belem-coin-lisbon-lisboa:
   frente: http://locations.pennycollector.com/images/machine_02ea9dff-e0e2-490d-9f34-47d126f6d353.jpg
   tras: http://locations.pennycollector.com/images/machine_02ea9dff-e0e2-490d-9f34-47d126f6d353.jpg
 
+portugal-obverse-gold-color-the-ocean-coach-with-museu-coin-lisbon-lisboa:
+  frente: http://locations.pennycollector.com/images/machine_2fb242f4-6ad8-458b-98ef-1ddaef010e4c.jpg
+  tras: http://locations.pennycollector.com/images/machine_2fb242f4-6ad8-458b-98ef-1ddaef010e4c.jpg
+
 portugal-obverse-gold-colored-old-cathedral-of-coimbra-coin-coimbra:
   frente: http://locations.pennycollector.com/images/machine_d96afc38-6118-4a42-8a4a-bf1ee0b5a38a.jpg
   tras: http://locations.pennycollector.com/images/machine_d96afc38-6118-4a42-8a4a-bf1ee0b5a38a.jpg
@@ -279,6 +283,10 @@ portugal-obverse-image-of-the-janela-do-capitulo-coin-tomar:
 portugal-obverse-silver-color-close-up-of-belem-tower-with-coin-lisbon-lisboa:
   frente: http://locations.pennycollector.com/images/machine_02ea9dff-e0e2-490d-9f34-47d126f6d353.jpg
   tras: http://locations.pennycollector.com/images/machine_02ea9dff-e0e2-490d-9f34-47d126f6d353.jpg
+
+portugal-obverse-silver-color-coach-for-philip-ii-with-museu-coin-lisbon-lisboa:
+  frente: http://locations.pennycollector.com/images/machine_2fb242f4-6ad8-458b-98ef-1ddaef010e4c.jpg
+  tras: http://locations.pennycollector.com/images/machine_2fb242f4-6ad8-458b-98ef-1ddaef010e4c.jpg
 
 portugal-obverse-silver-colored-medieval-knight-in-full-armor-coin-coimbra:
   frente: http://locations.pennycollector.com/images/machine_d96afc38-6118-4a42-8a4a-bf1ee0b5a38a.jpg
