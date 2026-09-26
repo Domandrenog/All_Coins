@@ -4394,6 +4394,314 @@
     "type": "pressed",
     "type_was_overridden": false
   },
+  "6ab65d71df6c9dc0fc0d9772": {
+    "centered": false,
+    "city": "Funchal (Madeira Island)",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 1.5,
+          "y": 273.0
+        },
+        {
+          "x": 334.5,
+          "y": 276.0
+        },
+        {
+          "x": 348.5,
+          "y": 496.0
+        },
+        {
+          "x": 6.5,
+          "y": 503.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_e520c271-208e-45e1-a87f-16992f39b427.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 1.5,
+          "y": 273.0
+        },
+        {
+          "x": 334.5,
+          "y": 276.0
+        },
+        {
+          "x": 348.5,
+          "y": 496.0
+        },
+        {
+          "x": 6.5,
+          "y": 503.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-building-pressed-funchal-madeira-island.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-building-pressed-funchal-madeira-island.jpg",
+    "location_id": "424918",
+    "location_name": "Pico do Arieiro",
+    "machine": 1,
+    "name": "Building",
+    "orientation": "landscape",
+    "original_file": "original/location-424918-photo-1-front.jpg",
+    "original_front": "original/location-424918-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_e520c271-208e-45e1-a87f-16992f39b427.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=424918#machine-1-position-1",
+    "slug": "portugal-building-pressed-funchal-madeira-island",
+    "source_url": "http://locations.pennycollector.com/images/machine_e520c271-208e-45e1-a87f-16992f39b427.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d71df6c9dc0fc0d9773": {
+    "centered": true,
+    "city": "Funchal (Madeira Island)",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 2.5,
+          "y": 2.0
+        },
+        {
+          "x": 345.5,
+          "y": 4.0
+        },
+        {
+          "x": 347.5,
+          "y": 230.0
+        },
+        {
+          "x": 0.5,
+          "y": 239.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_e520c271-208e-45e1-a87f-16992f39b427.jpg",
+    "format": "landscape",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 2.5,
+          "y": 2.0
+        },
+        {
+          "x": 345.5,
+          "y": 4.0
+        },
+        {
+          "x": 347.5,
+          "y": 230.0
+        },
+        {
+          "x": 0.5,
+          "y": 239.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-viewpoint-pressed-funchal-madeira-island.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-viewpoint-pressed-funchal-madeira-island.jpg",
+    "location_id": "424918",
+    "location_name": "Pico do Arieiro",
+    "machine": 1,
+    "name": "Viewpoint",
+    "orientation": "landscape",
+    "original_file": "original/location-424918-photo-1-front.jpg",
+    "original_front": "original/location-424918-photo-1-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_e520c271-208e-45e1-a87f-16992f39b427.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=424918#machine-1-position-2",
+    "slug": "portugal-viewpoint-pressed-funchal-madeira-island",
+    "source_url": "http://locations.pennycollector.com/images/machine_e520c271-208e-45e1-a87f-16992f39b427.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d71df6c9dc0fc0d9774": {
+    "centered": false,
+    "city": "Funchal (Madeira Island)",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 319.5,
+          "y": 143.0
+        },
+        {
+          "x": 648.5,
+          "y": 148.0
+        },
+        {
+          "x": 644.5,
+          "y": 392.0
+        },
+        {
+          "x": 317.5,
+          "y": 390.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_e520c271-208e-45e1-a87f-16992f39b427.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 319.5,
+          "y": 143.0
+        },
+        {
+          "x": 648.5,
+          "y": 148.0
+        },
+        {
+          "x": 644.5,
+          "y": 392.0
+        },
+        {
+          "x": 317.5,
+          "y": 390.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-nato-radar-pressed-funchal-madeira-island.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-nato-radar-pressed-funchal-madeira-island.jpg",
+    "location_id": "424918",
+    "location_name": "Pico do Arieiro",
+    "machine": 1,
+    "name": "NATO radar",
+    "orientation": "landscape",
+    "original_file": "original/location-424918-photo-1-front.jpg",
+    "original_front": "original/location-424918-photo-1-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_front": "http://locations.pennycollector.com/images/machine_e520c271-208e-45e1-a87f-16992f39b427.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=424918#machine-1-position-3",
+    "slug": "portugal-nato-radar-pressed-funchal-madeira-island",
+    "source_url": "http://locations.pennycollector.com/images/machine_e520c271-208e-45e1-a87f-16992f39b427.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d73dce3c8c8d21577d1": {
+    "centered": false,
+    "city": "Funchal (Madeira Island)",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 327.5,
+          "y": 411.0
+        },
+        {
+          "x": 648.5,
+          "y": 414.0
+        },
+        {
+          "x": 643.5,
+          "y": 642.0
+        },
+        {
+          "x": 320.5,
+          "y": 646.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_e520c271-208e-45e1-a87f-16992f39b427.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 327.5,
+          "y": 411.0
+        },
+        {
+          "x": 648.5,
+          "y": 414.0
+        },
+        {
+          "x": 643.5,
+          "y": 642.0
+        },
+        {
+          "x": 320.5,
+          "y": 646.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-madeira-island-pressed-funchal-madeira-island-d21577d1.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-madeira-island-pressed-funchal-madeira-island-d21577d1.jpg",
+    "location_id": "424918",
+    "location_name": "Pico do Arieiro",
+    "machine": 1,
+    "name": "Madeira Island",
+    "orientation": "landscape",
+    "original_file": "original/location-424918-photo-1-front.jpg",
+    "original_front": "original/location-424918-photo-1-front.jpg",
+    "padding": 4,
+    "position": 4,
+    "previous_front": "http://locations.pennycollector.com/images/machine_e520c271-208e-45e1-a87f-16992f39b427.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=424918#machine-1-position-4",
+    "slug": "portugal-madeira-island-pressed-funchal-madeira-island-d21577d1",
+    "source_url": "http://locations.pennycollector.com/images/machine_e520c271-208e-45e1-a87f-16992f39b427.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
   "6ab65d73dce3c8c8d21577d4": {
     "centered": true,
     "city": "Funchal (Madeira Island)",

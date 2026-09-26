@@ -35,6 +35,9 @@ portugal-beach-with-lagos-pressed-lagos:
 portugal-building-pressed-faro:
   frente: http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg
 
+portugal-building-pressed-funchal-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_e520c271-208e-45e1-a87f-16992f39b427.jpg
+
 portugal-cabo-giro-from-camara-dos-lobos-pressed-camara-dos-lobos-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_b2e86ff2-1fee-4d1d-9c13-0ce5e86b9ed4.jpg
 
@@ -143,6 +146,9 @@ portugal-logo-pressed-faro:
 portugal-madeira-island-pressed-curral-das-freiras-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_b5b1e237-0cc1-4c73-845f-c94ddf7a426a.jpg
 
+portugal-madeira-island-pressed-funchal-madeira-island-d21577d1:
+  frente: http://locations.pennycollector.com/images/machine_e520c271-208e-45e1-a87f-16992f39b427.jpg
+
 portugal-madeira-island-pressed-funchal-madeira-island-d21577d7:
   frente: http://locations.pennycollector.com/images/machine_f60876c3-bf6e-4b6a-bdb3-4b96f91892ea.jpg
 
@@ -169,6 +175,9 @@ portugal-n-sra-do-carmo-penha-guimaraes-pressed-guimaraes:
 
 portugal-na-sra-do-penah-guimaraes-statue-on-base-with-faces-pressed-guimaraes:
   frente: http://locations.pennycollector.com/images/machine_f276080b-1c53-4a42-8f24-9e5c26966e60.jpg
+
+portugal-nato-radar-pressed-funchal-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_e520c271-208e-45e1-a87f-16992f39b427.jpg
 
 portugal-nazareth-sanctuary-with-santuario-nazare-pressed-nazare:
   frente: http://locations.pennycollector.com/images/machine_f126aaea-515d-490d-adc6-fd6f5f29bf98.jpg
@@ -296,3 +305,6 @@ portugal-university-of-coimbra-viewed-from-the-mondego-river-pressed-coimbra:
 
 portugal-veu-da-noiva-pressed-porto-moniz-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_009ea1e5-1d56-4a15-82d8-fe7c80d08bd0.jpg
+
+portugal-viewpoint-pressed-funchal-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_e520c271-208e-45e1-a87f-16992f39b427.jpg
