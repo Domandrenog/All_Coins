@@ -60,6 +60,12 @@ portugal-madeira-island-pressed-curral-das-freiras-madeira-island:
 portugal-mary-of-nazareth-with-nossa-senhora-da-nazara-pressed-nazare:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-mary-of-nazareth-with-nossa-senhora-da-nazara-pressed-nazare.jpg
 
+portugal-n-sra-do-carmo-penha-guimaraes-pressed-guimaraes:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-n-sra-do-carmo-penha-guimaraes-pressed-guimaraes.jpg
+
+portugal-na-sra-do-penah-guimaraes-statue-on-base-with-faces-pressed-guimaraes:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-na-sra-do-penah-guimaraes-statue-on-base-with-faces-pressed-guimaraes.jpg
+
 portugal-nazareth-sanctuary-with-santuario-nazare-pressed-nazare:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-nazareth-sanctuary-with-santuario-nazare-pressed-nazare.jpg
 
@@ -89,6 +95,12 @@ portugal-santa-maria-da-vitoria-batalha-monastery-with-batalha-pressed-batalha:
 
 portugal-santana-traditional-house-pressed-curral-das-freiras-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-santana-traditional-house-pressed-curral-das-freiras-madeira-island.jpg
+
+portugal-santo-elias-senhor-do-sono-penha-guimaraes-pressed-guimaraes:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-santo-elias-senhor-do-sono-penha-guimaraes-pressed-guimaraes.jpg
+
+portugal-santuario-da-penha-guimaraes-pressed-guimaraes:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-santuario-da-penha-guimaraes-pressed-guimaraes.jpg
 
 portugal-santuario-nacional-de-vila-vicosa-pressed-vila-vicosa:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-santuario-nacional-de-vila-vicosa-pressed-vila-vicosa.jpg

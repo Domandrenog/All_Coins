@@ -60,6 +60,12 @@ portugal-madeira-island-pressed-curral-das-freiras-madeira-island:
 portugal-mary-of-nazareth-with-nossa-senhora-da-nazara-pressed-nazare:
   frente: http://locations.pennycollector.com/images/machine_f126aaea-515d-490d-adc6-fd6f5f29bf98.jpg
 
+portugal-n-sra-do-carmo-penha-guimaraes-pressed-guimaraes:
+  frente: http://locations.pennycollector.com/images/machine_f276080b-1c53-4a42-8f24-9e5c26966e60.jpg
+
+portugal-na-sra-do-penah-guimaraes-statue-on-base-with-faces-pressed-guimaraes:
+  frente: http://locations.pennycollector.com/images/machine_f276080b-1c53-4a42-8f24-9e5c26966e60.jpg
+
 portugal-nazareth-sanctuary-with-santuario-nazare-pressed-nazare:
   frente: http://locations.pennycollector.com/images/machine_f126aaea-515d-490d-adc6-fd6f5f29bf98.jpg
 
@@ -89,6 +95,12 @@ portugal-santa-maria-da-vitoria-batalha-monastery-with-batalha-pressed-batalha:
 
 portugal-santana-traditional-house-pressed-curral-das-freiras-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_b5b1e237-0cc1-4c73-845f-c94ddf7a426a.jpg
+
+portugal-santo-elias-senhor-do-sono-penha-guimaraes-pressed-guimaraes:
+  frente: http://locations.pennycollector.com/images/machine_f276080b-1c53-4a42-8f24-9e5c26966e60.jpg
+
+portugal-santuario-da-penha-guimaraes-pressed-guimaraes:
+  frente: http://locations.pennycollector.com/images/machine_f276080b-1c53-4a42-8f24-9e5c26966e60.jpg
 
 portugal-santuario-nacional-de-vila-vicosa-pressed-vila-vicosa:
   frente: http://locations.pennycollector.com/images/machine_bf94b617-7017-46de-a800-c347ef552ba1.jpg

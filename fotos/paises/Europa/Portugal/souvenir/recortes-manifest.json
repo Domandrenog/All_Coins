@@ -1699,6 +1699,314 @@
     "source_url": "http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg",
     "type": "pressed"
   },
+  "6ab65d76de3d617d872a8367": {
+    "centered": false,
+    "city": "Guimaraes",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 136.5,
+          "y": 120.0
+        },
+        {
+          "x": 437.5,
+          "y": 59.0
+        },
+        {
+          "x": 491.5,
+          "y": 238.0
+        },
+        {
+          "x": 195.5,
+          "y": 323.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_f276080b-1c53-4a42-8f24-9e5c26966e60.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 136.5,
+          "y": 120.0
+        },
+        {
+          "x": 437.5,
+          "y": 59.0
+        },
+        {
+          "x": 491.5,
+          "y": 238.0
+        },
+        {
+          "x": 195.5,
+          "y": 323.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-santo-elias-senhor-do-sono-penha-guimaraes-pressed-guimaraes.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-santo-elias-senhor-do-sono-penha-guimaraes-pressed-guimaraes.jpg",
+    "location_id": "287382",
+    "location_name": "Santuario da Penha (Sanctuary of Penha)",
+    "machine": 1,
+    "name": "Santo Elias Senhor Do Sono, Penha - Guimaraes",
+    "orientation": "landscape",
+    "original_file": "original/location-287382-photo-1-front.jpg",
+    "original_front": "original/location-287382-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_f276080b-1c53-4a42-8f24-9e5c26966e60.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287382#machine-1-position-1",
+    "slug": "portugal-santo-elias-senhor-do-sono-penha-guimaraes-pressed-guimaraes",
+    "source_url": "http://locations.pennycollector.com/images/machine_f276080b-1c53-4a42-8f24-9e5c26966e60.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d76de3d617d872a8368": {
+    "centered": false,
+    "city": "Guimaraes",
+    "cleaned": false,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 448.5,
+          "y": 167.0
+        },
+        {
+          "x": 648.5,
+          "y": 213.0
+        },
+        {
+          "x": 626.5,
+          "y": 549.0
+        },
+        {
+          "x": 372.5,
+          "y": 518.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_f276080b-1c53-4a42-8f24-9e5c26966e60.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": false,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 448.5,
+          "y": 167.0
+        },
+        {
+          "x": 648.5,
+          "y": 213.0
+        },
+        {
+          "x": 626.5,
+          "y": 549.0
+        },
+        {
+          "x": 372.5,
+          "y": 518.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-santuario-da-penha-guimaraes-pressed-guimaraes.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-santuario-da-penha-guimaraes-pressed-guimaraes.jpg",
+    "location_id": "287382",
+    "location_name": "Santuario da Penha (Sanctuary of Penha)",
+    "machine": 1,
+    "name": "Santuario Da Penha, Guimaraes",
+    "orientation": "portrait",
+    "original_file": "original/location-287382-photo-1-front.jpg",
+    "original_front": "original/location-287382-photo-1-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_f276080b-1c53-4a42-8f24-9e5c26966e60.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287382#machine-1-position-2",
+    "slug": "portugal-santuario-da-penha-guimaraes-pressed-guimaraes",
+    "source_url": "http://locations.pennycollector.com/images/machine_f276080b-1c53-4a42-8f24-9e5c26966e60.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d76de3d617d872a8369": {
+    "centered": false,
+    "city": "Guimaraes",
+    "cleaned": false,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 0.5,
+          "y": 199.0
+        },
+        {
+          "x": 210.5,
+          "y": 178.0
+        },
+        {
+          "x": 258.5,
+          "y": 516.0
+        },
+        {
+          "x": 26.5,
+          "y": 545.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_f276080b-1c53-4a42-8f24-9e5c26966e60.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": false,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 0.5,
+          "y": 199.0
+        },
+        {
+          "x": 210.5,
+          "y": 178.0
+        },
+        {
+          "x": 258.5,
+          "y": 516.0
+        },
+        {
+          "x": 26.5,
+          "y": 545.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-n-sra-do-carmo-penha-guimaraes-pressed-guimaraes.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-n-sra-do-carmo-penha-guimaraes-pressed-guimaraes.jpg",
+    "location_id": "287382",
+    "location_name": "Santuario da Penha (Sanctuary of Penha)",
+    "machine": 1,
+    "name": "N SRa Do Carmo, Penha - Guimaraes",
+    "orientation": "portrait",
+    "original_file": "original/location-287382-photo-1-front.jpg",
+    "original_front": "original/location-287382-photo-1-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_front": "http://locations.pennycollector.com/images/machine_f276080b-1c53-4a42-8f24-9e5c26966e60.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287382#machine-1-position-3",
+    "slug": "portugal-n-sra-do-carmo-penha-guimaraes-pressed-guimaraes",
+    "source_url": "http://locations.pennycollector.com/images/machine_f276080b-1c53-4a42-8f24-9e5c26966e60.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d76de3d617d872a836a": {
+    "centered": false,
+    "city": "Guimaraes",
+    "cleaned": false,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 221.5,
+          "y": 236.0
+        },
+        {
+          "x": 466.5,
+          "y": 264.0
+        },
+        {
+          "x": 425.5,
+          "y": 588.0
+        },
+        {
+          "x": 207.5,
+          "y": 587.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_f276080b-1c53-4a42-8f24-9e5c26966e60.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": false,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 221.5,
+          "y": 236.0
+        },
+        {
+          "x": 466.5,
+          "y": 264.0
+        },
+        {
+          "x": 425.5,
+          "y": 588.0
+        },
+        {
+          "x": 207.5,
+          "y": 587.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-na-sra-do-penah-guimaraes-statue-on-base-with-faces-pressed-guimaraes.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-na-sra-do-penah-guimaraes-statue-on-base-with-faces-pressed-guimaraes.jpg",
+    "location_id": "287382",
+    "location_name": "Santuario da Penha (Sanctuary of Penha)",
+    "machine": 1,
+    "name": "Na SRa Do Penah, Guimaraes'. Statue on base with faces…",
+    "orientation": "portrait",
+    "original_file": "original/location-287382-photo-1-front.jpg",
+    "original_front": "original/location-287382-photo-1-front.jpg",
+    "padding": 4,
+    "position": 4,
+    "previous_front": "http://locations.pennycollector.com/images/machine_f276080b-1c53-4a42-8f24-9e5c26966e60.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287382#machine-1-position-4",
+    "slug": "portugal-na-sra-do-penah-guimaraes-statue-on-base-with-faces-pressed-guimaraes",
+    "source_url": "http://locations.pennycollector.com/images/machine_f276080b-1c53-4a42-8f24-9e5c26966e60.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
   "6ab65d76de3d617d872a836b": {
     "centered": false,
     "city": "Lagos",
