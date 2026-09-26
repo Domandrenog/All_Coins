@@ -106,6 +106,9 @@ portugal-madeira-island-pressed-curral-das-freiras-madeira-island:
 portugal-madeira-island-pressed-funchal-madeira-island-fc0d976d:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-madeira-island-pressed-funchal-madeira-island-fc0d976d.jpg
 
+portugal-madeira-island-pressed-porto-moniz-madeira-island-6c945ada:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-madeira-island-pressed-porto-moniz-madeira-island-6c945ada.jpg
+
 portugal-madeira-island-there-are-also-2-tokens-to-buy-in-the-pressed-camara-dos-lobos-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-madeira-island-there-are-also-2-tokens-to-buy-in-the-pressed-camara-dos-lobos-madeira-island.jpg
 
@@ -148,6 +151,12 @@ portugal-pictorial-of-the-virgin-mary-intercession-with-milagre-pressed-nazare:
 portugal-portimao-pressed-portimao:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-portimao-pressed-portimao.jpg
 
+portugal-porto-moniz-volcanic-pools-pressed-porto-moniz-madeira-island-6c945ad8:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-porto-moniz-volcanic-pools-pressed-porto-moniz-madeira-island-6c945ad8.jpg
+
+portugal-porto-moniz-volcanic-pools-pressed-porto-moniz-madeira-island-a72885e0:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-porto-moniz-volcanic-pools-pressed-porto-moniz-madeira-island-a72885e0.jpg
+
 portugal-portugal-pressed-albufeira:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-portugal-pressed-albufeira.jpg
 
@@ -179,6 +188,9 @@ portugal-santa-maria-da-vitoria-batalha-monastery-with-batalha-pressed-batalha:
 
 portugal-santana-traditional-house-pressed-curral-das-freiras-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-santana-traditional-house-pressed-curral-das-freiras-madeira-island.jpg
+
+portugal-santana-traditional-houses-pressed-porto-moniz-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-santana-traditional-houses-pressed-porto-moniz-madeira-island.jpg
 
 portugal-santo-elias-senhor-do-sono-penha-guimaraes-pressed-guimaraes:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-santo-elias-senhor-do-sono-penha-guimaraes-pressed-guimaraes.jpg

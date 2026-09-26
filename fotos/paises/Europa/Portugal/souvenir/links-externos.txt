@@ -106,6 +106,9 @@ portugal-madeira-island-pressed-curral-das-freiras-madeira-island:
 portugal-madeira-island-pressed-funchal-madeira-island-fc0d976d:
   frente: http://locations.pennycollector.com/images/machine_2cde75cb-1e2a-49d1-a7b2-2ea781ebdd7f.jpg
 
+portugal-madeira-island-pressed-porto-moniz-madeira-island-6c945ada:
+  frente: http://locations.pennycollector.com/images/machine_a8659840-9126-4c1f-b038-1bf2283d83f5.jpg
+
 portugal-madeira-island-there-are-also-2-tokens-to-buy-in-the-pressed-camara-dos-lobos-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_b2e86ff2-1fee-4d1d-9c13-0ce5e86b9ed4.jpg
 
@@ -148,6 +151,12 @@ portugal-pictorial-of-the-virgin-mary-intercession-with-milagre-pressed-nazare:
 portugal-portimao-pressed-portimao:
   frente: http://locations.pennycollector.com/images/machine_40fea727-17f8-4569-9063-601e04c24a1b.jpg
 
+portugal-porto-moniz-volcanic-pools-pressed-porto-moniz-madeira-island-6c945ad8:
+  frente: http://locations.pennycollector.com/images/machine_a8659840-9126-4c1f-b038-1bf2283d83f5.jpg
+
+portugal-porto-moniz-volcanic-pools-pressed-porto-moniz-madeira-island-a72885e0:
+  frente: http://locations.pennycollector.com/images/machine_a8659840-9126-4c1f-b038-1bf2283d83f5.jpg
+
 portugal-portugal-pressed-albufeira:
   frente: http://locations.pennycollector.com/images/machine_feda9006-4058-4d9d-bd3f-b8439c77e928.jpg
 
@@ -179,6 +188,9 @@ portugal-santa-maria-da-vitoria-batalha-monastery-with-batalha-pressed-batalha:
 
 portugal-santana-traditional-house-pressed-curral-das-freiras-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_b5b1e237-0cc1-4c73-845f-c94ddf7a426a.jpg
+
+portugal-santana-traditional-houses-pressed-porto-moniz-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_a8659840-9126-4c1f-b038-1bf2283d83f5.jpg
 
 portugal-santo-elias-senhor-do-sono-penha-guimaraes-pressed-guimaraes:
   frente: http://locations.pennycollector.com/images/machine_f276080b-1c53-4a42-8f24-9e5c26966e60.jpg

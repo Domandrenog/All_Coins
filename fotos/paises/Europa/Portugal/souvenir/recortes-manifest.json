@@ -4735,6 +4735,314 @@
     "type": "coin",
     "type_was_overridden": true
   },
+  "6ab65d7b3e8625eba72885e0": {
+    "centered": false,
+    "city": "Porto Moniz (Madeira Island)",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 0.0,
+          "y": 285.0
+        },
+        {
+          "x": 339.5,
+          "y": 300.0
+        },
+        {
+          "x": 339.5,
+          "y": 512.0
+        },
+        {
+          "x": 7.5,
+          "y": 530.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_a8659840-9126-4c1f-b038-1bf2283d83f5.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 0.0,
+          "y": 285.0
+        },
+        {
+          "x": 339.5,
+          "y": 300.0
+        },
+        {
+          "x": 339.5,
+          "y": 512.0
+        },
+        {
+          "x": 7.5,
+          "y": 530.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-porto-moniz-volcanic-pools-pressed-porto-moniz-madeira-island-a72885e0.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-porto-moniz-volcanic-pools-pressed-porto-moniz-madeira-island-a72885e0.jpg",
+    "location_id": "394500",
+    "location_name": "Porto Moniz (Madeira Island)",
+    "machine": 1,
+    "name": "Porto Moniz Volcanic Pools",
+    "orientation": "landscape",
+    "original_file": "original/location-394500-photo-1-front.jpg",
+    "original_front": "original/location-394500-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_a8659840-9126-4c1f-b038-1bf2283d83f5.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=394500#machine-1-position-1",
+    "slug": "portugal-porto-moniz-volcanic-pools-pressed-porto-moniz-madeira-island-a72885e0",
+    "source_url": "http://locations.pennycollector.com/images/machine_a8659840-9126-4c1f-b038-1bf2283d83f5.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d7dcb7f53936c945ad8": {
+    "centered": true,
+    "city": "Porto Moniz (Madeira Island)",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 292.5,
+          "y": 422.0
+        },
+        {
+          "x": 639.5,
+          "y": 428.0
+        },
+        {
+          "x": 646.5,
+          "y": 658.0
+        },
+        {
+          "x": 297.5,
+          "y": 660.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_a8659840-9126-4c1f-b038-1bf2283d83f5.jpg",
+    "format": "landscape",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 292.5,
+          "y": 422.0
+        },
+        {
+          "x": 639.5,
+          "y": 428.0
+        },
+        {
+          "x": 646.5,
+          "y": 658.0
+        },
+        {
+          "x": 297.5,
+          "y": 660.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-porto-moniz-volcanic-pools-pressed-porto-moniz-madeira-island-6c945ad8.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-porto-moniz-volcanic-pools-pressed-porto-moniz-madeira-island-6c945ad8.jpg",
+    "location_id": "394500",
+    "location_name": "Porto Moniz (Madeira Island)",
+    "machine": 1,
+    "name": "Porto Moniz Volcanic Pools",
+    "orientation": "landscape",
+    "original_file": "original/location-394500-photo-1-front.jpg",
+    "original_front": "original/location-394500-photo-1-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_a8659840-9126-4c1f-b038-1bf2283d83f5.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=394500#machine-1-position-2",
+    "slug": "portugal-porto-moniz-volcanic-pools-pressed-porto-moniz-madeira-island-6c945ad8",
+    "source_url": "http://locations.pennycollector.com/images/machine_a8659840-9126-4c1f-b038-1bf2283d83f5.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d7dcb7f53936c945ad9": {
+    "centered": true,
+    "city": "Porto Moniz (Madeira Island)",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 3.5,
+          "y": 5.0
+        },
+        {
+          "x": 356.5,
+          "y": 3.0
+        },
+        {
+          "x": 370.5,
+          "y": 237.0
+        },
+        {
+          "x": 2.5,
+          "y": 247.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_a8659840-9126-4c1f-b038-1bf2283d83f5.jpg",
+    "format": "landscape",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 3.5,
+          "y": 5.0
+        },
+        {
+          "x": 356.5,
+          "y": 3.0
+        },
+        {
+          "x": 370.5,
+          "y": 237.0
+        },
+        {
+          "x": 2.5,
+          "y": 247.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-santana-traditional-houses-pressed-porto-moniz-madeira-island.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-santana-traditional-houses-pressed-porto-moniz-madeira-island.jpg",
+    "location_id": "394500",
+    "location_name": "Porto Moniz (Madeira Island)",
+    "machine": 1,
+    "name": "Santana traditional houses",
+    "orientation": "landscape",
+    "original_file": "original/location-394500-photo-1-front.jpg",
+    "original_front": "original/location-394500-photo-1-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_front": "http://locations.pennycollector.com/images/machine_a8659840-9126-4c1f-b038-1bf2283d83f5.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=394500#machine-1-position-3",
+    "slug": "portugal-santana-traditional-houses-pressed-porto-moniz-madeira-island",
+    "source_url": "http://locations.pennycollector.com/images/machine_a8659840-9126-4c1f-b038-1bf2283d83f5.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d7dcb7f53936c945ada": {
+    "centered": false,
+    "city": "Porto Moniz (Madeira Island)",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 294.5,
+          "y": 139.0
+        },
+        {
+          "x": 649.5,
+          "y": 152.0
+        },
+        {
+          "x": 647.5,
+          "y": 390.0
+        },
+        {
+          "x": 295.5,
+          "y": 375.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_a8659840-9126-4c1f-b038-1bf2283d83f5.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 294.5,
+          "y": 139.0
+        },
+        {
+          "x": 649.5,
+          "y": 152.0
+        },
+        {
+          "x": 647.5,
+          "y": 390.0
+        },
+        {
+          "x": 295.5,
+          "y": 375.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-madeira-island-pressed-porto-moniz-madeira-island-6c945ada.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-madeira-island-pressed-porto-moniz-madeira-island-6c945ada.jpg",
+    "location_id": "394500",
+    "location_name": "Porto Moniz (Madeira Island)",
+    "machine": 1,
+    "name": "Madeira Island",
+    "orientation": "landscape",
+    "original_file": "original/location-394500-photo-1-front.jpg",
+    "original_front": "original/location-394500-photo-1-front.jpg",
+    "padding": 4,
+    "position": 4,
+    "previous_front": "http://locations.pennycollector.com/images/machine_a8659840-9126-4c1f-b038-1bf2283d83f5.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=394500#machine-1-position-4",
+    "slug": "portugal-madeira-island-pressed-porto-moniz-madeira-island-6c945ada",
+    "source_url": "http://locations.pennycollector.com/images/machine_a8659840-9126-4c1f-b038-1bf2283d83f5.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
   "6ab65d7f28a53410c79d5e1a": {
     "centered": false,
     "city": "Vila Viçosa ",
