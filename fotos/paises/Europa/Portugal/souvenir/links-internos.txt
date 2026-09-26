@@ -63,6 +63,9 @@ portugal-mary-of-nazareth-with-nossa-senhora-da-nazara-pressed-nazare:
 portugal-nazareth-sanctuary-with-santuario-nazare-pressed-nazare:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-nazareth-sanctuary-with-santuario-nazare-pressed-nazare.jpg
 
+portugal-nossa-senhora-da-conceicao-padroeira-de-portugal-pressed-vila-vicosa:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-nossa-senhora-da-conceicao-padroeira-de-portugal-pressed-vila-vicosa.jpg
+
 portugal-nossa-senhora-do-livramento-pressed-curral-das-freiras-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-nossa-senhora-do-livramento-pressed-curral-das-freiras-madeira-island.jpg
 
@@ -86,6 +89,9 @@ portugal-santa-maria-da-vitoria-batalha-monastery-with-batalha-pressed-batalha:
 
 portugal-santana-traditional-house-pressed-curral-das-freiras-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-santana-traditional-house-pressed-curral-das-freiras-madeira-island.jpg
+
+portugal-santuario-nacional-de-vila-vicosa-pressed-vila-vicosa:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-santuario-nacional-de-vila-vicosa-pressed-vila-vicosa.jpg
 
 portugal-seahorse-pressed-faro:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-seahorse-pressed-faro.jpg

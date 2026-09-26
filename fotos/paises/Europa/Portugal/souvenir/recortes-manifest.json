@@ -1989,5 +1989,159 @@
     "slug": "portugal-pictorial-of-the-virgin-mary-intercession-with-milagre-pressed-nazare",
     "source_url": "http://locations.pennycollector.com/images/machine_f126aaea-515d-490d-adc6-fd6f5f29bf98.jpg",
     "type": "pressed"
+  },
+  "6ab65d7f28a53410c79d5e1a": {
+    "centered": false,
+    "city": "Vila Viçosa ",
+    "cleaned": false,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 344.5,
+          "y": 6.5
+        },
+        {
+          "x": 545.5,
+          "y": 0.5
+        },
+        {
+          "x": 544.5,
+          "y": 326.5
+        },
+        {
+          "x": 362.5,
+          "y": 325.5
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_bf94b617-7017-46de-a800-c347ef552ba1.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": false,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 344.5,
+          "y": 6.5
+        },
+        {
+          "x": 545.5,
+          "y": 0.5
+        },
+        {
+          "x": 544.5,
+          "y": 326.5
+        },
+        {
+          "x": 362.5,
+          "y": 325.5
+        }
+      ]
+    },
+    "front_file": "frente/portugal-nossa-senhora-da-conceicao-padroeira-de-portugal-pressed-vila-vicosa.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-nossa-senhora-da-conceicao-padroeira-de-portugal-pressed-vila-vicosa.jpg",
+    "location_id": "287378",
+    "location_name": "Igreja de Nsa. Sra. da Conceição (Church)",
+    "machine": 1,
+    "name": "Nossa Senhora da Conceicao Padroeira De Portugal",
+    "orientation": "portrait",
+    "original_file": "original/location-287378-photo-1-front.jpg",
+    "original_front": "original/location-287378-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_bf94b617-7017-46de-a800-c347ef552ba1.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287378#machine-1-position-1",
+    "slug": "portugal-nossa-senhora-da-conceicao-padroeira-de-portugal-pressed-vila-vicosa",
+    "source_url": "http://locations.pennycollector.com/images/machine_bf94b617-7017-46de-a800-c347ef552ba1.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d7f28a53410c79d5e1b": {
+    "centered": true,
+    "city": "Vila Viçosa ",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 0.5,
+          "y": 58.5
+        },
+        {
+          "x": 348.5,
+          "y": 71.5
+        },
+        {
+          "x": 343.5,
+          "y": 258.5
+        },
+        {
+          "x": 6.5,
+          "y": 274.5
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_bf94b617-7017-46de-a800-c347ef552ba1.jpg",
+    "format": "landscape",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 0.5,
+          "y": 58.5
+        },
+        {
+          "x": 348.5,
+          "y": 71.5
+        },
+        {
+          "x": 343.5,
+          "y": 258.5
+        },
+        {
+          "x": 6.5,
+          "y": 274.5
+        }
+      ]
+    },
+    "front_file": "frente/portugal-santuario-nacional-de-vila-vicosa-pressed-vila-vicosa.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-santuario-nacional-de-vila-vicosa-pressed-vila-vicosa.jpg",
+    "location_id": "287378",
+    "location_name": "Igreja de Nsa. Sra. da Conceição (Church)",
+    "machine": 1,
+    "name": "Santuário Nacional De Vila Viçosa",
+    "orientation": "landscape",
+    "original_file": "original/location-287378-photo-1-front.jpg",
+    "original_front": "original/location-287378-photo-1-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_bf94b617-7017-46de-a800-c347ef552ba1.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287378#machine-1-position-2",
+    "slug": "portugal-santuario-nacional-de-vila-vicosa-pressed-vila-vicosa",
+    "source_url": "http://locations.pennycollector.com/images/machine_bf94b617-7017-46de-a800-c347ef552ba1.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
   }
 }
