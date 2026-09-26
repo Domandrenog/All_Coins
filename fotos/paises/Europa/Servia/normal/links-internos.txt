@@ -1,0 +1,483 @@
+serbia-1-dinar-1942:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/serbia-1-dinar-1942.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/serbia-1-dinar-1942.jpg
+
+serbia-1-dinar-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/serbia-1-dinar-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/serbia-1-dinar-2003.jpg
+
+serbia-1-dinar-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/serbia-1-dinar-2005.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/serbia-1-dinar-2005.jpg
+
+serbia-1-dinar-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/serbia-1-dinar-2009.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/serbia-1-dinar-2009.jpg
+
+serbia-1-dinar-2016:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/serbia-1-dinar-2016.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/serbia-1-dinar-2016.jpg
+
+serbia-10-dinara-1943:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/serbia-10-dinara-1943.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/serbia-10-dinara-1943.jpg
+
+serbia-10-dinara-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/serbia-10-dinara-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/serbia-10-dinara-2003.jpg
+
+serbia-10-dinara-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/serbia-10-dinara-2005.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/serbia-10-dinara-2005.jpg
+
+serbia-10-dinara-2012:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/serbia-10-dinara-2012.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/serbia-10-dinara-2012.jpg
+
+serbia-2-dinara-1942:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/serbia-2-dinara-1942.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/serbia-2-dinara-1942.jpg
+
+serbia-2-dinara-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/serbia-2-dinara-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/serbia-2-dinara-2003.jpg
+
+serbia-2-dinara-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/serbia-2-dinara-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/serbia-2-dinara-2006.jpg
+
+serbia-2-dinara-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/serbia-2-dinara-2009.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/serbia-2-dinara-2009.jpg
+
+serbia-2-dinara-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/serbia-2-dinara-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/serbia-2-dinara-2023.jpg
+
+serbia-20-dinara-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/serbia-20-dinara-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/serbia-20-dinara-2003.jpg
+
+serbia-20-dinara-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/serbia-20-dinara-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/serbia-20-dinara-2006.jpg
+
+serbia-20-dinara-2007:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/serbia-20-dinara-2007.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/serbia-20-dinara-2007.jpg
+
+serbia-20-dinara-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/serbia-20-dinara-2009.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/serbia-20-dinara-2009.jpg
+
+serbia-20-dinara-2010:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/serbia-20-dinara-2010.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/serbia-20-dinara-2010.jpg
+
+serbia-20-dinara-2011:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/serbia-20-dinara-2011.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/serbia-20-dinara-2011.jpg
+
+serbia-20-dinara-2012:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/serbia-20-dinara-2012.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/serbia-20-dinara-2012.jpg
+
+serbia-5-dinara-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/serbia-5-dinara-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/serbia-5-dinara-2003.jpg
+
+serbia-5-dinara-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/serbia-5-dinara-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/serbia-5-dinara-2006.jpg
+
+serbia-5-dinara-2012:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/serbia-5-dinara-2012.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/serbia-5-dinara-2012.jpg
+
+serbia-5-dinara-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/serbia-5-dinara-2018.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/serbia-5-dinara-2018.jpg
+
+serbia-50-para-1942:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/serbia-50-para-1942.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/serbia-50-para-1942.jpg
+
+yugoslavia-1-dinar-1925:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-1-dinar-1925.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-1-dinar-1925.jpg
+
+yugoslavia-1-dinar-1938:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-1-dinar-1938.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-1-dinar-1938.jpg
+
+yugoslavia-1-dinar-1945:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-1-dinar-1945.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-1-dinar-1945.jpg
+
+yugoslavia-1-dinar-1953:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-1-dinar-1953.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-1-dinar-1953.jpg
+
+yugoslavia-1-dinar-1963:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-1-dinar-1963.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-1-dinar-1963.jpg
+
+yugoslavia-1-dinar-1965:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-1-dinar-1965.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-1-dinar-1965.jpg
+
+yugoslavia-1-dinar-1968:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-1-dinar-1968.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-1-dinar-1968.jpg
+
+yugoslavia-1-dinar-1974:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-1-dinar-1974.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-1-dinar-1974.jpg
+
+yugoslavia-1-dinar-1984:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-1-dinar-1984.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-1-dinar-1984.jpg
+
+yugoslavia-1-dinar-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-1-dinar-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-1-dinar-1991.jpg
+
+yugoslavia-1-dinar-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-1-dinar-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-1-dinar-1992.jpg
+
+yugoslavia-1-dinar-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-1-dinar-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-1-dinar-1993.jpg
+
+yugoslavia-1-dinar-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-1-dinar-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-1-dinar-1994.jpg
+
+yugoslavia-1-dinar-2000:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-1-dinar-2000.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-1-dinar-2000.jpg
+
+yugoslavia-1-dukat-1931:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-1-dukat-1931.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-1-dukat-1931.jpg
+
+yugoslavia-1-novi-dinar-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-1-novi-dinar-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-1-novi-dinar-1994.jpg
+
+yugoslavia-1-novi-dinar-1996:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-1-novi-dinar-1996.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-1-novi-dinar-1996.jpg
+
+yugoslavia-1-para-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-1-para-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-1-para-1994.jpg
+
+yugoslavia-10-dinara-1931:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-10-dinara-1931.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-10-dinara-1931.jpg
+
+yugoslavia-10-dinara-1938:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-10-dinara-1938.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-10-dinara-1938.jpg
+
+yugoslavia-10-dinara-1955:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-10-dinara-1955.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-10-dinara-1955.jpg
+
+yugoslavia-10-dinara-1963:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-10-dinara-1963.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-10-dinara-1963.jpg
+
+yugoslavia-10-dinara-1978:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-10-dinara-1978.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-10-dinara-1978.jpg
+
+yugoslavia-10-dinara-1986:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-10-dinara-1986.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-10-dinara-1986.jpg
+
+yugoslavia-10-dinara-1989:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-10-dinara-1989.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-10-dinara-1989.jpg
+
+yugoslavia-10-dinara-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-10-dinara-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-10-dinara-1992.jpg
+
+yugoslavia-10-dinara-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-10-dinara-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-10-dinara-1993.jpg
+
+yugoslavia-10-para-1920:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-10-para-1920.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-10-para-1920.jpg
+
+yugoslavia-10-para-1977:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-10-para-1977.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-10-para-1977.jpg
+
+yugoslavia-10-para-1990:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-10-para-1990.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-10-para-1990.jpg
+
+yugoslavia-10-para-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-10-para-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-10-para-1994.jpg
+
+yugoslavia-10-para-1995:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-10-para-1995.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-10-para-1995.jpg
+
+yugoslavia-10-para-1997:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-10-para-1997.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-10-para-1997.jpg
+
+yugoslavia-100-dinara-1988-100-dinar-1985-1988-iugoslavia-socialista:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-100-dinara-1988-100-dinar-1985-1988-iugoslavia-socialista.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-100-dinara-1988-100-dinar-1985-1988-iugoslavia-socialista.jpg
+
+yugoslavia-100-dinara-1988-100-dinar-1988-1989-iugoslavia-socialista:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-100-dinara-1988-100-dinar-1988-1989-iugoslavia-socialista.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-100-dinara-1988-100-dinar-1988-1989-iugoslavia-socialista.jpg
+
+yugoslavia-100-dinara-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-100-dinara-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-100-dinara-1993.jpg
+
+yugoslavia-2-dinara-1925:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-2-dinara-1925.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-2-dinara-1925.jpg
+
+yugoslavia-2-dinara-1938-2-dinar-1938-reino-da-iugoslavia:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-2-dinara-1938-2-dinar-1938-reino-da-iugoslavia.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-2-dinara-1938-2-dinar-1938-reino-da-iugoslavia.jpg
+
+yugoslavia-2-dinara-1938-2-dinar-1938-reino-da-iugoslavia-139fce9b:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-2-dinara-1938-2-dinar-1938-reino-da-iugoslavia-139fce9b.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-2-dinara-1938-2-dinar-1938-reino-da-iugoslavia-139fce9b.jpg
+
+yugoslavia-2-dinara-1945:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-2-dinara-1945.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-2-dinara-1945.jpg
+
+yugoslavia-2-dinara-1953:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-2-dinara-1953.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-2-dinara-1953.jpg
+
+yugoslavia-2-dinara-1963:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-2-dinara-1963.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-2-dinara-1963.jpg
+
+yugoslavia-2-dinara-1971:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-2-dinara-1971.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-2-dinara-1971.jpg
+
+yugoslavia-2-dinara-1982:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-2-dinara-1982.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-2-dinara-1982.jpg
+
+yugoslavia-2-dinara-1990:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-2-dinara-1990.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-2-dinara-1990.jpg
+
+yugoslavia-2-dinara-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-2-dinara-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-2-dinara-1992.jpg
+
+yugoslavia-2-dinara-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-2-dinara-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-2-dinara-1993.jpg
+
+yugoslavia-2-dinara-2000:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-2-dinara-2000.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-2-dinara-2000.jpg
+
+yugoslavia-20-dinara-1925:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-20-dinara-1925.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-20-dinara-1925.jpg
+
+yugoslavia-20-dinara-1931:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-20-dinara-1931.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-20-dinara-1931.jpg
+
+yugoslavia-20-dinara-1938:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-20-dinara-1938.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-20-dinara-1938.jpg
+
+yugoslavia-20-dinara-1955:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-20-dinara-1955.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-20-dinara-1955.jpg
+
+yugoslavia-20-dinara-1963:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-20-dinara-1963.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-20-dinara-1963.jpg
+
+yugoslavia-20-dinara-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-20-dinara-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-20-dinara-1987.jpg
+
+yugoslavia-20-dinara-1989:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-20-dinara-1989.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-20-dinara-1989.jpg
+
+yugoslavia-20-para-1980:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-20-para-1980.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-20-para-1980.jpg
+
+yugoslavia-20-para-1990:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-20-para-1990.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-20-para-1990.jpg
+
+yugoslavia-25-para-1920:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-25-para-1920.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-25-para-1920.jpg
+
+yugoslavia-25-para-1938:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-25-para-1938.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-25-para-1938.jpg
+
+yugoslavia-25-para-1982:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-25-para-1982.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-25-para-1982.jpg
+
+yugoslavia-4-dukat-1931:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-4-dukat-1931.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-4-dukat-1931.jpg
+
+yugoslavia-5-dinara-1945:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-5-dinara-1945.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-5-dinara-1945.jpg
+
+yugoslavia-5-dinara-1953:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-5-dinara-1953.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-5-dinara-1953.jpg
+
+yugoslavia-5-dinara-1963:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-5-dinara-1963.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-5-dinara-1963.jpg
+
+yugoslavia-5-dinara-1975:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-5-dinara-1975.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-5-dinara-1975.jpg
+
+yugoslavia-5-dinara-1983:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-5-dinara-1983.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-5-dinara-1983.jpg
+
+yugoslavia-5-dinara-1990:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-5-dinara-1990.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-5-dinara-1990.jpg
+
+yugoslavia-5-dinara-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-5-dinara-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-5-dinara-1992.jpg
+
+yugoslavia-5-dinara-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-5-dinara-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-5-dinara-1993.jpg
+
+yugoslavia-5-dinara-2000:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-5-dinara-2000.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-5-dinara-2000.jpg
+
+yugoslavia-5-para-1920:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-5-para-1920.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-5-para-1920.jpg
+
+yugoslavia-5-para-1965:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-5-para-1965.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-5-para-1965.jpg
+
+yugoslavia-5-para-1979:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-5-para-1979.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-5-para-1979.jpg
+
+yugoslavia-5-para-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-5-para-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-5-para-1994.jpg
+
+yugoslavia-5-para-1996:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-5-para-1996.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-5-para-1996.jpg
+
+yugoslavia-50-dinara-1932:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-50-dinara-1932.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-50-dinara-1932.jpg
+
+yugoslavia-50-dinara-1938:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-50-dinara-1938.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-50-dinara-1938.jpg
+
+yugoslavia-50-dinara-1955:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-50-dinara-1955.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-50-dinara-1955.jpg
+
+yugoslavia-50-dinara-1963:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-50-dinara-1963.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-50-dinara-1963.jpg
+
+yugoslavia-50-dinara-1988-50-dinar-1985-1988-iugoslavia-socialista:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-50-dinara-1988-50-dinar-1985-1988-iugoslavia-socialista.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-50-dinara-1988-50-dinar-1985-1988-iugoslavia-socialista.jpg
+
+yugoslavia-50-dinara-1988-50-dinar-1988-1989-iugoslavia-socialista:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-50-dinara-1988-50-dinar-1988-1989-iugoslavia-socialista.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-50-dinara-1988-50-dinar-1988-1989-iugoslavia-socialista.jpg
+
+yugoslavia-50-dinara-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-50-dinara-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-50-dinara-1992.jpg
+
+yugoslavia-50-dinara-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-50-dinara-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-50-dinara-1993.jpg
+
+yugoslavia-50-para-1925:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-50-para-1925.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-50-para-1925.jpg
+
+yugoslavia-50-para-1938:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-50-para-1938.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-50-para-1938.jpg
+
+yugoslavia-50-para-1945:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-50-para-1945.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-50-para-1945.jpg
+
+yugoslavia-50-para-1953:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-50-para-1953.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-50-para-1953.jpg
+
+yugoslavia-50-para-1981:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-50-para-1981.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-50-para-1981.jpg
+
+yugoslavia-50-para-1983:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-50-para-1983.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-50-para-1983.jpg
+
+yugoslavia-50-para-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-50-para-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-50-para-1991.jpg
+
+yugoslavia-50-para-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-50-para-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-50-para-1994.jpg
+
+yugoslavia-50-para-1995:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-50-para-1995.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-50-para-1995.jpg
+
+yugoslavia-50-para-1998:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-50-para-1998.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-50-para-1998.jpg
+
+yugoslavia-50-para-2000:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-50-para-2000.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-50-para-2000.jpg
+
+yugoslavia-500-dinara-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/frente/yugoslavia-500-dinara-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Servia/normal/tras/yugoslavia-500-dinara-1993.jpg
