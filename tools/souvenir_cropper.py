@@ -463,11 +463,13 @@ function renderMachineGallery() {
     .sort((left, right) => left.position - right.position)
     .forEach(record => {
       const index = records.findIndex(candidate => candidate.id === record.id);
+      const side = record.side === 'back' ? 'Verso' : 'Frente';
+      const displayName = record.display_name || `${side} — ${record.name}`;
       const article = document.createElement('article');
       article.className = `coin-card${record.prepared ? ' prepared' : ''}${currentRecord && currentRecord.id === record.id ? ' active' : ''}`;
       article.tabIndex = 0;
       article.setAttribute('role', 'button');
-      article.setAttribute('aria-label', `Selecionar posição ${record.position}: ${record.name}`);
+      article.setAttribute('aria-label', `Selecionar posição ${record.position}: ${displayName}`);
       const thumbnail = document.createElement(record.prepared && record.output_url ? 'img' : 'span');
       thumbnail.className = 'coin-thumb';
       if (record.prepared && record.output_url) {
@@ -478,8 +480,7 @@ function renderMachineGallery() {
       }
       const details = document.createElement('div');
       const name = document.createElement('strong');
-      const side = record.side === 'back' ? 'Verso' : 'Frente';
-      name.textContent = `${record.name} · ${side}`;
+      name.textContent = displayName;
       const state = document.createElement('small');
       state.className = 'coin-state';
       const formatLabel = record.format === 'square' ? 'Quadrado' : (record.format === 'portrait' ? 'Em pé' : 'Deitada');
@@ -530,7 +531,7 @@ async function selectRecord(index) {
   const machineItems = recordsForMachine(currentMachine);
   const numberInMachine = machineItems.findIndex(record => record.id === currentRecord.id) + 1;
   assignment.textContent =
-    `Recorta este souvenir · ${currentRecord.side === 'back' ? 'Verso' : 'Frente'}:\n${currentRecord.name}\nTipo: ${currentRecord.type} · Formato: ${currentRecord.format}\n${currentRecord.photo_label} · Posição ${currentRecord.position}\n` +
+    `Recorta este souvenir:\n${currentRecord.display_name || currentRecord.name}\nTipo: ${currentRecord.type} · Formato: ${currentRecord.format}\n${currentRecord.photo_label} · Posição ${currentRecord.position}\n` +
     `Nesta fotografia: ${numberInMachine}/${machineItems.length}`;
   statusBox.textContent = 'A carregar a fotografia deste lado…';
   const response = await fetch(`/api/record-source/${encodeURIComponent(currentRecord.id)}`);
@@ -954,6 +955,39 @@ fetch('/api/bootstrap').then(response => response.json()).then(async result => {
 def slugify(value: str) -> str:
     normalized = unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode()
     return re.sub(r"[^a-z0-9]+", "-", normalized.lower()).strip("-") or "recorte"
+
+def side_display_name(record: dict[str, object]) -> str:
+    side = str(record.get("_side") or record.get("side") or "front")
+    label = "Verso" if side == "back" else "Frente"
+    description = str(record.get("description") or "").strip()
+    if side == "back" and description:
+        match = re.search(
+            r"(?:^|\s*/\s*)(?:back|rear|reverse|verso)(?:\s+[^:]*)?\s*:\s*(.+)$",
+            description,
+            re.IGNORECASE,
+        )
+        if match:
+            return f"{label} — {match.group(1).strip()}"
+    if side == "front" and description:
+        match = re.search(
+            r"^\s*(?:front|obverse|frente)\s*:\s*(.*?)"
+            r"(?=\s*/\s*(?:back|rear|reverse|verso)(?:\s+[^:]*)?\s*:|$)",
+            description,
+            re.IGNORECASE,
+        )
+        if match and match.group(1).strip():
+            return f"{label} — {match.group(1).strip()}"
+    name = str(record.get("name") or "Sem nome").strip()
+    cleaned = re.sub(
+        r"^\s*(?:front|obverse|frente|back|rear|reverse|verso)"
+        r"(?:\s+[^:]*)?\s*:\s*",
+        "",
+        name,
+        count=1,
+        flags=re.IGNORECASE,
+    ).strip()
+    return f"{label} — {cleaned or name}"
+
 
 def record_location_id(record: dict[str, object]) -> str:
     query = parse_qs(urlparse(str(record.get("reference_url") or "")).query)
@@ -1652,6 +1686,7 @@ class Handler(BaseHTTPRequestHandler):
             "record_id": str(record["_record_id"]),
             "side": str(record["_side"]),
             "name": str(record.get("name") or "Sem nome"),
+            "display_name": side_display_name(record),
             "description": str(record.get("description") or ""),
             "type": str(record.get("type") or ""),
             "display_shape": str(record.get("display_shape") or ""),

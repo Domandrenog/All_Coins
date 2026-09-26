@@ -14,6 +14,7 @@ from tools.souvenir_cropper import (
     load_pending_souvenirs,
     manifest_entry_for_task,
     read_type_overrides,
+    side_display_name,
     write_type_override,
 )
 from tools.souvenir_formats import crop_size
@@ -127,6 +128,38 @@ class MultiSideTaskTests(unittest.TestCase):
             {task["_photo_label"] for task in tasks},
             {"Fotografia 1 · Frente e Verso"},
         )
+
+
+class SideDisplayNameTests(unittest.TestCase):
+    def test_uses_front_and_reverse_parts_from_shared_description(self):
+        base = {
+            "name": "Front: (Gold colored) Entry building…",
+            "description": (
+                "Front: (Gold colored) Entry building to children's theme park "
+                "/ Reverse for both tokens: Eight stars surrounding Portugal"
+            ),
+        }
+
+        front = side_display_name({**base, "_side": "front"})
+        back = side_display_name({**base, "_side": "back"})
+
+        self.assertEqual(
+            front,
+            "Frente — (Gold colored) Entry building to children's theme park",
+        )
+        self.assertEqual(
+            back,
+            "Verso — Eight stars surrounding Portugal",
+        )
+
+    def test_back_fallback_replaces_misleading_front_prefix(self):
+        result = side_display_name({
+            "_side": "back",
+            "name": "Front: Coimbra token",
+            "description": "",
+        })
+
+        self.assertEqual(result, "Verso — Coimbra token")
 
 
 class TypeOverrideTaskTests(unittest.TestCase):
