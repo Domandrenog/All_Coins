@@ -8531,6 +8531,237 @@
     "type": "pressed",
     "type_was_overridden": false
   },
+  "6ab65d7f28a53410c79d5e13": {
+    "centered": true,
+    "city": "Sesimbra",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 281.5,
+          "y": 1.0
+        },
+        {
+          "x": 630.5,
+          "y": 4.0
+        },
+        {
+          "x": 642.5,
+          "y": 217.0
+        },
+        {
+          "x": 286.5,
+          "y": 209.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_1de6e849-bac5-4785-b666-96acf8bb4fd9.jpg",
+    "format": "landscape",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 281.5,
+          "y": 1.0
+        },
+        {
+          "x": 630.5,
+          "y": 4.0
+        },
+        {
+          "x": 642.5,
+          "y": 217.0
+        },
+        {
+          "x": 286.5,
+          "y": 209.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-cabo-espichel-portugal-pressed-sesimbra-c79d5e13.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-cabo-espichel-portugal-pressed-sesimbra-c79d5e13.jpg",
+    "location_id": "464184",
+    "location_name": "I Love Espichel Coffee Shop - Cabo Espichel",
+    "machine": 1,
+    "name": "Cabo Espichel, Portugal",
+    "orientation": "landscape",
+    "original_file": "original/location-464184-photo-1-front.jpg",
+    "original_front": "original/location-464184-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_1de6e849-bac5-4785-b666-96acf8bb4fd9.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=464184#machine-1-position-1",
+    "slug": "portugal-cabo-espichel-portugal-pressed-sesimbra-c79d5e13",
+    "source_url": "http://locations.pennycollector.com/images/machine_1de6e849-bac5-4785-b666-96acf8bb4fd9.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d7f28a53410c79d5e14": {
+    "centered": false,
+    "city": "Sesimbra",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 280.5,
+          "y": 360.0
+        },
+        {
+          "x": 643.5,
+          "y": 346.0
+        },
+        {
+          "x": 647.5,
+          "y": 560.0
+        },
+        {
+          "x": 280.5,
+          "y": 566.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_1de6e849-bac5-4785-b666-96acf8bb4fd9.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 280.5,
+          "y": 360.0
+        },
+        {
+          "x": 643.5,
+          "y": 346.0
+        },
+        {
+          "x": 647.5,
+          "y": 560.0
+        },
+        {
+          "x": 280.5,
+          "y": 566.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-i-love-espichel-pressed-sesimbra.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-i-love-espichel-pressed-sesimbra.jpg",
+    "location_id": "464184",
+    "location_name": "I Love Espichel Coffee Shop - Cabo Espichel",
+    "machine": 1,
+    "name": "I Love Espichel",
+    "orientation": "landscape",
+    "original_file": "original/location-464184-photo-1-front.jpg",
+    "original_front": "original/location-464184-photo-1-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_1de6e849-bac5-4785-b666-96acf8bb4fd9.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=464184#machine-1-position-2",
+    "slug": "portugal-i-love-espichel-pressed-sesimbra",
+    "source_url": "http://locations.pennycollector.com/images/machine_1de6e849-bac5-4785-b666-96acf8bb4fd9.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d7f28a53410c79d5e15": {
+    "centered": false,
+    "city": "Sesimbra",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 0.0,
+          "y": 162.0
+        },
+        {
+          "x": 386.5,
+          "y": 168.0
+        },
+        {
+          "x": 381.5,
+          "y": 398.0
+        },
+        {
+          "x": 3.5,
+          "y": 406.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_1de6e849-bac5-4785-b666-96acf8bb4fd9.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 0.0,
+          "y": 162.0
+        },
+        {
+          "x": 386.5,
+          "y": 168.0
+        },
+        {
+          "x": 381.5,
+          "y": 398.0
+        },
+        {
+          "x": 3.5,
+          "y": 406.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-cabo-espichel-portugal-pressed-sesimbra-c79d5e15.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-cabo-espichel-portugal-pressed-sesimbra-c79d5e15.jpg",
+    "location_id": "464184",
+    "location_name": "I Love Espichel Coffee Shop - Cabo Espichel",
+    "machine": 1,
+    "name": "Cabo Espichel, Portugal",
+    "orientation": "landscape",
+    "original_file": "original/location-464184-photo-1-front.jpg",
+    "original_front": "original/location-464184-photo-1-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_front": "http://locations.pennycollector.com/images/machine_1de6e849-bac5-4785-b666-96acf8bb4fd9.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=464184#machine-1-position-3",
+    "slug": "portugal-cabo-espichel-portugal-pressed-sesimbra-c79d5e15",
+    "source_url": "http://locations.pennycollector.com/images/machine_1de6e849-bac5-4785-b666-96acf8bb4fd9.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
   "6ab65d7f28a53410c79d5e16": {
     "centered": false,
     "city": "Tomar",

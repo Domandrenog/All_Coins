@@ -41,6 +41,12 @@ portugal-building-pressed-faro:
 portugal-building-pressed-funchal-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_e520c271-208e-45e1-a87f-16992f39b427.jpg
 
+portugal-cabo-espichel-portugal-pressed-sesimbra-c79d5e13:
+  frente: http://locations.pennycollector.com/images/machine_1de6e849-bac5-4785-b666-96acf8bb4fd9.jpg
+
+portugal-cabo-espichel-portugal-pressed-sesimbra-c79d5e15:
+  frente: http://locations.pennycollector.com/images/machine_1de6e849-bac5-4785-b666-96acf8bb4fd9.jpg
+
 portugal-cabo-giro-from-camara-dos-lobos-pressed-camara-dos-lobos-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_b2e86ff2-1fee-4d1d-9c13-0ce5e86b9ed4.jpg
 
@@ -162,6 +168,9 @@ portugal-guimaraes-pressed-guimaraes:
 
 portugal-holy-queen-isabella-with-rainha-santa-isabel-coimbra-pressed-coimbra:
   frente: http://locations.pennycollector.com/images/machine_666e529e-ddb3-4dbb-9fa1-caa02b212acf.jpg
+
+portugal-i-love-espichel-pressed-sesimbra:
+  frente: http://locations.pennycollector.com/images/machine_1de6e849-bac5-4785-b666-96acf8bb4fd9.jpg
 
 portugal-image-of-a-woman-praying-with-n-sra-de-fatima-pressed-fatima:
   frente: http://locations.pennycollector.com/images/machine_5ce7d575-ab3b-49f8-9faa-9324a02e5739.jpg

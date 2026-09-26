@@ -41,6 +41,12 @@ portugal-building-pressed-faro:
 portugal-building-pressed-funchal-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-building-pressed-funchal-madeira-island.jpg
 
+portugal-cabo-espichel-portugal-pressed-sesimbra-c79d5e13:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-cabo-espichel-portugal-pressed-sesimbra-c79d5e13.jpg
+
+portugal-cabo-espichel-portugal-pressed-sesimbra-c79d5e15:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-cabo-espichel-portugal-pressed-sesimbra-c79d5e15.jpg
+
 portugal-cabo-giro-from-camara-dos-lobos-pressed-camara-dos-lobos-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-cabo-giro-from-camara-dos-lobos-pressed-camara-dos-lobos-madeira-island.jpg
 
@@ -162,6 +168,9 @@ portugal-guimaraes-pressed-guimaraes:
 
 portugal-holy-queen-isabella-with-rainha-santa-isabel-coimbra-pressed-coimbra:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-holy-queen-isabella-with-rainha-santa-isabel-coimbra-pressed-coimbra.jpg
+
+portugal-i-love-espichel-pressed-sesimbra:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-i-love-espichel-pressed-sesimbra.jpg
 
 portugal-image-of-a-woman-praying-with-n-sra-de-fatima-pressed-fatima:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-image-of-a-woman-praying-with-n-sra-de-fatima-pressed-fatima.jpg
