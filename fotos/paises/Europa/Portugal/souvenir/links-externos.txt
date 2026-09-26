@@ -54,6 +54,9 @@ portugal-front-batalha-monastery-building-with-mosteiro-da-coin-batalha:
   frente: http://locations.pennycollector.com/images/machine_2cf1b858-80f2-461c-8f8f-e6265a03000b.jpg
   tras: http://locations.pennycollector.com/images/machine_2cf1b858-80f2-461c-8f8f-e6265a03000b.jpg
 
+portugal-front-facade-of-the-old-cathedral-building-with-se-pressed-coimbra:
+  frente: http://locations.pennycollector.com/images/machine_c5153f93-3398-469f-9470-0354cc4b2d7f.jpg
+
 portugal-gao-de-barcelos-pressed-guimaraes:
   frente: http://locations.pennycollector.com/images/machine_8155d1b3-d605-43c5-b12a-6d3ba169c643.jpg
 

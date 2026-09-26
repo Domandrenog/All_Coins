@@ -1135,6 +1135,83 @@
     "type": "pressed",
     "type_was_overridden": false
   },
+  "6ab65d6976ee7bd0f81ea613": {
+    "centered": false,
+    "city": "Coimbra",
+    "cleaned": false,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 251.5,
+          "y": 394.0
+        },
+        {
+          "x": 603.5,
+          "y": 392.0
+        },
+        {
+          "x": 612.5,
+          "y": 644.0
+        },
+        {
+          "x": 261.5,
+          "y": 615.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_c5153f93-3398-469f-9470-0354cc4b2d7f.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": false,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 251.5,
+          "y": 394.0
+        },
+        {
+          "x": 603.5,
+          "y": 392.0
+        },
+        {
+          "x": 612.5,
+          "y": 644.0
+        },
+        {
+          "x": 261.5,
+          "y": 615.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-front-facade-of-the-old-cathedral-building-with-se-pressed-coimbra.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-front-facade-of-the-old-cathedral-building-with-se-pressed-coimbra.jpg",
+    "location_id": "287464",
+    "location_name": "Sé Velha De Coimbra (Old Cathedral of Coimbra)",
+    "machine": 1,
+    "name": "Front facade of the old Cathedral building with 'Sé…",
+    "orientation": "landscape",
+    "original_file": "original/location-287464-photo-1-front.jpg",
+    "original_front": "original/location-287464-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_c5153f93-3398-469f-9470-0354cc4b2d7f.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287464#machine-2-position-1",
+    "slug": "portugal-front-facade-of-the-old-cathedral-building-with-se-pressed-coimbra",
+    "source_url": "http://locations.pennycollector.com/images/machine_c5153f93-3398-469f-9470-0354cc4b2d7f.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
   "6ab65d6b76464c0879ad1241": {
     "centered": true,
     "city": "Curral Das Freiras (Madeira Island)",

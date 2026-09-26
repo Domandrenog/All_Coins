@@ -54,6 +54,9 @@ portugal-front-batalha-monastery-building-with-mosteiro-da-coin-batalha:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-front-batalha-monastery-building-with-mosteiro-da-coin-batalha.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-front-batalha-monastery-building-with-mosteiro-da-coin-batalha.jpg
 
+portugal-front-facade-of-the-old-cathedral-building-with-se-pressed-coimbra:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-front-facade-of-the-old-cathedral-building-with-se-pressed-coimbra.jpg
+
 portugal-gao-de-barcelos-pressed-guimaraes:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-gao-de-barcelos-pressed-guimaraes.jpg
 
