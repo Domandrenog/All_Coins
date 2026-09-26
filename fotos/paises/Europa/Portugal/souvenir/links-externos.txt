@@ -81,6 +81,9 @@ portugal-nazareth-sanctuary-with-santuario-nazare-pressed-nazare:
 portugal-nossa-senhora-da-conceicao-padroeira-de-portugal-pressed-vila-vicosa:
   frente: http://locations.pennycollector.com/images/machine_bf94b617-7017-46de-a800-c347ef552ba1.jpg
 
+portugal-nossa-senhora-de-braga-pressed-braga:
+  frente: http://locations.pennycollector.com/images/machine_a67d8226-db57-4f95-bd63-3dd77510139d.jpg
+
 portugal-nossa-senhora-do-livramento-pressed-curral-das-freiras-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_f2e9dd34-0e11-4789-82af-7d79f16c8f13.jpg
 
@@ -99,6 +102,9 @@ portugal-pictorial-of-the-virgin-mary-intercession-with-milagre-pressed-nazare:
 portugal-portugal-pressed-albufeira:
   frente: http://locations.pennycollector.com/images/machine_feda9006-4058-4d9d-bd3f-b8439c77e928.jpg
 
+portugal-s-judas-tadeu-pressed-braga:
+  frente: http://locations.pennycollector.com/images/machine_a67d8226-db57-4f95-bd63-3dd77510139d.jpg
+
 portugal-santa-maria-da-vitoria-batalha-monastery-with-batalha-pressed-batalha:
   frente: http://locations.pennycollector.com/images/machine_4080a7e5-e914-4d19-acac-9bfe9fd4e953.jpg
 
@@ -114,11 +120,17 @@ portugal-santuario-da-penha-guimaraes-pressed-guimaraes:
 portugal-santuario-nacional-de-vila-vicosa-pressed-vila-vicosa:
   frente: http://locations.pennycollector.com/images/machine_bf94b617-7017-46de-a800-c347ef552ba1.jpg
 
+portugal-se-de-braga-pressed-braga:
+  frente: http://locations.pennycollector.com/images/machine_a67d8226-db57-4f95-bd63-3dd77510139d.jpg
+
 portugal-seahorse-pressed-faro:
   frente: http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg
 
 portugal-senhora-fatima-with-na-sra-de-fatima-pressed-batalha:
   frente: http://locations.pennycollector.com/images/machine_4080a7e5-e914-4d19-acac-9bfe9fd4e953.jpg
+
+portugal-sto-antonio-pressed-braga:
+  frente: http://locations.pennycollector.com/images/machine_a67d8226-db57-4f95-bd63-3dd77510139d.jpg
 
 portugal-telescope-pressed-faro:
   frente: http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg

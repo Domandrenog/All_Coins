@@ -827,6 +827,314 @@
     "source_url": "http://locations.pennycollector.com/images/machine_2cf1b858-80f2-461c-8f8f-e6265a03000b.jpg",
     "type": "coin"
   },
+  "6ab65d65fd6f8dd10d7ffa46": {
+    "centered": false,
+    "city": "Braga",
+    "cleaned": false,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 1.5,
+          "y": 111.0
+        },
+        {
+          "x": 156.5,
+          "y": 86.0
+        },
+        {
+          "x": 311.5,
+          "y": 394.0
+        },
+        {
+          "x": 52.5,
+          "y": 457.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_a67d8226-db57-4f95-bd63-3dd77510139d.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": false,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 1.5,
+          "y": 111.0
+        },
+        {
+          "x": 156.5,
+          "y": 86.0
+        },
+        {
+          "x": 311.5,
+          "y": 394.0
+        },
+        {
+          "x": 52.5,
+          "y": 457.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-se-de-braga-pressed-braga.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-se-de-braga-pressed-braga.jpg",
+    "location_id": "287396",
+    "location_name": "Braga Cathedral",
+    "machine": 1,
+    "name": "Sé de Braga",
+    "orientation": "portrait",
+    "original_file": "original/location-287396-photo-1-front.jpg",
+    "original_front": "original/location-287396-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_a67d8226-db57-4f95-bd63-3dd77510139d.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287396#machine-1-position-1",
+    "slug": "portugal-se-de-braga-pressed-braga",
+    "source_url": "http://locations.pennycollector.com/images/machine_a67d8226-db57-4f95-bd63-3dd77510139d.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d65fd6f8dd10d7ffa47": {
+    "centered": false,
+    "city": "Braga",
+    "cleaned": false,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 498.5,
+          "y": 92.0
+        },
+        {
+          "x": 648.5,
+          "y": 134.0
+        },
+        {
+          "x": 630.5,
+          "y": 454.0
+        },
+        {
+          "x": 372.5,
+          "y": 410.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_a67d8226-db57-4f95-bd63-3dd77510139d.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": false,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 498.5,
+          "y": 92.0
+        },
+        {
+          "x": 648.5,
+          "y": 134.0
+        },
+        {
+          "x": 630.5,
+          "y": 454.0
+        },
+        {
+          "x": 372.5,
+          "y": 410.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-nossa-senhora-de-braga-pressed-braga.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-nossa-senhora-de-braga-pressed-braga.jpg",
+    "location_id": "287396",
+    "location_name": "Braga Cathedral",
+    "machine": 1,
+    "name": "Nossa Senhora de Braga",
+    "orientation": "portrait",
+    "original_file": "original/location-287396-photo-1-front.jpg",
+    "original_front": "original/location-287396-photo-1-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_a67d8226-db57-4f95-bd63-3dd77510139d.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287396#machine-1-position-2",
+    "slug": "portugal-nossa-senhora-de-braga-pressed-braga",
+    "source_url": "http://locations.pennycollector.com/images/machine_a67d8226-db57-4f95-bd63-3dd77510139d.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d65fd6f8dd10d7ffa48": {
+    "centered": false,
+    "city": "Braga",
+    "cleaned": false,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 355.5,
+          "y": 19.0
+        },
+        {
+          "x": 574.5,
+          "y": 82.0
+        },
+        {
+          "x": 497.5,
+          "y": 359.0
+        },
+        {
+          "x": 290.5,
+          "y": 309.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_a67d8226-db57-4f95-bd63-3dd77510139d.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": false,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 355.5,
+          "y": 19.0
+        },
+        {
+          "x": 574.5,
+          "y": 82.0
+        },
+        {
+          "x": 497.5,
+          "y": 359.0
+        },
+        {
+          "x": 290.5,
+          "y": 309.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-sto-antonio-pressed-braga.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-sto-antonio-pressed-braga.jpg",
+    "location_id": "287396",
+    "location_name": "Braga Cathedral",
+    "machine": 1,
+    "name": "Sto. Antonio",
+    "orientation": "portrait",
+    "original_file": "original/location-287396-photo-1-front.jpg",
+    "original_front": "original/location-287396-photo-1-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_front": "http://locations.pennycollector.com/images/machine_a67d8226-db57-4f95-bd63-3dd77510139d.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287396#machine-1-position-3",
+    "slug": "portugal-sto-antonio-pressed-braga",
+    "source_url": "http://locations.pennycollector.com/images/machine_a67d8226-db57-4f95-bd63-3dd77510139d.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d65fd6f8dd10d7ffa49": {
+    "centered": false,
+    "city": "Braga",
+    "cleaned": false,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 115.5,
+          "y": 7.0
+        },
+        {
+          "x": 338.5,
+          "y": 1.0
+        },
+        {
+          "x": 380.5,
+          "y": 262.0
+        },
+        {
+          "x": 189.5,
+          "y": 338.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_a67d8226-db57-4f95-bd63-3dd77510139d.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": false,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 115.5,
+          "y": 7.0
+        },
+        {
+          "x": 338.5,
+          "y": 1.0
+        },
+        {
+          "x": 380.5,
+          "y": 262.0
+        },
+        {
+          "x": 189.5,
+          "y": 338.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-s-judas-tadeu-pressed-braga.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-s-judas-tadeu-pressed-braga.jpg",
+    "location_id": "287396",
+    "location_name": "Braga Cathedral",
+    "machine": 1,
+    "name": "S. Judas Tadeu",
+    "orientation": "portrait",
+    "original_file": "original/location-287396-photo-1-front.jpg",
+    "original_front": "original/location-287396-photo-1-front.jpg",
+    "padding": 4,
+    "position": 4,
+    "previous_front": "http://locations.pennycollector.com/images/machine_a67d8226-db57-4f95-bd63-3dd77510139d.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287396#machine-1-position-4",
+    "slug": "portugal-s-judas-tadeu-pressed-braga",
+    "source_url": "http://locations.pennycollector.com/images/machine_a67d8226-db57-4f95-bd63-3dd77510139d.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
   "6ab65d6b76464c0879ad1241": {
     "centered": true,
     "city": "Curral Das Freiras (Madeira Island)",

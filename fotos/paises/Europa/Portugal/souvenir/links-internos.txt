@@ -81,6 +81,9 @@ portugal-nazareth-sanctuary-with-santuario-nazare-pressed-nazare:
 portugal-nossa-senhora-da-conceicao-padroeira-de-portugal-pressed-vila-vicosa:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-nossa-senhora-da-conceicao-padroeira-de-portugal-pressed-vila-vicosa.jpg
 
+portugal-nossa-senhora-de-braga-pressed-braga:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-nossa-senhora-de-braga-pressed-braga.jpg
+
 portugal-nossa-senhora-do-livramento-pressed-curral-das-freiras-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-nossa-senhora-do-livramento-pressed-curral-das-freiras-madeira-island.jpg
 
@@ -99,6 +102,9 @@ portugal-pictorial-of-the-virgin-mary-intercession-with-milagre-pressed-nazare:
 portugal-portugal-pressed-albufeira:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-portugal-pressed-albufeira.jpg
 
+portugal-s-judas-tadeu-pressed-braga:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-s-judas-tadeu-pressed-braga.jpg
+
 portugal-santa-maria-da-vitoria-batalha-monastery-with-batalha-pressed-batalha:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-santa-maria-da-vitoria-batalha-monastery-with-batalha-pressed-batalha.jpg
 
@@ -114,11 +120,17 @@ portugal-santuario-da-penha-guimaraes-pressed-guimaraes:
 portugal-santuario-nacional-de-vila-vicosa-pressed-vila-vicosa:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-santuario-nacional-de-vila-vicosa-pressed-vila-vicosa.jpg
 
+portugal-se-de-braga-pressed-braga:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-se-de-braga-pressed-braga.jpg
+
 portugal-seahorse-pressed-faro:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-seahorse-pressed-faro.jpg
 
 portugal-senhora-fatima-with-na-sra-de-fatima-pressed-batalha:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-senhora-fatima-with-na-sra-de-fatima-pressed-batalha.jpg
+
+portugal-sto-antonio-pressed-braga:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-sto-antonio-pressed-braga.jpg
 
 portugal-telescope-pressed-faro:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-telescope-pressed-faro.jpg
