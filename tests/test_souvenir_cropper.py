@@ -95,6 +95,46 @@ class LocationProgressTests(unittest.TestCase):
         self.assertEqual(by_id["two"]["pending_sides"], 0)
         self.assertEqual(by_id["two"]["total_sides"], 1)
 
+    def test_completed_photos_reduce_pending_counts_immediately(self):
+        records = [
+            {
+                "_location_id": "coimbra", "_record_id": "a", "_machine": 1,
+                "_source_url": "https://example.test/photo-1.jpg",
+                "_internal": False, "continent": "Europa", "country": "Portugal",
+                "city": "Coimbra", "location_name": "Coimbra",
+            },
+            {
+                "_location_id": "coimbra", "_record_id": "b", "_machine": 1,
+                "_source_url": "https://example.test/photo-1.jpg",
+                "_internal": False, "continent": "Europa", "country": "Portugal",
+                "city": "Coimbra", "location_name": "Coimbra",
+            },
+            {
+                "_location_id": "coimbra", "_record_id": "c", "_machine": 2,
+                "_source_url": "https://example.test/photo-2.jpg",
+                "_internal": False, "continent": "Europa", "country": "Portugal",
+                "city": "Coimbra", "location_name": "Coimbra",
+            },
+            {
+                "_location_id": "coimbra", "_record_id": "d", "_machine": 2,
+                "_source_url": "https://example.test/photo-2.jpg",
+                "_internal": False, "continent": "Europa", "country": "Portugal",
+                "city": "Coimbra", "location_name": "Coimbra",
+            },
+        ]
+        statuses = {
+            photo_status_key(records[0]): {"completed": True},
+        }
+
+        [row] = location_progress_rows(records, statuses)
+
+        self.assertEqual(row["pending_sides"], 2)
+        self.assertEqual(row["total_sides"], 4)
+        self.assertEqual(row["pending_souvenirs"], 2)
+        self.assertEqual(row["total_souvenirs"], 4)
+        self.assertEqual(row["pending_photos"], 1)
+        self.assertEqual(row["total_photos"], 2)
+
 
 class CompletionRequestTests(unittest.TestCase):
     def records(self):

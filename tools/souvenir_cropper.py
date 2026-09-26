@@ -826,6 +826,7 @@ completePhotoButton.onclick = async () => {
     items.forEach(record => { record.photo_completed = completed; });
     updateMachineOption(currentMachine);
     updatePhotoProgress();
+    await refreshLocationProgressLabels();
     await refreshCompletionSummary();
     assignment.textContent = completed
       ? `${items[0]?.photo_label || `Fotografia ${currentMachine}`} confirmada como completa.`
@@ -929,6 +930,7 @@ saveButton.onclick = async () => {
       currentRecord.prepared = true;
       renderMachineGallery();
       updatePhotoProgress();
+      await refreshLocationProgressLabels();
       await refreshCompletionSummary();
       setTimeout(advanceQueue, 700);
     }
@@ -1218,14 +1220,23 @@ def load_pending_souvenirs(
 
 def location_progress_rows(
     records: list[dict[str, object]],
+    photo_statuses: dict[str, object] | None = None,
 ) -> list[dict[str, object]]:
+    statuses = photo_statuses or {}
     grouped: dict[str, list[dict[str, object]]] = {}
     for record in records:
         grouped.setdefault(str(record["_location_id"]), []).append(record)
     rows: list[dict[str, object]] = []
     for location_id, location_records in grouped.items():
         first = location_records[0]
-        pending = [record for record in location_records if not record.get("_internal")]
+        pending = [
+            record
+            for record in location_records
+            if not record.get("_internal")
+            and not bool(
+                (photo_status_for_task(statuses, record) or {}).get("completed")
+            )
+        ]
         rows.append({
             "id": location_id,
             "name": str(first.get("location_name") or "(sem location)"),
@@ -1713,7 +1724,10 @@ class Handler(BaseHTTPRequestHandler):
         }
 
     def location_rows(self) -> list[dict[str, object]]:
-        return location_progress_rows(self.pending_records("all"))
+        return location_progress_rows(
+            self.pending_records("all"),
+            read_photo_status(self.server.output_dir),
+        )
 
     def prepare_record_source(self, record_id: str) -> dict[str, str]:
         record = self.server.records_by_id.get(record_id)
