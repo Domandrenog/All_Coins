@@ -271,7 +271,9 @@ class TypeOverrideTaskTests(unittest.TestCase):
     def test_page_exposes_record_type_selector(self):
         self.assertIn('id="record-type"', PAGE)
         self.assertIn("/api/record-type", PAGE)
-        self.assertIn('id="has-back-image"', PAGE)
+        self.assertIn('id="coin-sides"', PAGE)
+        self.assertIn("Frente e Verso", PAGE)
+        self.assertIn("Só Frente", PAGE)
         self.assertIn("/api/record-back-image", PAGE)
         self.assertIn("Recorta agora a Frente e o Verso", PAGE)
 

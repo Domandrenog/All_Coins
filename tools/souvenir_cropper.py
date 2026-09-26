@@ -145,10 +145,13 @@ PAGE = r"""<!doctype html>
         <option value="card">Cartão</option>
         <option value="other">Outro</option>
       </select>
-      <label id="back-image-control" class="check" hidden>
-        <input id="has-back-image" type="checkbox" checked>
-        <span>Esta moeda tem imagem de verso</span>
-      </label>
+      <div id="coin-sides-control" hidden>
+        <label for="coin-sides">Lados da moeda</label>
+        <select id="coin-sides">
+          <option value="both">Frente e Verso</option>
+          <option value="front">Só Frente</option>
+        </select>
+      </div>
       <hr>
       <strong>Recorte selecionado</strong>
       <div id="coords" class="status">Ainda não selecionaste um souvenir.</div>
@@ -189,8 +192,8 @@ const paddingInput = document.querySelector('#padding');
 const orientationInput = document.querySelector('#orientation');
 const selectionModeInput = document.querySelector('#selection-mode');
 const recordTypeInput = document.querySelector('#record-type');
-const backImageControl = document.querySelector('#back-image-control');
-const hasBackImageInput = document.querySelector('#has-back-image');
+const coinSidesControl = document.querySelector('#coin-sides-control');
+const coinSidesInput = document.querySelector('#coin-sides');
 const cleanupInput = document.querySelector('#cleanup');
 const saved = document.querySelector('#saved');
 const scopeInput = document.querySelector('#scope');
@@ -524,9 +527,11 @@ function displayRecordImage(blob, sourceResult) {
 
 function updateBackImageControl() {
   const isCoin = currentRecord?.type === 'coin';
-  backImageControl.hidden = !isCoin;
-  hasBackImageInput.disabled = !isCoin;
-  hasBackImageInput.checked = isCoin && currentRecord.has_back_image !== false;
+  coinSidesControl.hidden = !isCoin;
+  coinSidesInput.disabled = !isCoin;
+  coinSidesInput.value = (
+    isCoin && currentRecord.has_back_image === false ? 'front' : 'both'
+  );
 }
 
 async function selectRecord(index) {
@@ -801,11 +806,12 @@ countryInput.onchange = () => updateCities();
 cityInput.onchange = () => updateLocations();
 locationInput.onchange = () => loadLocation(locationInput.value).catch(showError);
 machineInput.onchange = () => selectMachine(machineInput.value).catch(showError);
-hasBackImageInput.onchange = async () => {
+coinSidesInput.onchange = async () => {
   if (!currentRecord || currentRecord.type !== 'coin') return;
   const recordId = currentRecord.record_id;
-  const hasBackImage = hasBackImageInput.checked;
-  hasBackImageInput.disabled = true;
+  const previousValue = currentRecord.has_back_image === false ? 'front' : 'both';
+  const hasBackImage = coinSidesInput.value === 'both';
+  coinSidesInput.disabled = true;
   statusBox.textContent = hasBackImage
     ? 'A adicionar o Verso à fila desta moeda…'
     : 'A remover o Verso da fila desta moeda…';
@@ -824,8 +830,8 @@ hasBackImageInput.onchange = async () => {
       ? 'Verso ativado. Recorta agora a Frente e o Verso.'
       : 'Moeda configurada apenas com Frente; o Verso deixou de ficar pendente.';
   } catch (error) {
-    hasBackImageInput.checked = !hasBackImage;
-    hasBackImageInput.disabled = false;
+    coinSidesInput.value = previousValue;
+    coinSidesInput.disabled = false;
     showError(error);
   }
 };
