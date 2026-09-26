@@ -175,6 +175,10 @@ portugal-gold-a-view-over-funchal-coin-funchal-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-gold-a-view-over-funchal-coin-funchal-madeira-island.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-gold-a-view-over-funchal-coin-funchal-madeira-island.jpg
 
+portugal-gold-view-of-nuns-valley-coin-curral-das-freiras-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-gold-view-of-nuns-valley-coin-curral-das-freiras-madeira-island.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-gold-view-of-nuns-valley-coin-curral-das-freiras-madeira-island.jpg
+
 portugal-guimaraes-pressed-guimaraes:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-guimaraes-pressed-guimaraes.jpg
 
@@ -393,6 +397,10 @@ portugal-senhora-fatima-with-na-sra-de-fatima-pressed-batalha:
 portugal-silver-a-view-over-funchal-rear-madeira-island-coin-funchal-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-silver-a-view-over-funchal-rear-madeira-island-coin-funchal-madeira-island.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-silver-a-view-over-funchal-rear-madeira-island-coin-funchal-madeira-island.jpg
+
+portugal-silver-view-of-nuns-valley-with-viewpoint-rear-coin-curral-das-freiras-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-silver-view-of-nuns-valley-with-viewpoint-rear-coin-curral-das-freiras-madeira-island.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-silver-view-of-nuns-valley-with-viewpoint-rear-coin-curral-das-freiras-madeira-island.jpg
 
 portugal-sto-antonio-pressed-braga:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-sto-antonio-pressed-braga.jpg
