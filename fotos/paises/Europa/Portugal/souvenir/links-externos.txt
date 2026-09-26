@@ -23,6 +23,9 @@ portugal-bailinho-da-madeira-local-folk-song-pressed-funchal-madeira-island:
 portugal-barcelos-rooster-pressed-batalha:
   frente: http://locations.pennycollector.com/images/machine_4080a7e5-e914-4d19-acac-9bfe9fd4e953.jpg
 
+portugal-barcelos-rooster-with-portugal-pressed-coimbra:
+  frente: http://locations.pennycollector.com/images/machine_21bc0039-a7a4-40b1-92c4-9dbf08a2bb7e.jpg
+
 portugal-basilica-of-our-lady-of-the-rosary-of-fatima-and-statue-pressed-fatima:
   frente: http://locations.pennycollector.com/images/machine_5ce7d575-ab3b-49f8-9faa-9324a02e5739.jpg
 
@@ -51,11 +54,17 @@ portugal-cathedral-pressed-funchal-madeira-island:
 portugal-center-for-studies-in-planning-urbanism-and-pressed-coimbra-43561b3c:
   frente: http://locations.pennycollector.com/images/machine_666e529e-ddb3-4dbb-9fa1-caa02b212acf.jpg
 
+portugal-center-for-studies-in-planning-urbanism-and-pressed-coimbra-f81ea60e:
+  frente: http://locations.pennycollector.com/images/machine_21bc0039-a7a4-40b1-92c4-9dbf08a2bb7e.jpg
+
 portugal-chamine-tipica-do-algarve-pressed-foia-monchique:
   frente: http://locations.pennycollector.com/images/machine_aae43e01-a0d7-4a76-ac4d-13284c522871.jpg
 
 portugal-city-of-lagos-pressed-lagos:
   frente: http://locations.pennycollector.com/images/machine_409529cd-7293-484e-b175-2f4d513e8236.jpg
+
+portugal-coimbra-city-skyline-behind-the-ponte-de-santa-clara-pressed-coimbra:
+  frente: http://locations.pennycollector.com/images/machine_21bc0039-a7a4-40b1-92c4-9dbf08a2bb7e.jpg
 
 portugal-cristo-rei-looking-to-lisbon-coin-almada:
   frente: http://locations.pennycollector.com/images/machine_766caa61-1b5d-4efd-a17a-b31a8486b36b.jpg
@@ -163,6 +172,9 @@ portugal-nossa-senhora-do-livramento-pressed-curral-das-freiras-madeira-island:
 
 portugal-nun-pressed-curral-das-freiras-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_f2e9dd34-0e11-4789-82af-7d79f16c8f13.jpg
+
+portugal-our-lady-of-fatima-catholic-title-for-the-virgin-mary-pressed-coimbra:
+  frente: http://locations.pennycollector.com/images/machine_21bc0039-a7a4-40b1-92c4-9dbf08a2bb7e.jpg
 
 portugal-peneco-beach-with-pedal-boat-and-slide-pressed-albufeira:
   frente: http://locations.pennycollector.com/images/machine_b7890259-2ff9-4380-9a64-e551400824bf.jpg

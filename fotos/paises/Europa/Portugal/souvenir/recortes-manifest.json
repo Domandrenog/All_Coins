@@ -1674,6 +1674,314 @@
     "type": "pressed",
     "type_was_overridden": false
   },
+  "6ab65d67cf4b4e3943561b40": {
+    "centered": true,
+    "city": "Coimbra",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 254.5,
+          "y": 4.0
+        },
+        {
+          "x": 439.5,
+          "y": 6.0
+        },
+        {
+          "x": 444.5,
+          "y": 128.0
+        },
+        {
+          "x": 247.5,
+          "y": 124.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_21bc0039-a7a4-40b1-92c4-9dbf08a2bb7e.jpg",
+    "format": "landscape",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 254.5,
+          "y": 4.0
+        },
+        {
+          "x": 439.5,
+          "y": 6.0
+        },
+        {
+          "x": 444.5,
+          "y": 128.0
+        },
+        {
+          "x": 247.5,
+          "y": 124.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-coimbra-city-skyline-behind-the-ponte-de-santa-clara-pressed-coimbra.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-coimbra-city-skyline-behind-the-ponte-de-santa-clara-pressed-coimbra.jpg",
+    "location_id": "416218",
+    "location_name": "Malabar",
+    "machine": 1,
+    "name": "Coimbra city skyline behind the Ponte de Santa Clara…",
+    "orientation": "landscape",
+    "original_file": "original/location-416218-photo-1-front.jpg",
+    "original_front": "original/location-416218-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_21bc0039-a7a4-40b1-92c4-9dbf08a2bb7e.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=416218#machine-1-position-1",
+    "slug": "portugal-coimbra-city-skyline-behind-the-ponte-de-santa-clara-pressed-coimbra",
+    "source_url": "http://locations.pennycollector.com/images/machine_21bc0039-a7a4-40b1-92c4-9dbf08a2bb7e.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d6976ee7bd0f81ea60c": {
+    "centered": false,
+    "city": "Coimbra",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 248.5,
+          "y": 126.0
+        },
+        {
+          "x": 384.5,
+          "y": 125.0
+        },
+        {
+          "x": 381.5,
+          "y": 311.0
+        },
+        {
+          "x": 241.5,
+          "y": 315.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_21bc0039-a7a4-40b1-92c4-9dbf08a2bb7e.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 248.5,
+          "y": 126.0
+        },
+        {
+          "x": 384.5,
+          "y": 125.0
+        },
+        {
+          "x": 381.5,
+          "y": 311.0
+        },
+        {
+          "x": 241.5,
+          "y": 315.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-barcelos-rooster-with-portugal-pressed-coimbra.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-barcelos-rooster-with-portugal-pressed-coimbra.jpg",
+    "location_id": "416218",
+    "location_name": "Malabar",
+    "machine": 1,
+    "name": "Barcelos Rooster with 'Portugal",
+    "orientation": "portrait",
+    "original_file": "original/location-416218-photo-1-front.jpg",
+    "original_front": "original/location-416218-photo-1-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_21bc0039-a7a4-40b1-92c4-9dbf08a2bb7e.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=416218#machine-1-position-2",
+    "slug": "portugal-barcelos-rooster-with-portugal-pressed-coimbra",
+    "source_url": "http://locations.pennycollector.com/images/machine_21bc0039-a7a4-40b1-92c4-9dbf08a2bb7e.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d6976ee7bd0f81ea60d": {
+    "centered": false,
+    "city": "Coimbra",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 313.5,
+          "y": 282.0
+        },
+        {
+          "x": 446.5,
+          "y": 282.0
+        },
+        {
+          "x": 452.5,
+          "y": 477.0
+        },
+        {
+          "x": 322.5,
+          "y": 471.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_21bc0039-a7a4-40b1-92c4-9dbf08a2bb7e.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 313.5,
+          "y": 282.0
+        },
+        {
+          "x": 446.5,
+          "y": 282.0
+        },
+        {
+          "x": 452.5,
+          "y": 477.0
+        },
+        {
+          "x": 322.5,
+          "y": 471.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-our-lady-of-fatima-catholic-title-for-the-virgin-mary-pressed-coimbra.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-our-lady-of-fatima-catholic-title-for-the-virgin-mary-pressed-coimbra.jpg",
+    "location_id": "416218",
+    "location_name": "Malabar",
+    "machine": 1,
+    "name": "Our Lady of Fátima (Catholic title for the Virgin Mary)…",
+    "orientation": "portrait",
+    "original_file": "original/location-416218-photo-1-front.jpg",
+    "original_front": "original/location-416218-photo-1-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_front": "http://locations.pennycollector.com/images/machine_21bc0039-a7a4-40b1-92c4-9dbf08a2bb7e.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=416218#machine-1-position-3",
+    "slug": "portugal-our-lady-of-fatima-catholic-title-for-the-virgin-mary-pressed-coimbra",
+    "source_url": "http://locations.pennycollector.com/images/machine_21bc0039-a7a4-40b1-92c4-9dbf08a2bb7e.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab65d6976ee7bd0f81ea60e": {
+    "centered": true,
+    "city": "Coimbra",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 255.5,
+          "y": 470.0
+        },
+        {
+          "x": 457.5,
+          "y": 466.0
+        },
+        {
+          "x": 464.5,
+          "y": 598.0
+        },
+        {
+          "x": 256.5,
+          "y": 590.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_21bc0039-a7a4-40b1-92c4-9dbf08a2bb7e.jpg",
+    "format": "landscape",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 255.5,
+          "y": 470.0
+        },
+        {
+          "x": 457.5,
+          "y": 466.0
+        },
+        {
+          "x": 464.5,
+          "y": 598.0
+        },
+        {
+          "x": 256.5,
+          "y": 590.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-center-for-studies-in-planning-urbanism-and-pressed-coimbra-f81ea60e.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-center-for-studies-in-planning-urbanism-and-pressed-coimbra-f81ea60e.jpg",
+    "location_id": "416218",
+    "location_name": "Malabar",
+    "machine": 1,
+    "name": "Center for Studies in Planning, Urbanism and…",
+    "orientation": "landscape",
+    "original_file": "original/location-416218-photo-1-front.jpg",
+    "original_front": "original/location-416218-photo-1-front.jpg",
+    "padding": 4,
+    "position": 4,
+    "previous_front": "http://locations.pennycollector.com/images/machine_21bc0039-a7a4-40b1-92c4-9dbf08a2bb7e.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=416218#machine-1-position-4",
+    "slug": "portugal-center-for-studies-in-planning-urbanism-and-pressed-coimbra-f81ea60e",
+    "source_url": "http://locations.pennycollector.com/images/machine_21bc0039-a7a4-40b1-92c4-9dbf08a2bb7e.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
   "6ab65d6976ee7bd0f81ea60f": {
     "centered": true,
     "city": "Coimbra",
