@@ -767,19 +767,18 @@ function progressLabel(value, field, rows) {
     (total, row) => total + Number(row.pending_sides || 0),
     0
   );
-  const all = matches.reduce(
-    (total, row) => total + Number(row.total_sides || 0),
-    0
-  );
-  return value + ' · faltam ' + pending + '/' + all + ' lados' +
-    missingPhotoWarning(matches);
+  const pendingLabel = pending === 1
+    ? 'falta 1 lado'
+    : 'faltam ' + pending + ' lados';
+  return value + ' · ' + pendingLabel + missingPhotoWarning(matches);
 }
 
 function locationProgressLabel(location) {
-  return location.name + ' · faltam ' + location.pending_sides + '/' +
-    location.total_sides + ' lados' + missingPhotoWarning([location]) +
-    ' · ' + location.total_souvenirs + ' souvenirs / ' +
-    location.total_photos + ' fotografias';
+  const pending = Number(location.pending_sides || 0);
+  const pendingLabel = pending === 1
+    ? 'falta 1 lado'
+    : 'faltam ' + pending + ' lados';
+  return location.name + ' · ' + pendingLabel + missingPhotoWarning([location]);
 }
 
 async function refreshLocationProgressLabels() {

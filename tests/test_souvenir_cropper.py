@@ -312,7 +312,9 @@ class CompletionRequestTests(unittest.TestCase):
             PAGE.index('id="controls-panel"'),
         )
         self.assertIn("Em pé — 140 × 200 px", PAGE)
-        self.assertIn("' · faltam ' + pending + '/' + all + ' lados'", PAGE)
+        self.assertIn("pending === 1", PAGE)
+        self.assertIn("'faltam ' + pending + ' lados'", PAGE)
+        self.assertNotIn("pending + '/' + all", PAGE)
         self.assertIn("missing-photo-option", PAGE)
         self.assertIn("⚠ Souvenir sem fotografia", PAGE)
         self.assertIn('id="selection-mode"', PAGE)
