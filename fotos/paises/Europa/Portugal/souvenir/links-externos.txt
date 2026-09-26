@@ -264,6 +264,10 @@ portugal-nossa-senhora-do-livramento-pressed-curral-das-freiras-madeira-island:
 portugal-nun-pressed-curral-das-freiras-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_f2e9dd34-0e11-4789-82af-7d79f16c8f13.jpg
 
+portugal-obverse-forte-de-sao-miguel-arcanjo-in-front-of-a-100-coin-nazare:
+  frente: http://locations.pennycollector.com/images/machine_3542b088-7a77-4a3a-a754-a1e5c2437921.jpg
+  tras: http://locations.pennycollector.com/images/machine_3542b088-7a77-4a3a-a754-a1e5c2437921.jpg
+
 portugal-obverse-gold-color-belem-tower-with-torre-de-belem-coin-lisbon-lisboa:
   frente: http://locations.pennycollector.com/images/machine_02ea9dff-e0e2-490d-9f34-47d126f6d353.jpg
   tras: http://locations.pennycollector.com/images/machine_02ea9dff-e0e2-490d-9f34-47d126f6d353.jpg

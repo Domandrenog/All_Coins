@@ -10322,5 +10322,117 @@
     "source_url": "http://locations.pennycollector.com/images/machine_bf94b617-7017-46de-a800-c347ef552ba1.jpg",
     "type": "pressed",
     "type_was_overridden": false
+  },
+  "6ab851d1c1d9b5dfbe15f09c": {
+    "back_centered": false,
+    "back_cleaned": true,
+    "back_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 224.4,
+          "y": 354.0
+        },
+        {
+          "x": 598.8,
+          "y": 356.4
+        },
+        {
+          "x": 598.8,
+          "y": 690.8
+        },
+        {
+          "x": 228.4,
+          "y": 693.2
+        }
+      ]
+    },
+    "back_file": "tras/portugal-obverse-forte-de-sao-miguel-arcanjo-in-front-of-a-100-coin-nazare.jpg",
+    "back_format": "square",
+    "back_orientation": "auto",
+    "back_padding": 4,
+    "back_source_side": "front",
+    "back_source_was_empty": true,
+    "centered": false,
+    "city": "Nazaré",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 224.4,
+          "y": 3.6
+        },
+        {
+          "x": 598.8,
+          "y": 1.2
+        },
+        {
+          "x": 598.0,
+          "y": 346.8
+        },
+        {
+          "x": 226.8,
+          "y": 346.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_back": "http://locations.pennycollector.com/images/machine_3542b088-7a77-4a3a-a754-a1e5c2437921.jpg",
+    "external_front": "http://locations.pennycollector.com/images/machine_3542b088-7a77-4a3a-a754-a1e5c2437921.jpg",
+    "format": "square",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 224.4,
+          "y": 3.6
+        },
+        {
+          "x": 598.8,
+          "y": 1.2
+        },
+        {
+          "x": 598.0,
+          "y": 346.8
+        },
+        {
+          "x": 226.8,
+          "y": 346.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-obverse-forte-de-sao-miguel-arcanjo-in-front-of-a-100-coin-nazare.jpg",
+    "front_format": "square",
+    "front_orientation": "auto",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_back": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-forte-de-sao-miguel-arcanjo-in-front-of-a-100-coin-nazare.jpg",
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-forte-de-sao-miguel-arcanjo-in-front-of-a-100-coin-nazare.jpg",
+    "location_id": "414903",
+    "location_name": "Casa Miradouro Regional Gifts",
+    "machine": 2,
+    "name": "Obverse: Forte de São Miguel Arcanjo in front of a 100…",
+    "orientation": "auto",
+    "original_back": "original/location-414903-photo-2-back.jpg",
+    "original_file": "original/location-414903-photo-2-front.jpg",
+    "original_front": "original/location-414903-photo-2-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_back": "http://locations.pennycollector.com/images/machine_3542b088-7a77-4a3a-a754-a1e5c2437921.jpg",
+    "previous_front": "http://locations.pennycollector.com/images/machine_3542b088-7a77-4a3a-a754-a1e5c2437921.jpg",
+    "previous_type": "coin",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=414903#machine-2-position-1",
+    "slug": "portugal-obverse-forte-de-sao-miguel-arcanjo-in-front-of-a-100-coin-nazare",
+    "source_url": "http://locations.pennycollector.com/images/machine_3542b088-7a77-4a3a-a754-a1e5c2437921.jpg",
+    "type": "coin",
+    "type_was_overridden": false
   }
 }

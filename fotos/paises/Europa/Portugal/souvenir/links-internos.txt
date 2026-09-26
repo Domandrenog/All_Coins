@@ -264,6 +264,10 @@ portugal-nossa-senhora-do-livramento-pressed-curral-das-freiras-madeira-island:
 portugal-nun-pressed-curral-das-freiras-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-nun-pressed-curral-das-freiras-madeira-island.jpg
 
+portugal-obverse-forte-de-sao-miguel-arcanjo-in-front-of-a-100-coin-nazare:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-forte-de-sao-miguel-arcanjo-in-front-of-a-100-coin-nazare.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-forte-de-sao-miguel-arcanjo-in-front-of-a-100-coin-nazare.jpg
+
 portugal-obverse-gold-color-belem-tower-with-torre-de-belem-coin-lisbon-lisboa:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-gold-color-belem-tower-with-torre-de-belem-coin-lisbon-lisboa.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-gold-color-belem-tower-with-torre-de-belem-coin-lisbon-lisboa.jpg
