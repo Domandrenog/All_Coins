@@ -181,9 +181,17 @@ portugal-front-facade-of-the-old-cathedral-building-with-se-pressed-coimbra:
 portugal-front-facade-of-the-santa-cruz-church-with-igreja-de-pressed-coimbra:
   frente: http://locations.pennycollector.com/images/machine_7bba5537-2a20-4957-99ee-02721487505f.jpg
 
+portugal-front-fatima-sanctuary-reverse-eight-stars-coin-fatima:
+  frente: http://locations.pennycollector.com/images/machine_51525e19-6528-459a-a3b6-abebfc670c3f.jpg
+  tras: http://locations.pennycollector.com/images/machine_51525e19-6528-459a-a3b6-abebfc670c3f.jpg
+
 portugal-front-gold-colored-entry-building-to-children-s-theme-coin-coimbra:
   frente: http://locations.pennycollector.com/images/machine_156036d9-d7bb-4f30-b74b-d2daff51a752.jpg
   tras: http://locations.pennycollector.com/images/machine_156036d9-d7bb-4f30-b74b-d2daff51a752.jpg
+
+portugal-front-nossa-senhora-de-fatima-reverse-eight-stars-coin-fatima:
+  frente: http://locations.pennycollector.com/images/machine_51525e19-6528-459a-a3b6-abebfc670c3f.jpg
+  tras: http://locations.pennycollector.com/images/machine_51525e19-6528-459a-a3b6-abebfc670c3f.jpg
 
 portugal-front-silver-colored-city-skyline-above-university-coin-coimbra:
   frente: http://locations.pennycollector.com/images/machine_156036d9-d7bb-4f30-b74b-d2daff51a752.jpg

@@ -181,9 +181,17 @@ portugal-front-facade-of-the-old-cathedral-building-with-se-pressed-coimbra:
 portugal-front-facade-of-the-santa-cruz-church-with-igreja-de-pressed-coimbra:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-front-facade-of-the-santa-cruz-church-with-igreja-de-pressed-coimbra.jpg
 
+portugal-front-fatima-sanctuary-reverse-eight-stars-coin-fatima:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-front-fatima-sanctuary-reverse-eight-stars-coin-fatima.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-front-fatima-sanctuary-reverse-eight-stars-coin-fatima.jpg
+
 portugal-front-gold-colored-entry-building-to-children-s-theme-coin-coimbra:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-front-gold-colored-entry-building-to-children-s-theme-coin-coimbra.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-front-gold-colored-entry-building-to-children-s-theme-coin-coimbra.jpg
+
+portugal-front-nossa-senhora-de-fatima-reverse-eight-stars-coin-fatima:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-front-nossa-senhora-de-fatima-reverse-eight-stars-coin-fatima.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-front-nossa-senhora-de-fatima-reverse-eight-stars-coin-fatima.jpg
 
 portugal-front-silver-colored-city-skyline-above-university-coin-coimbra:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-front-silver-colored-city-skyline-above-university-coin-coimbra.jpg
