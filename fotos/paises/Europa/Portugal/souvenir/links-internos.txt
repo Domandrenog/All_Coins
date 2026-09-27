@@ -59,6 +59,12 @@ portugal-cabo-giro-viewpoint-pressed-camara-dos-lobos-madeira-island:
 portugal-cantrarinha-dos-namorados-guimaraes-pressed-guimaraes:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-cantrarinha-dos-namorados-guimaraes-pressed-guimaraes.jpg
 
+portugal-carreiros-do-monte-gold-coin-funchal-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-carreiros-do-monte-gold-coin-funchal-madeira-island.jpg
+
+portugal-carreiros-do-monte-silver-coin-funchal-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-carreiros-do-monte-silver-coin-funchal-madeira-island.jpg
+
 portugal-catedral-de-benagil-token-machine-one-design-but-can-pressed-albufeira:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-catedral-de-benagil-token-machine-one-design-but-can-pressed-albufeira.jpg
 

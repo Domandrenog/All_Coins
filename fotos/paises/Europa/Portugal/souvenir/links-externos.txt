@@ -59,6 +59,12 @@ portugal-cabo-giro-viewpoint-pressed-camara-dos-lobos-madeira-island:
 portugal-cantrarinha-dos-namorados-guimaraes-pressed-guimaraes:
   frente: http://locations.pennycollector.com/images/machine_90dec15f-00cf-4874-a656-22b477b99b92.jpeg
 
+portugal-carreiros-do-monte-gold-coin-funchal-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_41a80211-5bd9-4ed4-87fd-a3c4a6c1687b.jpg
+
+portugal-carreiros-do-monte-silver-coin-funchal-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_41a80211-5bd9-4ed4-87fd-a3c4a6c1687b.jpg
+
 portugal-catedral-de-benagil-token-machine-one-design-but-can-pressed-albufeira:
   frente: http://locations.pennycollector.com/images/machine_feda9006-4058-4d9d-bd3f-b8439c77e928.jpg
 
