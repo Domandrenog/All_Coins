@@ -50,6 +50,12 @@ portugal-cabo-espichel-portugal-pressed-sesimbra-c79d5e13:
 portugal-cabo-espichel-portugal-pressed-sesimbra-c79d5e15:
   frente: http://locations.pennycollector.com/images/machine_1de6e849-bac5-4785-b666-96acf8bb4fd9.jpg
 
+portugal-cabo-girao-from-camara-dos-lobos-gold-coin-camara-dos-lobos-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_c5e672ed-1a2c-409d-b0ac-7fa42f9e2830.jpg
+
+portugal-cabo-girao-viewpoint-silver-coin-camara-dos-lobos-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_c5e672ed-1a2c-409d-b0ac-7fa42f9e2830.jpg
+
 portugal-cabo-giro-from-camara-dos-lobos-pressed-camara-dos-lobos-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_b2e86ff2-1fee-4d1d-9c13-0ce5e86b9ed4.jpg
 

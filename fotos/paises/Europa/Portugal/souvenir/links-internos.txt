@@ -50,6 +50,12 @@ portugal-cabo-espichel-portugal-pressed-sesimbra-c79d5e13:
 portugal-cabo-espichel-portugal-pressed-sesimbra-c79d5e15:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-cabo-espichel-portugal-pressed-sesimbra-c79d5e15.jpg
 
+portugal-cabo-girao-from-camara-dos-lobos-gold-coin-camara-dos-lobos-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-cabo-girao-from-camara-dos-lobos-gold-coin-camara-dos-lobos-madeira-island.jpg
+
+portugal-cabo-girao-viewpoint-silver-coin-camara-dos-lobos-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-cabo-girao-viewpoint-silver-coin-camara-dos-lobos-madeira-island.jpg
+
 portugal-cabo-giro-from-camara-dos-lobos-pressed-camara-dos-lobos-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-cabo-giro-from-camara-dos-lobos-pressed-camara-dos-lobos-madeira-island.jpg
 
