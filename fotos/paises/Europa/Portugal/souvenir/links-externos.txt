@@ -144,6 +144,9 @@ portugal-cristo-rei-statue-coin-almada-1f7e611d:
   frente: http://locations.pennycollector.com/images/machine_94b3f285-6ca9-4fed-a363-97a246321bfe.jpg
   tras: http://locations.pennycollector.com/images/machine_94b3f285-6ca9-4fed-a363-97a246321bfe.jpg
 
+portugal-crown-of-our-lady-of-fatima-with-coroa-preciosa-de-pressed-fatima:
+  frente: http://locations.pennycollector.com/images/machine_09247101-1fad-4b45-8dfd-9a8f4e8b7424.jpg
+
 portugal-discovery-of-madeira-in-1419-pressed-funchal-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_28c4fd6d-d010-4ce4-a301-446b0f08e485.jpg
 
@@ -330,6 +333,10 @@ portugal-nossa-senhora-monte-church-pressed-funchal-madeira-island:
 portugal-nun-pressed-curral-das-freiras-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_f2e9dd34-0e11-4789-82af-7d79f16c8f13.jpg
 
+portugal-obverse-18-stars-surrounding-a-praying-our-lady-of-coin-fatima:
+  frente: http://locations.pennycollector.com/images/machine_872f48a8-206a-4f64-b2d1-7adb799b1f79.jpg
+  tras: http://locations.pennycollector.com/images/machine_872f48a8-206a-4f64-b2d1-7adb799b1f79.jpg
+
 portugal-obverse-apparition-of-our-lady-of-fatima-above-a-tree-coin-fatima:
   frente: http://locations.pennycollector.com/images/machine_1f7cc8bf-fd46-451b-8aed-b1f9b9a4a134.jpg
   tras: http://locations.pennycollector.com/images/machine_1f7cc8bf-fd46-451b-8aed-b1f9b9a4a134.jpg
@@ -405,6 +412,9 @@ portugal-our-lady-of-fatima-pressed-fatima:
 portugal-our-lady-of-fatima-wearing-a-crown-pressed-fatima:
   frente: http://locations.pennycollector.com/images/machine_2a401c39-ff62-4b55-bdf7-1c72d944d7b1.jpg
 
+portugal-our-lady-of-fatima-wearing-a-crown-with-nossa-senhora-de-pressed-fatima:
+  frente: http://locations.pennycollector.com/images/machine_09247101-1fad-4b45-8dfd-9a8f4e8b7424.jpg
+
 portugal-our-lady-of-fatima-wearing-a-crown-with-nossa-senhora-pressed-fatima:
   frente: http://locations.pennycollector.com/images/machine_c8b35769-eff7-480b-8aa9-86ca0c583e7f.jpg
 
@@ -463,6 +473,9 @@ portugal-san-antonio-foia-statue-pressed-foia-monchique:
 
 portugal-sanctuary-of-fatima-pressed-fatima:
   frente: http://locations.pennycollector.com/images/machine_29dbd204-a8ab-4ed3-b2e3-0523d12489c2.jpg
+
+portugal-sanctuary-of-fatima-with-santuario-de-pressed-fatima:
+  frente: http://locations.pennycollector.com/images/machine_09247101-1fad-4b45-8dfd-9a8f4e8b7424.jpg
 
 portugal-santa-maria-da-vitoria-batalha-monastery-with-batalha-pressed-batalha:
   frente: http://locations.pennycollector.com/images/machine_4080a7e5-e914-4d19-acac-9bfe9fd4e953.jpg
@@ -551,6 +564,9 @@ portugal-three-believers-kneeling-in-front-of-fatima-statue-with-pressed-fatima:
 
 portugal-three-children-praying-to-mary-pressed-fatima:
   frente: http://locations.pennycollector.com/images/machine_29dbd204-a8ab-4ed3-b2e3-0523d12489c2.jpg
+
+portugal-three-children-praying-to-mary-with-aparicao-de-nossa-pressed-fatima:
+  frente: http://locations.pennycollector.com/images/machine_09247101-1fad-4b45-8dfd-9a8f4e8b7424.jpg
 
 portugal-three-children-praying-to-our-lady-of-fatima-pressed-fatima:
   frente: http://locations.pennycollector.com/images/machine_2a401c39-ff62-4b55-bdf7-1c72d944d7b1.jpg
