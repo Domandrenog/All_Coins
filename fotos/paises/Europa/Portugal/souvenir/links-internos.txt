@@ -11,6 +11,9 @@ portugal-albufeira-tunnel-pressed-albufeira:
 portugal-almedina-tower-with-torre-de-almedina-coimbra-pressed-coimbra:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-almedina-tower-with-torre-de-almedina-coimbra-pressed-coimbra.jpg
 
+portugal-apparition-of-our-lady-of-fatima-in-front-of-three-pressed-fatima:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-apparition-of-our-lady-of-fatima-in-front-of-three-pressed-fatima.jpg
+
 portugal-aqui-nasceu-portugal-pressed-guimaraes:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-aqui-nasceu-portugal-pressed-guimaraes.jpg
 
@@ -31,6 +34,9 @@ portugal-barcelos-rooster-with-portugal-pressed-coimbra:
 
 portugal-basilica-of-our-lady-of-the-rosary-of-fatima-and-statue-pressed-fatima:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-basilica-of-our-lady-of-the-rosary-of-fatima-and-statue-pressed-fatima.jpg
+
+portugal-basilica-of-our-lady-of-the-rosary-of-fatima-with-pressed-fatima:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-basilica-of-our-lady-of-the-rosary-of-fatima-with-pressed-fatima.jpg
 
 portugal-beach-with-lagos-pressed-lagos:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-beach-with-lagos-pressed-lagos.jpg
@@ -310,6 +316,10 @@ portugal-nossa-senhora-monte-church-pressed-funchal-madeira-island:
 portugal-nun-pressed-curral-das-freiras-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-nun-pressed-curral-das-freiras-madeira-island.jpg
 
+portugal-obverse-apparition-of-our-lady-of-fatima-above-a-tree-coin-fatima:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-apparition-of-our-lady-of-fatima-above-a-tree-coin-fatima.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-apparition-of-our-lady-of-fatima-above-a-tree-coin-fatima.jpg
+
 portugal-obverse-forte-de-sao-miguel-arcanjo-in-front-of-a-100-coin-nazare:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-forte-de-sao-miguel-arcanjo-in-front-of-a-100-coin-nazare.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-forte-de-sao-miguel-arcanjo-in-front-of-a-100-coin-nazare.jpg
@@ -376,6 +386,9 @@ portugal-our-lady-of-fatima-pressed-fatima:
 
 portugal-our-lady-of-fatima-wearing-a-crown-pressed-fatima:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-our-lady-of-fatima-wearing-a-crown-pressed-fatima.jpg
+
+portugal-our-lady-of-fatima-wearing-a-crown-with-nossa-senhora-pressed-fatima:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-our-lady-of-fatima-wearing-a-crown-with-nossa-senhora-pressed-fatima.jpg
 
 portugal-outside-view-of-the-charola-do-convento-de-cristo-pressed-tomar:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-outside-view-of-the-charola-do-convento-de-cristo-pressed-tomar.jpg

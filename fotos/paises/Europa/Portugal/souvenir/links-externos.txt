@@ -11,6 +11,9 @@ portugal-albufeira-tunnel-pressed-albufeira:
 portugal-almedina-tower-with-torre-de-almedina-coimbra-pressed-coimbra:
   frente: http://locations.pennycollector.com/images/machine_666e529e-ddb3-4dbb-9fa1-caa02b212acf.jpg
 
+portugal-apparition-of-our-lady-of-fatima-in-front-of-three-pressed-fatima:
+  frente: http://locations.pennycollector.com/images/machine_c8b35769-eff7-480b-8aa9-86ca0c583e7f.jpg
+
 portugal-aqui-nasceu-portugal-pressed-guimaraes:
   frente: http://locations.pennycollector.com/images/machine_8155d1b3-d605-43c5-b12a-6d3ba169c643.jpg
 
@@ -31,6 +34,9 @@ portugal-barcelos-rooster-with-portugal-pressed-coimbra:
 
 portugal-basilica-of-our-lady-of-the-rosary-of-fatima-and-statue-pressed-fatima:
   frente: http://locations.pennycollector.com/images/machine_5ce7d575-ab3b-49f8-9faa-9324a02e5739.jpg
+
+portugal-basilica-of-our-lady-of-the-rosary-of-fatima-with-pressed-fatima:
+  frente: http://locations.pennycollector.com/images/machine_c8b35769-eff7-480b-8aa9-86ca0c583e7f.jpg
 
 portugal-beach-with-lagos-pressed-lagos:
   frente: http://locations.pennycollector.com/images/machine_409529cd-7293-484e-b175-2f4d513e8236.jpg
@@ -310,6 +316,10 @@ portugal-nossa-senhora-monte-church-pressed-funchal-madeira-island:
 portugal-nun-pressed-curral-das-freiras-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_f2e9dd34-0e11-4789-82af-7d79f16c8f13.jpg
 
+portugal-obverse-apparition-of-our-lady-of-fatima-above-a-tree-coin-fatima:
+  frente: http://locations.pennycollector.com/images/machine_1f7cc8bf-fd46-451b-8aed-b1f9b9a4a134.jpg
+  tras: http://locations.pennycollector.com/images/machine_1f7cc8bf-fd46-451b-8aed-b1f9b9a4a134.jpg
+
 portugal-obverse-forte-de-sao-miguel-arcanjo-in-front-of-a-100-coin-nazare:
   frente: http://locations.pennycollector.com/images/machine_3542b088-7a77-4a3a-a754-a1e5c2437921.jpg
   tras: http://locations.pennycollector.com/images/machine_3542b088-7a77-4a3a-a754-a1e5c2437921.jpg
@@ -376,6 +386,9 @@ portugal-our-lady-of-fatima-pressed-fatima:
 
 portugal-our-lady-of-fatima-wearing-a-crown-pressed-fatima:
   frente: http://locations.pennycollector.com/images/machine_2a401c39-ff62-4b55-bdf7-1c72d944d7b1.jpg
+
+portugal-our-lady-of-fatima-wearing-a-crown-with-nossa-senhora-pressed-fatima:
+  frente: http://locations.pennycollector.com/images/machine_c8b35769-eff7-480b-8aa9-86ca0c583e7f.jpg
 
 portugal-outside-view-of-the-charola-do-convento-de-cristo-pressed-tomar:
   frente: http://locations.pennycollector.com/images/machine_f9c0b0bc-14cb-4db6-b596-c8ec04331e6c.jpg

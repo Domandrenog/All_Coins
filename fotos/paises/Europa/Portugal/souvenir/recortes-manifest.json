@@ -11021,6 +11021,327 @@
     "type": "coin",
     "type_was_overridden": false
   },
+  "6ab84ec296ea0fa35a126318": {
+    "centered": true,
+    "city": "Fátima",
+    "cleaned": false,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 452.1,
+          "y": 107.6
+        },
+        {
+          "x": 589.7,
+          "y": 106.0
+        },
+        {
+          "x": 603.3,
+          "y": 314.0
+        },
+        {
+          "x": 462.5,
+          "y": 314.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_c8b35769-eff7-480b-8aa9-86ca0c583e7f.jpg",
+    "format": "portrait",
+    "front_centered": true,
+    "front_cleaned": false,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 452.1,
+          "y": 107.6
+        },
+        {
+          "x": 589.7,
+          "y": 106.0
+        },
+        {
+          "x": 603.3,
+          "y": 314.0
+        },
+        {
+          "x": 462.5,
+          "y": 314.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-apparition-of-our-lady-of-fatima-in-front-of-three-pressed-fatima.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-apparition-of-our-lady-of-fatima-in-front-of-three-pressed-fatima.jpg",
+    "location_id": "396019",
+    "location_name": "Heranças de Fátima Shop",
+    "machine": 1,
+    "name": "Apparition of Our Lady of Fátima in front of three…",
+    "orientation": "portrait",
+    "original_file": "original/location-396019-photo-1-front.jpg",
+    "original_front": "original/location-396019-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_c8b35769-eff7-480b-8aa9-86ca0c583e7f.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=396019#machine-1-position-1",
+    "slug": "portugal-apparition-of-our-lady-of-fatima-in-front-of-three-pressed-fatima",
+    "source_url": "http://locations.pennycollector.com/images/machine_c8b35769-eff7-480b-8aa9-86ca0c583e7f.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab84ec296ea0fa35a126319": {
+    "centered": false,
+    "city": "Fátima",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 416.9,
+          "y": 335.6
+        },
+        {
+          "x": 617.7,
+          "y": 332.4
+        },
+        {
+          "x": 624.1,
+          "y": 454.8
+        },
+        {
+          "x": 420.1,
+          "y": 450.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_c8b35769-eff7-480b-8aa9-86ca0c583e7f.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 416.9,
+          "y": 335.6
+        },
+        {
+          "x": 617.7,
+          "y": 332.4
+        },
+        {
+          "x": 624.1,
+          "y": 454.8
+        },
+        {
+          "x": 420.1,
+          "y": 450.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-basilica-of-our-lady-of-the-rosary-of-fatima-with-pressed-fatima.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-basilica-of-our-lady-of-the-rosary-of-fatima-with-pressed-fatima.jpg",
+    "location_id": "396019",
+    "location_name": "Heranças de Fátima Shop",
+    "machine": 1,
+    "name": "Basilica of Our Lady of the Rosary of Fátima with…",
+    "orientation": "landscape",
+    "original_file": "original/location-396019-photo-1-front.jpg",
+    "original_front": "original/location-396019-photo-1-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_c8b35769-eff7-480b-8aa9-86ca0c583e7f.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=396019#machine-1-position-2",
+    "slug": "portugal-basilica-of-our-lady-of-the-rosary-of-fatima-with-pressed-fatima",
+    "source_url": "http://locations.pennycollector.com/images/machine_c8b35769-eff7-480b-8aa9-86ca0c583e7f.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab84ec296ea0fa35a12631a": {
+    "centered": true,
+    "city": "Fátima",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 460.9,
+          "y": 470.8
+        },
+        {
+          "x": 594.5,
+          "y": 466.0
+        },
+        {
+          "x": 597.7,
+          "y": 698.0
+        },
+        {
+          "x": 460.1,
+          "y": 696.4
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_c8b35769-eff7-480b-8aa9-86ca0c583e7f.jpg",
+    "format": "portrait",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 460.9,
+          "y": 470.8
+        },
+        {
+          "x": 594.5,
+          "y": 466.0
+        },
+        {
+          "x": 597.7,
+          "y": 698.0
+        },
+        {
+          "x": 460.1,
+          "y": 696.4
+        }
+      ]
+    },
+    "front_file": "frente/portugal-our-lady-of-fatima-wearing-a-crown-with-nossa-senhora-pressed-fatima.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-our-lady-of-fatima-wearing-a-crown-with-nossa-senhora-pressed-fatima.jpg",
+    "location_id": "396019",
+    "location_name": "Heranças de Fátima Shop",
+    "machine": 1,
+    "name": "Our Lady of Fátima wearing a crown with 'Nossa Senhora",
+    "orientation": "portrait",
+    "original_file": "original/location-396019-photo-1-front.jpg",
+    "original_front": "original/location-396019-photo-1-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_front": "http://locations.pennycollector.com/images/machine_c8b35769-eff7-480b-8aa9-86ca0c583e7f.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=396019#machine-1-position-3",
+    "slug": "portugal-our-lady-of-fatima-wearing-a-crown-with-nossa-senhora-pressed-fatima",
+    "source_url": "http://locations.pennycollector.com/images/machine_c8b35769-eff7-480b-8aa9-86ca0c583e7f.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab84ec296ea0fa35a12631b": {
+    "back_centered": false,
+    "back_cleaned": true,
+    "back_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 222.0,
+          "y": 347.6
+        },
+        {
+          "x": 577.2,
+          "y": 353.2
+        },
+        {
+          "x": 585.2,
+          "y": 696.4
+        },
+        {
+          "x": 226.0,
+          "y": 696.4
+        }
+      ]
+    },
+    "back_file": "tras/portugal-obverse-apparition-of-our-lady-of-fatima-above-a-tree-coin-fatima.jpg",
+    "back_format": "square",
+    "back_orientation": "auto",
+    "back_padding": 4,
+    "back_source_side": "front",
+    "back_source_was_empty": true,
+    "centered": true,
+    "city": "Fátima",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "height": 361,
+      "mode": "rectangle",
+      "width": 361,
+      "x": 225,
+      "y": 0
+    },
+    "display_shape": "oval",
+    "external_back": "http://locations.pennycollector.com/images/machine_1f7cc8bf-fd46-451b-8aed-b1f9b9a4a134.jpg",
+    "external_front": "http://locations.pennycollector.com/images/machine_1f7cc8bf-fd46-451b-8aed-b1f9b9a4a134.jpg",
+    "format": "square",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "height": 361,
+      "mode": "rectangle",
+      "width": 361,
+      "x": 225,
+      "y": 0
+    },
+    "front_file": "frente/portugal-obverse-apparition-of-our-lady-of-fatima-above-a-tree-coin-fatima.jpg",
+    "front_format": "square",
+    "front_orientation": "auto",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_back": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-apparition-of-our-lady-of-fatima-above-a-tree-coin-fatima.jpg",
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-apparition-of-our-lady-of-fatima-above-a-tree-coin-fatima.jpg",
+    "location_id": "396019",
+    "location_name": "Heranças de Fátima Shop",
+    "machine": 2,
+    "name": "Obverse: Apparition of Our Lady of Fátima above a tree…",
+    "orientation": "auto",
+    "original_back": "original/location-396019-photo-2-back.jpg",
+    "original_file": "original/location-396019-photo-2-front.jpg",
+    "original_front": "original/location-396019-photo-2-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_back": "http://locations.pennycollector.com/images/machine_1f7cc8bf-fd46-451b-8aed-b1f9b9a4a134.jpg",
+    "previous_front": "http://locations.pennycollector.com/images/machine_1f7cc8bf-fd46-451b-8aed-b1f9b9a4a134.jpg",
+    "previous_type": "coin",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=396019#machine-2-position-1",
+    "slug": "portugal-obverse-apparition-of-our-lady-of-fatima-above-a-tree-coin-fatima",
+    "source_url": "http://locations.pennycollector.com/images/machine_1f7cc8bf-fd46-451b-8aed-b1f9b9a4a134.jpg",
+    "type": "coin",
+    "type_was_overridden": false
+  },
   "6ab84ec4217fa3aa9548d2cb": {
     "centered": true,
     "city": "Funchal (Madeira Island)",
