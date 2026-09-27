@@ -378,6 +378,10 @@ portugal-obverse-silver-colored-medieval-knight-in-full-armor-coin-coimbra:
   frente: http://locations.pennycollector.com/images/machine_d96afc38-6118-4a42-8a4a-bf1ee0b5a38a.jpg
   tras: http://locations.pennycollector.com/images/machine_d96afc38-6118-4a42-8a4a-bf1ee0b5a38a.jpg
 
+portugal-obverse-two-boats-docked-at-nazare-pier-with-nazare-coin-nazare:
+  frente: http://locations.pennycollector.com/images/machine_ba0c3383-a326-400d-9d30-3add3869eb44.jpg
+  tras: http://locations.pennycollector.com/images/machine_ba0c3383-a326-400d-9d30-3add3869eb44.jpg
+
 portugal-open-altarpiece-depicting-various-scenes-of-the-birth-pressed-evora:
   frente: http://locations.pennycollector.com/images/machine_3eb7517c-3012-4c54-b696-85e46fa94c9f.jpg
 

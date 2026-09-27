@@ -378,6 +378,10 @@ portugal-obverse-silver-colored-medieval-knight-in-full-armor-coin-coimbra:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-silver-colored-medieval-knight-in-full-armor-coin-coimbra.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-silver-colored-medieval-knight-in-full-armor-coin-coimbra.jpg
 
+portugal-obverse-two-boats-docked-at-nazare-pier-with-nazare-coin-nazare:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-two-boats-docked-at-nazare-pier-with-nazare-coin-nazare.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-two-boats-docked-at-nazare-pier-with-nazare-coin-nazare.jpg
+
 portugal-open-altarpiece-depicting-various-scenes-of-the-birth-pressed-evora:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-open-altarpiece-depicting-various-scenes-of-the-birth-pressed-evora.jpg
 
