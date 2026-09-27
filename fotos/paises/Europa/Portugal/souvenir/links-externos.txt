@@ -271,6 +271,9 @@ portugal-madeira-island-pressed-porto-moniz-madeira-island-6c945add:
 portugal-madeira-island-pressed-ribeiro-frio-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_5d79fba4-8bd1-44d3-9e7e-720db8b307c8.jpg
 
+portugal-madeira-island-pressed-ribeiro-frio-madeira-island-175b4a25:
+  frente: http://locations.pennycollector.com/images/machine_3c0a7021-2d40-40e9-a4bd-d87892c68889.jpg
+
 portugal-madeira-island-there-are-also-2-tokens-to-buy-in-the-pressed-camara-dos-lobos-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_b2e86ff2-1fee-4d1d-9c13-0ce5e86b9ed4.jpg
 
@@ -523,6 +526,14 @@ portugal-the-cathedral-silver-coin-faro:
   frente: http://locations.pennycollector.com/images/machine_c2e873c5-d4fa-48ac-bf3f-e2e5efa2b5ee.jpg
   tras: http://locations.pennycollector.com/images/machine_c2e873c5-d4fa-48ac-bf3f-e2e5efa2b5ee.jpg
 
+portugal-the-viewpoint-gold-coin-ribeiro-frio-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_01f41158-d218-4a6b-aa73-26e2ede79fb9.jpg
+  tras: http://locations.pennycollector.com/images/machine_01f41158-d218-4a6b-aa73-26e2ede79fb9.jpg
+
+portugal-the-viewpoint-silver-coin-ribeiro-frio-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_01f41158-d218-4a6b-aa73-26e2ede79fb9.jpg
+  tras: http://locations.pennycollector.com/images/machine_01f41158-d218-4a6b-aa73-26e2ede79fb9.jpg
+
 portugal-three-believers-kneeling-in-front-of-fatima-statue-with-pressed-fatima:
   frente: http://locations.pennycollector.com/images/machine_5ce7d575-ab3b-49f8-9faa-9324a02e5739.jpg
 
@@ -545,6 +556,12 @@ portugal-torre-de-belem-coin-almada:
 portugal-traditional-house-pressed-curral-das-freiras-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_f2e9dd34-0e11-4789-82af-7d79f16c8f13.jpg
 
+portugal-trout-farm-building-pressed-ribeiro-frio-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_3c0a7021-2d40-40e9-a4bd-d87892c68889.jpg
+
+portugal-trout-farm-fish-pressed-ribeiro-frio-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_3c0a7021-2d40-40e9-a4bd-d87892c68889.jpg
+
 portugal-trout-farm-pressed-ribeiro-frio-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_5d79fba4-8bd1-44d3-9e7e-720db8b307c8.jpg
 
@@ -565,6 +582,9 @@ portugal-view-of-forte-de-sao-miguel-arcanjo-and-the-atlantic-pressed-nazare:
 
 portugal-viewpoint-pressed-funchal-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_e520c271-208e-45e1-a87f-16992f39b427.jpg
+
+portugal-viewpoint-pressed-ribeiro-frio-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_3c0a7021-2d40-40e9-a4bd-d87892c68889.jpg
 
 portugal-virgin-mary-with-nossa-senhora-ddo-o-pressed-evora:
   frente: http://locations.pennycollector.com/images/machine_3eb7517c-3012-4c54-b696-85e46fa94c9f.jpg

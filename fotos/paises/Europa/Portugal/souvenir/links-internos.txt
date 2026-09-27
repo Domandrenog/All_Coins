@@ -271,6 +271,9 @@ portugal-madeira-island-pressed-porto-moniz-madeira-island-6c945add:
 portugal-madeira-island-pressed-ribeiro-frio-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-madeira-island-pressed-ribeiro-frio-madeira-island.jpg
 
+portugal-madeira-island-pressed-ribeiro-frio-madeira-island-175b4a25:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-madeira-island-pressed-ribeiro-frio-madeira-island-175b4a25.jpg
+
 portugal-madeira-island-there-are-also-2-tokens-to-buy-in-the-pressed-camara-dos-lobos-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-madeira-island-there-are-also-2-tokens-to-buy-in-the-pressed-camara-dos-lobos-madeira-island.jpg
 
@@ -523,6 +526,14 @@ portugal-the-cathedral-silver-coin-faro:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-the-cathedral-silver-coin-faro.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-the-cathedral-silver-coin-faro.jpg
 
+portugal-the-viewpoint-gold-coin-ribeiro-frio-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-the-viewpoint-gold-coin-ribeiro-frio-madeira-island.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-the-viewpoint-gold-coin-ribeiro-frio-madeira-island.jpg
+
+portugal-the-viewpoint-silver-coin-ribeiro-frio-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-the-viewpoint-silver-coin-ribeiro-frio-madeira-island.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-the-viewpoint-silver-coin-ribeiro-frio-madeira-island.jpg
+
 portugal-three-believers-kneeling-in-front-of-fatima-statue-with-pressed-fatima:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-three-believers-kneeling-in-front-of-fatima-statue-with-pressed-fatima.jpg
 
@@ -545,6 +556,12 @@ portugal-torre-de-belem-coin-almada:
 portugal-traditional-house-pressed-curral-das-freiras-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-traditional-house-pressed-curral-das-freiras-madeira-island.jpg
 
+portugal-trout-farm-building-pressed-ribeiro-frio-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-trout-farm-building-pressed-ribeiro-frio-madeira-island.jpg
+
+portugal-trout-farm-fish-pressed-ribeiro-frio-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-trout-farm-fish-pressed-ribeiro-frio-madeira-island.jpg
+
 portugal-trout-farm-pressed-ribeiro-frio-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-trout-farm-pressed-ribeiro-frio-madeira-island.jpg
 
@@ -565,6 +582,9 @@ portugal-view-of-forte-de-sao-miguel-arcanjo-and-the-atlantic-pressed-nazare:
 
 portugal-viewpoint-pressed-funchal-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-viewpoint-pressed-funchal-madeira-island.jpg
+
+portugal-viewpoint-pressed-ribeiro-frio-madeira-island:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-viewpoint-pressed-ribeiro-frio-madeira-island.jpg
 
 portugal-virgin-mary-with-nossa-senhora-ddo-o-pressed-evora:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-virgin-mary-with-nossa-senhora-ddo-o-pressed-evora.jpg

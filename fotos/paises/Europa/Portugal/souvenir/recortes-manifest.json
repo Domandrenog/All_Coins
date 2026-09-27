@@ -12514,6 +12514,462 @@
     "type": "pressed",
     "type_was_overridden": false
   },
+  "6ab84ec85a272c4a175b4a25": {
+    "centered": false,
+    "city": "Ribeiro Frio (Madeira Island)",
+    "cleaned": false,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 129.1,
+          "y": 226.0
+        },
+        {
+          "x": 275.5,
+          "y": 234.0
+        },
+        {
+          "x": 277.9,
+          "y": 340.4
+        },
+        {
+          "x": 134.7,
+          "y": 337.2
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_3c0a7021-2d40-40e9-a4bd-d87892c68889.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": false,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 129.1,
+          "y": 226.0
+        },
+        {
+          "x": 275.5,
+          "y": 234.0
+        },
+        {
+          "x": 277.9,
+          "y": 340.4
+        },
+        {
+          "x": 134.7,
+          "y": 337.2
+        }
+      ]
+    },
+    "front_file": "frente/portugal-madeira-island-pressed-ribeiro-frio-madeira-island-175b4a25.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-madeira-island-pressed-ribeiro-frio-madeira-island-175b4a25.jpg",
+    "location_id": "425843",
+    "location_name": "Snack Bar Flor da Selva",
+    "machine": 1,
+    "name": "Madeira Island",
+    "orientation": "landscape",
+    "original_file": "original/location-425843-photo-1-front.jpg",
+    "original_front": "original/location-425843-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_3c0a7021-2d40-40e9-a4bd-d87892c68889.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=425843#machine-1-position-1",
+    "slug": "portugal-madeira-island-pressed-ribeiro-frio-madeira-island-175b4a25",
+    "source_url": "http://locations.pennycollector.com/images/machine_3c0a7021-2d40-40e9-a4bd-d87892c68889.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab84ec85a272c4a175b4a26": {
+    "centered": false,
+    "city": "Ribeiro Frio (Madeira Island)",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 147.5,
+          "y": 330.0
+        },
+        {
+          "x": 289.9,
+          "y": 348.4
+        },
+        {
+          "x": 289.1,
+          "y": 453.2
+        },
+        {
+          "x": 130.7,
+          "y": 438.8
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_3c0a7021-2d40-40e9-a4bd-d87892c68889.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 147.5,
+          "y": 330.0
+        },
+        {
+          "x": 289.9,
+          "y": 348.4
+        },
+        {
+          "x": 289.1,
+          "y": 453.2
+        },
+        {
+          "x": 130.7,
+          "y": 438.8
+        }
+      ]
+    },
+    "front_file": "frente/portugal-viewpoint-pressed-ribeiro-frio-madeira-island.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-viewpoint-pressed-ribeiro-frio-madeira-island.jpg",
+    "location_id": "425843",
+    "location_name": "Snack Bar Flor da Selva",
+    "machine": 1,
+    "name": "Viewpoint",
+    "orientation": "landscape",
+    "original_file": "original/location-425843-photo-1-front.jpg",
+    "original_front": "original/location-425843-photo-1-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_3c0a7021-2d40-40e9-a4bd-d87892c68889.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=425843#machine-1-position-2",
+    "slug": "portugal-viewpoint-pressed-ribeiro-frio-madeira-island",
+    "source_url": "http://locations.pennycollector.com/images/machine_3c0a7021-2d40-40e9-a4bd-d87892c68889.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab84ec85a272c4a175b4a27": {
+    "centered": false,
+    "city": "Ribeiro Frio (Madeira Island)",
+    "cleaned": false,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 6.7,
+          "y": 388.4
+        },
+        {
+          "x": 141.9,
+          "y": 372.4
+        },
+        {
+          "x": 165.1,
+          "y": 474.0
+        },
+        {
+          "x": 21.9,
+          "y": 485.2
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_3c0a7021-2d40-40e9-a4bd-d87892c68889.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": false,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 6.7,
+          "y": 388.4
+        },
+        {
+          "x": 141.9,
+          "y": 372.4
+        },
+        {
+          "x": 165.1,
+          "y": 474.0
+        },
+        {
+          "x": 21.9,
+          "y": 485.2
+        }
+      ]
+    },
+    "front_file": "frente/portugal-trout-farm-fish-pressed-ribeiro-frio-madeira-island.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-trout-farm-fish-pressed-ribeiro-frio-madeira-island.jpg",
+    "location_id": "425843",
+    "location_name": "Snack Bar Flor da Selva",
+    "machine": 1,
+    "name": "Trout farm fish",
+    "orientation": "landscape",
+    "original_file": "original/location-425843-photo-1-front.jpg",
+    "original_front": "original/location-425843-photo-1-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_front": "http://locations.pennycollector.com/images/machine_3c0a7021-2d40-40e9-a4bd-d87892c68889.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=425843#machine-1-position-3",
+    "slug": "portugal-trout-farm-fish-pressed-ribeiro-frio-madeira-island",
+    "source_url": "http://locations.pennycollector.com/images/machine_3c0a7021-2d40-40e9-a4bd-d87892c68889.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab84ec85a272c4a175b4a28": {
+    "centered": true,
+    "city": "Ribeiro Frio (Madeira Island)",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 0.3,
+          "y": 280.4
+        },
+        {
+          "x": 141.1,
+          "y": 255.6
+        },
+        {
+          "x": 167.5,
+          "y": 351.6
+        },
+        {
+          "x": 13.9,
+          "y": 392.4
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_3c0a7021-2d40-40e9-a4bd-d87892c68889.jpg",
+    "format": "landscape",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 0.3,
+          "y": 280.4
+        },
+        {
+          "x": 141.1,
+          "y": 255.6
+        },
+        {
+          "x": 167.5,
+          "y": 351.6
+        },
+        {
+          "x": 13.9,
+          "y": 392.4
+        }
+      ]
+    },
+    "front_file": "frente/portugal-trout-farm-building-pressed-ribeiro-frio-madeira-island.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-trout-farm-building-pressed-ribeiro-frio-madeira-island.jpg",
+    "location_id": "425843",
+    "location_name": "Snack Bar Flor da Selva",
+    "machine": 1,
+    "name": "Trout farm building",
+    "orientation": "landscape",
+    "original_file": "original/location-425843-photo-1-front.jpg",
+    "original_front": "original/location-425843-photo-1-front.jpg",
+    "padding": 4,
+    "position": 4,
+    "previous_front": "http://locations.pennycollector.com/images/machine_3c0a7021-2d40-40e9-a4bd-d87892c68889.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=425843#machine-1-position-4",
+    "slug": "portugal-trout-farm-building-pressed-ribeiro-frio-madeira-island",
+    "source_url": "http://locations.pennycollector.com/images/machine_3c0a7021-2d40-40e9-a4bd-d87892c68889.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab84ec85a272c4a175b4a29": {
+    "back_centered": true,
+    "back_cleaned": true,
+    "back_crop": {
+      "height": 219,
+      "mode": "rectangle",
+      "width": 219,
+      "x": 171,
+      "y": 404
+    },
+    "back_file": "tras/portugal-the-viewpoint-gold-coin-ribeiro-frio-madeira-island.jpg",
+    "back_format": "square",
+    "back_orientation": "auto",
+    "back_padding": 4,
+    "back_source_side": "front",
+    "back_source_was_empty": true,
+    "centered": false,
+    "city": "Ribeiro Frio (Madeira Island)",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "height": 225,
+      "mode": "rectangle",
+      "width": 225,
+      "x": 191,
+      "y": 128
+    },
+    "display_shape": "oval",
+    "external_back": "http://locations.pennycollector.com/images/machine_01f41158-d218-4a6b-aa73-26e2ede79fb9.jpg",
+    "external_front": "http://locations.pennycollector.com/images/machine_01f41158-d218-4a6b-aa73-26e2ede79fb9.jpg",
+    "format": "square",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "height": 225,
+      "mode": "rectangle",
+      "width": 225,
+      "x": 191,
+      "y": 128
+    },
+    "front_file": "frente/portugal-the-viewpoint-gold-coin-ribeiro-frio-madeira-island.jpg",
+    "front_format": "square",
+    "front_orientation": "auto",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_back": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-the-viewpoint-gold-coin-ribeiro-frio-madeira-island.jpg",
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-the-viewpoint-gold-coin-ribeiro-frio-madeira-island.jpg",
+    "location_id": "425843",
+    "location_name": "Snack Bar Flor da Selva",
+    "machine": 2,
+    "name": "the viewpoint (gold)",
+    "orientation": "auto",
+    "original_back": "original/location-425843-photo-2-back.jpg",
+    "original_file": "original/location-425843-photo-2-front.jpg",
+    "original_front": "original/location-425843-photo-2-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_back": "http://locations.pennycollector.com/images/machine_01f41158-d218-4a6b-aa73-26e2ede79fb9.jpg",
+    "previous_front": "http://locations.pennycollector.com/images/machine_01f41158-d218-4a6b-aa73-26e2ede79fb9.jpg",
+    "previous_type": "coin",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=425843#machine-2-position-1",
+    "slug": "portugal-the-viewpoint-gold-coin-ribeiro-frio-madeira-island",
+    "source_url": "http://locations.pennycollector.com/images/machine_01f41158-d218-4a6b-aa73-26e2ede79fb9.jpg",
+    "type": "coin",
+    "type_was_overridden": false
+  },
+  "6ab84ec85a272c4a175b4a2a": {
+    "back_centered": true,
+    "back_cleaned": true,
+    "back_crop": {
+      "height": 219,
+      "mode": "rectangle",
+      "width": 219,
+      "x": 1,
+      "y": 263
+    },
+    "back_file": "tras/portugal-the-viewpoint-silver-coin-ribeiro-frio-madeira-island.jpg",
+    "back_format": "square",
+    "back_orientation": "auto",
+    "back_padding": 4,
+    "back_source_side": "front",
+    "back_source_was_empty": true,
+    "centered": true,
+    "city": "Ribeiro Frio (Madeira Island)",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "height": 221,
+      "mode": "rectangle",
+      "width": 221,
+      "x": 1,
+      "y": 4
+    },
+    "display_shape": "oval",
+    "external_back": "http://locations.pennycollector.com/images/machine_01f41158-d218-4a6b-aa73-26e2ede79fb9.jpg",
+    "external_front": "http://locations.pennycollector.com/images/machine_01f41158-d218-4a6b-aa73-26e2ede79fb9.jpg",
+    "format": "square",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "height": 221,
+      "mode": "rectangle",
+      "width": 221,
+      "x": 1,
+      "y": 4
+    },
+    "front_file": "frente/portugal-the-viewpoint-silver-coin-ribeiro-frio-madeira-island.jpg",
+    "front_format": "square",
+    "front_orientation": "auto",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_back": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-the-viewpoint-silver-coin-ribeiro-frio-madeira-island.jpg",
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-the-viewpoint-silver-coin-ribeiro-frio-madeira-island.jpg",
+    "location_id": "425843",
+    "location_name": "Snack Bar Flor da Selva",
+    "machine": 2,
+    "name": "the viewpoint (silver)",
+    "orientation": "auto",
+    "original_back": "original/location-425843-photo-2-back.jpg",
+    "original_file": "original/location-425843-photo-2-front.jpg",
+    "original_front": "original/location-425843-photo-2-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_back": "http://locations.pennycollector.com/images/machine_01f41158-d218-4a6b-aa73-26e2ede79fb9.jpg",
+    "previous_front": "http://locations.pennycollector.com/images/machine_01f41158-d218-4a6b-aa73-26e2ede79fb9.jpg",
+    "previous_type": "coin",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=425843#machine-2-position-2",
+    "slug": "portugal-the-viewpoint-silver-coin-ribeiro-frio-madeira-island",
+    "source_url": "http://locations.pennycollector.com/images/machine_01f41158-d218-4a6b-aa73-26e2ede79fb9.jpg",
+    "type": "coin",
+    "type_was_overridden": false
+  },
   "6ab84eca375adb23f2045cb4": {
     "centered": false,
     "city": "Tomar",
