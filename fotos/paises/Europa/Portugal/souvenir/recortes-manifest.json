@@ -10323,6 +10323,322 @@
     "type": "pressed",
     "type_was_overridden": false
   },
+  "6ab84eca375adb23f2045cb4": {
+    "centered": false,
+    "city": "Tomar",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 418.2,
+          "y": 2.0
+        },
+        {
+          "x": 547.0,
+          "y": 1.2
+        },
+        {
+          "x": 560.6,
+          "y": 214.0
+        },
+        {
+          "x": 419.0,
+          "y": 204.4
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_2f2f9bdf-de4a-4dde-9243-3c3000285cca.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 418.2,
+          "y": 2.0
+        },
+        {
+          "x": 547.0,
+          "y": 1.2
+        },
+        {
+          "x": 560.6,
+          "y": 214.0
+        },
+        {
+          "x": 419.0,
+          "y": 204.4
+        }
+      ]
+    },
+    "front_file": "frente/portugal-templar-cross-with-cruz-templaria-pressed-tomar.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-templar-cross-with-cruz-templaria-pressed-tomar.jpg",
+    "location_id": "287466",
+    "location_name": "Cafetaria do Castelo (Cafeteria of the Castle)",
+    "machine": 2,
+    "name": "Templar cross with 'Cruz Templaria",
+    "orientation": "portrait",
+    "original_file": "original/location-287466-photo-2-front.jpg",
+    "original_front": "original/location-287466-photo-2-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_2f2f9bdf-de4a-4dde-9243-3c3000285cca.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287466#machine-2-position-1",
+    "slug": "portugal-templar-cross-with-cruz-templaria-pressed-tomar",
+    "source_url": "http://locations.pennycollector.com/images/machine_2f2f9bdf-de4a-4dde-9243-3c3000285cca.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab84eca375adb23f2045cb5": {
+    "centered": false,
+    "city": "Tomar",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 507.8,
+          "y": 179.6
+        },
+        {
+          "x": 641.4,
+          "y": 179.6
+        },
+        {
+          "x": 649.4,
+          "y": 384.4
+        },
+        {
+          "x": 511.0,
+          "y": 389.2
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_2f2f9bdf-de4a-4dde-9243-3c3000285cca.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 507.8,
+          "y": 179.6
+        },
+        {
+          "x": 641.4,
+          "y": 179.6
+        },
+        {
+          "x": 649.4,
+          "y": 384.4
+        },
+        {
+          "x": 511.0,
+          "y": 389.2
+        }
+      ]
+    },
+    "front_file": "frente/portugal-christ-convent-building-with-tomar-pressed-tomar.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-christ-convent-building-with-tomar-pressed-tomar.jpg",
+    "location_id": "287466",
+    "location_name": "Cafetaria do Castelo (Cafeteria of the Castle)",
+    "machine": 2,
+    "name": "Christ Convent building with 'Tomar",
+    "orientation": "portrait",
+    "original_file": "original/location-287466-photo-2-front.jpg",
+    "original_front": "original/location-287466-photo-2-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_2f2f9bdf-de4a-4dde-9243-3c3000285cca.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287466#machine-2-position-2",
+    "slug": "portugal-christ-convent-building-with-tomar-pressed-tomar",
+    "source_url": "http://locations.pennycollector.com/images/machine_2f2f9bdf-de4a-4dde-9243-3c3000285cca.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab84eca375adb23f2045cb6": {
+    "centered": false,
+    "city": "Tomar",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 403.8,
+          "y": 337.2
+        },
+        {
+          "x": 540.6,
+          "y": 335.6
+        },
+        {
+          "x": 555.0,
+          "y": 530.0
+        },
+        {
+          "x": 404.6,
+          "y": 542.8
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_2f2f9bdf-de4a-4dde-9243-3c3000285cca.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 403.8,
+          "y": 337.2
+        },
+        {
+          "x": 540.6,
+          "y": 335.6
+        },
+        {
+          "x": 555.0,
+          "y": 530.0
+        },
+        {
+          "x": 404.6,
+          "y": 542.8
+        }
+      ]
+    },
+    "front_file": "frente/portugal-window-in-the-chapter-of-convent-with-janela-do-sapitulo-pressed-tomar.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-window-in-the-chapter-of-convent-with-janela-do-sapitulo-pressed-tomar.jpg",
+    "location_id": "287466",
+    "location_name": "Cafetaria do Castelo (Cafeteria of the Castle)",
+    "machine": 2,
+    "name": "Window in the Chapter of Convent with 'Janela Do Sapítulo",
+    "orientation": "portrait",
+    "original_file": "original/location-287466-photo-2-front.jpg",
+    "original_front": "original/location-287466-photo-2-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_front": "http://locations.pennycollector.com/images/machine_2f2f9bdf-de4a-4dde-9243-3c3000285cca.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287466#machine-2-position-3",
+    "slug": "portugal-window-in-the-chapter-of-convent-with-janela-do-sapitulo-pressed-tomar",
+    "source_url": "http://locations.pennycollector.com/images/machine_2f2f9bdf-de4a-4dde-9243-3c3000285cca.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab84eca375adb23f2045cb7": {
+    "centered": false,
+    "city": "Tomar",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 495.8,
+          "y": 513.2
+        },
+        {
+          "x": 647.8,
+          "y": 514.0
+        },
+        {
+          "x": 649.4,
+          "y": 715.6
+        },
+        {
+          "x": 499.0,
+          "y": 718.8
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_2f2f9bdf-de4a-4dde-9243-3c3000285cca.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 495.8,
+          "y": 513.2
+        },
+        {
+          "x": 647.8,
+          "y": 514.0
+        },
+        {
+          "x": 649.4,
+          "y": 715.6
+        },
+        {
+          "x": 499.0,
+          "y": 718.8
+        }
+      ]
+    },
+    "front_file": "frente/portugal-oratory-for-the-knights-templar-with-charola-do-tomar-pressed-tomar.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-oratory-for-the-knights-templar-with-charola-do-tomar-pressed-tomar.jpg",
+    "location_id": "287466",
+    "location_name": "Cafetaria do Castelo (Cafeteria of the Castle)",
+    "machine": 2,
+    "name": "Oratory for the Knights Templar with 'Charola Do Tomar",
+    "orientation": "portrait",
+    "original_file": "original/location-287466-photo-2-front.jpg",
+    "original_front": "original/location-287466-photo-2-front.jpg",
+    "padding": 4,
+    "position": 4,
+    "previous_front": "http://locations.pennycollector.com/images/machine_2f2f9bdf-de4a-4dde-9243-3c3000285cca.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287466#machine-2-position-4",
+    "slug": "portugal-oratory-for-the-knights-templar-with-charola-do-tomar-pressed-tomar",
+    "source_url": "http://locations.pennycollector.com/images/machine_2f2f9bdf-de4a-4dde-9243-3c3000285cca.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
   "6ab851d1c1d9b5dfbe15f098": {
     "centered": true,
     "city": "Nazaré",
