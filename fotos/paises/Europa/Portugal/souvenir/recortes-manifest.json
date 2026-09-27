@@ -11123,6 +11123,243 @@
     "type": "coin",
     "type_was_overridden": false
   },
+  "6ab84ec6667b9e6e89a9a8d9": {
+    "centered": true,
+    "city": "Loule",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 3.0,
+          "y": 2.8
+        },
+        {
+          "x": 360.6,
+          "y": 6.0
+        },
+        {
+          "x": 371.8,
+          "y": 250.0
+        },
+        {
+          "x": 4.6,
+          "y": 250.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_3d1ae78b-c1fd-420c-8462-0a9e30b54fd4.jpg",
+    "format": "landscape",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 3.0,
+          "y": 2.8
+        },
+        {
+          "x": 360.6,
+          "y": 6.0
+        },
+        {
+          "x": 371.8,
+          "y": 250.0
+        },
+        {
+          "x": 4.6,
+          "y": 250.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-mercado-de-loule-building-pressed-loule.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-mercado-de-loule-building-pressed-loule.jpg",
+    "location_id": "385199",
+    "location_name": "Mercado de Loule",
+    "machine": 1,
+    "name": "Mercado de Loulé building",
+    "orientation": "landscape",
+    "original_file": "original/location-385199-photo-1-front.jpg",
+    "original_front": "original/location-385199-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_3d1ae78b-c1fd-420c-8462-0a9e30b54fd4.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=385199#machine-1-position-1",
+    "slug": "portugal-mercado-de-loule-building-pressed-loule",
+    "source_url": "http://locations.pennycollector.com/images/machine_3d1ae78b-c1fd-420c-8462-0a9e30b54fd4.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab84ec6667b9e6e89a9a8da": {
+    "centered": false,
+    "city": "Loule",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 294.2,
+          "y": 177.2
+        },
+        {
+          "x": 645.4,
+          "y": 180.4
+        },
+        {
+          "x": 649.4,
+          "y": 434.8
+        },
+        {
+          "x": 296.6,
+          "y": 424.4
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_3d1ae78b-c1fd-420c-8462-0a9e30b54fd4.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 294.2,
+          "y": 177.2
+        },
+        {
+          "x": 645.4,
+          "y": 180.4
+        },
+        {
+          "x": 649.4,
+          "y": 434.8
+        },
+        {
+          "x": 296.6,
+          "y": 424.4
+        }
+      ]
+    },
+    "front_file": "frente/portugal-mercado-d-loule-desde-1908-logo-pressed-loule.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-mercado-d-loule-desde-1908-logo-pressed-loule.jpg",
+    "location_id": "385199",
+    "location_name": "Mercado de Loule",
+    "machine": 1,
+    "name": "Mercado d. Loulé Desde 1908, logo",
+    "orientation": "landscape",
+    "original_file": "original/location-385199-photo-1-front.jpg",
+    "original_front": "original/location-385199-photo-1-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_3d1ae78b-c1fd-420c-8462-0a9e30b54fd4.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=385199#machine-1-position-2",
+    "slug": "portugal-mercado-d-loule-desde-1908-logo-pressed-loule",
+    "source_url": "http://locations.pennycollector.com/images/machine_3d1ae78b-c1fd-420c-8462-0a9e30b54fd4.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab84ec6667b9e6e89a9a8db": {
+    "centered": false,
+    "city": "Loule",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 3.0,
+          "y": 340.4
+        },
+        {
+          "x": 353.4,
+          "y": 349.2
+        },
+        {
+          "x": 363.0,
+          "y": 590.8
+        },
+        {
+          "x": 3.0,
+          "y": 594.0
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_3d1ae78b-c1fd-420c-8462-0a9e30b54fd4.jpg",
+    "format": "landscape",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 3.0,
+          "y": 340.4
+        },
+        {
+          "x": 353.4,
+          "y": 349.2
+        },
+        {
+          "x": 363.0,
+          "y": 590.8
+        },
+        {
+          "x": 3.0,
+          "y": 594.0
+        }
+      ]
+    },
+    "front_file": "frente/portugal-castelo-de-loule-pressed-loule.jpg",
+    "front_format": "landscape",
+    "front_orientation": "landscape",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-castelo-de-loule-pressed-loule.jpg",
+    "location_id": "385199",
+    "location_name": "Mercado de Loule",
+    "machine": 1,
+    "name": "Castelo de Loulé",
+    "orientation": "landscape",
+    "original_file": "original/location-385199-photo-1-front.jpg",
+    "original_front": "original/location-385199-photo-1-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_front": "http://locations.pennycollector.com/images/machine_3d1ae78b-c1fd-420c-8462-0a9e30b54fd4.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=385199#machine-1-position-3",
+    "slug": "portugal-castelo-de-loule-pressed-loule",
+    "source_url": "http://locations.pennycollector.com/images/machine_3d1ae78b-c1fd-420c-8462-0a9e30b54fd4.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
   "6ab84eca375adb23f2045cb4": {
     "centered": false,
     "city": "Tomar",

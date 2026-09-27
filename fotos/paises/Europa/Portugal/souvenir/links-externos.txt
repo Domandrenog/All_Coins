@@ -71,6 +71,9 @@ portugal-carreiros-do-monte-gold-coin-funchal-madeira-island:
 portugal-carreiros-do-monte-silver-coin-funchal-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_41a80211-5bd9-4ed4-87fd-a3c4a6c1687b.jpg
 
+portugal-castelo-de-loule-pressed-loule:
+  frente: http://locations.pennycollector.com/images/machine_3d1ae78b-c1fd-420c-8462-0a9e30b54fd4.jpg
+
 portugal-catedral-de-benagil-token-machine-one-design-but-can-pressed-albufeira:
   frente: http://locations.pennycollector.com/images/machine_feda9006-4058-4d9d-bd3f-b8439c77e928.jpg
 
@@ -251,6 +254,12 @@ portugal-madeira-island-there-are-also-2-tokens-to-buy-in-the-pressed-camara-dos
 
 portugal-mary-of-nazareth-with-nossa-senhora-da-nazara-pressed-nazare:
   frente: http://locations.pennycollector.com/images/machine_f126aaea-515d-490d-adc6-fd6f5f29bf98.jpg
+
+portugal-mercado-d-loule-desde-1908-logo-pressed-loule:
+  frente: http://locations.pennycollector.com/images/machine_3d1ae78b-c1fd-420c-8462-0a9e30b54fd4.jpg
+
+portugal-mercado-de-loule-building-pressed-loule:
+  frente: http://locations.pennycollector.com/images/machine_3d1ae78b-c1fd-420c-8462-0a9e30b54fd4.jpg
 
 portugal-monchique-pressed-foia-monchique:
   frente: http://locations.pennycollector.com/images/machine_aae43e01-a0d7-4a76-ac4d-13284c522871.jpg

@@ -71,6 +71,9 @@ portugal-carreiros-do-monte-gold-coin-funchal-madeira-island:
 portugal-carreiros-do-monte-silver-coin-funchal-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-carreiros-do-monte-silver-coin-funchal-madeira-island.jpg
 
+portugal-castelo-de-loule-pressed-loule:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-castelo-de-loule-pressed-loule.jpg
+
 portugal-catedral-de-benagil-token-machine-one-design-but-can-pressed-albufeira:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-catedral-de-benagil-token-machine-one-design-but-can-pressed-albufeira.jpg
 
@@ -251,6 +254,12 @@ portugal-madeira-island-there-are-also-2-tokens-to-buy-in-the-pressed-camara-dos
 
 portugal-mary-of-nazareth-with-nossa-senhora-da-nazara-pressed-nazare:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-mary-of-nazareth-with-nossa-senhora-da-nazara-pressed-nazare.jpg
+
+portugal-mercado-d-loule-desde-1908-logo-pressed-loule:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-mercado-d-loule-desde-1908-logo-pressed-loule.jpg
+
+portugal-mercado-de-loule-building-pressed-loule:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-mercado-de-loule-building-pressed-loule.jpg
 
 portugal-monchique-pressed-foia-monchique:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-monchique-pressed-foia-monchique.jpg
