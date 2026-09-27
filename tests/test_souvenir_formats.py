@@ -22,6 +22,7 @@ from tools.souvenir_cropper import (
     read_type_overrides,
     side_display_name,
     update_manifest_back_image_override,
+    update_souvenir_name,
     write_back_image_override,
     write_type_override,
 )
@@ -240,6 +241,47 @@ class SouvenirCloneTests(unittest.TestCase):
         ))
 
 
+class SouvenirNameUpdateTests(unittest.TestCase):
+    def source(self):
+        return {
+            "id": "coin-1",
+            "name": "Nome antigo",
+            "type": "coin",
+            "city": "Fátima",
+            "location_name": "Loja Virginia",
+            "image_front": "https://example.test/montage.jpg",
+            "image_back": "",
+            "description": "Descrição preservada",
+        }
+
+    @patch("tools.souvenir_cropper.api_request")
+    def test_updates_only_the_name_and_verifies_the_result(self, api_request):
+        before = self.source()
+        after = {**before, "name": "Nome novo"}
+        api_request.side_effect = [before, {}, after]
+
+        updated = update_souvenir_name("coin-1", " Nome novo ", "test-key")
+
+        self.assertEqual(updated["name"], "Nome novo")
+        self.assertEqual(api_request.call_count, 3)
+        self.assertEqual(api_request.call_args_list[1].args[:3], (
+            "PUT", "/entities/Souvenir/coin-1", "test-key",
+        ))
+        self.assertEqual(
+            api_request.call_args_list[1].kwargs["payload"],
+            {"name": "Nome novo"},
+        )
+
+    @patch("tools.souvenir_cropper.api_request")
+    def test_rejects_an_unexpected_change_to_another_field(self, api_request):
+        before = self.source()
+        after = {**before, "name": "Nome novo", "city": "Lisboa"}
+        api_request.side_effect = [before, {}, after]
+
+        with self.assertRaisesRegex(RuntimeError, "campos inesperados: city"):
+            update_souvenir_name("coin-1", "Nome novo", "test-key")
+
+
 class BackImageOverrideTests(unittest.TestCase):
     def test_no_back_choice_is_persistent_until_reenabled(self):
         with TemporaryDirectory() as temporary:
@@ -385,6 +427,9 @@ class TypeOverrideTaskTests(unittest.TestCase):
         self.assertIn('id="coin-sides"', PAGE)
         self.assertIn("Frente e Verso", PAGE)
         self.assertIn("Só Frente", PAGE)
+        self.assertIn('id="edit-record-name"', PAGE)
+        self.assertIn("Editar nome da moeda", PAGE)
+        self.assertIn("/api/record-name", PAGE)
         self.assertIn('id="duplicate-record"', PAGE)
         self.assertIn("Adicionar moeda em falta", PAGE)
         self.assertIn("/api/duplicate-record", PAGE)

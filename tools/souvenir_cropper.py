@@ -176,6 +176,9 @@ PAGE = r"""<!doctype html>
           <option value="both">Frente e Verso</option>
           <option value="front">Só Frente</option>
         </select>
+        <button id="edit-record-name" class="secondary" type="button">
+          Editar nome da moeda
+        </button>
         <button id="duplicate-record" class="secondary" type="button">
           + Adicionar moeda em falta nesta fotografia
         </button>
@@ -223,6 +226,7 @@ const selectionModeInput = document.querySelector('#selection-mode');
 const recordTypeInput = document.querySelector('#record-type');
 const coinSidesControl = document.querySelector('#coin-sides-control');
 const coinSidesInput = document.querySelector('#coin-sides');
+const editRecordNameButton = document.querySelector('#edit-record-name');
 const duplicateRecordButton = document.querySelector('#duplicate-record');
 const cleanupInput = document.querySelector('#cleanup');
 const saved = document.querySelector('#saved');
@@ -596,6 +600,7 @@ function updateBackImageControl() {
   const isCoin = currentRecord?.type === 'coin';
   coinSidesControl.hidden = !isCoin;
   coinSidesInput.disabled = !isCoin;
+  editRecordNameButton.disabled = !isCoin;
   duplicateRecordButton.disabled = !isCoin || Boolean(currentRecord?.missing_photo);
   coinSidesInput.value = (
     isCoin && currentRecord.has_back_image === false ? 'front' : 'both'
@@ -958,6 +963,43 @@ countryInput.onchange = () => updateCities();
 cityInput.onchange = () => updateLocations();
 locationInput.onchange = () => loadLocation(locationInput.value).catch(showError);
 machineInput.onchange = () => selectMachine(machineInput.value).catch(showError);
+editRecordNameButton.onclick = async () => {
+  if (!currentRecord || currentRecord.type !== 'coin') return;
+  const recordId = currentRecord.record_id;
+  const currentName = currentRecord.name.trim();
+  const enteredName = window.prompt('Editar nome da moeda:', currentName);
+  if (enteredName === null) return;
+  const newName = enteredName.trim();
+  if (!newName || newName === currentName) {
+    window.alert('Escreve um nome diferente para a moeda.');
+    return;
+  }
+  if (!window.confirm(
+    'Alterar o nome na Base44?\n\n' +
+    'Atual: "' + currentName + '"\n' +
+    'Novo: "' + newName + '"\n\n' +
+    'Apenas o nome será alterado.'
+  )) return;
+  editRecordNameButton.disabled = true;
+  statusBox.textContent = 'A alterar o nome para "' + newName + '"…';
+  try {
+    const response = await fetch('/api/record-name', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({record_id: recordId, name: newName})
+    });
+    const result = await response.json();
+    if (!response.ok) throw new Error(result.error || 'Não foi possível alterar o nome.');
+    await loadLocation(locationInput.value);
+    const updatedIndex = records.findIndex(record => record.record_id === recordId);
+    if (updatedIndex >= 0) await selectRecord(updatedIndex);
+    statusBox.textContent = 'Nome alterado na Base44 para "' + result.name + '".';
+  } catch (error) {
+    updateBackImageControl();
+    showError(error);
+  }
+};
+
 duplicateRecordButton.onclick = async () => {
   if (!currentRecord || currentRecord.type !== 'coin') return;
   const sourceRecordId = currentRecord.record_id;
@@ -1407,6 +1449,46 @@ def create_souvenir_clone(
             + ", ".join(different)
         )
     return verified
+
+
+def update_souvenir_name(
+    record_id: str,
+    new_name: str,
+    api_key: str,
+) -> dict[str, object]:
+    name = new_name.strip()
+    if not record_id:
+        raise ValueError("Souvenir sem identificador.")
+    if not name:
+        raise ValueError("Indica o novo nome da moeda.")
+    before = api_request("GET", f"/entities/Souvenir/{record_id}", api_key)
+    if not isinstance(before, dict) or str(before.get("id") or "") != record_id:
+        raise RuntimeError("Não foi possível confirmar a moeda na Base44.")
+    if str(before.get("name") or "").strip() == name:
+        raise ValueError("O novo nome tem de ser diferente do atual.")
+    api_request(
+        "PUT",
+        f"/entities/Souvenir/{record_id}",
+        api_key,
+        payload={"name": name},
+    )
+    after = api_request("GET", f"/entities/Souvenir/{record_id}", api_key)
+    if not isinstance(after, dict) or str(after.get("id") or "") != record_id:
+        raise RuntimeError("Não foi possível verificar a moeda depois da alteração.")
+    if after.get("name") != name:
+        raise RuntimeError("A Base44 não guardou o novo nome da moeda.")
+    changed = [
+        field
+        for field in SOUVENIR_CLONE_FIELDS
+        if field != "name"
+        and field in before
+        and after.get(field) != before.get(field)
+    ]
+    if changed:
+        raise RuntimeError(
+            "A Base44 alterou campos inesperados: " + ", ".join(changed)
+        )
+    return after
 
 
 def read_back_image_overrides(output_dir: Path) -> dict[str, bool]:
@@ -2369,6 +2451,8 @@ class Handler(BaseHTTPRequestHandler):
                 self.save_record_type()
             elif path == "/api/record-back-image":
                 self.save_record_back_image()
+            elif path == "/api/record-name":
+                self.save_record_name()
             elif path == "/api/duplicate-record":
                 self.save_duplicate_record()
             elif path == "/api/finalize":
@@ -2427,6 +2511,45 @@ class Handler(BaseHTTPRequestHandler):
             "record_id": record_id,
             "type": record_type,
             "sides": [str(record["_side"]) for record in updated],
+        })
+
+    def save_record_name(self) -> None:
+        payload = json.loads(self.request_body())
+        record_id = str(payload.get("record_id") or "")
+        new_name = str(payload.get("name") or "").strip()
+        current = [
+            record for record in self.pending_records("all")
+            if str(record["_record_id"]) == record_id
+        ]
+        if not current:
+            raise ValueError("Moeda não encontrada na fila de trabalho.")
+        if str(current[0].get("type") or "") != "coin":
+            raise ValueError("A edição de nome só está disponível para moedas.")
+        location_id = str(current[0]["_location_id"])
+        duplicate_name = any(
+            str(record["_record_id"]) != record_id
+            and str(record["_location_id"]) == location_id
+            and str(record.get("name") or "").strip().casefold() == new_name.casefold()
+            for record in self.pending_records("all")
+        )
+        if duplicate_name:
+            raise ValueError("Já existe uma moeda com esse nome nesta location.")
+        load_dotenv(ROOT / ".env")
+        api_key = os.environ.get(API_KEY_ENV)
+        if not api_key:
+            raise RuntimeError(f"Define {API_KEY_ENV} no ficheiro .env.")
+        updated_record = update_souvenir_name(record_id, new_name, api_key)
+        self.server.records_cache = None
+        self.server.records_by_id = {}
+        updated_tasks = [
+            record for record in self.pending_records("all")
+            if str(record["_record_id"]) == record_id
+        ]
+        if not updated_tasks:
+            raise RuntimeError("A moeda foi alterada, mas deixou de aparecer na fila.")
+        self.send_json({
+            "record_id": record_id,
+            "name": str(updated_record["name"]),
         })
 
     def save_duplicate_record(self) -> None:
