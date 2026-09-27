@@ -515,6 +515,14 @@ portugal-templar-cross-with-cruz-templaria-pressed-tomar:
 portugal-templar-knight-holding-a-sword-pressed-tomar:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-templar-knight-holding-a-sword-pressed-tomar.jpg
 
+portugal-the-cathedral-gold-coin-faro:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-the-cathedral-gold-coin-faro.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-the-cathedral-gold-coin-faro.jpg
+
+portugal-the-cathedral-silver-coin-faro:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-the-cathedral-silver-coin-faro.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-the-cathedral-silver-coin-faro.jpg
+
 portugal-three-believers-kneeling-in-front-of-fatima-statue-with-pressed-fatima:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-three-believers-kneeling-in-front-of-fatima-statue-with-pressed-fatima.jpg
 

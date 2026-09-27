@@ -515,6 +515,14 @@ portugal-templar-cross-with-cruz-templaria-pressed-tomar:
 portugal-templar-knight-holding-a-sword-pressed-tomar:
   frente: http://locations.pennycollector.com/images/machine_f9c0b0bc-14cb-4db6-b596-c8ec04331e6c.jpg
 
+portugal-the-cathedral-gold-coin-faro:
+  frente: http://locations.pennycollector.com/images/machine_c2e873c5-d4fa-48ac-bf3f-e2e5efa2b5ee.jpg
+  tras: http://locations.pennycollector.com/images/machine_c2e873c5-d4fa-48ac-bf3f-e2e5efa2b5ee.jpg
+
+portugal-the-cathedral-silver-coin-faro:
+  frente: http://locations.pennycollector.com/images/machine_c2e873c5-d4fa-48ac-bf3f-e2e5efa2b5ee.jpg
+  tras: http://locations.pennycollector.com/images/machine_c2e873c5-d4fa-48ac-bf3f-e2e5efa2b5ee.jpg
+
 portugal-three-believers-kneeling-in-front-of-fatima-statue-with-pressed-fatima:
   frente: http://locations.pennycollector.com/images/machine_5ce7d575-ab3b-49f8-9faa-9324a02e5739.jpg
 
