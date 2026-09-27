@@ -10323,6 +10323,602 @@
     "type": "pressed",
     "type_was_overridden": false
   },
+  "6ab84ec064e40731d2b9893e": {
+    "back_centered": true,
+    "back_cleaned": true,
+    "back_crop": {
+      "height": 242,
+      "mode": "rectangle",
+      "width": 242,
+      "x": 201,
+      "y": 242
+    },
+    "back_file": "tras/portugal-obverse-gold-color-cathedral-front-entrance-view-with-coin-evora.jpg",
+    "back_format": "square",
+    "back_orientation": "auto",
+    "back_padding": 4,
+    "back_source_side": "front",
+    "back_source_was_empty": true,
+    "centered": true,
+    "city": "Evora",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "height": 242,
+      "mode": "rectangle",
+      "width": 242,
+      "x": 200,
+      "y": 1
+    },
+    "display_shape": "oval",
+    "external_back": "http://locations.pennycollector.com/images/machine_a6b06522-b0ac-4e26-8f51-d13ce8166ded.jpg",
+    "external_front": "http://locations.pennycollector.com/images/machine_a6b06522-b0ac-4e26-8f51-d13ce8166ded.jpg",
+    "format": "square",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "height": 242,
+      "mode": "rectangle",
+      "width": 242,
+      "x": 200,
+      "y": 1
+    },
+    "front_file": "frente/portugal-obverse-gold-color-cathedral-front-entrance-view-with-coin-evora.jpg",
+    "front_format": "square",
+    "front_orientation": "auto",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_back": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-gold-color-cathedral-front-entrance-view-with-coin-evora.jpg",
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-gold-color-cathedral-front-entrance-view-with-coin-evora.jpg",
+    "location_id": "287474",
+    "location_name": "Catedral de Évora (Évora Cathedral)",
+    "machine": 1,
+    "name": "Obverse: (Gold color) Cathedral front entrance view with…",
+    "orientation": "auto",
+    "original_back": "original/location-287474-photo-1-back.jpg",
+    "original_file": "original/location-287474-photo-1-front.jpg",
+    "original_front": "original/location-287474-photo-1-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_back": "http://locations.pennycollector.com/images/machine_a6b06522-b0ac-4e26-8f51-d13ce8166ded.jpg",
+    "previous_front": "http://locations.pennycollector.com/images/machine_a6b06522-b0ac-4e26-8f51-d13ce8166ded.jpg",
+    "previous_type": "coin",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287474#machine-1-position-1",
+    "slug": "portugal-obverse-gold-color-cathedral-front-entrance-view-with-coin-evora",
+    "source_url": "http://locations.pennycollector.com/images/machine_a6b06522-b0ac-4e26-8f51-d13ce8166ded.jpg",
+    "type": "coin",
+    "type_was_overridden": false
+  },
+  "6ab84ec064e40731d2b9893f": {
+    "back_centered": true,
+    "back_cleaned": true,
+    "back_crop": {
+      "height": 240,
+      "mode": "rectangle",
+      "width": 240,
+      "x": 410,
+      "y": 370
+    },
+    "back_file": "tras/portugal-obverse-silver-color-cathedral-side-and-area-view-coin-evora.jpg",
+    "back_format": "square",
+    "back_orientation": "auto",
+    "back_padding": 4,
+    "back_source_side": "front",
+    "back_source_was_empty": true,
+    "centered": true,
+    "city": "Evora",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "height": 238,
+      "mode": "rectangle",
+      "width": 238,
+      "x": 412,
+      "y": 116
+    },
+    "display_shape": "oval",
+    "external_back": "http://locations.pennycollector.com/images/machine_a6b06522-b0ac-4e26-8f51-d13ce8166ded.jpg",
+    "external_front": "http://locations.pennycollector.com/images/machine_a6b06522-b0ac-4e26-8f51-d13ce8166ded.jpg",
+    "format": "square",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "height": 238,
+      "mode": "rectangle",
+      "width": 238,
+      "x": 412,
+      "y": 116
+    },
+    "front_file": "frente/portugal-obverse-silver-color-cathedral-side-and-area-view-coin-evora.jpg",
+    "front_format": "square",
+    "front_orientation": "auto",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_back": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-silver-color-cathedral-side-and-area-view-coin-evora.jpg",
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-silver-color-cathedral-side-and-area-view-coin-evora.jpg",
+    "location_id": "287474",
+    "location_name": "Catedral de Évora (Évora Cathedral)",
+    "machine": 1,
+    "name": "Obverse: (Silver color) Cathedral side and area view…",
+    "orientation": "auto",
+    "original_back": "original/location-287474-photo-1-back.jpg",
+    "original_file": "original/location-287474-photo-1-front.jpg",
+    "original_front": "original/location-287474-photo-1-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_back": "http://locations.pennycollector.com/images/machine_a6b06522-b0ac-4e26-8f51-d13ce8166ded.jpg",
+    "previous_front": "http://locations.pennycollector.com/images/machine_a6b06522-b0ac-4e26-8f51-d13ce8166ded.jpg",
+    "previous_type": "coin",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287474#machine-1-position-2",
+    "slug": "portugal-obverse-silver-color-cathedral-side-and-area-view-coin-evora",
+    "source_url": "http://locations.pennycollector.com/images/machine_a6b06522-b0ac-4e26-8f51-d13ce8166ded.jpg",
+    "type": "coin",
+    "type_was_overridden": false
+  },
+  "6ab84ec064e40731d2b98940": {
+    "centered": false,
+    "city": "Evora",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 224.5,
+          "y": 4.4
+        },
+        {
+          "x": 379.7,
+          "y": 2.0
+        },
+        {
+          "x": 393.3,
+          "y": 251.6
+        },
+        {
+          "x": 223.7,
+          "y": 263.6
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_3eb7517c-3012-4c54-b696-85e46fa94c9f.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 224.5,
+          "y": 4.4
+        },
+        {
+          "x": 379.7,
+          "y": 2.0
+        },
+        {
+          "x": 393.3,
+          "y": 251.6
+        },
+        {
+          "x": 223.7,
+          "y": 263.6
+        }
+      ]
+    },
+    "front_file": "frente/portugal-cathedral-front-entrance-view-with-se-de-portugal-pressed-evora.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-cathedral-front-entrance-view-with-se-de-portugal-pressed-evora.jpg",
+    "location_id": "287474",
+    "location_name": "Catedral de Évora (Évora Cathedral)",
+    "machine": 2,
+    "name": "Cathedral front entrance view with 'Se De Portugal",
+    "orientation": "portrait",
+    "original_file": "original/location-287474-photo-2-front.jpg",
+    "original_front": "original/location-287474-photo-2-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_front": "http://locations.pennycollector.com/images/machine_3eb7517c-3012-4c54-b696-85e46fa94c9f.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287474#machine-2-position-1",
+    "slug": "portugal-cathedral-front-entrance-view-with-se-de-portugal-pressed-evora",
+    "source_url": "http://locations.pennycollector.com/images/machine_3eb7517c-3012-4c54-b696-85e46fa94c9f.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab84ec064e40731d2b98941": {
+    "centered": false,
+    "city": "Evora",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 378.9,
+          "y": 146.8
+        },
+        {
+          "x": 533.3,
+          "y": 148.4
+        },
+        {
+          "x": 538.1,
+          "y": 401.2
+        },
+        {
+          "x": 382.1,
+          "y": 410.8
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_3eb7517c-3012-4c54-b696-85e46fa94c9f.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 378.9,
+          "y": 146.8
+        },
+        {
+          "x": 533.3,
+          "y": 148.4
+        },
+        {
+          "x": 538.1,
+          "y": 401.2
+        },
+        {
+          "x": 382.1,
+          "y": 410.8
+        }
+      ]
+    },
+    "front_file": "frente/portugal-open-altarpiece-depicting-various-scenes-of-the-birth-pressed-evora.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-open-altarpiece-depicting-various-scenes-of-the-birth-pressed-evora.jpg",
+    "location_id": "287474",
+    "location_name": "Catedral de Évora (Évora Cathedral)",
+    "machine": 2,
+    "name": "Open altarpiece depicting various scenes of the Birth…",
+    "orientation": "portrait",
+    "original_file": "original/location-287474-photo-2-front.jpg",
+    "original_front": "original/location-287474-photo-2-front.jpg",
+    "padding": 4,
+    "position": 2,
+    "previous_front": "http://locations.pennycollector.com/images/machine_3eb7517c-3012-4c54-b696-85e46fa94c9f.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287474#machine-2-position-2",
+    "slug": "portugal-open-altarpiece-depicting-various-scenes-of-the-birth-pressed-evora",
+    "source_url": "http://locations.pennycollector.com/images/machine_3eb7517c-3012-4c54-b696-85e46fa94c9f.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab84ec064e40731d2b98942": {
+    "centered": false,
+    "city": "Evora",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 221.3,
+          "y": 290.8
+        },
+        {
+          "x": 362.1,
+          "y": 292.4
+        },
+        {
+          "x": 384.5,
+          "y": 532.4
+        },
+        {
+          "x": 236.5,
+          "y": 543.6
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_3eb7517c-3012-4c54-b696-85e46fa94c9f.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 221.3,
+          "y": 290.8
+        },
+        {
+          "x": 362.1,
+          "y": 292.4
+        },
+        {
+          "x": 384.5,
+          "y": 532.4
+        },
+        {
+          "x": 236.5,
+          "y": 543.6
+        }
+      ]
+    },
+    "front_file": "frente/portugal-closed-altarpiece-depicting-various-scenes-of-the-birth-pressed-evora.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-closed-altarpiece-depicting-various-scenes-of-the-birth-pressed-evora.jpg",
+    "location_id": "287474",
+    "location_name": "Catedral de Évora (Évora Cathedral)",
+    "machine": 2,
+    "name": "Closed altarpiece depicting various scenes of the Birth…",
+    "orientation": "portrait",
+    "original_file": "original/location-287474-photo-2-front.jpg",
+    "original_front": "original/location-287474-photo-2-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_front": "http://locations.pennycollector.com/images/machine_3eb7517c-3012-4c54-b696-85e46fa94c9f.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287474#machine-2-position-3",
+    "slug": "portugal-closed-altarpiece-depicting-various-scenes-of-the-birth-pressed-evora",
+    "source_url": "http://locations.pennycollector.com/images/machine_3eb7517c-3012-4c54-b696-85e46fa94c9f.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab84ec064e40731d2b98943": {
+    "centered": false,
+    "city": "Evora",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 390.1,
+          "y": 446.0
+        },
+        {
+          "x": 532.5,
+          "y": 454.0
+        },
+        {
+          "x": 537.3,
+          "y": 690.8
+        },
+        {
+          "x": 383.7,
+          "y": 691.6
+        }
+      ]
+    },
+    "display_shape": "oval",
+    "external_front": "http://locations.pennycollector.com/images/machine_3eb7517c-3012-4c54-b696-85e46fa94c9f.jpg",
+    "format": "portrait",
+    "front_centered": false,
+    "front_cleaned": true,
+    "front_crop": {
+      "mode": "perspective",
+      "points": [
+        {
+          "x": 390.1,
+          "y": 446.0
+        },
+        {
+          "x": 532.5,
+          "y": 454.0
+        },
+        {
+          "x": 537.3,
+          "y": 690.8
+        },
+        {
+          "x": 383.7,
+          "y": 691.6
+        }
+      ]
+    },
+    "front_file": "frente/portugal-virgin-mary-with-nossa-senhora-ddo-o-pressed-evora.jpg",
+    "front_format": "portrait",
+    "front_orientation": "portrait",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-virgin-mary-with-nossa-senhora-ddo-o-pressed-evora.jpg",
+    "location_id": "287474",
+    "location_name": "Catedral de Évora (Évora Cathedral)",
+    "machine": 2,
+    "name": "Virgin Mary with 'Nossa Senhora dDo Ó",
+    "orientation": "portrait",
+    "original_file": "original/location-287474-photo-2-front.jpg",
+    "original_front": "original/location-287474-photo-2-front.jpg",
+    "padding": 4,
+    "position": 4,
+    "previous_front": "http://locations.pennycollector.com/images/machine_3eb7517c-3012-4c54-b696-85e46fa94c9f.jpg",
+    "previous_type": "pressed",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287474#machine-2-position-4",
+    "slug": "portugal-virgin-mary-with-nossa-senhora-ddo-o-pressed-evora",
+    "source_url": "http://locations.pennycollector.com/images/machine_3eb7517c-3012-4c54-b696-85e46fa94c9f.jpg",
+    "type": "pressed",
+    "type_was_overridden": false
+  },
+  "6ab84ec064e40731d2b98944": {
+    "back_centered": true,
+    "back_cleaned": true,
+    "back_crop": {
+      "height": 237,
+      "mode": "rectangle",
+      "width": 237,
+      "x": 216,
+      "y": 240
+    },
+    "back_file": "tras/portugal-obverse-gold-color-santo-antao-church-with-historic-coin-evora.jpg",
+    "back_format": "square",
+    "back_orientation": "auto",
+    "back_padding": 4,
+    "back_source_side": "front",
+    "back_source_was_empty": true,
+    "centered": true,
+    "city": "Evora",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "height": 230,
+      "mode": "rectangle",
+      "width": 230,
+      "x": 219,
+      "y": 2
+    },
+    "display_shape": "oval",
+    "external_back": "http://locations.pennycollector.com/images/machine_6a201487-fc5e-4400-b13e-2363ccdc8355.jpg",
+    "external_front": "http://locations.pennycollector.com/images/machine_6a201487-fc5e-4400-b13e-2363ccdc8355.jpg",
+    "format": "square",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "height": 230,
+      "mode": "rectangle",
+      "width": 230,
+      "x": 219,
+      "y": 2
+    },
+    "front_file": "frente/portugal-obverse-gold-color-santo-antao-church-with-historic-coin-evora.jpg",
+    "front_format": "square",
+    "front_orientation": "auto",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_back": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-gold-color-santo-antao-church-with-historic-coin-evora.jpg",
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-gold-color-santo-antao-church-with-historic-coin-evora.jpg",
+    "location_id": "287474",
+    "location_name": "Catedral de Évora (Évora Cathedral)",
+    "machine": 3,
+    "name": "Obverse: (Gold color) Santo Antão Church with 'Historic…",
+    "orientation": "auto",
+    "original_back": "original/location-287474-photo-3-back.jpg",
+    "original_file": "original/location-287474-photo-3-front.jpg",
+    "original_front": "original/location-287474-photo-3-front.jpg",
+    "padding": 4,
+    "position": 1,
+    "previous_back": "http://locations.pennycollector.com/images/machine_6a201487-fc5e-4400-b13e-2363ccdc8355.jpg",
+    "previous_front": "http://locations.pennycollector.com/images/machine_6a201487-fc5e-4400-b13e-2363ccdc8355.jpg",
+    "previous_type": "coin",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287474#machine-3-position-1",
+    "slug": "portugal-obverse-gold-color-santo-antao-church-with-historic-coin-evora",
+    "source_url": "http://locations.pennycollector.com/images/machine_6a201487-fc5e-4400-b13e-2363ccdc8355.jpg",
+    "type": "coin",
+    "type_was_overridden": false
+  },
+  "6ab84ec296ea0fa35a126315": {
+    "back_centered": false,
+    "back_cleaned": false,
+    "back_crop": {
+      "height": 227,
+      "mode": "rectangle",
+      "width": 227,
+      "x": 423,
+      "y": 360
+    },
+    "back_file": "tras/portugal-obverse-silver-color-rooftop-view-from-evora-coin-evora.jpg",
+    "back_format": "square",
+    "back_orientation": "auto",
+    "back_padding": 4,
+    "back_source_side": "front",
+    "back_source_was_empty": true,
+    "centered": true,
+    "city": "Evora",
+    "cleaned": true,
+    "continent": "Europa",
+    "country": "Portugal",
+    "crop": {
+      "height": 236,
+      "mode": "rectangle",
+      "width": 236,
+      "x": 414,
+      "y": 114
+    },
+    "display_shape": "oval",
+    "external_back": "http://locations.pennycollector.com/images/machine_6a201487-fc5e-4400-b13e-2363ccdc8355.jpg",
+    "external_front": "http://locations.pennycollector.com/images/machine_6a201487-fc5e-4400-b13e-2363ccdc8355.jpg",
+    "format": "square",
+    "front_centered": true,
+    "front_cleaned": true,
+    "front_crop": {
+      "height": 236,
+      "mode": "rectangle",
+      "width": 236,
+      "x": 414,
+      "y": 114
+    },
+    "front_file": "frente/portugal-obverse-silver-color-rooftop-view-from-evora-coin-evora.jpg",
+    "front_format": "square",
+    "front_orientation": "auto",
+    "front_padding": 4,
+    "front_source_side": "front",
+    "front_source_was_empty": false,
+    "has_back_image_override": null,
+    "has_back_image_was_overridden": false,
+    "internal_back": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-silver-color-rooftop-view-from-evora-coin-evora.jpg",
+    "internal_front": "https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-silver-color-rooftop-view-from-evora-coin-evora.jpg",
+    "location_id": "287474",
+    "location_name": "Catedral de Évora (Évora Cathedral)",
+    "machine": 3,
+    "name": "Obverse: (Silver color) Rooftop view from Évora…",
+    "orientation": "auto",
+    "original_back": "original/location-287474-photo-3-back.jpg",
+    "original_file": "original/location-287474-photo-3-front.jpg",
+    "original_front": "original/location-287474-photo-3-front.jpg",
+    "padding": 4,
+    "position": 3,
+    "previous_back": "http://locations.pennycollector.com/images/machine_6a201487-fc5e-4400-b13e-2363ccdc8355.jpg",
+    "previous_front": "http://locations.pennycollector.com/images/machine_6a201487-fc5e-4400-b13e-2363ccdc8355.jpg",
+    "previous_type": "coin",
+    "reference_url": "http://locations.pennycollector.com/Details.aspx?location=287474#machine-3-position-2",
+    "slug": "portugal-obverse-silver-color-rooftop-view-from-evora-coin-evora",
+    "source_url": "http://locations.pennycollector.com/images/machine_6a201487-fc5e-4400-b13e-2363ccdc8355.jpg",
+    "type": "coin",
+    "type_was_overridden": false
+  },
   "6ab84eca375adb23f2045cb4": {
     "centered": false,
     "city": "Tomar",

@@ -66,6 +66,9 @@ portugal-catedral-do-porto-portugal-feb-9-2019-there-is-no-a-coin-porto:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-catedral-do-porto-portugal-feb-9-2019-there-is-no-a-coin-porto.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-catedral-do-porto-portugal-feb-9-2019-there-is-no-a-coin-porto.jpg
 
+portugal-cathedral-front-entrance-view-with-se-de-portugal-pressed-evora:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-cathedral-front-entrance-view-with-se-de-portugal-pressed-evora.jpg
+
 portugal-cathedral-pressed-funchal-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-cathedral-pressed-funchal-madeira-island.jpg
 
@@ -89,6 +92,9 @@ portugal-christ-convent-building-with-tomar-pressed-tomar:
 
 portugal-city-of-lagos-pressed-lagos:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-city-of-lagos-pressed-lagos.jpg
+
+portugal-closed-altarpiece-depicting-various-scenes-of-the-birth-pressed-evora:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-closed-altarpiece-depicting-various-scenes-of-the-birth-pressed-evora.jpg
 
 portugal-coimbra-city-skyline-behind-the-ponte-de-santa-clara-pressed-coimbra:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-coimbra-city-skyline-behind-the-ponte-de-santa-clara-pressed-coimbra.jpg
@@ -275,6 +281,14 @@ portugal-obverse-gold-color-belem-tower-with-torre-de-belem-coin-lisbon-lisboa:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-gold-color-belem-tower-with-torre-de-belem-coin-lisbon-lisboa.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-gold-color-belem-tower-with-torre-de-belem-coin-lisbon-lisboa.jpg
 
+portugal-obverse-gold-color-cathedral-front-entrance-view-with-coin-evora:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-gold-color-cathedral-front-entrance-view-with-coin-evora.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-gold-color-cathedral-front-entrance-view-with-coin-evora.jpg
+
+portugal-obverse-gold-color-santo-antao-church-with-historic-coin-evora:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-gold-color-santo-antao-church-with-historic-coin-evora.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-gold-color-santo-antao-church-with-historic-coin-evora.jpg
+
 portugal-obverse-gold-color-the-ocean-coach-with-museu-coin-lisbon-lisboa:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-gold-color-the-ocean-coach-with-museu-coin-lisbon-lisboa.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-gold-color-the-ocean-coach-with-museu-coin-lisbon-lisboa.jpg
@@ -291,6 +305,10 @@ portugal-obverse-image-of-the-janela-do-capitulo-coin-tomar:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-image-of-the-janela-do-capitulo-coin-tomar.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-image-of-the-janela-do-capitulo-coin-tomar.jpg
 
+portugal-obverse-silver-color-cathedral-side-and-area-view-coin-evora:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-silver-color-cathedral-side-and-area-view-coin-evora.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-silver-color-cathedral-side-and-area-view-coin-evora.jpg
+
 portugal-obverse-silver-color-close-up-of-belem-tower-with-coin-lisbon-lisboa:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-silver-color-close-up-of-belem-tower-with-coin-lisbon-lisboa.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-silver-color-close-up-of-belem-tower-with-coin-lisbon-lisboa.jpg
@@ -299,9 +317,16 @@ portugal-obverse-silver-color-coach-for-philip-ii-with-museu-coin-lisbon-lisboa:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-silver-color-coach-for-philip-ii-with-museu-coin-lisbon-lisboa.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-silver-color-coach-for-philip-ii-with-museu-coin-lisbon-lisboa.jpg
 
+portugal-obverse-silver-color-rooftop-view-from-evora-coin-evora:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-silver-color-rooftop-view-from-evora-coin-evora.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-silver-color-rooftop-view-from-evora-coin-evora.jpg
+
 portugal-obverse-silver-colored-medieval-knight-in-full-armor-coin-coimbra:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-obverse-silver-colored-medieval-knight-in-full-armor-coin-coimbra.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/tras/portugal-obverse-silver-colored-medieval-knight-in-full-armor-coin-coimbra.jpg
+
+portugal-open-altarpiece-depicting-various-scenes-of-the-birth-pressed-evora:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-open-altarpiece-depicting-various-scenes-of-the-birth-pressed-evora.jpg
 
 portugal-oratory-for-the-knights-templar-with-charola-do-tomar-pressed-tomar:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-oratory-for-the-knights-templar-with-charola-do-tomar-pressed-tomar.jpg
@@ -472,6 +497,9 @@ portugal-view-of-forte-de-sao-miguel-arcanjo-and-the-atlantic-pressed-nazare:
 
 portugal-viewpoint-pressed-funchal-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-viewpoint-pressed-funchal-madeira-island.jpg
+
+portugal-virgin-mary-with-nossa-senhora-ddo-o-pressed-evora:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-virgin-mary-with-nossa-senhora-ddo-o-pressed-evora.jpg
 
 portugal-window-in-the-chapter-of-convent-with-janela-do-sapitulo-pressed-tomar:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-window-in-the-chapter-of-convent-with-janela-do-sapitulo-pressed-tomar.jpg
