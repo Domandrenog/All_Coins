@@ -65,8 +65,17 @@ portugal-cabo-giro-viewpoint-pressed-camara-dos-lobos-madeira-island:
 portugal-cantrarinha-dos-namorados-guimaraes-pressed-guimaraes:
   frente: http://locations.pennycollector.com/images/machine_90dec15f-00cf-4874-a656-22b477b99b92.jpeg
 
+portugal-carreiros-do-monte-funchal-view-pressed-funchal-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_d400e9fb-f510-4f5d-adb1-b512131ad178.jpg
+
 portugal-carreiros-do-monte-gold-coin-funchal-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_41a80211-5bd9-4ed4-87fd-a3c4a6c1687b.jpg
+
+portugal-carreiros-do-monte-logo-pressed-funchal-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_d400e9fb-f510-4f5d-adb1-b512131ad178.jpg
+
+portugal-carreiros-do-monte-pressed-funchal-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_d400e9fb-f510-4f5d-adb1-b512131ad178.jpg
 
 portugal-carreiros-do-monte-silver-coin-funchal-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_41a80211-5bd9-4ed4-87fd-a3c4a6c1687b.jpg
@@ -203,6 +212,10 @@ portugal-gold-view-of-nuns-valley-coin-curral-das-freiras-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_c56453de-536a-4032-b116-0e19e5c64b77.jpg
   tras: http://locations.pennycollector.com/images/machine_c56453de-536a-4032-b116-0e19e5c64b77.jpg
 
+portugal-gold-with-carreiros-do-monte-coin-funchal-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_55493b7b-4448-45b5-b97c-29fc617ddcea.jpg
+  tras: http://locations.pennycollector.com/images/machine_55493b7b-4448-45b5-b97c-29fc617ddcea.jpg
+
 portugal-guimaraes-pressed-guimaraes:
   frente: http://locations.pennycollector.com/images/machine_90dec15f-00cf-4874-a656-22b477b99b92.jpeg
 
@@ -290,6 +303,9 @@ portugal-nossa-senhora-de-fatima-pressed-ribeiro-frio-madeira-island:
 
 portugal-nossa-senhora-do-livramento-pressed-curral-das-freiras-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_f2e9dd34-0e11-4789-82af-7d79f16c8f13.jpg
+
+portugal-nossa-senhora-monte-church-pressed-funchal-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_d400e9fb-f510-4f5d-adb1-b512131ad178.jpg
 
 portugal-nun-pressed-curral-das-freiras-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_f2e9dd34-0e11-4789-82af-7d79f16c8f13.jpg
@@ -460,6 +476,10 @@ portugal-silver-a-view-over-funchal-rear-madeira-island-coin-funchal-madeira-isl
 portugal-silver-view-of-nuns-valley-with-viewpoint-rear-coin-curral-das-freiras-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_c56453de-536a-4032-b116-0e19e5c64b77.jpg
   tras: http://locations.pennycollector.com/images/machine_c56453de-536a-4032-b116-0e19e5c64b77.jpg
+
+portugal-silver-with-carreiros-do-monte-rear-madeira-island-coin-funchal-madeira-island:
+  frente: http://locations.pennycollector.com/images/machine_55493b7b-4448-45b5-b97c-29fc617ddcea.jpg
+  tras: http://locations.pennycollector.com/images/machine_55493b7b-4448-45b5-b97c-29fc617ddcea.jpg
 
 portugal-sto-antonio-pressed-braga:
   frente: http://locations.pennycollector.com/images/machine_a67d8226-db57-4f95-bd63-3dd77510139d.jpg
