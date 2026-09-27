@@ -44,6 +44,9 @@ portugal-beach-with-lagos-pressed-lagos:
 portugal-belem-tower-with-torre-de-belem-pressed-lisbon-lisboa:
   frente: http://locations.pennycollector.com/images/machine_68169adb-a1e9-404f-be9f-3db76bf138e6.jpg
 
+portugal-bell-tower-pressed-albufeira:
+  frente: http://locations.pennycollector.com/images/machine_b1d4e2e5-e2b9-49ad-9319-f26278457e83.jpg
+
 portugal-building-pressed-faro:
   frente: http://locations.pennycollector.com/images/machine_0cf4c81c-ab48-4c74-901a-ca0140082132.jpg
 
@@ -399,6 +402,9 @@ portugal-peneco-beach-with-pedal-boat-and-slide-pressed-albufeira:
 portugal-peneco-beach-with-rock-formation-pressed-albufeira:
   frente: http://locations.pennycollector.com/images/machine_b7890259-2ff9-4380-9a64-e551400824bf.jpg
 
+portugal-pescadores-beach-pressed-albufeira:
+  frente: http://locations.pennycollector.com/images/machine_b1d4e2e5-e2b9-49ad-9319-f26278457e83.jpg
+
 portugal-pictorial-of-the-virgin-mary-intercession-with-milagre-pressed-nazare:
   frente: http://locations.pennycollector.com/images/machine_f126aaea-515d-490d-adc6-fd6f5f29bf98.jpg
 
@@ -557,6 +563,9 @@ portugal-virgin-mary-with-nossa-senhora-ddo-o-pressed-evora:
 
 portugal-window-in-the-chapter-of-convent-with-janela-do-sapitulo-pressed-tomar:
   frente: http://locations.pennycollector.com/images/machine_2f2f9bdf-de4a-4dde-9243-3c3000285cca.jpg
+
+portugal-with-love-from-pressed-albufeira:
+  frente: http://locations.pennycollector.com/images/machine_b1d4e2e5-e2b9-49ad-9319-f26278457e83.jpg
 
 portugal-woman-praying-pressed-fatima:
   frente: http://locations.pennycollector.com/images/machine_29dbd204-a8ab-4ed3-b2e3-0523d12489c2.jpg
