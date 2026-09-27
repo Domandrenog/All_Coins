@@ -71,6 +71,9 @@ portugal-cabo-giro-from-camara-dos-lobos-pressed-camara-dos-lobos-madeira-island
 portugal-cabo-giro-viewpoint-pressed-camara-dos-lobos-madeira-island:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-cabo-giro-viewpoint-pressed-camara-dos-lobos-madeira-island.jpg
 
+portugal-caminho-de-santiago-de-compostela-pressed-ponte-de-lima:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-caminho-de-santiago-de-compostela-pressed-ponte-de-lima.jpg
+
 portugal-cantrarinha-dos-namorados-guimaraes-pressed-guimaraes:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-cantrarinha-dos-namorados-guimaraes-pressed-guimaraes.jpg
 
@@ -131,6 +134,9 @@ portugal-closed-altarpiece-depicting-various-scenes-of-the-birth-pressed-evora:
 
 portugal-coimbra-city-skyline-behind-the-ponte-de-santa-clara-pressed-coimbra:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-coimbra-city-skyline-behind-the-ponte-de-santa-clara-pressed-coimbra.jpg
+
+portugal-coracao-do-minho-pressed-ponte-de-lima:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-coracao-do-minho-pressed-ponte-de-lima.jpg
 
 portugal-cristo-rei-looking-to-lisbon-coin-almada:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-cristo-rei-looking-to-lisbon-coin-almada.jpg
@@ -220,6 +226,9 @@ portugal-funchal-view-pressed-funchal-madeira-island:
 
 portugal-galo-de-barcelos-portugal-pressed-guimaraes:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-galo-de-barcelos-portugal-pressed-guimaraes.jpg
+
+portugal-galo-de-barcelos-pressed-ponte-de-lima:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-galo-de-barcelos-pressed-ponte-de-lima.jpg
 
 portugal-gao-de-barcelos-pressed-guimaraes:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-gao-de-barcelos-pressed-guimaraes.jpg
@@ -432,6 +441,9 @@ portugal-pescadores-beach-pressed-albufeira:
 
 portugal-pictorial-of-the-virgin-mary-intercession-with-milagre-pressed-nazare:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-pictorial-of-the-virgin-mary-intercession-with-milagre-pressed-nazare.jpg
+
+portugal-ponte-de-lima-pressed-ponte-de-lima:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-ponte-de-lima-pressed-ponte-de-lima.jpg
 
 portugal-portimao-pressed-portimao:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/souvenir/frente/portugal-portimao-pressed-portimao.jpg

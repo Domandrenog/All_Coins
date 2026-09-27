@@ -71,6 +71,9 @@ portugal-cabo-giro-from-camara-dos-lobos-pressed-camara-dos-lobos-madeira-island
 portugal-cabo-giro-viewpoint-pressed-camara-dos-lobos-madeira-island:
   frente: http://locations.pennycollector.com/images/machine_b2e86ff2-1fee-4d1d-9c13-0ce5e86b9ed4.jpg
 
+portugal-caminho-de-santiago-de-compostela-pressed-ponte-de-lima:
+  frente: http://locations.pennycollector.com/images/machine_389c2865-295f-4fab-a96c-ead03494c974.png
+
 portugal-cantrarinha-dos-namorados-guimaraes-pressed-guimaraes:
   frente: http://locations.pennycollector.com/images/machine_90dec15f-00cf-4874-a656-22b477b99b92.jpeg
 
@@ -131,6 +134,9 @@ portugal-closed-altarpiece-depicting-various-scenes-of-the-birth-pressed-evora:
 
 portugal-coimbra-city-skyline-behind-the-ponte-de-santa-clara-pressed-coimbra:
   frente: http://locations.pennycollector.com/images/machine_21bc0039-a7a4-40b1-92c4-9dbf08a2bb7e.jpg
+
+portugal-coracao-do-minho-pressed-ponte-de-lima:
+  frente: http://locations.pennycollector.com/images/machine_389c2865-295f-4fab-a96c-ead03494c974.png
 
 portugal-cristo-rei-looking-to-lisbon-coin-almada:
   frente: http://locations.pennycollector.com/images/machine_766caa61-1b5d-4efd-a17a-b31a8486b36b.jpg
@@ -220,6 +226,9 @@ portugal-funchal-view-pressed-funchal-madeira-island:
 
 portugal-galo-de-barcelos-portugal-pressed-guimaraes:
   frente: http://locations.pennycollector.com/images/machine_c4d4260e-2f09-41ca-95f3-6fc9057ff315.jpg
+
+portugal-galo-de-barcelos-pressed-ponte-de-lima:
+  frente: http://locations.pennycollector.com/images/machine_389c2865-295f-4fab-a96c-ead03494c974.png
 
 portugal-gao-de-barcelos-pressed-guimaraes:
   frente: http://locations.pennycollector.com/images/machine_8155d1b3-d605-43c5-b12a-6d3ba169c643.jpg
@@ -432,6 +441,9 @@ portugal-pescadores-beach-pressed-albufeira:
 
 portugal-pictorial-of-the-virgin-mary-intercession-with-milagre-pressed-nazare:
   frente: http://locations.pennycollector.com/images/machine_f126aaea-515d-490d-adc6-fd6f5f29bf98.jpg
+
+portugal-ponte-de-lima-pressed-ponte-de-lima:
+  frente: http://locations.pennycollector.com/images/machine_389c2865-295f-4fab-a96c-ead03494c974.png
 
 portugal-portimao-pressed-portimao:
   frente: http://locations.pennycollector.com/images/machine_40fea727-17f8-4569-9063-601e04c24a1b.jpg
