@@ -20,6 +20,11 @@ from urllib.error import HTTPError, URLError
 from urllib.parse import unquote, urlencode, urlparse
 from urllib.request import Request, urlopen
 
+try:
+    from .admin_stats_sync import MutationRun, mark_numisvault_stats_stale
+except ImportError:
+    from admin_stats_sync import MutationRun, mark_numisvault_stats_stale
+
 API_BASE_URL = "https://track-coin-collection.base44.app/api"
 API_KEY_ENV = "ALL_COINS_API_KEY"
 DEFAULT_RAW_BASE_URL = "https://raw.githubusercontent.com/Domandrenog/All_Coins/main"
@@ -929,29 +934,34 @@ def main() -> int:
     api_started_at = time.monotonic()
     api_coin_started_at: float | None = None
     recent_api_durations: deque[float] = deque(maxlen=10)
-    for index, (coin_id, payload, label) in enumerate(pending_updates, start=1):
-        now = time.monotonic()
-        if api_coin_started_at is not None:
-            recent_api_durations.append(now - api_coin_started_at)
-        api_coin_started_at = now
-        api_request("PUT", f"/entities/Coin/{coin_id}", api_key, payload=payload)
-        updated_coin = api_request("GET", f"/entities/Coin/{coin_id}", api_key)
-        if not isinstance(updated_coin, dict):
-            raise RuntimeError(f"Resposta inesperada ao verificar moeda atualizada: {updated_coin!r}")
+    with MutationRun(
+        lambda: mark_numisvault_stats_stale(api_key, api_request),
+        mutation_label="Coin record",
+    ) as mutations:
+        for index, (coin_id, payload, label) in enumerate(pending_updates, start=1):
+            now = time.monotonic()
+            if api_coin_started_at is not None:
+                recent_api_durations.append(now - api_coin_started_at)
+            api_coin_started_at = now
+            api_request("PUT", f"/entities/Coin/{coin_id}", api_key, payload=payload)
+            mutations.record_success()
+            updated_coin = api_request("GET", f"/entities/Coin/{coin_id}", api_key)
+            if not isinstance(updated_coin, dict):
+                raise RuntimeError(f"Resposta inesperada ao verificar moeda atualizada: {updated_coin!r}")
 
-        completed = index
-        percent = completed / total_updates * 100
-        elapsed = time.monotonic() - api_started_at
-        if len(recent_api_durations) >= 3:
-            eta = sum(recent_api_durations) / len(recent_api_durations) * (total_updates - completed)
-            eta_text = f"estimativa: ~{format_duration(eta)}"
-        else:
-            eta_text = "estimativa: a calcular"
-        print(
-            f"[Progresso API: {completed}/{total_updates} ({percent:.0f}%) | "
-            f"decorrido: {format_duration(elapsed)} | {eta_text}]"
-        )
-        print(f"✓ API atualizada e verificada — {label}")
+            completed = index
+            percent = completed / total_updates * 100
+            elapsed = time.monotonic() - api_started_at
+            if len(recent_api_durations) >= 3:
+                eta = sum(recent_api_durations) / len(recent_api_durations) * (total_updates - completed)
+                eta_text = f"estimativa: ~{format_duration(eta)}"
+            else:
+                eta_text = "estimativa: a calcular"
+            print(
+                f"[Progresso API: {completed}/{total_updates} ({percent:.0f}%) | "
+                f"decorrido: {format_duration(elapsed)} | {eta_text}]"
+            )
+            print(f"✓ API atualizada e verificada — {label}")
 
     if args.download_only:
         print("\nDownload-only: imagens descarregadas, nenhuma alteração foi enviada para a API.")

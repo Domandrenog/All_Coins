@@ -18,6 +18,11 @@ from urllib.request import Request, urlopen
 from PIL import Image, ImageChops, ImageOps
 
 try:
+    from .admin_stats_sync import MutationRun, mark_numisvault_stats_stale
+except ImportError:
+    from admin_stats_sync import MutationRun, mark_numisvault_stats_stale
+
+try:
     from .sync_coin_images_api import (
         API_KEY_ENV,
         DEFAULT_RAW_BASE_URL,
@@ -598,14 +603,19 @@ def main() -> int:
         git_commit_and_push(args.git_commit_message)
 
     entity = str(CATALOGS[args.catalog]["entity"])
-    for index, (before, target, payload) in enumerate(pending, start=1):
-        record_id = str(before["id"])
-        api_request("PUT", f"/entities/{entity}/{record_id}", api_key, payload=payload)
-        verified = api_request("GET", f"/entities/{entity}/{record_id}", api_key)
-        if not isinstance(verified, dict):
-            raise RuntimeError(f"Resposta inesperada ao verificar {record_id}: {verified!r}")
-        verify_preserved_record(before, verified, target, args.catalog, payload)
-        print(f"✓ API atualizada e verificada [{index}/{len(pending)}] — {record_label(before, args.catalog)}")
+    with MutationRun(
+        lambda: mark_numisvault_stats_stale(api_key, api_request),
+        mutation_label=f"{entity} record",
+    ) as mutations:
+        for index, (before, target, payload) in enumerate(pending, start=1):
+            record_id = str(before["id"])
+            api_request("PUT", f"/entities/{entity}/{record_id}", api_key, payload=payload)
+            mutations.record_success()
+            verified = api_request("GET", f"/entities/{entity}/{record_id}", api_key)
+            if not isinstance(verified, dict):
+                raise RuntimeError(f"Resposta inesperada ao verificar {record_id}: {verified!r}")
+            verify_preserved_record(before, verified, target, args.catalog, payload)
+            print(f"✓ API atualizada e verificada [{index}/{len(pending)}] — {record_label(before, args.catalog)}")
 
     if args.download_only:
         print("\nDownload concluído; a API não foi alterada.")

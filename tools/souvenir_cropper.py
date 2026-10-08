@@ -58,6 +58,10 @@ from scripts.sync_coin_images_api import (  # noqa: E402
     api_request,
     load_dotenv,
 )
+from scripts.admin_stats_sync import (  # noqa: E402
+    MutationRun,
+    mark_numisvault_stats_stale,
+)
 
 
 
@@ -1425,30 +1429,35 @@ def create_souvenir_clone(
     api_key: str,
 ) -> dict[str, object]:
     payload = clone_souvenir_payload(source, new_name)
-    created = api_request(
-        "POST", "/entities/Souvenir", api_key, payload=payload
-    )
-    if not isinstance(created, dict) or not created.get("id"):
-        raise RuntimeError(f"Resposta inesperada ao criar o Souvenir: {created!r}")
-    record_id = str(created["id"])
-    verified = api_request(
-        "GET", f"/entities/Souvenir/{record_id}", api_key
-    )
-    if not isinstance(verified, dict) or str(verified.get("id") or "") != record_id:
-        raise RuntimeError(
-            f"Não foi possível confirmar o Souvenir criado: {record_id}."
+    with MutationRun(
+        lambda: mark_numisvault_stats_stale(api_key, api_request),
+        mutation_label="Souvenir record",
+    ) as mutations:
+        created = api_request(
+            "POST", "/entities/Souvenir", api_key, payload=payload
         )
-    different = [
-        field
-        for field, expected in payload.items()
-        if expected not in (None, "") and verified.get(field) != expected
-    ]
-    if different:
-        raise RuntimeError(
-            "A Base44 não copiou corretamente os campos: "
-            + ", ".join(different)
+        if not isinstance(created, dict) or not created.get("id"):
+            raise RuntimeError(f"Resposta inesperada ao criar o Souvenir: {created!r}")
+        mutations.record_success()
+        record_id = str(created["id"])
+        verified = api_request(
+            "GET", f"/entities/Souvenir/{record_id}", api_key
         )
-    return verified
+        if not isinstance(verified, dict) or str(verified.get("id") or "") != record_id:
+            raise RuntimeError(
+                f"Não foi possível confirmar o Souvenir criado: {record_id}."
+            )
+        different = [
+            field
+            for field, expected in payload.items()
+            if expected not in (None, "") and verified.get(field) != expected
+        ]
+        if different:
+            raise RuntimeError(
+                "A Base44 não copiou corretamente os campos: "
+                + ", ".join(different)
+            )
+        return verified
 
 
 def update_souvenir_name(
@@ -1466,29 +1475,34 @@ def update_souvenir_name(
         raise RuntimeError("Não foi possível confirmar a moeda na Base44.")
     if str(before.get("name") or "").strip() == name:
         raise ValueError("O novo nome tem de ser diferente do atual.")
-    api_request(
-        "PUT",
-        f"/entities/Souvenir/{record_id}",
-        api_key,
-        payload={"name": name},
-    )
-    after = api_request("GET", f"/entities/Souvenir/{record_id}", api_key)
-    if not isinstance(after, dict) or str(after.get("id") or "") != record_id:
-        raise RuntimeError("Não foi possível verificar a moeda depois da alteração.")
-    if after.get("name") != name:
-        raise RuntimeError("A Base44 não guardou o novo nome da moeda.")
-    changed = [
-        field
-        for field in SOUVENIR_CLONE_FIELDS
-        if field != "name"
-        and field in before
-        and after.get(field) != before.get(field)
-    ]
-    if changed:
-        raise RuntimeError(
-            "A Base44 alterou campos inesperados: " + ", ".join(changed)
+    with MutationRun(
+        lambda: mark_numisvault_stats_stale(api_key, api_request),
+        mutation_label="Souvenir record",
+    ) as mutations:
+        api_request(
+            "PUT",
+            f"/entities/Souvenir/{record_id}",
+            api_key,
+            payload={"name": name},
         )
-    return after
+        mutations.record_success()
+        after = api_request("GET", f"/entities/Souvenir/{record_id}", api_key)
+        if not isinstance(after, dict) or str(after.get("id") or "") != record_id:
+            raise RuntimeError("Não foi possível verificar a moeda depois da alteração.")
+        if after.get("name") != name:
+            raise RuntimeError("A Base44 não guardou o novo nome da moeda.")
+        changed = [
+            field
+            for field in SOUVENIR_CLONE_FIELDS
+            if field != "name"
+            and field in before
+            and after.get(field) != before.get(field)
+        ]
+        if changed:
+            raise RuntimeError(
+                "A Base44 alterou campos inesperados: " + ", ".join(changed)
+            )
+        return after
 
 
 def read_back_image_overrides(output_dir: Path) -> dict[str, bool]:

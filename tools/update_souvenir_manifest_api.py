@@ -29,6 +29,10 @@ from scripts.sync_coin_images_api import (  # noqa: E402
     api_request,
     load_dotenv,
 )
+from scripts.admin_stats_sync import (  # noqa: E402
+    MutationRun,
+    mark_numisvault_stats_stale,
+)
 
 
 def normalize_selections(values: set[str] | None) -> set[str] | None:
@@ -244,27 +248,32 @@ def apply_updates(
     unchanged = 0
     total = len(prepared)
     started = time.monotonic()
-    for index, (before, entry) in enumerate(prepared, 1):
-        payload = difference_payload(before, entry)
-        if not payload:
-            unchanged += 1
-            print(f"✓ [{index}/{total}] já atualizado — {before.get('name') or before['id']}")
-            continue
-        record_id = str(before["id"])
-        api_request("PUT", f"/entities/Souvenir/{record_id}", api_key, payload=payload)
-        after = api_request("GET", f"/entities/Souvenir/{record_id}", api_key)
-        if not isinstance(after, dict):
-            raise RuntimeError(f"Resposta inesperada ao verificar {record_id}.")
-        verify_partial_update(before, after, payload)
-        updated += 1
-        elapsed = time.monotonic() - started
-        average = elapsed / index
-        eta = average * (total - index)
-        print(
-            f"✓ [{index}/{total} | {index / total * 100:.0f}% | "
-            f"decorrido {elapsed:.0f}s | ETA {eta:.0f}s] "
-            f"{before.get('name') or record_id} — campos: {', '.join(payload)}"
-        )
+    with MutationRun(
+        lambda: mark_numisvault_stats_stale(api_key, api_request),
+        mutation_label="Souvenir record",
+    ) as mutations:
+        for index, (before, entry) in enumerate(prepared, 1):
+            payload = difference_payload(before, entry)
+            if not payload:
+                unchanged += 1
+                print(f"✓ [{index}/{total}] já atualizado — {before.get('name') or before['id']}")
+                continue
+            record_id = str(before["id"])
+            api_request("PUT", f"/entities/Souvenir/{record_id}", api_key, payload=payload)
+            mutations.record_success()
+            after = api_request("GET", f"/entities/Souvenir/{record_id}", api_key)
+            if not isinstance(after, dict):
+                raise RuntimeError(f"Resposta inesperada ao verificar {record_id}.")
+            verify_partial_update(before, after, payload)
+            updated += 1
+            elapsed = time.monotonic() - started
+            average = elapsed / index
+            eta = average * (total - index)
+            print(
+                f"✓ [{index}/{total} | {index / total * 100:.0f}% | "
+                f"decorrido {elapsed:.0f}s | ETA {eta:.0f}s] "
+                f"{before.get('name') or record_id} — campos: {', '.join(payload)}"
+            )
     return updated, unchanged
 
 

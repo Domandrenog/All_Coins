@@ -213,8 +213,9 @@ class SouvenirCloneTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "diferente"):
             clone_souvenir_payload(self.source(), "fátima sanctuary")
 
+    @patch("tools.souvenir_cropper.mark_numisvault_stats_stale")
     @patch("tools.souvenir_cropper.api_request")
-    def test_creation_is_verified_in_base44(self, api_request):
+    def test_creation_is_verified_in_base44(self, api_request, marker):
         source = self.source()
         payload = clone_souvenir_payload(source, "Fátima Sanctuary — Silver")
         api_request.side_effect = [
@@ -239,6 +240,7 @@ class SouvenirCloneTests(unittest.TestCase):
         self.assertEqual(api_request.call_args_list[1].args[:3], (
             "GET", "/entities/Souvenir/new-coin", "test-key",
         ))
+        marker.assert_called_once_with("test-key", api_request)
 
 
 class SouvenirNameUpdateTests(unittest.TestCase):
@@ -254,8 +256,9 @@ class SouvenirNameUpdateTests(unittest.TestCase):
             "description": "Descrição preservada",
         }
 
+    @patch("tools.souvenir_cropper.mark_numisvault_stats_stale")
     @patch("tools.souvenir_cropper.api_request")
-    def test_updates_only_the_name_and_verifies_the_result(self, api_request):
+    def test_updates_only_the_name_and_verifies_the_result(self, api_request, marker):
         before = self.source()
         after = {**before, "name": "Nome novo"}
         api_request.side_effect = [before, {}, after]
@@ -271,15 +274,18 @@ class SouvenirNameUpdateTests(unittest.TestCase):
             api_request.call_args_list[1].kwargs["payload"],
             {"name": "Nome novo"},
         )
+        marker.assert_called_once_with("test-key", api_request)
 
+    @patch("tools.souvenir_cropper.mark_numisvault_stats_stale")
     @patch("tools.souvenir_cropper.api_request")
-    def test_rejects_an_unexpected_change_to_another_field(self, api_request):
+    def test_rejects_an_unexpected_change_to_another_field(self, api_request, marker):
         before = self.source()
         after = {**before, "name": "Nome novo", "city": "Lisboa"}
         api_request.side_effect = [before, {}, after]
 
         with self.assertRaisesRegex(RuntimeError, "campos inesperados: city"):
             update_souvenir_name("coin-1", "Nome novo", "test-key")
+        marker.assert_called_once_with("test-key", api_request)
 
 
 class BackImageOverrideTests(unittest.TestCase):
