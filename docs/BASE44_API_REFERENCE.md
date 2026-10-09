@@ -134,6 +134,105 @@ Restore a deleted CoinVariant record
 const record = await base44.entities.CoinVariant.restore(recordId);
 ```
 
+## SpecialCoinVariant
+
+### Schema
+
+| Field | Type | Required | Description |
+| --- | --- | --- | --- |
+| `special_coin_id` | string | Yes | ID da moeda `SpecialCoin` associada |
+| `tag` | string | Yes | Identificador da variante, por exemplo `P` ou `D` |
+| `condition` | `Tenho`, `Má Qualidade`, `Não Tenho` | Yes | Estado da variante |
+| `adquirida_por` | string |  | Utilizador associado à aquisição |
+| `data_aquisicao` | string |  | Data de aquisição |
+| `ordem` | integer |  | Ordem de apresentação |
+| `id` | string |  | Unique record identifier |
+| `created_date` | string |  | Record creation timestamp |
+| `updated_date` | string |  | Record last update timestamp |
+| `created_by_id` | string |  | ID of the user who created the record |
+
+### Endpoints
+
+### `GET /entities/SpecialCoinVariant`
+List SpecialCoinVariant records
+
+```javascript
+const records = await base44.entities.SpecialCoinVariant.list();
+```
+
+### `POST /entities/SpecialCoinVariant`
+Create a SpecialCoinVariant record
+
+```javascript
+const record = await base44.entities.SpecialCoinVariant.create({
+  special_coin_id: "SpecialCoin record ID",
+  tag: "P",
+  condition: "Não Tenho",
+});
+```
+
+### `DELETE /entities/SpecialCoinVariant`
+Delete multiple SpecialCoinVariant records
+
+```javascript
+await base44.entities.SpecialCoinVariant.deleteMany({
+  special_coin_id: "SpecialCoin record ID",
+});
+```
+
+### `POST /entities/SpecialCoinVariant/bulk`
+Bulk create SpecialCoinVariant records
+
+```javascript
+const records = await base44.entities.SpecialCoinVariant.bulkCreate([
+  { special_coin_id: "SpecialCoin record ID", tag: "P", condition: "Não Tenho" },
+]);
+```
+
+### `PUT /entities/SpecialCoinVariant/bulk`
+Bulk update SpecialCoinVariant records
+
+```javascript
+// bulk-update is not available via SDK — use the REST API
+```
+
+### `PATCH /entities/SpecialCoinVariant/update-many`
+Update many SpecialCoinVariant records by query
+
+```javascript
+// update-many is not available via SDK — use the REST API
+```
+
+### `GET /entities/SpecialCoinVariant/{SpecialCoinVariant_id}`
+Get a SpecialCoinVariant record by ID
+
+```javascript
+const record = await base44.entities.SpecialCoinVariant.get(recordId);
+```
+
+### `PUT /entities/SpecialCoinVariant/{SpecialCoinVariant_id}`
+Update a SpecialCoinVariant record
+
+```javascript
+const record = await base44.entities.SpecialCoinVariant.update(recordId, {
+  condition: "Tenho",
+});
+```
+
+### `DELETE /entities/SpecialCoinVariant/{SpecialCoinVariant_id}`
+Delete a SpecialCoinVariant record
+
+```javascript
+await base44.entities.SpecialCoinVariant.delete(recordId);
+```
+
+### `PUT /entities/SpecialCoinVariant/{SpecialCoinVariant_id}/restore`
+Restore a deleted SpecialCoinVariant record
+
+```javascript
+const record = await base44.entities.SpecialCoinVariant.restore(recordId);
+```
+
 ## SpecialCoin
 
 ### Schema
@@ -146,6 +245,7 @@ const record = await base44.entities.CoinVariant.restore(recordId);
 | `commemorative_name` | string |  |  |
 | `year` | string |  |  |
 | `condition` | `Tenho`, `Má Qualidade`, `Por Entregar`, `Não Tenho` | Yes |  |
+| `has_variants` | boolean |  | Indica se a moeda usa `SpecialCoinVariant` |
 | `image_frente` | string |  |  |
 | `image_verso` | string |  |  |
 | `adquirida_por` | string |  |  |
