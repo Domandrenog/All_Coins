@@ -1,0 +1,979 @@
+united-states-1-cent-anos-de-formacao-em-indiana-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-cent-2009-penny-anos-de-formacao-em-indiana-2009-nasc-abraham-lincoln.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-cent-2009-penny-anos-de-formacao-em-indiana-2009-nasc-abraham-lincoln.jpg
+
+united-states-1-cent-independencia-dos-eua-2026:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/united-states-penny-independencia-dos-eua-2026.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/united-states-penny-independencia-dos-eua-2026.jpg
+
+united-states-1-cent-presidencia-em-washington-dc-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-cent-2009-penny-presidencia-em-washington-dc-2009-nasc-abraham-lincoln.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-cent-2009-penny-presidencia-em-washington-dc-2009-nasc-abraham-lincoln.jpg
+
+united-states-1-cent-primeira-infancia-em-kentucky-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-cent-2009-penny-primeira-infancia-em-kentucky-2009-nasc-abraham-lincoln.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-cent-2009-penny-primeira-infancia-em-kentucky-2009-nasc-abraham-lincoln.jpg
+
+united-states-1-cent-vida-profissional-em-illinois-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-cent-2009-penny-vida-profissional-em-illinois-2009-nasc-abraham-lincoln.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-cent-2009-penny-vida-profissional-em-illinois-2009-nasc-abraham-lincoln.jpg
+
+united-states-1-dolar-200o-aniversario-independencia-dos-eua-1976:
+  frente: https://i.ucoin.net/coin/48/762/48762901-1/usa-1-dollar-1976.jpg
+  tras: https://i.ucoin.net/coin/48/762/48762901-2/usa-1-dollar-1976.jpg
+
+united-states-1-dolar-250o-aniversario-independencia-dos-eua-2026:
+  frente: https://i.ucoin.net/coin/87/538/87538813-1/usa-1-dollar-2026.jpg
+  tras: https://i.ucoin.net/coin/87/538/87538813-2/usa-1-dollar-2026.jpg
+
+united-states-1-dolar-a-lei-de-cidadania-indiana-de-1924-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2024-dollar-a-lei-de-cidadania-indiana-de-1924-2024-nativos-americanos.jpg
+  tras: https://i.ucoin.net/coin/66/877/66877789-1/usa-1-dollar-2024.jpg
+
+united-states-1-dolar-abraham-lincoln-2010:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2010-dollar-abraham-lincoln-2010-presidential-dollars.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2010-dollar-abraham-lincoln-2010-presidential-dollars.jpg
+
+united-states-1-dolar-alabama-saturno-v-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2024-dollar-alabama-saturno-v-2024-inovacao-americana.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2024-dollar-alabama-saturno-v-2024-inovacao-americana.jpg
+
+united-states-1-dolar-andrew-jackson-2008:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2008-dollar-andrew-jackson-2008-presidential-dollars.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2008-dollar-andrew-jackson-2008-presidential-dollars.jpg
+
+united-states-1-dolar-andrew-johnson-2011:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2011-dollar-andrew-johnson-2011-presidential-dollars.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2011-dollar-andrew-johnson-2011-presidential-dollars.jpg
+
+united-states-1-dolar-arkansas-primeiro-rascunho-gerado-por-computador-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2025-dollar-arkansas-primeiro-rascunho-gerado-por-computador-2025-inovacao-americana.jpg
+  tras: https://i.ucoin.net/coin/74/357/74357449-1/usa-1-dollar-2025.jpg
+
+united-states-1-dolar-autoridade-do-vale-do-tennessee-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2022-dollar-autoridade-do-vale-do-tennessee-2022-inovacao-americana.jpg
+  tras: https://i.ucoin.net/coin/53/166/53166168-1/usa-1-dollar-2022.jpg
+
+united-states-1-dolar-benjamin-harrison-2012:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2012-dollar-benjamin-harrison-2012-presidential-dollars.jpg
+  tras: https://i.ucoin.net/coin/67/974/67974247-2/usa-1-dollar-2012.jpg
+
+united-states-1-dolar-california-steve-jobs-2026:
+  frente: https://i.ucoin.net/coin/86/275/86275182-2/usa-1-dollar-2026.jpg
+  tras: https://i.ucoin.net/coin/86/275/86275182-1/usa-1-dollar-2026.jpg
+
+united-states-1-dolar-calvin-coolidge-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2014-dollar-calvin-coolidge-2014-presidential-dollars.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2014-dollar-calvin-coolidge-2014-presidential-dollars.jpg
+
+united-states-1-dolar-carolina-do-norte-primeira-universidade-publica-2021:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2021-dollar-carolina-do-norte-primeira-universidade-publica-2021-inovacao-americana.jpg
+  tras: https://i.ucoin.net/coin/43/014/43014814-1/usa-1-dollar-2021.jpg
+
+united-states-1-dolar-carolina-do-sul-septima-poinsette-clark-2020:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2020-dollar-carolina-do-sul-septima-poinsette-clark-2020-inovacao-americana.jpg
+  tras: https://i.ucoin.net/coin/40/340/40340081-1/usa-1-dollar-2020.jpg
+
+united-states-1-dolar-chester-a-arthur-2012:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2012-dollar-chester-a-arthur-2012-presidential-dollars.jpg
+  tras: https://i.ucoin.net/coin/60/256/60256763-2/usa-1-dollar-2012.jpg
+
+united-states-1-dolar-codificadores-de-codigos-indigenas-2016:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2016-dollar-codificadores-de-codigos-indigenas-2016-nativos-americanos.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2016-dollar-codificadores-de-codigos-indigenas-2016-nativos-americanos.jpg
+
+united-states-1-dolar-connecticut-escala-variavel-de-gerber-2020:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2020-dollar-connecticut-escala-variavel-de-gerber-2020-inovacao-americana.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2020-dollar-connecticut-escala-variavel-de-gerber-2020-inovacao-americana.jpg
+
+united-states-1-dolar-delaware-annie-jump-cannon-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2019-dollar-delaware-annie-jump-cannon-2019-inovacao-americana.jpg
+  tras: https://i.ucoin.net/coin/73/404/73404466-1/usa-1-dollar-2019.jpg
+
+united-states-1-dolar-dwight-d-eisenhower-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2015-dollar-dwight-d-eisenhower-2015-presidential-dollars.jpg
+  tras: https://i.ucoin.net/coin/67/975/67975867-2/usa-1-dollar-2015.jpg
+
+united-states-1-dolar-elizabeth-peratrovich-e-a-lei-antidiscriminacao-do-alasca-2020:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2020-dollar-elizabeth-peratrovich-e-a-lei-antidiscriminacao-do-alasca-2020-nativos-americanos.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2020-dollar-elizabeth-peratrovich-e-a-lei-antidiscriminacao-do-alasca-2020-nativos-americanos.jpg
+
+united-states-1-dolar-ely-samuel-parker-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2022-dollar-ely-samuel-parker-2022-nativos-americanos.jpg
+  tras: https://i.ucoin.net/coin/53/166/53166147-1/usa-1-dollar-2022.jpg
+
+united-states-1-dolar-florida-cabo-canaveral-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2025-dollar-florida-cabo-canaveral-2025-inovacao-americana.jpg
+  tras: https://i.ucoin.net/coin/74/357/74357515-1/usa-1-dollar-2025.jpg
+
+united-states-1-dolar-franklin-d-roosevelt-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2014-dollar-franklin-d-roosevelt-2014-presidential-dollars.jpg
+  tras: https://i.ucoin.net/coin/67/975/67975474-2/usa-1-dollar-2014.jpg
+
+united-states-1-dolar-franklin-pierce-2010:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2010-dollar-franklin-pierce-2010-presidential-dollars.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2010-dollar-franklin-pierce-2010-presidential-dollars.jpg
+
+united-states-1-dolar-george-herbert-walker-bush-2020:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2020-dollar-george-herbert-walker-bush-2020-presidential-dollars.jpg
+  tras: https://i.ucoin.net/coin/38/780/38780624-2/usa-1-dollar-2020.jpg
+
+united-states-1-dolar-george-washington-2007:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2007-dollar-george-washington-2007-presidential-dollars.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2007-dollar-george-washington-2007-presidential-dollars.jpg
+
+united-states-1-dolar-georgia-o-jardim-dos-curadores-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2019-dollar-georgia-o-jardim-dos-curadores-2019-inovacao-americana.jpg
+  tras: https://i.ucoin.net/coin/30/034/30034916-1/usa-1-dollar-2019.jpg
+
+united-states-1-dolar-gerald-r-ford-2016:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2016-dollar-gerald-r-ford-2016-presidential-dollars.jpg
+  tras: https://i.ucoin.net/coin/36/497/36497719-2/usa-1-dollar-2016.jpg
+
+united-states-1-dolar-grande-lei-da-paz-2010:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2010-dollar-grande-lei-da-paz-2010-nativos-americanos.jpg
+  tras: https://i.ucoin.net/coin/41/225/41225374-1/usa-1-dollar-2010.jpg
+
+united-states-1-dolar-grover-cleveland-1st-2012:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2012-dollar-grover-cleveland-1st-2012-presidential-dollars.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2012-dollar-grover-cleveland-1st-2012-presidential-dollars.jpg
+
+united-states-1-dolar-grover-cleveland-2nd-2013:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2012-dollar-grover-cleveland-2nd-2013-presidential-dollars.jpg
+  tras: https://i.ucoin.net/coin/67/975/67975621-2/usa-1-dollar-2012.jpg
+
+united-states-1-dolar-harry-s-truman-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2015-dollar-harry-s-truman-2015-presidential-dollars.jpg
+  tras: https://i.ucoin.net/coin/60/256/60256638-2/usa-1-dollar-2015.jpg
+
+united-states-1-dolar-herbert-hoover-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2014-dollar-herbert-hoover-2014-presidential-dollars.jpg
+  tras: https://i.ucoin.net/coin/67/975/67975444-2/usa-1-dollar-2014.jpg
+
+united-states-1-dolar-hospitalidade-nativa-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2014-dollar-hospitalidade-nativa-2014-nativos-americanos.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2014-dollar-hospitalidade-nativa-2014-nativos-americanos.jpg
+
+united-states-1-dolar-illinois-arado-de-aco-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2024-dollar-illinois-arado-de-aco-2024-inovacao-americana.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2024-dollar-illinois-arado-de-aco-2024-inovacao-americana.jpg
+
+united-states-1-dolar-indiana-producao-automovel-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2023-dollar-indiana-producao-automovel-2023-inovacao-americana.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2023-dollar-indiana-producao-automovel-2023-inovacao-americana.jpg
+
+united-states-1-dolar-indios-americanos-no-espaco-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2019-dollar-indios-americanos-no-espaco-2019-nativos-americanos.jpg
+  tras: https://i.ucoin.net/coin/38/762/38762373-1/usa-1-dollar-2019.jpg
+
+united-states-1-dolar-indios-americanos-no-exercito-americano-2021:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2021-dollar-indios-americanos-no-exercito-americano-2021-nativos-americanos.jpg
+  tras: https://i.ucoin.net/coin/43/878/43878865-1/usa-1-dollar-2021.jpg
+
+united-states-1-dolar-iowa-norman-borlaug-pai-da-revolucao-verde-2026:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2026-dollar-iowa-norman-borlaug-pai-da-revolucao-verde-2026-inovacao-americana.jpg
+  tras: https://i.ucoin.net/coin/82/902/82902560-1/usa-1-dollar-2026.jpg
+
+united-states-1-dolar-james-a-garfield-2011:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2011-dollar-james-a-garfield-2011-presidential-dollars.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2011-dollar-james-a-garfield-2011-presidential-dollars.jpg
+
+united-states-1-dolar-james-buchanan-2010:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2010-dollar-james-buchanan-2010-presidential-dollars.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2010-dollar-james-buchanan-2010-presidential-dollars.jpg
+
+united-states-1-dolar-james-k-polk-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2009-dollar-james-k-polk-2009-presidential-dollars.jpg
+  tras: https://i.ucoin.net/coin/67/975/67975506-2/usa-1-dollar-2009.jpg
+
+united-states-1-dolar-james-madison-2007:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2007-dollar-james-madison-2007-presidential-dollars.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2007-dollar-james-madison-2007-presidential-dollars.jpg
+
+united-states-1-dolar-james-monroe-2008:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2008-dollar-james-monroe-2008-presidential-dollars.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2008-dollar-james-monroe-2008-presidential-dollars.jpg
+
+united-states-1-dolar-jim-thorpe-wa-tho-huk-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2018-dollar-jim-thorpe-wa-tho-huk-2018-nativos-americanos.jpg
+  tras: https://i.ucoin.net/coin/16/354/16354109-1/usa-1-dollar-2018.jpg
+
+united-states-1-dolar-john-adams-2007:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2007-dollar-john-adams-2007-presidential-dollars.jpg
+  tras: https://i.ucoin.net/coin/51/851/51851155-2/usa-1-dollar-2007.jpg
+
+united-states-1-dolar-john-f-kennedy-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2015-dollar-john-f-kennedy-2015-presidential-dollars.jpg
+  tras: https://i.ucoin.net/coin/67/975/67975830-2/usa-1-dollar-2015.jpg
+
+united-states-1-dolar-john-quincy-adams-2008:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2008-dollar-john-quincy-adams-2008-presidential-dollars.jpg
+  tras: https://i.ucoin.net/coin/67/975/67975523-2/usa-1-dollar-2008.jpg
+
+united-states-1-dolar-john-tyler-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2009-dollar-john-tyler-2009-presidential-dollars.jpg
+  tras: https://i.ucoin.net/coin/67/976/67976095-2/usa-1-dollar-2009.jpg
+
+united-states-1-dolar-kentucky-bluegrass-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2022-dollar-kentucky-bluegrass-2022-inovacao-americana.jpg
+  tras: https://i.ucoin.net/coin/53/166/53166174-1/usa-1-dollar-2022.jpg
+
+united-states-1-dolar-luisiana-barco-de-higgins-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2023-dollar-luisiana-barco-de-higgins-2023-inovacao-americana.jpg
+  tras: https://i.ucoin.net/coin/60/492/60492567-1/usa-1-dollar-2023.jpg
+
+united-states-1-dolar-lyndon-b-johnson-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2015-dollar-lyndon-b-johnson-2015-presidential-dollars.jpg
+  tras: https://i.ucoin.net/coin/3/725/3725726-2/usa-1-dollar-2015.jpg
+
+united-states-1-dolar-maine-desfibrilador-de-corrente-continua-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2024-dollar-maine-desfibrilador-de-corrente-continua-2024-inovacao-americana.jpg
+  tras: https://i.ucoin.net/coin/69/452/69452686-1/usa-1-dollar-2024.jpg
+
+united-states-1-dolar-maria-tallchief-e-indios-americanos-no-bale-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2023-dollar-maria-tallchief-e-indios-americanos-no-bale-2023-nativos-americanos.jpg
+  tras: https://i.ucoin.net/coin/57/057/57057605-1/usa-1-dollar-2023.jpg
+
+united-states-1-dolar-martin-van-buren-2008:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2008-dollar-martin-van-buren-2008-presidential-dollars.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2008-dollar-martin-van-buren-2008-presidential-dollars.jpg
+
+united-states-1-dolar-mary-kawena-pukui-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2025-dollar-mary-kawena-pukui-2025-nativos-americanos.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2025-dollar-mary-kawena-pukui-2025-nativos-americanos.jpg
+
+united-states-1-dolar-maryland-telescopio-hubble-2020:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2020-dollar-maryland-telescopio-hubble-2020-inovacao-americana.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2020-dollar-maryland-telescopio-hubble-2020-inovacao-americana.jpg
+
+united-states-1-dolar-massachusetts-telefone-2020:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2020-dollar-massachusetts-telefone-2020-inovacao-americana.jpg
+  tras: https://i.ucoin.net/coin/38/400/38400306-1/usa-1-dollar-2020.jpg
+
+united-states-1-dolar-metalurgicos-mohawk-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2015-dollar-metalurgicos-mohawk-2015-nativos-americanos.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2015-dollar-metalurgicos-mohawk-2015-nativos-americanos.jpg
+
+united-states-1-dolar-michigan-linha-de-montagem-de-automoveis-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2025-dollar-michigan-linha-de-montagem-de-automoveis-2025-inovacao-americana.jpg
+  tras: https://i.ucoin.net/coin/74/357/74357326-1/usa-1-dollar-2025.jpg
+
+united-states-1-dolar-millard-fillmore-2010:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2010-dollar-millard-fillmore-2010-presidential-dollars.jpg
+  tras: https://i.ucoin.net/coin/60/257/60257272-2/usa-1-dollar-2010.jpg
+
+united-states-1-dolar-minnesota-refrigeracao-movel-2026:
+  frente: https://i.ucoin.net/coin/87/082/87082928-1/usa-1-dollar-2026.jpg
+  tras: https://i.ucoin.net/coin/87/082/87082928-2/usa-1-dollar-2026.jpg
+
+united-states-1-dolar-mississippi-primeiro-transplante-de-pulmao-humano-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2023-dollar-mississippi-primeiro-transplante-de-pulmao-humano-2023-inovacao-americana.jpg
+  tras: https://i.ucoin.net/coin/69/664/69664210-1/usa-1-dollar-2023.jpg
+
+united-states-1-dolar-missouri-george-washington-carver-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2024-dollar-missouri-george-washington-carver-2024-inovacao-americana.jpg
+  tras: https://i.ucoin.net/coin/70/495/70495483-1/usa-1-dollar-2024.jpg
+
+united-states-1-dolar-nova-hampshire-ralph-baer-o-pai-dos-video-jogos-2021:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2021-dollar-nova-hampshire-ralph-baer-o-pai-dos-video-jogos-2021-inovacao-americana.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2021-dollar-nova-hampshire-ralph-baer-o-pai-dos-video-jogos-2021-inovacao-americana.jpg
+
+united-states-1-dolar-nova-iorque-canal-erie-2021:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2021-dollar-nova-iorque-canal-erie-2021-inovacao-americana.jpg
+  tras: https://i.ucoin.net/coin/43/014/43014764-1/usa-1-dollar-2021.jpg
+
+united-states-1-dolar-nova-jersia-lampada-incandescente-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2019-dollar-nova-jersia-lampada-incandescente-2019-inovacao-americana.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2019-dollar-nova-jersia-lampada-incandescente-2019-inovacao-americana.jpg
+
+united-states-1-dolar-ohio-caminho-de-ferro-subterraneo-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2023-dollar-ohio-caminho-de-ferro-subterraneo-2023-inovacao-americana.jpg
+  tras: https://i.ucoin.net/coin/69/664/69664228-1/usa-1-dollar-2023.jpg
+
+united-states-1-dolar-pensilvania-vacina-contra-poliomielite-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2019-dollar-pensilvania-vacina-contra-poliomielite-2019-inovacao-americana.jpg
+  tras: https://i.ucoin.net/coin/28/638/28638484-1/usa-1-dollar-2019.jpg
+
+united-states-1-dolar-polly-cooper-2026:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2026-dollar-polly-cooper-2026-nativos-americanos.jpg
+  tras: https://i.ucoin.net/coin/83/847/83847230-1/usa-1-dollar-2026.jpg
+
+united-states-1-dolar-primeira-patente-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2018-dollar-primeira-patente-2018-inovacao-americana.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2018-dollar-primeira-patente-2018-inovacao-americana.jpg
+
+united-states-1-dolar-rhode-island-nathanael-herreshoff-yate-reliance-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2022-dollar-rhode-island-nathanael-herreshoff-yate-reliance-2022-inovacao-americana.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2022-dollar-rhode-island-nathanael-herreshoff-yate-reliance-2022-inovacao-americana.jpg
+
+united-states-1-dolar-richard-m-nixon-2016:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2016-dollar-richard-m-nixon-2016-presidential-dollars.jpg
+  tras: https://i.ucoin.net/coin/67/974/67974349-2/usa-1-dollar-2016.jpg
+
+united-states-1-dolar-ronald-reagan-2016:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2016-dollar-ronald-reagan-2016-presidential-dollars.jpg
+  tras: https://i.ucoin.net/coin/7/121/7121564-2/usa-1-dollar-2016.jpg
+
+united-states-1-dolar-rotas-comerciais-no-seculo-xvii-2012:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2012-dollar-rotas-comerciais-no-seculo-xvii-2012-nativos-americanos.jpg
+  tras: https://i.ucoin.net/coin/41/225/41225478-1/usa-1-dollar-2012.jpg
+
+united-states-1-dolar-rutherford-b-hayes-2011:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2011-dollar-rutherford-b-hayes-2011-presidential-dollars.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2011-dollar-rutherford-b-hayes-2011-presidential-dollars.jpg
+
+united-states-1-dolar-sequoyah-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2017.jpg
+  tras: https://i.ucoin.net/coin/41/225/41225627-1/usa-1-dollar-2017.jpg
+
+united-states-1-dolar-texas-centro-espacial-johnson-houston-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2025-dollar-texas-centro-espacial-johnson-houston-2025-inovacao-americana.jpg
+  tras: https://i.ucoin.net/coin/74/615/74615583-1/usa-1-dollar-2025.jpg
+
+united-states-1-dolar-theodore-roosevelt-2013:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2013-dollar-theodore-roosevelt-2013-presidential-dollars.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2013-dollar-theodore-roosevelt-2013-presidential-dollars.jpg
+
+united-states-1-dolar-thomas-jefferson-2007:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2007-dollar-thomas-jefferson-2007-presidential-dollars.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2007-dollar-thomas-jefferson-2007-presidential-dollars.jpg
+
+united-states-1-dolar-tratado-com-os-delawares-2013:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2013-dollar-tratado-com-os-delawares-2013-nativos-americanos.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2013-dollar-tratado-com-os-delawares-2013-nativos-americanos.jpg
+
+united-states-1-dolar-tratado-de-wampanoag-2011:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2011-dollar-tratado-de-wampanoag-2011-nativos-americanos.jpg
+  tras: https://i.ucoin.net/coin/41/225/41225429-1/usa-1-dollar-2011.jpg
+
+united-states-1-dolar-tres-irmas-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2009-dollar-tres-irmas-2009-nativos-americanos.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2009-dollar-tres-irmas-2009-nativos-americanos.jpg
+
+united-states-1-dolar-ulysses-s-grant-2011:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2011-dollar-ulysses-s-grant-2011-presidential-dollars.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2011-dollar-ulysses-s-grant-2011-presidential-dollars.jpg
+
+united-states-1-dolar-vermont-snowboard-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2022-dollar-vermont-snowboard-2022-inovacao-americana.jpg
+  tras: https://i.ucoin.net/coin/53/166/53166186-1/usa-1-dollar-2022.jpg
+
+united-states-1-dolar-virginia-ponte-tunel-da-baia-de-chesapeake-2021:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2021-dollar-virginia-ponte-tunel-da-baia-de-chesapeake-2021-inovacao-americana.jpg
+  tras: https://i.ucoin.net/coin/43/014/43014708-1/usa-1-dollar-2021.jpg
+
+united-states-1-dolar-warren-g-harding-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2014-dollar-warren-g-harding-2014-presidential-dollars.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2014-dollar-warren-g-harding-2014-presidential-dollars.jpg
+
+united-states-1-dolar-william-henry-harrison-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2009-dollar-william-henry-harrison-2009-presidential-dollars.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2009-dollar-william-henry-harrison-2009-presidential-dollars.jpg
+
+united-states-1-dolar-william-howard-taft-2013:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2013-dollar-william-howard-taft-2013-presidential-dollars.jpg
+  tras: https://i.ucoin.net/coin/67/975/67975680-2/usa-1-dollar-2013.jpg
+
+united-states-1-dolar-william-mckinley-2013:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2013-dollar-william-mckinley-2013-presidential-dollars.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2013-dollar-william-mckinley-2013-presidential-dollars.jpg
+
+united-states-1-dolar-wisconsin-supercomputador-cray-1-2026:
+  frente: https://i.ucoin.net/coin/86/160/86160453-1/usa-1-dollar-2026.jpg
+  tras: https://i.ucoin.net/coin/86/160/86160453-2/usa-1-dollar-2026.jpg
+
+united-states-1-dolar-woodrow-wilson-2013:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2013-dollar-woodrow-wilson-2013-presidential-dollars.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2013-dollar-woodrow-wilson-2013-presidential-dollars.jpg
+
+united-states-1-dolar-zachary-taylor-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2009-dollar-zachary-taylor-2009-presidential-dollars.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2009-dollar-zachary-taylor-2009-presidential-dollars.jpg
+
+united-states-10-cents-independencia-dos-eua-2026:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dime-2026.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dime-2026.jpg
+
+united-states-25-cents-200o-aniversario-independencia-dos-eua-1976:
+  frente: https://i.ucoin.net/coin/36/314/36314556-1/usa-1-4-dollar-1976.jpg
+  tras: https://i.ucoin.net/coin/36/314/36314556-2/usa-1-4-dollar-1976.jpg
+
+united-states-25-cents-250o-ani-declaracao-de-independencia-2026:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2026-quarter-250o-ani-declaracao-de-independencia-2026-independencia-dos-eua.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-2026-quarter-250o-ani-declaracao-de-independencia-2026-independencia-dos-eua.jpg
+
+united-states-25-cents-250o-aniversario-constituicao-dos-eua-2026:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2026-quarter-250o-aniversario-constituicao-dos-eua-2026-independencia-dos-eua.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-2026-quarter-250o-aniversario-constituicao-dos-eua-2026-independencia-dos-eua.jpg
+
+united-states-25-cents-250o-aniversario-discurso-de-gettysburg-2026:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-25-cents-2026-quarter-250o-aniversario-discurso-de-gettysburg-2026-independencia-dos-eua.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-25-cents-2026-quarter-250o-aniversario-discurso-de-gettysburg-2026-independencia-dos-eua.jpg
+
+united-states-25-cents-250o-aniversario-guerra-revolucionaria-2026:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-25-cents-2026-quarter-250o-aniversario-guerra-revolucionaria-2026-independencia-dos-eua.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-25-cents-2026-quarter-250o-aniversario-guerra-revolucionaria-2026-independencia-dos-eua.jpg
+
+united-states-25-cents-250o-aniversario-mayflower-2026:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-25-cents-2026-quarter-250o-aniversario-mayflower-2026-independencia-dos-eua.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-25-cents-2026-quarter-250o-aniversario-mayflower-2026-independencia-dos-eua.jpg
+
+united-states-25-cents-acadia-np-maine-2012:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2012-quarter-acadia-np-maine-2012-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/68/016/68016101-1/usa-1-4-dollar-2012.jpg
+
+united-states-25-cents-alabama-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2003-quarter-alabama-2003-50-state-quarters.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-2003-quarter-alabama-2003-50-state-quarters.jpg
+
+united-states-25-cents-alaska-2008:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2008-quarter-alaska-2008-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015897-1/usa-1-4-dollar-2008.jpg
+
+united-states-25-cents-althea-gibson-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2025-quarter-althea-gibson-2025-american-women.jpg
+  tras: https://i.ucoin.net/coin/74/534/74534524-1/usa-1-4-dollar-2025.jpg
+
+united-states-25-cents-american-memorial-park-n-mariana-islands-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2019-quarter-american-memorial-park-n-mariana-islands-2019-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/68/016/68016387-1/usa-1-4-dollar-2019.jpg
+
+united-states-25-cents-american-samoa-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2009-quarter-american-samoa-2009-dc-and-territories.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-2009-quarter-american-samoa-2009-dc-and-territories.jpg
+
+united-states-25-cents-anna-may-wong-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2022-quarter-anna-may-wong-2022-american-women.jpg
+  tras: https://i.ucoin.net/coin/51/118/51118590-1/usa-1-4-dollar-2022.jpg
+
+united-states-25-cents-apostle-islands-nl-wisconsin-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2018-quarter-apostle-islands-nl-wisconsin-2018-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/22/708/22708885-1/usa-1-4-dollar-2018.jpg
+
+united-states-25-cents-arches-np-utah-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2014-quarter-arches-np-utah-2014-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/68/016/68016182-1/usa-1-4-dollar-2014.jpg
+
+united-states-25-cents-arizona-2008:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2008-quarter-arizona-2008-50-state-quarters.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-2008-quarter-arizona-2008-50-state-quarters.jpg
+
+united-states-25-cents-arkansas-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2003-quarter-arkansas-2003-50-state-quarters.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-2003-quarter-arkansas-2003-50-state-quarters.jpg
+
+united-states-25-cents-bessie-coleman-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2023-quarter-bessie-coleman-2023-american-women.jpg
+  tras: https://i.ucoin.net/coin/57/057/57057884-1/usa-1-4-dollar-2023.jpg
+
+united-states-25-cents-block-island-nwr-rhode-island-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2018-quarter-block-island-nwr-rhode-island-2018-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/21/104/21104650-1/usa-1-4-dollar-2018.jpg
+
+united-states-25-cents-blue-ridge-parkway-north-carolina-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2015-quarter-blue-ridge-parkway-north-carolina-2015-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/42/139/42139665-1/usa-1-4-dollar-2015.jpg
+
+united-states-25-cents-bombay-hook-nwr-delaware-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2015-quarter-bombay-hook-nwr-delaware-2015-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/11/991/11991120-1/usa-1-4-dollar-2015.jpg
+
+united-states-25-cents-california-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2005-quarter-california-2005-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/67/976/67976401-1/usa-1-4-dollar-2005.jpg
+
+united-states-25-cents-chaco-culture-nhp-new-mexico-2012:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2012-quarter-chaco-culture-nhp-new-mexico-2012-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/68/016/68016088-1/usa-1-4-dollar-2012.jpg
+
+united-states-25-cents-chickasaw-nra-oklahoma-2011:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2011-quarter-chickasaw-nra-oklahoma-2011-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/8/678/8678899-1/usa-1-4-dollar-2011.jpg
+
+united-states-25-cents-colorado-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2006-quarter-colorado-2006-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015781-1/usa-1-4-dollar-2006.jpg
+
+united-states-25-cents-connecticut-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-1999-quarter-connecticut-1999-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015085-1/usa-1-4-dollar-1999.jpg
+
+united-states-25-cents-cumberland-gap-nhp-kentucky-2016:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2016-quarter-cumberland-gap-nhp-kentucky-2016-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/68/016/68016267-1/usa-1-4-dollar-2016.jpg
+
+united-states-25-cents-cumberland-island-ns-georgia-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2018-quarter-cumberland-island-ns-georgia-2018-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/68/016/68016361-1/usa-1-4-dollar-2018.jpg
+
+united-states-25-cents-delaware-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-1999-quarter-delaware-1999-50-state-quarters.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-1999-quarter-delaware-1999-50-state-quarters.jpg
+
+united-states-25-cents-denali-np-alaska-2012:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2012-quarter-denali-np-alaska-2012-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/8/678/8678979-1/usa-1-4-dollar-2012.jpg
+
+united-states-25-cents-district-of-columbia-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2009-quarter-district-of-columbia-2009-dc-and-territories.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015918-1/usa-1-4-dollar-2009.jpg
+
+united-states-25-cents-dr-celia-cruz-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2024-quarter-dr-celia-cruz-2024-american-women.jpg
+  tras: https://i.ucoin.net/coin/67/973/67973587-1/usa-1-4-dollar-2024.jpg
+
+united-states-25-cents-dr-mary-edwards-walker-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2024-quarter-dr-mary-edwards-walker-2024-american-women.jpg
+  tras: https://i.ucoin.net/coin/70/244/70244555-1/usa-1-4-dollar-2024.jpg
+
+united-states-25-cents-dr-sally-ride-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2022-quarter-dr-sally-ride-2022-american-women.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-2022-quarter-dr-sally-ride-2022-american-women.jpg
+
+united-states-25-cents-dra-vera-rubin-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2025-quarter-dra-vera-rubin-2025-american-women.jpg
+  tras: https://i.ucoin.net/coin/74/533/74533528-1/usa-1-4-dollar-2025.jpg
+
+united-states-25-cents-edith-kanaka-ole-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2023-quarter-edith-kanaka-ole-2023-american-women.jpg
+  tras: https://i.ucoin.net/coin/59/885/59885221-1/usa-1-4-dollar-2023.jpg
+
+united-states-25-cents-effigy-mounds-nm-iowa-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2017-quarter-effigy-mounds-nm-iowa-2017-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/68/016/68016305-1/usa-1-4-dollar-2017.jpg
+
+united-states-25-cents-el-yunque-nf-puerto-rico-2012:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2012-quarter-el-yunque-nf-puerto-rico-2012-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/68/016/68016072-1/usa-1-4-dollar-2012.jpg
+
+united-states-25-cents-eleanor-roosevelt-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2023-quarter-eleanor-roosevelt-2023-american-women.jpg
+  tras: https://i.ucoin.net/coin/57/058/57058220-1/usa-1-4-dollar-2023.jpg
+
+united-states-25-cents-ellis-island-new-jersey-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2017-quarter-ellis-island-new-jersey-2017-america-the-beautiful.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-2017-quarter-ellis-island-new-jersey-2017-america-the-beautiful.jpg
+
+united-states-25-cents-everglades-np-florida-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2014-quarter-everglades-np-florida-2014-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/68/016/68016208-1/usa-1-4-dollar-2014.jpg
+
+united-states-25-cents-florida-2004:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2004-quarter-florida-2004-50-state-quarters.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-2004-quarter-florida-2004-50-state-quarters.jpg
+
+united-states-25-cents-fort-mchenry-maryland-2013:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2013-quarter-fort-mchenry-maryland-2013-america-the-beautiful.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-2013-quarter-fort-mchenry-maryland-2013-america-the-beautiful.jpg
+
+united-states-25-cents-fort-moultrie-south-carolina-2016:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2016-quarter-fort-moultrie-south-carolina-2016-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/68/016/68016297-1/usa-1-4-dollar-2016.jpg
+
+united-states-25-cents-frank-church-wilderness-idaho-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2019-quarter-frank-church-wilderness-idaho-2019-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/28/553/28553902-1/usa-1-4-dollar-2019.jpg
+
+united-states-25-cents-frederick-douglass-nhs-dc-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2017-quarter-frederick-douglass-nhs-dc-2017-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/68/016/68016314-1/usa-1-4-dollar-2017.jpg
+
+united-states-25-cents-george-rogers-clark-nhp-indiana-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2017-quarter-george-rogers-clark-nhp-indiana-2017-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/68/016/68016334-1/usa-1-4-dollar-2017.jpg
+
+united-states-25-cents-georgia-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-1999-quarter-georgia-1999-50-state-quarters.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-1999-quarter-georgia-1999-50-state-quarters.jpg
+
+united-states-25-cents-gettysburg-nmp-pennsylvania-2011:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2011-quarter-gettysburg-nmp-pennsylvania-2011-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/68/016/68016040-1/usa-1-4-dollar-2011.jpg
+
+united-states-25-cents-glacier-np-montana-2011:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2011-quarter-glacier-np-montana-2011-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/8/678/8678836-1/usa-1-4-dollar-2011.jpg
+
+united-states-25-cents-grand-canyon-np-arizona-2010:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2010-quarter-grand-canyon-np-arizona-2010-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/8/651/8651672-1/usa-1-4-dollar-2010.jpg
+
+united-states-25-cents-great-basin-np-nevada-2013:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2013-quarter-great-basin-np-nevada-2013-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/68/016/68016137-1/usa-1-4-dollar-2013.jpg
+
+united-states-25-cents-great-sand-dunes-np-colorado-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2014-quarter-great-sand-dunes-np-colorado-2014-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/68/016/68016196-1/usa-1-4-dollar-2014.jpg
+
+united-states-25-cents-great-smoky-mountains-np-tennessee-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2014-quarter-great-smoky-mountains-np-tennessee-2014-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/13/896/13896602-1/usa-1-4-dollar-2014.jpg
+
+united-states-25-cents-guam-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2009-quarter-guam-2009-dc-and-territories.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015931-1/usa-1-4-dollar-2009.jpg
+
+united-states-25-cents-harpers-ferry-nhp-west-virginia-2016:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2016-quarter-harpers-ferry-nhp-west-virginia-2016-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/68/016/68016290-1/usa-1-4-dollar-2016.jpg
+
+united-states-25-cents-hawai-i-volcanoes-np-hawaii-2012:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2012-quarter-hawai-i-volcanoes-np-hawaii-2012-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/8/678/8678965-1/usa-1-4-dollar-2012.jpg
+
+united-states-25-cents-hawaii-2008:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2008-quarter-hawaii-2008-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015903-1/usa-1-4-dollar-2008.jpg
+
+united-states-25-cents-homestead-nm-nebraska-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2015-quarter-homestead-nm-nebraska-2015-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/68/016/68016222-1/usa-1-4-dollar-2015.jpg
+
+united-states-25-cents-hot-springs-np-arkansas-2010:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2010-quarter-hot-springs-np-arkansas-2010-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015983-1/usa-1-4-dollar-2010.jpg
+
+united-states-25-cents-ida-bell-wells-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-25-cents-2025.jpg
+  tras: https://i.ucoin.net/coin/74/357/74357146-1/usa-25-cents-2025.jpg
+
+united-states-25-cents-idaho-2007:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2007-quarter-idaho-2007-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015828-1/usa-1-4-dollar-2007.jpg
+
+united-states-25-cents-illinois-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2003-quarter-illinois-2003-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015627-1/usa-1-4-dollar-2003.jpg
+
+united-states-25-cents-indiana-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2002-quarter-indiana-2002-50-state-quarters.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-2002-quarter-indiana-2002-50-state-quarters.jpg
+
+united-states-25-cents-iowa-2004:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2004-quarter-iowa-2004-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015698-1/usa-1-4-dollar-2004.jpg
+
+united-states-25-cents-jovita-idar-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2023-quarter-jovita-idar-2023-american-women.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-2023-quarter-jovita-idar-2023-american-women.jpg
+
+united-states-25-cents-juliette-gordon-low-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2025-quarter-juliette-gordon-low-2025-american-women.jpg
+  tras: https://i.ucoin.net/coin/74/357/74357260-1/usa-1-4-dollar-2025.jpg
+
+united-states-25-cents-kansas-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2005-quarter-kansas-2005-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015741-1/usa-1-4-dollar-2005.jpg
+
+united-states-25-cents-kentucky-2001:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2001-quarter-kentucky-2001-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/53/862/53862725-1/usa-1-4-dollar-2001.jpg
+
+united-states-25-cents-kisatchie-nf-louisiana-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2015-quarter-kisatchie-nf-louisiana-2015-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/68/016/68016235-1/usa-1-4-dollar-2015.jpg
+
+united-states-25-cents-louisiana-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2002-quarter-louisiana-2002-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015541-1/usa-1-4-dollar-2002.jpg
+
+united-states-25-cents-lowell-nhp-massachusetts-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2019-quarter-lowell-nhp-massachusetts-2019-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/22/979/22979679-1/usa-1-4-dollar-2019.jpg
+
+united-states-25-cents-maine-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2003-quarter-maine-2003-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015656-1/usa-1-4-dollar-2003.jpg
+
+united-states-25-cents-maria-tallchief-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2023-quarter-maria-tallchief-2023-american-women.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-2023-quarter-maria-tallchief-2023-american-women.jpg
+
+united-states-25-cents-marsh-billings-rockefeller-nhp-vermont-2020:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2020-quarter-marsh-billings-rockefeller-nhp-vermont-2020-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/35/085/35085229-1/usa-1-4-dollar-2020.jpg
+
+united-states-25-cents-maryland-2000:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2000-quarter-maryland-2000-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015252-1/usa-1-4-dollar-2000.jpg
+
+united-states-25-cents-massachusetts-2000:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2000-quarter-massachusetts-2000-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015228-1/usa-1-4-dollar-2000.jpg
+
+united-states-25-cents-maya-angelou-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2022-quarter-maya-angelou-2022-american-women.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-2022-quarter-maya-angelou-2022-american-women.jpg
+
+united-states-25-cents-michigan-2004:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2004-quarter-michigan-2004-50-state-quarters.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-2004-quarter-michigan-2004-50-state-quarters.jpg
+
+united-states-25-cents-minnesota-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2005-quarter-minnesota-2005-50-state-quarters.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-2005-quarter-minnesota-2005-50-state-quarters.jpg
+
+united-states-25-cents-mississippi-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2002-quarter-mississippi-2002-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015564-1/usa-1-4-dollar-2002.jpg
+
+united-states-25-cents-missouri-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2003-quarter-missouri-2003-50-state-quarters.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-2003-quarter-missouri-2003-50-state-quarters.jpg
+
+united-states-25-cents-montana-2007:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2007-quarter-montana-2007-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015807-1/usa-1-4-dollar-2007.jpg
+
+united-states-25-cents-mount-hood-nf-oregon-2010:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2010-quarter-mount-hood-nf-oregon-2010-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/68/016/68016027-1/usa-1-4-dollar-2010.jpg
+
+united-states-25-cents-mount-rushmore-south-dakota-2013:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2013-quarter-mount-rushmore-south-dakota-2013-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/15/526/15526480-1/usa-1-4-dollar-2013.jpg
+
+united-states-25-cents-national-park-of-american-samoa-2020:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2020-quarter-national-park-of-american-samoa-2020-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/35/085/35085281-1/usa-1-4-dollar-2020.jpg
+
+united-states-25-cents-nebraska-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2006-quarter-nebraska-2006-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015772-1/usa-1-4-dollar-2006.jpg
+
+united-states-25-cents-nevada-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2006-quarter-nevada-2006-50-state-quarters.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-2006-quarter-nevada-2006-50-state-quarters.jpg
+
+united-states-25-cents-new-hampshire-2000:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2000-quarter-new-hampshire-2000-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015286-1/usa-1-4-dollar-2000.jpg
+
+united-states-25-cents-new-jersey-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-1999-quarter-new-jersey-1999-50-state-quarters.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-1999-quarter-new-jersey-1999-50-state-quarters.jpg
+
+united-states-25-cents-new-mexico-2008:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2008-quarter-new-mexico-2008-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015857-1/usa-1-4-dollar-2008.jpg
+
+united-states-25-cents-new-york-2001:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2001-quarter-new-york-2001-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015442-1/usa-1-4-dollar-2001.jpg
+
+united-states-25-cents-nina-otero-warren-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2022-quarter-nina-otero-warren-2022-american-women.jpg
+  tras: https://i.ucoin.net/coin/51/118/51118573-1/usa-1-4-dollar-2022.jpg
+
+united-states-25-cents-north-carolina-2001:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2001-quarter-north-carolina-2001-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015452-1/usa-1-4-dollar-2001.jpg
+
+united-states-25-cents-north-dakota-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2006-quarter-north-dakota-2006-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015787-1/usa-1-4-dollar-2006.jpg
+
+united-states-25-cents-northern-mariana-islands-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2009-quarter-northern-mariana-islands-2009-dc-and-territories.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-2009-quarter-northern-mariana-islands-2009-dc-and-territories.jpg
+
+united-states-25-cents-ohio-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2002-quarter-ohio-2002-50-state-quarters.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-2002-quarter-ohio-2002-50-state-quarters.jpg
+
+united-states-25-cents-oklahoma-2008:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2008-quarter-oklahoma-2008-50-state-quarters.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-2008-quarter-oklahoma-2008-50-state-quarters.jpg
+
+united-states-25-cents-olympic-np-washington-2011:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2011-quarter-olympic-np-washington-2011-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/68/016/68016054-1/usa-1-4-dollar-2011.jpg
+
+united-states-25-cents-oregon-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2005-quarter-oregon-2005-50-state-quarters.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-2005-quarter-oregon-2005-50-state-quarters.jpg
+
+united-states-25-cents-ozark-nsr-missouri-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2017-quarter-ozark-nsr-missouri-2017-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/12/302/12302594-1/usa-1-4-dollar-2017.jpg
+
+united-states-25-cents-patsy-takemoto-mink-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2024-quarter-patsy-takemoto-mink-2024-american-women.jpg
+  tras: https://i.ucoin.net/coin/69/663/69663967-1/usa-1-4-dollar-2024.jpg
+
+united-states-25-cents-pennsylvania-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-1999-quarter-pennsylvania-1999-50-state-quarters.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-1999-quarter-pennsylvania-1999-50-state-quarters.jpg
+
+united-states-25-cents-perry-s-victory-ohio-2013:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2013-quarter-perry-s-victory-ohio-2013-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/5/138/5138535-1/usa-1-4-dollar-2013.jpg
+
+united-states-25-cents-pictured-rocks-nl-michigan-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2018-quarter-pictured-rocks-nl-michigan-2018-america-the-beautiful.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-2018-quarter-pictured-rocks-nl-michigan-2018-america-the-beautiful.jpg
+
+united-states-25-cents-puerto-rico-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2009-quarter-puerto-rico-2009-dc-and-territories.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015924-1/usa-1-4-dollar-2009.jpg
+
+united-states-25-cents-reverend-dr-pauli-murray-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2024-quarter-reverend-dr-pauli-murray-2024-american-women.jpg
+  tras: https://i.ucoin.net/coin/67/973/67973519-1/usa-1-4-dollar-2024.jpg
+
+united-states-25-cents-rhode-island-2001:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2001-quarter-rhode-island-2001-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/50/790/50790905-1/usa-1-4-dollar-2001.jpg
+
+united-states-25-cents-salt-river-bay-nhp-virgin-islands-2020:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2020-quarter-salt-river-bay-nhp-virgin-islands-2020-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/35/085/35085349-1/usa-1-4-dollar-2020.jpg
+
+united-states-25-cents-san-antonio-missions-nhp-texas-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2019-quarter-san-antonio-missions-nhp-texas-2019-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/68/016/68016412-1/usa-1-4-dollar-2019.jpg
+
+united-states-25-cents-saratoga-nhp-new-york-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2015-quarter-saratoga-nhp-new-york-2015-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/68/016/68016250-1/usa-1-4-dollar-2015.jpg
+
+united-states-25-cents-shawnee-nf-illinois-2016:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2016-quarter-shawnee-nf-illinois-2016-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/42/146/42146160-1/usa-1-4-dollar-2016.jpg
+
+united-states-25-cents-shenandoah-np-virginia-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2014-quarter-shenandoah-np-virginia-2014-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/22/596/22596746-1/usa-1-4-dollar-2014.jpg
+
+united-states-25-cents-south-carolina-2000:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2000-quarter-south-carolina-2000-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015265-1/usa-1-4-dollar-2000.jpg
+
+united-states-25-cents-south-dakota-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2006-quarter-south-dakota-2006-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015793-1/usa-1-4-dollar-2006.jpg
+
+united-states-25-cents-stacey-park-milbern-2025:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2025-quarter-stacey-park-milbern-2025-american-women.jpg
+  tras: https://i.ucoin.net/coin/74/534/74534829-1/usa-1-4-dollar-2025.jpg
+
+united-states-25-cents-tallgrass-prairie-npres-kansas-2020:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2020-quarter-tallgrass-prairie-npres-kansas-2020-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/68/016/68016470-1/usa-1-4-dollar-2020.jpg
+
+united-states-25-cents-tennessee-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2002-quarter-tennessee-2002-50-state-quarters.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-2002-quarter-tennessee-2002-50-state-quarters.jpg
+
+united-states-25-cents-texas-2004:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2004-quarter-texas-2004-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015692-1/usa-1-4-dollar-2004.jpg
+
+united-states-25-cents-theodore-roosevelt-np-north-dakota-2016:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2016-quarter-theodore-roosevelt-np-north-dakota-2016-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/22/596/22596714-1/usa-1-4-dollar-2016.jpg
+
+united-states-25-cents-tuskegee-airmen-nhs-alabama-2021:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2021-quarter-tuskegee-airmen-nhs-alabama-2021-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/40/106/40106636-1/usa-1-4-dollar-2021.jpg
+
+united-states-25-cents-u-s-virgin-islands-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2009-quarter-u-s-virgin-islands-2009-dc-and-territories.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015946-1/usa-1-4-dollar-2009.jpg
+
+united-states-25-cents-utah-2007:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2007-quarter-utah-2007-50-state-quarters.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-2007-quarter-utah-2007-50-state-quarters.jpg
+
+united-states-25-cents-vermont-2001:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2001-quarter-vermont-2001-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015494-1/usa-1-4-dollar-2001.jpg
+
+united-states-25-cents-vicksburg-nmp-mississippi-2011:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2011-quarter-vicksburg-nmp-mississippi-2011-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/8/678/8678871-1/usa-1-4-dollar-2011.jpg
+
+united-states-25-cents-virginia-2000:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2000-quarter-virginia-2000-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015308-1/usa-1-4-dollar-2000.jpg
+
+united-states-25-cents-voyageurs-np-minnesota-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2018-quarter-voyageurs-np-minnesota-2018-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/68/016/68016352-1/usa-1-4-dollar-2018.jpg
+
+united-states-25-cents-war-in-the-pacific-nhp-guam-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2019-quarter-war-in-the-pacific-nhp-guam-2019-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/68/016/68016398-1/usa-1-4-dollar-2019.jpg
+
+united-states-25-cents-washington-2007:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2007-quarter-washington-2007-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015814-1/usa-1-4-dollar-2007.jpg
+
+united-states-25-cents-weir-farm-nhs-connecticut-2020:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2020-quarter-weir-farm-nhs-connecticut-2020-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/35/085/35085331-1/usa-1-4-dollar-2020.jpg
+
+united-states-25-cents-west-virginia-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2005-quarter-west-virginia-2005-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015753-1/usa-1-4-dollar-2005.jpg
+
+united-states-25-cents-white-mountain-nf-new-hampshire-2013:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2013-quarter-white-mountain-nf-new-hampshire-2013-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/5/138/5138560-1/usa-1-4-dollar-2013.jpg
+
+united-states-25-cents-wilma-mankiller-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2022-quarter-wilma-mankiller-2022-american-women.jpg
+  tras: https://i.ucoin.net/coin/62/384/62384717-1/usa-1-4-dollar-2022.jpg
+
+united-states-25-cents-wisconsin-2004:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2004-quarter-wisconsin-2004-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015703-1/usa-1-4-dollar-2004.jpg
+
+united-states-25-cents-wyoming-2007:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2007-quarter-wyoming-2007-50-state-quarters.jpg
+  tras: https://i.ucoin.net/coin/68/015/68015833-1/usa-1-4-dollar-2007.jpg
+
+united-states-25-cents-yellowstone-np-wyoming-2010:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2010-quarter-yellowstone-np-wyoming-2010-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/8/647/8647645-1/usa-1-4-dollar-2010.jpg
+
+united-states-25-cents-yosemite-np-california-2010:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2010-quarter-yosemite-np-california-2010-america-the-beautiful.jpg
+  tras: https://i.ucoin.net/coin/68/016/68016007-1/usa-1-4-dollar-2010.jpg
+
+united-states-25-cents-zitkala-sa-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2024-quarter-zitkala-sa-2024-american-women.jpg
+  tras: https://i.ucoin.net/coin/67/973/67973571-1/usa-1-4-dollar-2024.jpg
+
+united-states-5-cents-american-bison-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-5-cents-2005-nickel-american-bison-2005-westward-journey.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-5-cents-2005-nickel-american-bison-2005-westward-journey.jpg
+
+united-states-5-cents-independencia-dos-eua-2026:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-5-cents-2026.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-5-cents-2026.jpg
+
+united-states-5-cents-keelboat-2004:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-5-cents-2004-nickel-keelboat-2004-westward-journey.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-5-cents-2004-nickel-keelboat-2004-westward-journey.jpg
+
+united-states-5-cents-lousiana-purchase-2004:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-5-cents-2004-nickel-lousiana-purchase-2004-westward-journey.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-5-cents-2004-nickel-lousiana-purchase-2004-westward-journey.jpg
+
+united-states-5-cents-ocean-in-view-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-5-cents-2005-nickel-ocean-in-view-2005-westward-journey.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-5-cents-2005-nickel-ocean-in-view-2005-westward-journey.jpg
+
+united-states-50-cents-200o-aniversario-independencia-dos-eua-1976:
+  frente: https://i.ucoin.net/coin/36/314/36314461-1/usa-1-2-dollar-1976.jpg
+  tras: https://i.ucoin.net/coin/36/314/36314461-2/usa-1-2-dollar-1976.jpg
+
+united-states-50-cents-250o-aniversario-independencia-dos-eua-2026:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/united-states-half-dollar-250o-aniversario-independencia-dos-eua-2026.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/united-states-half-dollar-250o-aniversario-independencia-dos-eua-2026.jpg
+
+united-states-50-cents-booker-taliaferro-washington-1946-1951:
+  frente: https://i.ucoin.net/coin/43/734/43734195-1/usa-1-2-dollar-1947.jpg
+  tras: https://i.ucoin.net/coin/43/734/43734195-2/usa-1-2-dollar-1947.jpg
