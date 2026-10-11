@@ -263,8 +263,8 @@ united-states-1-dolar-millard-fillmore-2010:
   tras: https://i.ucoin.net/coin/60/257/60257272-2/usa-1-dollar-2010.jpg
 
 united-states-1-dolar-minnesota-refrigeracao-movel-2026:
-  frente: https://i.ucoin.net/coin/87/082/87082928-1/usa-1-dollar-2026.jpg
-  tras: https://i.ucoin.net/coin/87/082/87082928-2/usa-1-dollar-2026.jpg
+  frente: https://i.ucoin.net/coin/87/082/87082928-2/usa-1-dollar-2026.jpg
+  tras: https://i.ucoin.net/coin/87/082/87082928-1/usa-1-dollar-2026.jpg
 
 united-states-1-dolar-mississippi-primeiro-transplante-de-pulmao-humano-2023:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2023-dollar-mississippi-primeiro-transplante-de-pulmao-humano-2023-inovacao-americana.jpg
@@ -379,8 +379,8 @@ united-states-1-dolar-william-mckinley-2013:
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-2013-dollar-william-mckinley-2013-presidential-dollars.jpg
 
 united-states-1-dolar-wisconsin-supercomputador-cray-1-2026:
-  frente: https://i.ucoin.net/coin/86/160/86160453-1/usa-1-dollar-2026.jpg
-  tras: https://i.ucoin.net/coin/86/160/86160453-2/usa-1-dollar-2026.jpg
+  frente: https://i.ucoin.net/coin/86/160/86160453-2/usa-1-dollar-2026.jpg
+  tras: https://i.ucoin.net/coin/86/160/86160453-1/usa-1-dollar-2026.jpg
 
 united-states-1-dolar-woodrow-wilson-2013:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-2013-dollar-woodrow-wilson-2013-presidential-dollars.jpg
@@ -399,8 +399,8 @@ united-states-25-cents-200o-aniversario-independencia-dos-eua-1976:
   tras: https://i.ucoin.net/coin/36/314/36314556-2/usa-1-4-dollar-1976.jpg
 
 united-states-25-cents-250o-ani-declaracao-de-independencia-2026:
-  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2026-quarter-250o-ani-declaracao-de-independencia-2026-independencia-dos-eua.jpg
-  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-2026-quarter-250o-ani-declaracao-de-independencia-2026-independencia-dos-eua.jpg
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-2026-quarter-250o-ani-declaracao-de-independencia-2026-independencia-dos-eua.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2026-quarter-250o-ani-declaracao-de-independencia-2026-independencia-dos-eua.jpg
 
 united-states-25-cents-250o-aniversario-constituicao-dos-eua-2026:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-2026-quarter-250o-aniversario-constituicao-dos-eua-2026-independencia-dos-eua.jpg
