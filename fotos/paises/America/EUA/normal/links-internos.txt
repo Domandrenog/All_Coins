@@ -6,9 +6,41 @@ united-states-penny-independencia-dos-eua-2026:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/united-states-penny-independencia-dos-eua-2026.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/united-states-penny-independencia-dos-eua-2026.jpg
 
+usa-1-2-dollar-1917:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-2-dollar-1917.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-2-dollar-1917.jpg
+
+usa-1-2-dollar-1962:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-2-dollar-1962.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-2-dollar-1962.jpg
+
+usa-1-2-dollar-1964:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-2-dollar-1964.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-2-dollar-1964.jpg
+
+usa-1-2-dollar-1970:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-2-dollar-1970.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-2-dollar-1970.jpg
+
+usa-1-2-dollar-1971:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-2-dollar-1971.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-2-dollar-1971.jpg
+
 usa-1-2-dollar-2020:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-2-dollar-2020.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-2-dollar-2020.jpg
+
+usa-1-4-dollar-1917:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-1917.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-1917.jpg
+
+usa-1-4-dollar-1921:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-1921.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-1921.jpg
+
+usa-1-4-dollar-1957:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-1957.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-4-dollar-1957.jpg
 
 usa-1-4-dollar-1965:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-4-dollar-1965.jpg
@@ -554,6 +586,14 @@ usa-1-cent-1942:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-cent-1942.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-cent-1942.jpg
 
+usa-1-cent-1943:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-cent-1943.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-cent-1943.jpg
+
+usa-1-cent-1945:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-cent-1945.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-cent-1945.jpg
+
 usa-1-cent-1970:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-cent-1970.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-cent-1970.jpg
@@ -582,6 +622,14 @@ usa-1-cent-2025:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-cent-2025.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-cent-2025.jpg
 
+usa-1-dime-1943:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dime-1943.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dime-1943.jpg
+
+usa-1-dime-1964:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dime-1964.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dime-1964.jpg
+
 usa-1-dime-2020:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dime-2020.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dime-2020.jpg
@@ -589,6 +637,14 @@ usa-1-dime-2020:
 usa-1-dime-2026:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dime-2026.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dime-2026.jpg
+
+usa-1-dollar-1935:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-1935.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-1935.jpg
+
+usa-1-dollar-1978:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-1978.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-1-dollar-1978.jpg
 
 usa-1-dollar-1981:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-1-dollar-1981.jpg
@@ -969,6 +1025,22 @@ usa-25-cents-2026-quarter-250o-aniversario-guerra-revolucionaria-2026-independen
 usa-25-cents-2026-quarter-250o-aniversario-mayflower-2026-independencia-dos-eua:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-25-cents-2026-quarter-250o-aniversario-mayflower-2026-independencia-dos-eua.jpg
   tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-25-cents-2026-quarter-250o-aniversario-mayflower-2026-independencia-dos-eua.jpg
+
+usa-5-cents-1913:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-5-cents-1913.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-5-cents-1913.jpg
+
+usa-5-cents-1937:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-5-cents-1937.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-5-cents-1937.jpg
+
+usa-5-cents-1941:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-5-cents-1941.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-5-cents-1941.jpg
+
+usa-5-cents-1942:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-5-cents-1942.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/tras/usa-5-cents-1942.jpg
 
 usa-5-cents-1972:
   frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/EUA/normal/frente/usa-5-cents-1972.jpg
