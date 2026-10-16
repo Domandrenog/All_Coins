@@ -1,0 +1,155 @@
+chile-1-2-centesimo-1963:
+  frente: https://i.ucoin.net/coin/86/658/86658162-1s/chile-1-2-centesimo-1963.jpg
+  tras: https://i.ucoin.net/coin/86/658/86658162-2s/chile-1-2-centesimo-1963.jpg
+
+chile-1-centavo-1975:
+  frente: https://i.ucoin.net/coin/1/603/1603443-1s/chile-1-centavo-1975.jpg
+  tras: https://i.ucoin.net/coin/1/603/1603443-2s/chile-1-centavo-1975.jpg
+
+chile-1-centesimo-1961:
+  frente: https://i.ucoin.net/coin/1/603/1603450-1s/chile-1-centesimo-1961.jpg
+  tras: https://i.ucoin.net/coin/1/603/1603450-2s/chile-1-centesimo-1961.jpg
+
+chile-1-escudo-1972:
+  frente: https://i.ucoin.net/coin/86/659/86659465-1s/chile-1-escudo-1972.jpg
+  tras: https://i.ucoin.net/coin/86/659/86659465-2s/chile-1-escudo-1972.jpg
+
+chile-1-peso-1975:
+  frente: https://i.ucoin.net/coin/86/674/86674852-1s/chile-1-peso-1975.jpg
+  tras: https://i.ucoin.net/coin/86/674/86674852-2s/chile-1-peso-1975.jpg
+
+chile-1-peso-1977:
+  frente: https://i.ucoin.net/coin/86/674/86674876-1s/chile-1-peso-1977.jpg
+  tras: https://i.ucoin.net/coin/86/674/86674876-2s/chile-1-peso-1977.jpg
+
+chile-1-peso-1979:
+  frente: https://i.ucoin.net/coin/47/520/47520421-1s/chile-1-peso-1979.jpg
+  tras: https://i.ucoin.net/coin/47/520/47520421-2s/chile-1-peso-1979.jpg
+
+chile-1-peso-1990:
+  frente: https://i.ucoin.net/coin/47/521/47521895-1s/chile-1-peso-1990.jpg
+  tras: https://i.ucoin.net/coin/47/521/47521895-2s/chile-1-peso-1990.jpg
+
+chile-1-peso-2009:
+  frente: https://i.ucoin.net/coin/27/561/27561453-1s/chile-1-peso-2009.jpg
+  tras: https://i.ucoin.net/coin/27/561/27561453-2s/chile-1-peso-2009.jpg
+
+chile-10-centavos-1976:
+  frente: https://i.ucoin.net/coin/56/299/56299994-1s/chile-10-centavos-1976.jpg
+  tras: https://i.ucoin.net/coin/56/299/56299994-2s/chile-10-centavos-1976.jpg
+
+chile-10-centavos-1979:
+  frente: https://i.ucoin.net/coin/86/671/86671800-1s/chile-10-centavos-1979.jpg
+  tras: https://i.ucoin.net/coin/86/671/86671800-2s/chile-10-centavos-1979.jpg
+
+chile-10-centesimos-1968:
+  frente: https://i.ucoin.net/coin/86/658/86658765-1s/chile-10-centesimos-1968.jpg
+  tras: https://i.ucoin.net/coin/86/658/86658765-2s/chile-10-centesimos-1968.jpg
+
+chile-10-centesimos-1971:
+  frente: https://i.ucoin.net/coin/86/659/86659041-1s/chile-10-centesimos-1971.jpg
+  tras: https://i.ucoin.net/coin/86/659/86659041-2s/chile-10-centesimos-1971.jpg
+
+chile-10-escudos-1974:
+  frente: https://i.ucoin.net/coin/47/520/47520032-1s/chile-10-escudos-1974.jpg
+  tras: https://i.ucoin.net/coin/47/520/47520032-2s/chile-10-escudos-1974.jpg
+
+chile-10-pesos-1977:
+  frente: https://i.ucoin.net/coin/86/678/86678724-1s/chile-10-pesos-1977.jpg
+  tras: https://i.ucoin.net/coin/86/678/86678724-2s/chile-10-pesos-1977.jpg
+
+chile-10-pesos-1988:
+  frente: https://i.ucoin.net/coin/86/678/86678855-1s/chile-10-pesos-1988.jpg
+  tras: https://i.ucoin.net/coin/86/678/86678855-2s/chile-10-pesos-1988.jpg
+
+chile-10-pesos-2022:
+  frente: https://i.ucoin.net/coin/86/679/86679142-1s/chile-10-pesos-2022.jpg
+  tras: https://i.ucoin.net/coin/86/679/86679142-2s/chile-10-pesos-2022.jpg
+
+chile-100-escudos-1974:
+  frente: https://i.ucoin.net/coin/19/483/19483381-1s/chile-100-escudos-1974.jpg
+  tras: https://i.ucoin.net/coin/19/483/19483381-2s/chile-100-escudos-1974.jpg
+
+chile-100-pesos-2000:
+  frente: https://i.ucoin.net/coin/86/679/86679553-1s/chile-100-pesos-2000.jpg
+  tras: https://i.ucoin.net/coin/86/679/86679553-2s/chile-100-pesos-2000.jpg
+
+chile-100-pesos-2015:
+  frente: https://i.ucoin.net/coin/86/679/86679774-1s/chile-100-pesos-2015.jpg
+  tras: https://i.ucoin.net/coin/86/679/86679774-2s/chile-100-pesos-2015.jpg
+
+chile-2-centesimos-1965:
+  frente: https://i.ucoin.net/coin/47/519/47519552-1s/chile-2-centesimos-1965.jpg
+  tras: https://i.ucoin.net/coin/47/519/47519552-2s/chile-2-centesimos-1965.jpg
+
+chile-2-escudos-1971:
+  frente: https://i.ucoin.net/coin/71/899/71899668-1s/chile-2-escudos-1971.jpg
+  tras: https://i.ucoin.net/coin/71/899/71899668-2s/chile-2-escudos-1971.jpg
+
+chile-20-centesimos-1972:
+  frente: https://i.ucoin.net/coin/86/659/86659026-1s/chile-20-centesimos-1972.jpg
+  tras: https://i.ucoin.net/coin/86/659/86659026-2s/chile-20-centesimos-1972.jpg
+
+chile-5-centavos-1975:
+  frente: https://i.ucoin.net/coin/86/671/86671666-1s/chile-5-centavos-1975.jpg
+  tras: https://i.ucoin.net/coin/86/671/86671666-2s/chile-5-centavos-1975.jpg
+
+chile-5-centavos-1976:
+  frente: https://i.ucoin.net/coin/3/756/3756839-1s/chile-5-centavos-1976.jpg
+  tras: https://i.ucoin.net/coin/3/756/3756839-2s/chile-5-centavos-1976.jpg
+
+chile-5-centesimos-1969:
+  frente: https://i.ucoin.net/coin/86/658/86658706-1s/chile-5-centesimos-1969.jpg
+  tras: https://i.ucoin.net/coin/86/658/86658706-2s/chile-5-centesimos-1969.jpg
+
+chile-5-escudos-1971:
+  frente: https://i.ucoin.net/coin/86/659/86659883-1s/chile-5-escudos-1971.jpg
+  tras: https://i.ucoin.net/coin/86/659/86659883-2s/chile-5-escudos-1971.jpg
+
+chile-5-escudos-1972:
+  frente: https://i.ucoin.net/coin/86/660/86660549-1s/chile-5-escudos-1972.jpg
+  tras: https://i.ucoin.net/coin/86/660/86660549-2s/chile-5-escudos-1972.jpg
+
+chile-5-pesos-1977:
+  frente: https://i.ucoin.net/coin/86/676/86676649-1s/chile-5-pesos-1977.jpg
+  tras: https://i.ucoin.net/coin/86/676/86676649-2s/chile-5-pesos-1977.jpg
+
+chile-5-pesos-1982:
+  frente: https://i.ucoin.net/coin/86/678/86678442-1s/chile-5-pesos-1982.jpg
+  tras: https://i.ucoin.net/coin/86/678/86678442-2s/chile-5-pesos-1982.jpg
+
+chile-5-pesos-1990:
+  frente: https://i.ucoin.net/coin/11/085/11085853-1s/chile-5-pesos-1990.jpg
+  tras: https://i.ucoin.net/coin/11/085/11085853-2s/chile-5-pesos-1990.jpg
+
+chile-5-pesos-2015:
+  frente: https://i.ucoin.net/coin/86/678/86678531-1s/chile-5-pesos-2015.jpg
+  tras: https://i.ucoin.net/coin/86/678/86678531-2s/chile-5-pesos-2015.jpg
+
+chile-50-centavos-1977:
+  frente: https://i.ucoin.net/coin/45/079/45079123-1s/chile-50-centavos-1977.jpg
+  tras: https://i.ucoin.net/coin/45/079/45079123-2s/chile-50-centavos-1977.jpg
+
+chile-50-centavos-1978:
+  frente: https://i.ucoin.net/coin/86/672/86672415-1s/chile-50-centavos-1978.jpg
+  tras: https://i.ucoin.net/coin/86/672/86672415-2s/chile-50-centavos-1978.jpg
+
+chile-50-centesimos-1971:
+  frente: https://i.ucoin.net/coin/86/659/86659163-1s/chile-50-centesimos-1971.jpg
+  tras: https://i.ucoin.net/coin/86/659/86659163-2s/chile-50-centesimos-1971.jpg
+
+chile-50-escudos-1975:
+  frente: https://i.ucoin.net/coin/86/660/86660885-1s/chile-50-escudos-1975.jpg
+  tras: https://i.ucoin.net/coin/86/660/86660885-2s/chile-50-escudos-1975.jpg
+
+chile-50-pesos-1991:
+  frente: https://i.ucoin.net/coin/86/679/86679258-1s/chile-50-pesos-1991.jpg
+  tras: https://i.ucoin.net/coin/86/679/86679258-2s/chile-50-pesos-1991.jpg
+
+chile-50-pesos-2026:
+  frente: https://i.ucoin.net/coin/88/292/88292179-1s/chile-50-pesos-2026.jpg
+  tras: https://i.ucoin.net/coin/88/292/88292179-2s/chile-50-pesos-2026.jpg
+
+chile-500-pesos-2015:
+  frente: https://i.ucoin.net/coin/86/680/86680199-1s/chile-500-pesos-2015.jpg
+  tras: https://i.ucoin.net/coin/86/680/86680199-2s/chile-500-pesos-2015.jpg
