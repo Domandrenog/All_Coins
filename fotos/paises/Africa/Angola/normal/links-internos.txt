@@ -1,0 +1,151 @@
+angola-1-centavo-1921:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-1-centavo-1921.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-1-centavo-1921.jpg
+
+angola-1-escudo-1974:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-1-escudo-1974.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-1-escudo-1974.jpg
+
+angola-1-kwanza-1978:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-1-kwanza-1978.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-1-kwanza-1978.jpg
+
+angola-1-kwanza-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-1-kwanza-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-1-kwanza-1999.jpg
+
+angola-1-kwanza-2012:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-1-kwanza-2012.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-1-kwanza-2012.jpg
+
+angola-10-centavos-1922:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-10-centavos-1922.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-10-centavos-1922.jpg
+
+angola-10-centavos-1928:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-10-centavos-1928.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-10-centavos-1928.jpg
+
+angola-10-centavos-1974:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-10-centavos-1974.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-10-centavos-1974.jpg
+
+angola-10-centimos-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-10-centimos-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-10-centimos-1999.jpg
+
+angola-10-escudos-1955:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-10-escudos-1955.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-10-escudos-1955.jpg
+
+angola-10-escudos-1970:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-10-escudos-1970.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-10-escudos-1970.jpg
+
+angola-10-kwanzas-1977:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-10-kwanzas-1977.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-10-kwanzas-1977.jpg
+
+angola-10-kwanzas-2012:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-10-kwanzas-2012.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-10-kwanzas-2012.jpg
+
+angola-100-kwanzas-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-100-kwanzas-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-100-kwanzas-1991.jpg
+
+angola-2-5-escudos-1968:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-2-5-escudos-1968.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-2-5-escudos-1968.jpg
+
+angola-2-centavos-1921:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-2-centavos-1921.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-2-centavos-1921.jpg
+
+angola-2-kwanzas-1977:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-2-kwanzas-1977.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-2-kwanzas-1977.jpg
+
+angola-2-kwanzas-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-2-kwanzas-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-2-kwanzas-1999.jpg
+
+angola-20-centavos-1921:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-20-centavos-1921.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-20-centavos-1921.jpg
+
+angola-20-centavos-1928:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-20-centavos-1928.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-20-centavos-1928.jpg
+
+angola-20-centavos-1962:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-20-centavos-1962.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-20-centavos-1962.jpg
+
+angola-20-escudos-1952:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-20-escudos-1952.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-20-escudos-1952.jpg
+
+angola-20-escudos-1972:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-20-escudos-1972.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-20-escudos-1972.jpg
+
+angola-20-kwanzas-1978:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-20-kwanzas-1978.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-20-kwanzas-1978.jpg
+
+angola-20-kwanzas-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-20-kwanzas-2014.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-20-kwanzas-2014.jpg
+
+angola-5-centavos-1921:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-5-centavos-1921.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-5-centavos-1921.jpg
+
+angola-5-centavos-1927:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-5-centavos-1927.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-5-centavos-1927.jpg
+
+angola-5-escudos-1974:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-5-escudos-1974.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-5-escudos-1974.jpg
+
+angola-5-kwanzas-1977:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-5-kwanzas-1977.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-5-kwanzas-1977.jpg
+
+angola-5-kwanzas-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-5-kwanzas-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-5-kwanzas-1999.jpg
+
+angola-5-kwanzas-2012:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-5-kwanzas-2012.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-5-kwanzas-2012.jpg
+
+angola-50-centavos-1922:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-50-centavos-1922.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-50-centavos-1922.jpg
+
+angola-50-centavos-1928:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-50-centavos-1928.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-50-centavos-1928.jpg
+
+angola-50-centavos-1954:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-50-centavos-1954.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-50-centavos-1954.jpg
+
+angola-50-centimos-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-50-centimos-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-50-centimos-1999.jpg
+
+angola-50-centimos-2012:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-50-centimos-2012.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-50-centimos-2012.jpg
+
+angola-50-kwanzas-1978:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-50-kwanzas-1978.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-50-kwanzas-1978.jpg
+
+angola-50-lwei-1979:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/frente/angola-50-lwei-1979.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Angola/normal/tras/angola-50-lwei-1979.jpg

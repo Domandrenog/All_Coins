@@ -1,0 +1,151 @@
+angola-1-centavo-1921:
+  frente: https://i.ucoin.net/coin/23/203/23203721-1s/angola-1-centavo-1921.jpg
+  tras: https://i.ucoin.net/coin/23/203/23203721-2s/angola-1-centavo-1921.jpg
+
+angola-1-escudo-1974:
+  frente: https://i.ucoin.net/coin/81/165/81165964-1s/angola-1-escudo-1974.jpg
+  tras: https://i.ucoin.net/coin/81/165/81165964-2s/angola-1-escudo-1974.jpg
+
+angola-1-kwanza-1978:
+  frente: https://i.ucoin.net/coin/81/166/81166038-1s/angola-1-kwanza-1978.jpg
+  tras: https://i.ucoin.net/coin/81/166/81166038-2s/angola-1-kwanza-1978.jpg
+
+angola-1-kwanza-1999:
+  frente: https://i.ucoin.net/coin/5/596/5596238-1s/angola-1-kwanza-1999.jpg
+  tras: https://i.ucoin.net/coin/5/596/5596238-2s/angola-1-kwanza-1999.jpg
+
+angola-1-kwanza-2012:
+  frente: https://i.ucoin.net/coin/45/432/45432799-1s/angola-1-kwanza-2012.jpg
+  tras: https://i.ucoin.net/coin/45/432/45432799-2s/angola-1-kwanza-2012.jpg
+
+angola-10-centavos-1922:
+  frente: https://i.ucoin.net/coin/80/910/80910952-1s/angola-10-centavos-1922.jpg
+  tras: https://i.ucoin.net/coin/80/910/80910952-2s/angola-10-centavos-1922.jpg
+
+angola-10-centavos-1928:
+  frente: https://i.ucoin.net/coin/85/979/85979707-1s/angola-10-centavos-1928.jpg
+  tras: https://i.ucoin.net/coin/85/979/85979707-2s/angola-10-centavos-1928.jpg
+
+angola-10-centavos-1974:
+  frente: https://i.ucoin.net/coin/87/229/87229777-1s/angola-10-centavos-1974.jpg
+  tras: https://i.ucoin.net/coin/87/229/87229777-2s/angola-10-centavos-1974.jpg
+
+angola-10-centimos-1999:
+  frente: https://i.ucoin.net/coin/74/798/74798133-1s/angola-10-centimos-1999.jpg
+  tras: https://i.ucoin.net/coin/74/798/74798133-2s/angola-10-centimos-1999.jpg
+
+angola-10-escudos-1955:
+  frente: https://i.ucoin.net/coin/23/202/23202963-1s/angola-10-escudos-1955.jpg
+  tras: https://i.ucoin.net/coin/23/202/23202963-2s/angola-10-escudos-1955.jpg
+
+angola-10-escudos-1970:
+  frente: https://i.ucoin.net/coin/81/356/81356435-1s/angola-10-escudos-1970.jpg
+  tras: https://i.ucoin.net/coin/81/356/81356435-2s/angola-10-escudos-1970.jpg
+
+angola-10-kwanzas-1977:
+  frente: https://i.ucoin.net/coin/74/103/74103708-1s/angola-10-kwanzas-1977.jpg
+  tras: https://i.ucoin.net/coin/74/103/74103708-2s/angola-10-kwanzas-1977.jpg
+
+angola-10-kwanzas-2012:
+  frente: https://i.ucoin.net/coin/74/054/74054087-1s/angola-10-kwanzas-2012.jpg
+  tras: https://i.ucoin.net/coin/74/054/74054087-2s/angola-10-kwanzas-2012.jpg
+
+angola-100-kwanzas-1991:
+  frente: https://i.ucoin.net/coin/16/918/16918679-1s/angola-100-kwanzas-1991.jpg
+  tras: https://i.ucoin.net/coin/16/918/16918679-2s/angola-100-kwanzas-1991.jpg
+
+angola-2-5-escudos-1968:
+  frente: https://i.ucoin.net/coin/23/203/23203298-1s/angola-2,5-escudos-1968.jpg
+  tras: https://i.ucoin.net/coin/23/203/23203298-2s/angola-2,5-escudos-1968.jpg
+
+angola-2-centavos-1921:
+  frente: https://i.ucoin.net/coin/55/012/55012857-1s/angola-2-centavos-1921.jpg
+  tras: https://i.ucoin.net/coin/55/012/55012857-2s/angola-2-centavos-1921.jpg
+
+angola-2-kwanzas-1977:
+  frente: https://i.ucoin.net/coin/55/042/55042465-1s/angola-2-kwanzas-1977.jpg
+  tras: https://i.ucoin.net/coin/55/042/55042465-2s/angola-2-kwanzas-1977.jpg
+
+angola-2-kwanzas-1999:
+  frente: https://i.ucoin.net/coin/74/245/74245846-1s/angola-2-kwanzas-1999.jpg
+  tras: https://i.ucoin.net/coin/74/245/74245846-2s/angola-2-kwanzas-1999.jpg
+
+angola-20-centavos-1921:
+  frente: https://i.ucoin.net/coin/81/165/81165681-1s/angola-20-centavos-1921.jpg
+  tras: https://i.ucoin.net/coin/81/165/81165681-2s/angola-20-centavos-1921.jpg
+
+angola-20-centavos-1928:
+  frente: https://i.ucoin.net/coin/39/107/39107717-1s/angola-20-centavos-1928.jpg
+  tras: https://i.ucoin.net/coin/39/107/39107717-2s/angola-20-centavos-1928.jpg
+
+angola-20-centavos-1962:
+  frente: https://i.ucoin.net/coin/58/154/58154811-1s/angola-20-centavos-1962.jpg
+  tras: https://i.ucoin.net/coin/58/154/58154811-2s/angola-20-centavos-1962.jpg
+
+angola-20-escudos-1952:
+  frente: https://i.ucoin.net/coin/23/203/23203246-1s/angola-20-escudos-1952.jpg
+  tras: https://i.ucoin.net/coin/23/203/23203246-2s/angola-20-escudos-1952.jpg
+
+angola-20-escudos-1972:
+  frente: https://i.ucoin.net/coin/11/021/11021878-1s/angola-20-escudos-1972.jpg
+  tras: https://i.ucoin.net/coin/11/021/11021878-2s/angola-20-escudos-1972.jpg
+
+angola-20-kwanzas-1978:
+  frente: https://i.ucoin.net/coin/74/056/74056495-1s/angola-20-kwanzas-1978.jpg
+  tras: https://i.ucoin.net/coin/74/056/74056495-2s/angola-20-kwanzas-1978.jpg
+
+angola-20-kwanzas-2014:
+  frente: https://i.ucoin.net/coin/27/078/27078293-1s/angola-20-kwanzas-2014.jpg
+  tras: https://i.ucoin.net/coin/27/078/27078293-2s/angola-20-kwanzas-2014.jpg
+
+angola-5-centavos-1921:
+  frente: https://i.ucoin.net/coin/80/933/80933729-1s/angola-5-centavos-1921.jpg
+  tras: https://i.ucoin.net/coin/80/933/80933729-2s/angola-5-centavos-1921.jpg
+
+angola-5-centavos-1927:
+  frente: https://i.ucoin.net/coin/61/503/61503192-1s/angola-5-centavos-1927.jpg
+  tras: https://i.ucoin.net/coin/61/503/61503192-2s/angola-5-centavos-1927.jpg
+
+angola-5-escudos-1974:
+  frente: https://i.ucoin.net/coin/78/776/78776341-1s/angola-5-escudos-1974.jpg
+  tras: https://i.ucoin.net/coin/78/776/78776341-2s/angola-5-escudos-1974.jpg
+
+angola-5-kwanzas-1977:
+  frente: https://i.ucoin.net/coin/55/042/55042726-1s/angola-5-kwanzas-1977.jpg
+  tras: https://i.ucoin.net/coin/55/042/55042726-2s/angola-5-kwanzas-1977.jpg
+
+angola-5-kwanzas-1999:
+  frente: https://i.ucoin.net/coin/24/815/24815136-1s/angola-5-kwanzas-1999.jpg
+  tras: https://i.ucoin.net/coin/24/815/24815136-2s/angola-5-kwanzas-1999.jpg
+
+angola-5-kwanzas-2012:
+  frente: https://i.ucoin.net/coin/58/214/58214828-1s/angola-5-kwanzas-2012.jpg
+  tras: https://i.ucoin.net/coin/58/214/58214828-2s/angola-5-kwanzas-2012.jpg
+
+angola-50-centavos-1922:
+  frente: https://i.ucoin.net/coin/39/746/39746496-1s/angola-50-centavos-1922.jpg
+  tras: https://i.ucoin.net/coin/39/746/39746496-2s/angola-50-centavos-1922.jpg
+
+angola-50-centavos-1928:
+  frente: https://i.ucoin.net/coin/23/203/23203575-1s/angola-50-centavos-1928.jpg
+  tras: https://i.ucoin.net/coin/23/203/23203575-2s/angola-50-centavos-1928.jpg
+
+angola-50-centavos-1954:
+  frente: https://i.ucoin.net/coin/40/115/40115849-1s/angola-50-centavos-1954.jpg
+  tras: https://i.ucoin.net/coin/40/115/40115849-2s/angola-50-centavos-1954.jpg
+
+angola-50-centimos-1999:
+  frente: https://i.ucoin.net/coin/24/815/24815070-1s/angola-50-centimos-1999.jpg
+  tras: https://i.ucoin.net/coin/24/815/24815070-2s/angola-50-centimos-1999.jpg
+
+angola-50-centimos-2012:
+  frente: https://i.ucoin.net/coin/36/887/36887878-1s/angola-50-centimos-2012.jpg
+  tras: https://i.ucoin.net/coin/36/887/36887878-2s/angola-50-centimos-2012.jpg
+
+angola-50-kwanzas-1978:
+  frente: https://i.ucoin.net/coin/74/376/74376191-1s/angola-50-kwanzas-1978.jpg
+  tras: https://i.ucoin.net/coin/74/376/74376191-2s/angola-50-kwanzas-1978.jpg
+
+angola-50-lwei-1979:
+  frente: https://i.ucoin.net/coin/74/055/74055877-1s/angola-50-lwei-1979.jpg
+  tras: https://i.ucoin.net/coin/74/055/74055877-2s/angola-50-lwei-1979.jpg
