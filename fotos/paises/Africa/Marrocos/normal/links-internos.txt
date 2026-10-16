@@ -1,0 +1,239 @@
+morocco-1-2-dirham-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-1-2-dirham-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-1-2-dirham-1987.jpg
+
+morocco-1-2-dirham-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-1-2-dirham-2002.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-1-2-dirham-2002.jpg
+
+morocco-1-2-dirham-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-1-2-dirham-2018.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-1-2-dirham-2018.jpg
+
+morocco-1-2-dirham-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-1-2-dirham-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-1-2-dirham-2023.jpg
+
+morocco-1-dirham-1960:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-1-dirham-1960.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-1-dirham-1960.jpg
+
+morocco-1-dirham-1965:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-1-dirham-1965.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-1-dirham-1965.jpg
+
+morocco-1-dirham-1974:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-1-dirham-1974.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-1-dirham-1974.jpg
+
+morocco-1-dirham-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-1-dirham-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-1-dirham-1987.jpg
+
+morocco-1-dirham-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-1-dirham-2002.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-1-dirham-2002.jpg
+
+morocco-1-dirham-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-1-dirham-2018.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-1-dirham-2018.jpg
+
+morocco-1-dirham-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-1-dirham-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-1-dirham-2023.jpg
+
+morocco-1-franc-1921:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-1-franc-1921.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-1-franc-1921.jpg
+
+morocco-1-franc-1945:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-1-franc-1945.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-1-franc-1945.jpg
+
+morocco-1-franc-1951:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-1-franc-1951.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-1-franc-1951.jpg
+
+morocco-1-santim-1974:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-1-santim-1974.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-1-santim-1974.jpg
+
+morocco-1-santim-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-1-santim-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-1-santim-1987.jpg
+
+morocco-10-dirham-1995:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-10-dirham-1995.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-10-dirham-1995.jpg
+
+morocco-10-dirham-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-10-dirham-2002.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-10-dirham-2002.jpg
+
+morocco-10-dirham-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-10-dirham-2018.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-10-dirham-2018.jpg
+
+morocco-10-dirham-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-10-dirham-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-10-dirham-2023.jpg
+
+morocco-10-francs-1929:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-10-francs-1929.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-10-francs-1929.jpg
+
+morocco-10-francs-1947:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-10-francs-1947.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-10-francs-1947.jpg
+
+morocco-10-francs-1952:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-10-francs-1952.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-10-francs-1952.jpg
+
+morocco-10-santimat-1974:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-10-santimat-1974.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-10-santimat-1974.jpg
+
+morocco-10-santimat-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-10-santimat-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-10-santimat-1987.jpg
+
+morocco-10-santimat-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-10-santimat-2002.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-10-santimat-2002.jpg
+
+morocco-10-santimat-2011:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-10-santimat-2011.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-10-santimat-2011.jpg
+
+morocco-10-santimat-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-10-santimat-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-10-santimat-2023.jpg
+
+morocco-100-francs-1951:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-100-francs-1951.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-100-francs-1951.jpg
+
+morocco-100-francs-1953:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-100-francs-1953.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-100-francs-1953.jpg
+
+morocco-2-dirham-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-2-dirham-2002.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-2-dirham-2002.jpg
+
+morocco-2-francs-1945:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-2-francs-1945.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-2-francs-1945.jpg
+
+morocco-2-francs-1951:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-2-francs-1951.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-2-francs-1951.jpg
+
+morocco-20-francs-1929:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-20-francs-1929.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-20-francs-1929.jpg
+
+morocco-20-francs-1947:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-20-francs-1947.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-20-francs-1947.jpg
+
+morocco-20-francs-1952:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-20-francs-1952.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-20-francs-1952.jpg
+
+morocco-20-santimat-1974:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-20-santimat-1974.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-20-santimat-1974.jpg
+
+morocco-20-santimat-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-20-santimat-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-20-santimat-1987.jpg
+
+morocco-20-santimat-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-20-santimat-2002.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-20-santimat-2002.jpg
+
+morocco-20-santimat-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-20-santimat-2018.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-20-santimat-2018.jpg
+
+morocco-20-santimat-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-20-santimat-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-20-santimat-2023.jpg
+
+morocco-200-francs-1953:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-200-francs-1953.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-200-francs-1953.jpg
+
+morocco-25-centimes-1921:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-25-centimes-1921.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-25-centimes-1921.jpg
+
+morocco-5-dirham-1965:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-5-dirham-1965.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-5-dirham-1965.jpg
+
+morocco-5-dirham-1980:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-5-dirham-1980.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-5-dirham-1980.jpg
+
+morocco-5-dirham-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-5-dirham-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-5-dirham-1987.jpg
+
+morocco-5-dirham-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-5-dirham-2002.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-5-dirham-2002.jpg
+
+morocco-5-dirham-2016:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-5-dirham-2016.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-5-dirham-2016.jpg
+
+morocco-5-dirham-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-5-dirham-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-5-dirham-2023.jpg
+
+morocco-5-francs-1929:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-5-francs-1929.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-5-francs-1929.jpg
+
+morocco-5-francs-1946:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-5-francs-1946.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-5-francs-1946.jpg
+
+morocco-5-francs-1951:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-5-francs-1951.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-5-francs-1951.jpg
+
+morocco-5-santimat-1974:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-5-santimat-1974.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-5-santimat-1974.jpg
+
+morocco-5-santimat-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-5-santimat-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-5-santimat-1987.jpg
+
+morocco-5-santimat-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-5-santimat-2002.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-5-santimat-2002.jpg
+
+morocco-50-centimes-1924:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-50-centimes-1924.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-50-centimes-1924.jpg
+
+morocco-50-centimes-1945:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-50-centimes-1945.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-50-centimes-1945.jpg
+
+morocco-50-francs-1952:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-50-francs-1952.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-50-francs-1952.jpg
+
+morocco-50-santimat-1974:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-50-santimat-1974.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-50-santimat-1974.jpg
+
+morocco-500-francs-1956:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/frente/morocco-500-francs-1956.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Marrocos/normal/tras/morocco-500-francs-1956.jpg

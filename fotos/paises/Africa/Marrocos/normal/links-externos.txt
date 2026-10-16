@@ -1,0 +1,239 @@
+morocco-1-2-dirham-1987:
+  frente: https://i.ucoin.net/coin/58/954/58954498-1s/morocco-1-2-dirham-1987.jpg
+  tras: https://i.ucoin.net/coin/58/954/58954498-2s/morocco-1-2-dirham-1987.jpg
+
+morocco-1-2-dirham-2002:
+  frente: https://i.ucoin.net/coin/47/828/47828960-1s/morocco-1-2-dirham-2002.jpg
+  tras: https://i.ucoin.net/coin/47/828/47828960-2s/morocco-1-2-dirham-2002.jpg
+
+morocco-1-2-dirham-2018:
+  frente: https://i.ucoin.net/coin/27/344/27344009-1s/morocco-1-2-dirham-2018.jpg
+  tras: https://i.ucoin.net/coin/27/344/27344009-2s/morocco-1-2-dirham-2018.jpg
+
+morocco-1-2-dirham-2023:
+  frente: https://i.ucoin.net/coin/87/722/87722998-1s/morocco-1-2-dirham-2023.jpg
+  tras: https://i.ucoin.net/coin/87/722/87722998-2s/morocco-1-2-dirham-2023.jpg
+
+morocco-1-dirham-1960:
+  frente: https://i.ucoin.net/coin/68/463/68463354-1s/morocco-1-dirham-1960.jpg
+  tras: https://i.ucoin.net/coin/68/463/68463354-2s/morocco-1-dirham-1960.jpg
+
+morocco-1-dirham-1965:
+  frente: https://i.ucoin.net/coin/47/827/47827679-1s/morocco-1-dirham-1965.jpg
+  tras: https://i.ucoin.net/coin/47/827/47827679-2s/morocco-1-dirham-1965.jpg
+
+morocco-1-dirham-1974:
+  frente: https://i.ucoin.net/coin/47/828/47828659-1s/morocco-1-dirham-1974.jpg
+  tras: https://i.ucoin.net/coin/47/828/47828659-2s/morocco-1-dirham-1974.jpg
+
+morocco-1-dirham-1987:
+  frente: https://i.ucoin.net/coin/37/956/37956664-1s/morocco-1-dirham-1987.jpg
+  tras: https://i.ucoin.net/coin/37/956/37956664-2s/morocco-1-dirham-1987.jpg
+
+morocco-1-dirham-2002:
+  frente: https://i.ucoin.net/coin/47/829/47829098-1s/morocco-1-dirham-2002.jpg
+  tras: https://i.ucoin.net/coin/47/829/47829098-2s/morocco-1-dirham-2002.jpg
+
+morocco-1-dirham-2018:
+  frente: https://i.ucoin.net/coin/31/029/31029710-1s/morocco-1-dirham-2018.jpg
+  tras: https://i.ucoin.net/coin/31/029/31029710-2s/morocco-1-dirham-2018.jpg
+
+morocco-1-dirham-2023:
+  frente: https://i.ucoin.net/coin/86/428/86428549-1s/morocco-1-dirham-2023.jpg
+  tras: https://i.ucoin.net/coin/86/428/86428549-2s/morocco-1-dirham-2023.jpg
+
+morocco-1-franc-1921:
+  frente: https://i.ucoin.net/coin/31/700/31700743-1s/morocco-1-franc-1921.jpg
+  tras: https://i.ucoin.net/coin/31/700/31700743-2s/morocco-1-franc-1921.jpg
+
+morocco-1-franc-1945:
+  frente: https://i.ucoin.net/coin/37/106/37106565-1s/morocco-1-franc-1945.jpg
+  tras: https://i.ucoin.net/coin/37/106/37106565-2s/morocco-1-franc-1945.jpg
+
+morocco-1-franc-1951:
+  frente: https://i.ucoin.net/coin/48/389/48389301-1s/morocco-1-franc-1951.jpg
+  tras: https://i.ucoin.net/coin/48/389/48389301-2s/morocco-1-franc-1951.jpg
+
+morocco-1-santim-1974:
+  frente: https://i.ucoin.net/coin/4/625/4625956-1s/morocco-1-santim-1974.jpg
+  tras: https://i.ucoin.net/coin/4/625/4625956-2s/morocco-1-santim-1974.jpg
+
+morocco-1-santim-1987:
+  frente: https://i.ucoin.net/coin/11/652/11652707-1s/morocco-1-santim-1987.jpg
+  tras: https://i.ucoin.net/coin/11/652/11652707-2s/morocco-1-santim-1987.jpg
+
+morocco-10-dirham-1995:
+  frente: https://i.ucoin.net/coin/27/117/27117015-1s/morocco-10-dirham-1995.jpg
+  tras: https://i.ucoin.net/coin/27/117/27117015-2s/morocco-10-dirham-1995.jpg
+
+morocco-10-dirham-2002:
+  frente: https://i.ucoin.net/coin/74/687/74687550-1s/morocco-10-dirham-2002.jpg
+  tras: https://i.ucoin.net/coin/74/687/74687550-2s/morocco-10-dirham-2002.jpg
+
+morocco-10-dirham-2018:
+  frente: https://i.ucoin.net/coin/27/116/27116982-1s/morocco-10-dirham-2018.jpg
+  tras: https://i.ucoin.net/coin/27/116/27116982-2s/morocco-10-dirham-2018.jpg
+
+morocco-10-dirham-2023:
+  frente: https://i.ucoin.net/coin/81/631/81631696-1s/morocco-10-dirham-2023.jpg
+  tras: https://i.ucoin.net/coin/81/631/81631696-2s/morocco-10-dirham-2023.jpg
+
+morocco-10-francs-1929:
+  frente: https://i.ucoin.net/coin/86/054/86054821-1s/morocco-10-francs-1929.jpg
+  tras: https://i.ucoin.net/coin/86/054/86054821-2s/morocco-10-francs-1929.jpg
+
+morocco-10-francs-1947:
+  frente: https://i.ucoin.net/coin/55/050/55050997-1s/morocco-10-francs-1947.jpg
+  tras: https://i.ucoin.net/coin/55/050/55050997-2s/morocco-10-francs-1947.jpg
+
+morocco-10-francs-1952:
+  frente: https://i.ucoin.net/coin/55/051/55051004-1s/morocco-10-francs-1952.jpg
+  tras: https://i.ucoin.net/coin/55/051/55051004-2s/morocco-10-francs-1952.jpg
+
+morocco-10-santimat-1974:
+  frente: https://i.ucoin.net/coin/63/823/63823812-1s/morocco-10-santimat-1974.jpg
+  tras: https://i.ucoin.net/coin/63/823/63823812-2s/morocco-10-santimat-1974.jpg
+
+morocco-10-santimat-1987:
+  frente: https://i.ucoin.net/coin/59/210/59210319-1s/morocco-10-santimat-1987.jpg
+  tras: https://i.ucoin.net/coin/59/210/59210319-2s/morocco-10-santimat-1987.jpg
+
+morocco-10-santimat-2002:
+  frente: https://i.ucoin.net/coin/47/828/47828843-1s/morocco-10-santimat-2002.jpg
+  tras: https://i.ucoin.net/coin/47/828/47828843-2s/morocco-10-santimat-2002.jpg
+
+morocco-10-santimat-2011:
+  frente: https://i.ucoin.net/coin/47/829/47829583-1s/morocco-10-santimat-2011.jpg
+  tras: https://i.ucoin.net/coin/47/829/47829583-2s/morocco-10-santimat-2011.jpg
+
+morocco-10-santimat-2023:
+  frente: https://i.ucoin.net/coin/81/631/81631291-1s/morocco-10-santimat-2023.jpg
+  tras: https://i.ucoin.net/coin/81/631/81631291-2s/morocco-10-santimat-2023.jpg
+
+morocco-100-francs-1951:
+  frente: https://i.ucoin.net/coin/50/868/50868875-1s/morocco-100-francs-1951.jpg
+  tras: https://i.ucoin.net/coin/50/868/50868875-2s/morocco-100-francs-1951.jpg
+
+morocco-100-francs-1953:
+  frente: https://i.ucoin.net/coin/53/768/53768708-1s/morocco-100-francs-1953.jpg
+  tras: https://i.ucoin.net/coin/53/768/53768708-2s/morocco-100-francs-1953.jpg
+
+morocco-2-dirham-2002:
+  frente: https://i.ucoin.net/coin/85/106/85106586-1s/morocco-2-dirham-2002.jpg
+  tras: https://i.ucoin.net/coin/85/106/85106586-2s/morocco-2-dirham-2002.jpg
+
+morocco-2-francs-1945:
+  frente: https://i.ucoin.net/coin/66/452/66452215-1s/morocco-2-francs-1945.jpg
+  tras: https://i.ucoin.net/coin/66/452/66452215-2s/morocco-2-francs-1945.jpg
+
+morocco-2-francs-1951:
+  frente: https://i.ucoin.net/coin/27/117/27117054-1s/morocco-2-francs-1951.jpg
+  tras: https://i.ucoin.net/coin/27/117/27117054-2s/morocco-2-francs-1951.jpg
+
+morocco-20-francs-1929:
+  frente: https://i.ucoin.net/coin/46/538/46538893-1s/morocco-20-francs-1929.jpg
+  tras: https://i.ucoin.net/coin/46/538/46538893-2s/morocco-20-francs-1929.jpg
+
+morocco-20-francs-1947:
+  frente: https://i.ucoin.net/coin/10/915/10915629-1s/morocco-20-francs-1947.jpg
+  tras: https://i.ucoin.net/coin/10/915/10915629-2s/morocco-20-francs-1947.jpg
+
+morocco-20-francs-1952:
+  frente: https://i.ucoin.net/coin/55/051/55051010-1s/morocco-20-francs-1952.jpg
+  tras: https://i.ucoin.net/coin/55/051/55051010-2s/morocco-20-francs-1952.jpg
+
+morocco-20-santimat-1974:
+  frente: https://i.ucoin.net/coin/47/828/47828409-1s/morocco-20-santimat-1974.jpg
+  tras: https://i.ucoin.net/coin/47/828/47828409-2s/morocco-20-santimat-1974.jpg
+
+morocco-20-santimat-1987:
+  frente: https://i.ucoin.net/coin/69/160/69160070-1s/morocco-20-santimat-1987.jpg
+  tras: https://i.ucoin.net/coin/69/160/69160070-2s/morocco-20-santimat-1987.jpg
+
+morocco-20-santimat-2002:
+  frente: https://i.ucoin.net/coin/47/828/47828919-1s/morocco-20-santimat-2002.jpg
+  tras: https://i.ucoin.net/coin/47/828/47828919-2s/morocco-20-santimat-2002.jpg
+
+morocco-20-santimat-2018:
+  frente: https://i.ucoin.net/coin/27/317/27317353-1s/morocco-20-santimat-2018.jpg
+  tras: https://i.ucoin.net/coin/27/317/27317353-2s/morocco-20-santimat-2018.jpg
+
+morocco-20-santimat-2023:
+  frente: https://i.ucoin.net/coin/81/631/81631304-1s/morocco-20-santimat-2023.jpg
+  tras: https://i.ucoin.net/coin/81/631/81631304-2s/morocco-20-santimat-2023.jpg
+
+morocco-200-francs-1953:
+  frente: https://i.ucoin.net/coin/74/221/74221518-1s/morocco-200-francs-1953.jpg
+  tras: https://i.ucoin.net/coin/74/221/74221518-2s/morocco-200-francs-1953.jpg
+
+morocco-25-centimes-1921:
+  frente: https://i.ucoin.net/coin/37/105/37105474-1s/morocco-25-centimes-1921.jpg
+  tras: https://i.ucoin.net/coin/37/105/37105474-2s/morocco-25-centimes-1921.jpg
+
+morocco-5-dirham-1965:
+  frente: https://i.ucoin.net/coin/1/174/1174383-1s/morocco-5-dirham-1965.jpg
+  tras: https://i.ucoin.net/coin/1/174/1174383-2s/morocco-5-dirham-1965.jpg
+
+morocco-5-dirham-1980:
+  frente: https://i.ucoin.net/coin/47/828/47828759-1s/morocco-5-dirham-1980.jpg
+  tras: https://i.ucoin.net/coin/47/828/47828759-2s/morocco-5-dirham-1980.jpg
+
+morocco-5-dirham-1987:
+  frente: https://i.ucoin.net/coin/69/159/69159983-1s/morocco-5-dirham-1987.jpg
+  tras: https://i.ucoin.net/coin/69/159/69159983-2s/morocco-5-dirham-1987.jpg
+
+morocco-5-dirham-2002:
+  frente: https://i.ucoin.net/coin/47/829/47829495-1s/morocco-5-dirham-2002.jpg
+  tras: https://i.ucoin.net/coin/47/829/47829495-2s/morocco-5-dirham-2002.jpg
+
+morocco-5-dirham-2016:
+  frente: https://i.ucoin.net/coin/27/116/27116996-1s/morocco-5-dirham-2016.jpg
+  tras: https://i.ucoin.net/coin/27/116/27116996-2s/morocco-5-dirham-2016.jpg
+
+morocco-5-dirham-2023:
+  frente: https://i.ucoin.net/coin/81/631/81631494-1s/morocco-5-dirham-2023.jpg
+  tras: https://i.ucoin.net/coin/81/631/81631494-2s/morocco-5-dirham-2023.jpg
+
+morocco-5-francs-1929:
+  frente: https://i.ucoin.net/coin/78/033/78033496-1s/morocco-5-francs-1929.jpg
+  tras: https://i.ucoin.net/coin/78/033/78033496-2s/morocco-5-francs-1929.jpg
+
+morocco-5-francs-1946:
+  frente: https://i.ucoin.net/coin/37/105/37105968-1s/morocco-5-francs-1946.jpg
+  tras: https://i.ucoin.net/coin/37/105/37105968-2s/morocco-5-francs-1946.jpg
+
+morocco-5-francs-1951:
+  frente: https://i.ucoin.net/coin/55/050/55050979-1s/morocco-5-francs-1951.jpg
+  tras: https://i.ucoin.net/coin/55/050/55050979-2s/morocco-5-francs-1951.jpg
+
+morocco-5-santimat-1974:
+  frente: https://i.ucoin.net/coin/47/828/47828213-1s/morocco-5-santimat-1974.jpg
+  tras: https://i.ucoin.net/coin/47/828/47828213-2s/morocco-5-santimat-1974.jpg
+
+morocco-5-santimat-1987:
+  frente: https://i.ucoin.net/coin/69/160/69160106-1s/morocco-5-santimat-1987.jpg
+  tras: https://i.ucoin.net/coin/69/160/69160106-2s/morocco-5-santimat-1987.jpg
+
+morocco-5-santimat-2002:
+  frente: https://i.ucoin.net/coin/27/317/27317306-1s/morocco-5-santimat-2002.jpg
+  tras: https://i.ucoin.net/coin/27/317/27317306-2s/morocco-5-santimat-2002.jpg
+
+morocco-50-centimes-1924:
+  frente: https://i.ucoin.net/coin/37/106/37106114-1s/morocco-50-centimes-1924.jpg
+  tras: https://i.ucoin.net/coin/37/106/37106114-2s/morocco-50-centimes-1924.jpg
+
+morocco-50-centimes-1945:
+  frente: https://i.ucoin.net/coin/37/106/37106068-1s/morocco-50-centimes-1945.jpg
+  tras: https://i.ucoin.net/coin/37/106/37106068-2s/morocco-50-centimes-1945.jpg
+
+morocco-50-francs-1952:
+  frente: https://i.ucoin.net/coin/37/106/37106200-1s/morocco-50-francs-1952.jpg
+  tras: https://i.ucoin.net/coin/37/106/37106200-2s/morocco-50-francs-1952.jpg
+
+morocco-50-santimat-1974:
+  frente: https://i.ucoin.net/coin/58/954/58954225-1s/morocco-50-santimat-1974.jpg
+  tras: https://i.ucoin.net/coin/58/954/58954225-2s/morocco-50-santimat-1974.jpg
+
+morocco-500-francs-1956:
+  frente: https://i.ucoin.net/coin/37/106/37106253-1s/morocco-500-francs-1956.jpg
+  tras: https://i.ucoin.net/coin/37/106/37106253-2s/morocco-500-francs-1956.jpg
