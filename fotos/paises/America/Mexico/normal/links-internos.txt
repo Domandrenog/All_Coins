@@ -1,0 +1,167 @@
+mexico-1-centavo-1973:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-1-centavo-1973.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-1-centavo-1973.jpg
+
+mexico-1-new-peso-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-1-new-peso-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-1-new-peso-1994.jpg
+
+mexico-1-peso-1981:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-1-peso-1981.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-1-peso-1981.jpg
+
+mexico-1-peso-1984:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-1-peso-1984.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-1-peso-1984.jpg
+
+mexico-1-peso-2010:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-1-peso-2010.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-1-peso-2010.jpg
+
+mexico-10-centavos-1976:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-10-centavos-1976.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-10-centavos-1976.jpg
+
+mexico-10-centavos-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-10-centavos-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-10-centavos-1999.jpg
+
+mexico-10-centavos-2013:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-10-centavos-2013.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-10-centavos-2013.jpg
+
+mexico-10-new-pesos-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-10-new-pesos-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-10-new-pesos-1994.jpg
+
+mexico-10-pesos-1977:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-10-pesos-1977.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-10-pesos-1977.jpg
+
+mexico-10-pesos-1978:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-10-pesos-1978.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-10-pesos-1978.jpg
+
+mexico-10-pesos-1989:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-10-pesos-1989.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-10-pesos-1989.jpg
+
+mexico-10-pesos-2026:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-10-pesos-2026.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-10-pesos-2026.jpg
+
+mexico-100-pesos-1979:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-100-pesos-1979.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-100-pesos-1979.jpg
+
+mexico-100-pesos-1985:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-100-pesos-1985.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-100-pesos-1985.jpg
+
+mexico-1000-pesos-1989:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-1000-pesos-1989.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-1000-pesos-1989.jpg
+
+mexico-2-new-pesos-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-2-new-pesos-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-2-new-pesos-1994.jpg
+
+mexico-2-pesos-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-2-pesos-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-2-pesos-2017.jpg
+
+mexico-20-centavos-1973:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-20-centavos-1973.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-20-centavos-1973.jpg
+
+mexico-20-centavos-1983:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-20-centavos-1983.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-20-centavos-1983.jpg
+
+mexico-20-centavos-1984:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-20-centavos-1984.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-20-centavos-1984.jpg
+
+mexico-20-centavos-1997:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-20-centavos-1997.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-20-centavos-1997.jpg
+
+mexico-20-centavos-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-20-centavos-2015.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-20-centavos-2015.jpg
+
+mexico-20-new-pesos-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-20-new-pesos-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-20-new-pesos-1993.jpg
+
+mexico-20-pesos-1980:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-20-pesos-1980.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-20-pesos-1980.jpg
+
+mexico-20-pesos-1985:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-20-pesos-1985.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-20-pesos-1985.jpg
+
+mexico-5-centavos-1970:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-5-centavos-1970.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-5-centavos-1970.jpg
+
+mexico-5-centavos-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-5-centavos-2002.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-5-centavos-2002.jpg
+
+mexico-5-new-pesos-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-5-new-pesos-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-5-new-pesos-1994.jpg
+
+mexico-5-pesos-1972:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-5-pesos-1972.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-5-pesos-1972.jpg
+
+mexico-5-pesos-1980:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-5-pesos-1980.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-5-pesos-1980.jpg
+
+mexico-5-pesos-1985:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-5-pesos-1985.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-5-pesos-1985.jpg
+
+mexico-5-pesos-2026:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-5-pesos-2026.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-5-pesos-2026.jpg
+
+mexico-50-centavos-1970:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-50-centavos-1970.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-50-centavos-1970.jpg
+
+mexico-50-centavos-1983:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-50-centavos-1983.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-50-centavos-1983.jpg
+
+mexico-50-centavos-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-50-centavos-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-50-centavos-1992.jpg
+
+mexico-50-centavos-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-50-centavos-2018.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-50-centavos-2018.jpg
+
+mexico-50-new-pesos-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-50-new-pesos-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-50-new-pesos-1994.jpg
+
+mexico-50-pesos-1983:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-50-pesos-1983.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-50-pesos-1983.jpg
+
+mexico-50-pesos-1985:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-50-pesos-1985.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-50-pesos-1985.jpg
+
+mexico-50-pesos-1990:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-50-pesos-1990.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-50-pesos-1990.jpg
+
+mexico-500-pesos-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/frente/mexico-500-pesos-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/America/Mexico/normal/tras/mexico-500-pesos-1987.jpg

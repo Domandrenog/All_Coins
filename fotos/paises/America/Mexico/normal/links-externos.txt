@@ -1,0 +1,167 @@
+mexico-1-centavo-1973:
+  frente: https://i.ucoin.net/coin/63/411/63411510-1s/mexico-1-centavo-1973.jpg
+  tras: https://i.ucoin.net/coin/63/411/63411510-2s/mexico-1-centavo-1973.jpg
+
+mexico-1-new-peso-1994:
+  frente: https://i.ucoin.net/coin/47/797/47797456-1s/mexico-1-new-peso-1994.jpg
+  tras: https://i.ucoin.net/coin/47/797/47797456-2s/mexico-1-new-peso-1994.jpg
+
+mexico-1-peso-1981:
+  frente: https://i.ucoin.net/coin/27/549/27549802-1s/mexico-1-peso-1981.jpg
+  tras: https://i.ucoin.net/coin/27/549/27549802-2s/mexico-1-peso-1981.jpg
+
+mexico-1-peso-1984:
+  frente: https://i.ucoin.net/coin/47/791/47791287-1s/mexico-1-peso-1984.jpg
+  tras: https://i.ucoin.net/coin/47/791/47791287-2s/mexico-1-peso-1984.jpg
+
+mexico-1-peso-2010:
+  frente: https://i.ucoin.net/coin/43/989/43989072-1s/mexico-1-peso-2010.jpg
+  tras: https://i.ucoin.net/coin/43/989/43989072-2s/mexico-1-peso-2010.jpg
+
+mexico-10-centavos-1976:
+  frente: https://i.ucoin.net/coin/85/965/85965523-1s/mexico-10-centavos-1976.jpg
+  tras: https://i.ucoin.net/coin/85/965/85965523-2s/mexico-10-centavos-1976.jpg
+
+mexico-10-centavos-1999:
+  frente: https://i.ucoin.net/coin/47/807/47807065-1s/mexico-10-centavos-1999.jpg
+  tras: https://i.ucoin.net/coin/47/807/47807065-2s/mexico-10-centavos-1999.jpg
+
+mexico-10-centavos-2013:
+  frente: https://i.ucoin.net/coin/4/725/4725669-1s/mexico-10-centavos-2013.jpg
+  tras: https://i.ucoin.net/coin/4/725/4725669-2s/mexico-10-centavos-2013.jpg
+
+mexico-10-new-pesos-1994:
+  frente: https://i.ucoin.net/coin/57/106/57106959-1s/mexico-10-new-pesos-1994.jpg
+  tras: https://i.ucoin.net/coin/57/106/57106959-2s/mexico-10-new-pesos-1994.jpg
+
+mexico-10-pesos-1977:
+  frente: https://i.ucoin.net/coin/47/776/47776289-1s/mexico-10-pesos-1977.jpg
+  tras: https://i.ucoin.net/coin/47/776/47776289-2s/mexico-10-pesos-1977.jpg
+
+mexico-10-pesos-1978:
+  frente: https://i.ucoin.net/coin/47/780/47780975-1s/mexico-10-pesos-1978.jpg
+  tras: https://i.ucoin.net/coin/47/780/47780975-2s/mexico-10-pesos-1978.jpg
+
+mexico-10-pesos-1989:
+  frente: https://i.ucoin.net/coin/47/796/47796440-1s/mexico-10-pesos-1989.jpg
+  tras: https://i.ucoin.net/coin/47/796/47796440-2s/mexico-10-pesos-1989.jpg
+
+mexico-10-pesos-2026:
+  frente: https://i.ucoin.net/coin/84/659/84659353-1s/mexico-10-pesos-2026.jpg
+  tras: https://i.ucoin.net/coin/84/659/84659353-2s/mexico-10-pesos-2026.jpg
+
+mexico-100-pesos-1979:
+  frente: https://i.ucoin.net/coin/6/241/6241485-1s/mexico-100-pesos-1979.jpg
+  tras: https://i.ucoin.net/coin/6/241/6241485-2s/mexico-100-pesos-1979.jpg
+
+mexico-100-pesos-1985:
+  frente: https://i.ucoin.net/coin/47/791/47791612-1s/mexico-100-pesos-1985.jpg
+  tras: https://i.ucoin.net/coin/47/791/47791612-2s/mexico-100-pesos-1985.jpg
+
+mexico-1000-pesos-1989:
+  frente: https://i.ucoin.net/coin/47/796/47796482-1s/mexico-1000-pesos-1989.jpg
+  tras: https://i.ucoin.net/coin/47/796/47796482-2s/mexico-1000-pesos-1989.jpg
+
+mexico-2-new-pesos-1994:
+  frente: https://i.ucoin.net/coin/0/64/64773-1s/mexico-2-new-pesos-1994.jpg
+  tras: https://i.ucoin.net/coin/0/64/64773-2s/mexico-2-new-pesos-1994.jpg
+
+mexico-2-pesos-2017:
+  frente: https://i.ucoin.net/coin/30/399/30399635-1s/mexico-2-pesos-2017.jpg
+  tras: https://i.ucoin.net/coin/30/399/30399635-2s/mexico-2-pesos-2017.jpg
+
+mexico-20-centavos-1973:
+  frente: https://i.ucoin.net/coin/31/882/31882065-1s/mexico-20-centavos-1973.jpg
+  tras: https://i.ucoin.net/coin/31/882/31882065-2s/mexico-20-centavos-1973.jpg
+
+mexico-20-centavos-1983:
+  frente: https://i.ucoin.net/coin/27/537/27537082-1s/mexico-20-centavos-1983.jpg
+  tras: https://i.ucoin.net/coin/27/537/27537082-2s/mexico-20-centavos-1983.jpg
+
+mexico-20-centavos-1984:
+  frente: https://i.ucoin.net/coin/70/699/70699821-1s/mexico-20-centavos-1984.jpg
+  tras: https://i.ucoin.net/coin/70/699/70699821-2s/mexico-20-centavos-1984.jpg
+
+mexico-20-centavos-1997:
+  frente: https://i.ucoin.net/coin/27/549/27549785-1s/mexico-20-centavos-1997.jpg
+  tras: https://i.ucoin.net/coin/27/549/27549785-2s/mexico-20-centavos-1997.jpg
+
+mexico-20-centavos-2015:
+  frente: https://i.ucoin.net/coin/57/351/57351687-1s/mexico-20-centavos-2015.jpg
+  tras: https://i.ucoin.net/coin/57/351/57351687-2s/mexico-20-centavos-2015.jpg
+
+mexico-20-new-pesos-1993:
+  frente: https://i.ucoin.net/coin/48/237/48237636-1s/mexico-20-new-pesos-1993.jpg
+  tras: https://i.ucoin.net/coin/48/237/48237636-2s/mexico-20-new-pesos-1993.jpg
+
+mexico-20-pesos-1980:
+  frente: https://i.ucoin.net/coin/2/769/2769804-1s/mexico-20-pesos-1980.jpg
+  tras: https://i.ucoin.net/coin/2/769/2769804-2s/mexico-20-pesos-1980.jpg
+
+mexico-20-pesos-1985:
+  frente: https://i.ucoin.net/coin/47/791/47791468-1s/mexico-20-pesos-1985.jpg
+  tras: https://i.ucoin.net/coin/47/791/47791468-2s/mexico-20-pesos-1985.jpg
+
+mexico-5-centavos-1970:
+  frente: https://i.ucoin.net/coin/47/772/47772330-1s/mexico-5-centavos-1970.jpg
+  tras: https://i.ucoin.net/coin/47/772/47772330-2s/mexico-5-centavos-1970.jpg
+
+mexico-5-centavos-2002:
+  frente: https://i.ucoin.net/coin/27/537/27537065-1s/mexico-5-centavos-2002.jpg
+  tras: https://i.ucoin.net/coin/27/537/27537065-2s/mexico-5-centavos-2002.jpg
+
+mexico-5-new-pesos-1994:
+  frente: https://i.ucoin.net/coin/0/990/990330-1s/mexico-5-new-pesos-1994.jpg
+  tras: https://i.ucoin.net/coin/0/990/990330-2s/mexico-5-new-pesos-1994.jpg
+
+mexico-5-pesos-1972:
+  frente: https://i.ucoin.net/coin/31/882/31882286-1s/mexico-5-pesos-1972.jpg
+  tras: https://i.ucoin.net/coin/31/882/31882286-2s/mexico-5-pesos-1972.jpg
+
+mexico-5-pesos-1980:
+  frente: https://i.ucoin.net/coin/47/781/47781360-1s/mexico-5-pesos-1980.jpg
+  tras: https://i.ucoin.net/coin/47/781/47781360-2s/mexico-5-pesos-1980.jpg
+
+mexico-5-pesos-1985:
+  frente: https://i.ucoin.net/coin/27/549/27549549-1s/mexico-5-pesos-1985.jpg
+  tras: https://i.ucoin.net/coin/27/549/27549549-2s/mexico-5-pesos-1985.jpg
+
+mexico-5-pesos-2026:
+  frente: https://i.ucoin.net/coin/84/836/84836518-1s/mexico-5-pesos-2026.jpg
+  tras: https://i.ucoin.net/coin/84/836/84836518-2s/mexico-5-pesos-2026.jpg
+
+mexico-50-centavos-1970:
+  frente: https://i.ucoin.net/coin/85/296/85296323-1s/mexico-50-centavos-1970.jpg
+  tras: https://i.ucoin.net/coin/85/296/85296323-2s/mexico-50-centavos-1970.jpg
+
+mexico-50-centavos-1983:
+  frente: https://i.ucoin.net/coin/20/287/20287149-1s/mexico-50-centavos-1983.jpg
+  tras: https://i.ucoin.net/coin/20/287/20287149-2s/mexico-50-centavos-1983.jpg
+
+mexico-50-centavos-1992:
+  frente: https://i.ucoin.net/coin/47/815/47815665-1s/mexico-50-centavos-1992.jpg
+  tras: https://i.ucoin.net/coin/47/815/47815665-2s/mexico-50-centavos-1992.jpg
+
+mexico-50-centavos-2018:
+  frente: https://i.ucoin.net/coin/27/537/27537105-1s/mexico-50-centavos-2018.jpg
+  tras: https://i.ucoin.net/coin/27/537/27537105-2s/mexico-50-centavos-2018.jpg
+
+mexico-50-new-pesos-1994:
+  frente: https://i.ucoin.net/coin/73/758/73758095-1s/mexico-50-new-pesos-1994.jpg
+  tras: https://i.ucoin.net/coin/73/758/73758095-2s/mexico-50-new-pesos-1994.jpg
+
+mexico-50-pesos-1983:
+  frente: https://i.ucoin.net/coin/29/290/29290741-1s/mexico-50-pesos-1983.jpg
+  tras: https://i.ucoin.net/coin/29/290/29290741-2s/mexico-50-pesos-1983.jpg
+
+mexico-50-pesos-1985:
+  frente: https://i.ucoin.net/coin/47/791/47791709-1s/mexico-50-pesos-1985.jpg
+  tras: https://i.ucoin.net/coin/47/791/47791709-2s/mexico-50-pesos-1985.jpg
+
+mexico-50-pesos-1990:
+  frente: https://i.ucoin.net/coin/47/796/47796910-1s/mexico-50-pesos-1990.jpg
+  tras: https://i.ucoin.net/coin/47/796/47796910-2s/mexico-50-pesos-1990.jpg
+
+mexico-500-pesos-1987:
+  frente: https://i.ucoin.net/coin/47/792/47792841-1s/mexico-500-pesos-1987.jpg
+  tras: https://i.ucoin.net/coin/47/792/47792841-2s/mexico-500-pesos-1987.jpg
