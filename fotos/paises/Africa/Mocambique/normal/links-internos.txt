@@ -1,0 +1,303 @@
+mozambique-1-centavo-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-1-centavo-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-1-centavo-2006.jpg
+
+mozambique-1-centavo-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-1-centavo-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-1-centavo-2024.jpg
+
+mozambique-1-centimo-1975:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-1-centimo-1975.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-1-centimo-1975.jpg
+
+mozambique-1-escudo-1936:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-1-escudo-1936.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-1-escudo-1936.jpg
+
+mozambique-1-escudo-1945:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-1-escudo-1945.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-1-escudo-1945.jpg
+
+mozambique-1-escudo-1951:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-1-escudo-1951.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-1-escudo-1951.jpg
+
+mozambique-1-escudo-1953:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-1-escudo-1953.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-1-escudo-1953.jpg
+
+mozambique-1-metical-1975:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-1-metical-1975.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-1-metical-1975.jpg
+
+mozambique-1-metical-1980:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-1-metical-1980.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-1-metical-1980.jpg
+
+mozambique-1-metical-1986:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-1-metical-1986.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-1-metical-1986.jpg
+
+mozambique-1-metical-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-1-metical-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-1-metical-1994.jpg
+
+mozambique-1-metical-2012:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-1-metical-2012.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-1-metical-2012.jpg
+
+mozambique-1-metical-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-1-metical-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-1-metical-2024.jpg
+
+mozambique-10-centavos-1936:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-10-centavos-1936.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-10-centavos-1936.jpg
+
+mozambique-10-centavos-1942:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-10-centavos-1942.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-10-centavos-1942.jpg
+
+mozambique-10-centavos-1960:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-10-centavos-1960.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-10-centavos-1960.jpg
+
+mozambique-10-centavos-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-10-centavos-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-10-centavos-2006.jpg
+
+mozambique-10-centavos-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-10-centavos-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-10-centavos-2024.jpg
+
+mozambique-10-centimos-1975:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-10-centimos-1975.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-10-centimos-1975.jpg
+
+mozambique-10-escudos-1936:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-10-escudos-1936.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-10-escudos-1936.jpg
+
+mozambique-10-escudos-1938:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-10-escudos-1938.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-10-escudos-1938.jpg
+
+mozambique-10-escudos-1960:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-10-escudos-1960.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-10-escudos-1960.jpg
+
+mozambique-10-escudos-1966:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-10-escudos-1966.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-10-escudos-1966.jpg
+
+mozambique-10-escudos-1970:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-10-escudos-1970.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-10-escudos-1970.jpg
+
+mozambique-10-meticais-1980:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-10-meticais-1980.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-10-meticais-1980.jpg
+
+mozambique-10-meticais-1986:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-10-meticais-1986.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-10-meticais-1986.jpg
+
+mozambique-10-meticais-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-10-meticais-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-10-meticais-1994.jpg
+
+mozambique-10-meticais-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-10-meticais-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-10-meticais-2006.jpg
+
+mozambique-10-meticais-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-10-meticais-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-10-meticais-2024.jpg
+
+mozambique-100-meticais-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-100-meticais-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-100-meticais-1994.jpg
+
+mozambique-1000-meticais-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-1000-meticais-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-1000-meticais-1994.jpg
+
+mozambique-10000-meticais-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-10000-meticais-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-10000-meticais-2003.jpg
+
+mozambique-2-5-escudos-1935:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-2-5-escudos-1935.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-2-5-escudos-1935.jpg
+
+mozambique-2-5-escudos-1950:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-2-5-escudos-1950.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-2-5-escudos-1950.jpg
+
+mozambique-2-5-escudos-1955:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-2-5-escudos-1955.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-2-5-escudos-1955.jpg
+
+mozambique-2-5-meticais-1975:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-2-5-meticais-1975.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-2-5-meticais-1975.jpg
+
+mozambique-2-5-meticais-1986:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-2-5-meticais-1986.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-2-5-meticais-1986.jpg
+
+mozambique-2-centimos-1975:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-2-centimos-1975.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-2-centimos-1975.jpg
+
+mozambique-2-meticais-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-2-meticais-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-2-meticais-2006.jpg
+
+mozambique-2-meticais-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-2-meticais-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-2-meticais-2024.jpg
+
+mozambique-20-centavos-1936:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-20-centavos-1936.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-20-centavos-1936.jpg
+
+mozambique-20-centavos-1941:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-20-centavos-1941.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-20-centavos-1941.jpg
+
+mozambique-20-centavos-1950:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-20-centavos-1950.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-20-centavos-1950.jpg
+
+mozambique-20-centavos-1961:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-20-centavos-1961.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-20-centavos-1961.jpg
+
+mozambique-20-centavos-1974:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-20-centavos-1974.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-20-centavos-1974.jpg
+
+mozambique-20-centavos-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-20-centavos-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-20-centavos-2006.jpg
+
+mozambique-20-centimos-1975:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-20-centimos-1975.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-20-centimos-1975.jpg
+
+mozambique-20-escudos-1960:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-20-escudos-1960.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-20-escudos-1960.jpg
+
+mozambique-20-escudos-1966:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-20-escudos-1966.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-20-escudos-1966.jpg
+
+mozambique-20-escudos-1971:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-20-escudos-1971.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-20-escudos-1971.jpg
+
+mozambique-20-meticais-1980:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-20-meticais-1980.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-20-meticais-1980.jpg
+
+mozambique-20-meticais-1986:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-20-meticais-1986.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-20-meticais-1986.jpg
+
+mozambique-20-meticais-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-20-meticais-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-20-meticais-1994.jpg
+
+mozambique-5-centavos-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-5-centavos-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-5-centavos-2006.jpg
+
+mozambique-5-centimos-1975:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-5-centimos-1975.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-5-centimos-1975.jpg
+
+mozambique-5-escudos-1935:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-5-escudos-1935.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-5-escudos-1935.jpg
+
+mozambique-5-escudos-1949:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-5-escudos-1949.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-5-escudos-1949.jpg
+
+mozambique-5-escudos-1960:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-5-escudos-1960.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-5-escudos-1960.jpg
+
+mozambique-5-escudos-1973:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-5-escudos-1973.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-5-escudos-1973.jpg
+
+mozambique-5-meticais-1986:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-5-meticais-1986.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-5-meticais-1986.jpg
+
+mozambique-5-meticais-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-5-meticais-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-5-meticais-1994.jpg
+
+mozambique-5-meticais-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-5-meticais-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-5-meticais-2006.jpg
+
+mozambique-5-meticais-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-5-meticais-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-5-meticais-2024.jpg
+
+mozambique-50-centavos-1936:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-50-centavos-1936.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-50-centavos-1936.jpg
+
+mozambique-50-centavos-1945:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-50-centavos-1945.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-50-centavos-1945.jpg
+
+mozambique-50-centavos-1950:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-50-centavos-1950.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-50-centavos-1950.jpg
+
+mozambique-50-centavos-1957:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-50-centavos-1957.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-50-centavos-1957.jpg
+
+mozambique-50-centavos-1974:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-50-centavos-1974.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-50-centavos-1974.jpg
+
+mozambique-50-centavos-1980:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-50-centavos-1980.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-50-centavos-1980.jpg
+
+mozambique-50-centavos-2012:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-50-centavos-2012.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-50-centavos-2012.jpg
+
+mozambique-50-centavos-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-50-centavos-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-50-centavos-2024.jpg
+
+mozambique-50-centimos-1975:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-50-centimos-1975.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-50-centimos-1975.jpg
+
+mozambique-50-meticais-1986:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-50-meticais-1986.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-50-meticais-1986.jpg
+
+mozambique-50-meticais-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-50-meticais-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-50-meticais-1994.jpg
+
+mozambique-500-meticais-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-500-meticais-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-500-meticais-1994.jpg
+
+mozambique-5000-meticais-1998:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/frente/mozambique-5000-meticais-1998.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Mocambique/normal/tras/mozambique-5000-meticais-1998.jpg

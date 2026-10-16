@@ -1,0 +1,303 @@
+mozambique-1-centavo-2006:
+  frente: https://i.ucoin.net/coin/82/001/82001106-1s/mozambique-1-centavo-2006.jpg
+  tras: https://i.ucoin.net/coin/82/001/82001106-2s/mozambique-1-centavo-2006.jpg
+
+mozambique-1-centavo-2024:
+  frente: https://i.ucoin.net/coin/78/170/78170533-1s/mozambique-1-centavo-2024.jpg
+  tras: https://i.ucoin.net/coin/78/170/78170533-2s/mozambique-1-centavo-2024.jpg
+
+mozambique-1-centimo-1975:
+  frente: https://i.ucoin.net/coin/76/118/76118491-1s/mozambique-1-centimo-1975.jpg
+  tras: https://i.ucoin.net/coin/76/118/76118491-2s/mozambique-1-centimo-1975.jpg
+
+mozambique-1-escudo-1936:
+  frente: https://i.ucoin.net/coin/80/741/80741893-1s/mozambique-1-escudo-1936.jpg
+  tras: https://i.ucoin.net/coin/80/741/80741893-2s/mozambique-1-escudo-1936.jpg
+
+mozambique-1-escudo-1945:
+  frente: https://i.ucoin.net/coin/77/637/77637940-1s/mozambique-1-escudo-1945.jpg
+  tras: https://i.ucoin.net/coin/77/637/77637940-2s/mozambique-1-escudo-1945.jpg
+
+mozambique-1-escudo-1951:
+  frente: https://i.ucoin.net/coin/41/135/41135941-1s/mozambique-1-escudo-1951.jpg
+  tras: https://i.ucoin.net/coin/41/135/41135941-2s/mozambique-1-escudo-1951.jpg
+
+mozambique-1-escudo-1953:
+  frente: https://i.ucoin.net/coin/37/108/37108181-1s/mozambique-1-escudo-1953.jpg
+  tras: https://i.ucoin.net/coin/37/108/37108181-2s/mozambique-1-escudo-1953.jpg
+
+mozambique-1-metical-1975:
+  frente: https://i.ucoin.net/coin/68/697/68697670-1s/mozambique-1-metical-1975.jpg
+  tras: https://i.ucoin.net/coin/68/697/68697670-2s/mozambique-1-metical-1975.jpg
+
+mozambique-1-metical-1980:
+  frente: https://i.ucoin.net/coin/17/968/17968614-1s/mozambique-1-metical-1980.jpg
+  tras: https://i.ucoin.net/coin/17/968/17968614-2s/mozambique-1-metical-1980.jpg
+
+mozambique-1-metical-1986:
+  frente: https://i.ucoin.net/coin/75/390/75390914-1s/mozambique-1-metical-1986.jpg
+  tras: https://i.ucoin.net/coin/75/390/75390914-2s/mozambique-1-metical-1986.jpg
+
+mozambique-1-metical-1994:
+  frente: https://i.ucoin.net/coin/76/219/76219440-1s/mozambique-1-metical-1994.jpg
+  tras: https://i.ucoin.net/coin/76/219/76219440-2s/mozambique-1-metical-1994.jpg
+
+mozambique-1-metical-2012:
+  frente: https://i.ucoin.net/coin/28/159/28159852-1s/mozambique-1-metical-2012.jpg
+  tras: https://i.ucoin.net/coin/28/159/28159852-2s/mozambique-1-metical-2012.jpg
+
+mozambique-1-metical-2024:
+  frente: https://i.ucoin.net/coin/77/417/77417608-1s/mozambique-1-metical-2024.jpg
+  tras: https://i.ucoin.net/coin/77/417/77417608-2s/mozambique-1-metical-2024.jpg
+
+mozambique-10-centavos-1936:
+  frente: https://i.ucoin.net/coin/86/465/86465259-1s/mozambique-10-centavos-1936.jpg
+  tras: https://i.ucoin.net/coin/86/465/86465259-2s/mozambique-10-centavos-1936.jpg
+
+mozambique-10-centavos-1942:
+  frente: https://i.ucoin.net/coin/8/369/8369764-1s/mozambique-10-centavos-1942.jpg
+  tras: https://i.ucoin.net/coin/8/369/8369764-2s/mozambique-10-centavos-1942.jpg
+
+mozambique-10-centavos-1960:
+  frente: https://i.ucoin.net/coin/36/938/36938298-1s/mozambique-10-centavos-1960.jpg
+  tras: https://i.ucoin.net/coin/36/938/36938298-2s/mozambique-10-centavos-1960.jpg
+
+mozambique-10-centavos-2006:
+  frente: https://i.ucoin.net/coin/28/105/28105875-1s/mozambique-10-centavos-2006.jpg
+  tras: https://i.ucoin.net/coin/28/105/28105875-2s/mozambique-10-centavos-2006.jpg
+
+mozambique-10-centavos-2024:
+  frente: https://i.ucoin.net/coin/78/530/78530409-1s/mozambique-10-centavos-2024.jpg
+  tras: https://i.ucoin.net/coin/78/530/78530409-2s/mozambique-10-centavos-2024.jpg
+
+mozambique-10-centimos-1975:
+  frente: https://i.ucoin.net/coin/36/938/36938269-1s/mozambique-10-centimos-1975.jpg
+  tras: https://i.ucoin.net/coin/36/938/36938269-2s/mozambique-10-centimos-1975.jpg
+
+mozambique-10-escudos-1936:
+  frente: https://i.ucoin.net/coin/69/226/69226939-1s/mozambique-10-escudos-1936.jpg
+  tras: https://i.ucoin.net/coin/69/226/69226939-2s/mozambique-10-escudos-1936.jpg
+
+mozambique-10-escudos-1938:
+  frente: https://i.ucoin.net/coin/37/107/37107405-1s/mozambique-10-escudos-1938.jpg
+  tras: https://i.ucoin.net/coin/37/107/37107405-2s/mozambique-10-escudos-1938.jpg
+
+mozambique-10-escudos-1960:
+  frente: https://i.ucoin.net/coin/71/865/71865600-1s/mozambique-10-escudos-1960.jpg
+  tras: https://i.ucoin.net/coin/71/865/71865600-2s/mozambique-10-escudos-1960.jpg
+
+mozambique-10-escudos-1966:
+  frente: https://i.ucoin.net/coin/8/321/8321311-1s/mozambique-10-escudos-1966.jpg
+  tras: https://i.ucoin.net/coin/8/321/8321311-2s/mozambique-10-escudos-1966.jpg
+
+mozambique-10-escudos-1970:
+  frente: https://i.ucoin.net/coin/42/394/42394081-1s/mozambique-10-escudos-1970.jpg
+  tras: https://i.ucoin.net/coin/42/394/42394081-2s/mozambique-10-escudos-1970.jpg
+
+mozambique-10-meticais-1980:
+  frente: https://i.ucoin.net/coin/4/110/4110983-1s/mozambique-10-meticais-1980.jpg
+  tras: https://i.ucoin.net/coin/4/110/4110983-2s/mozambique-10-meticais-1980.jpg
+
+mozambique-10-meticais-1986:
+  frente: https://i.ucoin.net/coin/57/717/57717732-1s/mozambique-10-meticais-1986.jpg
+  tras: https://i.ucoin.net/coin/57/717/57717732-2s/mozambique-10-meticais-1986.jpg
+
+mozambique-10-meticais-1994:
+  frente: https://i.ucoin.net/coin/28/084/28084274-1s/mozambique-10-meticais-1994.jpg
+  tras: https://i.ucoin.net/coin/28/084/28084274-2s/mozambique-10-meticais-1994.jpg
+
+mozambique-10-meticais-2006:
+  frente: https://i.ucoin.net/coin/28/150/28150176-1s/mozambique-10-meticais-2006.jpg
+  tras: https://i.ucoin.net/coin/28/150/28150176-2s/mozambique-10-meticais-2006.jpg
+
+mozambique-10-meticais-2024:
+  frente: https://i.ucoin.net/coin/86/893/86893501-1s/mozambique-10-meticais-2024.jpg
+  tras: https://i.ucoin.net/coin/86/893/86893501-2s/mozambique-10-meticais-2024.jpg
+
+mozambique-100-meticais-1994:
+  frente: https://i.ucoin.net/coin/60/439/60439119-1s/mozambique-100-meticais-1994.jpg
+  tras: https://i.ucoin.net/coin/60/439/60439119-2s/mozambique-100-meticais-1994.jpg
+
+mozambique-1000-meticais-1994:
+  frente: https://i.ucoin.net/coin/57/719/57719434-1s/mozambique-1000-meticais-1994.jpg
+  tras: https://i.ucoin.net/coin/57/719/57719434-2s/mozambique-1000-meticais-1994.jpg
+
+mozambique-10000-meticais-2003:
+  frente: https://i.ucoin.net/coin/57/719/57719472-1s/mozambique-10000-meticais-2003.jpg
+  tras: https://i.ucoin.net/coin/57/719/57719472-2s/mozambique-10000-meticais-2003.jpg
+
+mozambique-2-5-escudos-1935:
+  frente: https://i.ucoin.net/coin/86/418/86418776-1s/mozambique-2.5-escudos-1935.jpg
+  tras: https://i.ucoin.net/coin/86/418/86418776-2s/mozambique-2.5-escudos-1935.jpg
+
+mozambique-2-5-escudos-1950:
+  frente: https://i.ucoin.net/coin/37/107/37107622-1s/mozambique-2,5-escudos-1950.jpg
+  tras: https://i.ucoin.net/coin/37/107/37107622-2s/mozambique-2,5-escudos-1950.jpg
+
+mozambique-2-5-escudos-1955:
+  frente: https://i.ucoin.net/coin/37/107/37107700-1s/mozambique-2,5-escudos-1955.jpg
+  tras: https://i.ucoin.net/coin/37/107/37107700-2s/mozambique-2,5-escudos-1955.jpg
+
+mozambique-2-5-meticais-1975:
+  frente: https://i.ucoin.net/coin/68/697/68697698-1s/mozambique-2-5-meticais-1975.jpg
+  tras: https://i.ucoin.net/coin/68/697/68697698-2s/mozambique-2-5-meticais-1975.jpg
+
+mozambique-2-5-meticais-1986:
+  frente: https://i.ucoin.net/coin/74/245/74245491-1s/mozambique-2-5-meticais-1986.jpg
+  tras: https://i.ucoin.net/coin/74/245/74245491-2s/mozambique-2-5-meticais-1986.jpg
+
+mozambique-2-centimos-1975:
+  frente: https://i.ucoin.net/coin/76/118/76118572-1s/mozambique-2-centimos-1975.jpg
+  tras: https://i.ucoin.net/coin/76/118/76118572-2s/mozambique-2-centimos-1975.jpg
+
+mozambique-2-meticais-2006:
+  frente: https://i.ucoin.net/coin/35/395/35395797-1s/mozambique-2-meticais-2006.jpg
+  tras: https://i.ucoin.net/coin/35/395/35395797-2s/mozambique-2-meticais-2006.jpg
+
+mozambique-2-meticais-2024:
+  frente: https://i.ucoin.net/coin/86/893/86893494-1s/mozambique-2-meticais-2024.jpg
+  tras: https://i.ucoin.net/coin/86/893/86893494-2s/mozambique-2-meticais-2024.jpg
+
+mozambique-20-centavos-1936:
+  frente: https://i.ucoin.net/coin/86/481/86481050-1s/mozambique-20-centavos-1936.jpg
+  tras: https://i.ucoin.net/coin/86/481/86481050-2s/mozambique-20-centavos-1936.jpg
+
+mozambique-20-centavos-1941:
+  frente: https://i.ucoin.net/coin/43/305/43305558-1s/mozambique-20-centavos-1941.jpg
+  tras: https://i.ucoin.net/coin/43/305/43305558-2s/mozambique-20-centavos-1941.jpg
+
+mozambique-20-centavos-1950:
+  frente: https://i.ucoin.net/coin/37/107/37107559-1s/mozambique-20-centavos-1950.jpg
+  tras: https://i.ucoin.net/coin/37/107/37107559-2s/mozambique-20-centavos-1950.jpg
+
+mozambique-20-centavos-1961:
+  frente: https://i.ucoin.net/coin/67/339/67339235-1s/mozambique-20-centavos-1961.jpg
+  tras: https://i.ucoin.net/coin/67/339/67339235-2s/mozambique-20-centavos-1961.jpg
+
+mozambique-20-centavos-1974:
+  frente: https://i.ucoin.net/coin/7/588/7588391-1s/mozambique-20-centavos-1974.jpg
+  tras: https://i.ucoin.net/coin/7/588/7588391-2s/mozambique-20-centavos-1974.jpg
+
+mozambique-20-centavos-2006:
+  frente: https://i.ucoin.net/coin/63/992/63992803-1s/mozambique-20-centavos-2006.jpg
+  tras: https://i.ucoin.net/coin/63/992/63992803-2s/mozambique-20-centavos-2006.jpg
+
+mozambique-20-centimos-1975:
+  frente: https://i.ucoin.net/coin/21/106/21106252-1s/mozambique-20-centimos-1975.jpg
+  tras: https://i.ucoin.net/coin/21/106/21106252-2s/mozambique-20-centimos-1975.jpg
+
+mozambique-20-escudos-1960:
+  frente: https://i.ucoin.net/coin/42/422/42422877-1s/mozambique-20-escudos-1960.jpg
+  tras: https://i.ucoin.net/coin/42/422/42422877-2s/mozambique-20-escudos-1960.jpg
+
+mozambique-20-escudos-1966:
+  frente: https://i.ucoin.net/coin/33/221/33221766-1s/mozambique-20-escudos-1966.jpg
+  tras: https://i.ucoin.net/coin/33/221/33221766-2s/mozambique-20-escudos-1966.jpg
+
+mozambique-20-escudos-1971:
+  frente: https://i.ucoin.net/coin/27/117/27117209-1s/mozambique-20-escudos-1971.jpg
+  tras: https://i.ucoin.net/coin/27/117/27117209-2s/mozambique-20-escudos-1971.jpg
+
+mozambique-20-meticais-1980:
+  frente: https://i.ucoin.net/coin/84/426/84426568-1s/mozambique-20-meticais-1980.jpg
+  tras: https://i.ucoin.net/coin/84/426/84426568-2s/mozambique-20-meticais-1980.jpg
+
+mozambique-20-meticais-1986:
+  frente: https://i.ucoin.net/coin/27/117/27117083-1s/mozambique-20-meticais-1986.jpg
+  tras: https://i.ucoin.net/coin/27/117/27117083-2s/mozambique-20-meticais-1986.jpg
+
+mozambique-20-meticais-1994:
+  frente: https://i.ucoin.net/coin/74/275/74275869-1s/mozambique-20-meticais-1994.jpg
+  tras: https://i.ucoin.net/coin/74/275/74275869-2s/mozambique-20-meticais-1994.jpg
+
+mozambique-5-centavos-2006:
+  frente: https://i.ucoin.net/coin/28/106/28106083-1s/mozambique-5-centavos-2006.jpg
+  tras: https://i.ucoin.net/coin/28/106/28106083-2s/mozambique-5-centavos-2006.jpg
+
+mozambique-5-centimos-1975:
+  frente: https://i.ucoin.net/coin/36/938/36938275-1s/mozambique-5-centimos-1975.jpg
+  tras: https://i.ucoin.net/coin/36/938/36938275-2s/mozambique-5-centimos-1975.jpg
+
+mozambique-5-escudos-1935:
+  frente: https://i.ucoin.net/coin/78/032/78032153-1s/mozambique-5-escudos-1935.jpg
+  tras: https://i.ucoin.net/coin/78/032/78032153-2s/mozambique-5-escudos-1935.jpg
+
+mozambique-5-escudos-1949:
+  frente: https://i.ucoin.net/coin/42/224/42224960-1s/mozambique-5-escudos-1949.jpg
+  tras: https://i.ucoin.net/coin/42/224/42224960-2s/mozambique-5-escudos-1949.jpg
+
+mozambique-5-escudos-1960:
+  frente: https://i.ucoin.net/coin/67/245/67245736-1s/mozambique-5-escudos-1960.jpg
+  tras: https://i.ucoin.net/coin/67/245/67245736-2s/mozambique-5-escudos-1960.jpg
+
+mozambique-5-escudos-1973:
+  frente: https://i.ucoin.net/coin/75/943/75943594-1s/mozambique-5-escudos-1973.jpg
+  tras: https://i.ucoin.net/coin/75/943/75943594-2s/mozambique-5-escudos-1973.jpg
+
+mozambique-5-meticais-1986:
+  frente: https://i.ucoin.net/coin/4/114/4114475-1s/mozambique-5-meticais-1986.jpg
+  tras: https://i.ucoin.net/coin/4/114/4114475-2s/mozambique-5-meticais-1986.jpg
+
+mozambique-5-meticais-1994:
+  frente: https://i.ucoin.net/coin/76/118/76118144-1s/mozambique-5-meticais-1994.jpg
+  tras: https://i.ucoin.net/coin/76/118/76118144-2s/mozambique-5-meticais-1994.jpg
+
+mozambique-5-meticais-2006:
+  frente: https://i.ucoin.net/coin/28/106/28106288-1s/mozambique-5-meticais-2006.jpg
+  tras: https://i.ucoin.net/coin/28/106/28106288-2s/mozambique-5-meticais-2006.jpg
+
+mozambique-5-meticais-2024:
+  frente: https://i.ucoin.net/coin/83/670/83670809-1s/mozambique-5-meticais-2024.jpg
+  tras: https://i.ucoin.net/coin/83/670/83670809-2s/mozambique-5-meticais-2024.jpg
+
+mozambique-50-centavos-1936:
+  frente: https://i.ucoin.net/coin/37/107/37107863-1s/mozambique-50-centavos-1936.jpg
+  tras: https://i.ucoin.net/coin/37/107/37107863-2s/mozambique-50-centavos-1936.jpg
+
+mozambique-50-centavos-1945:
+  frente: https://i.ucoin.net/coin/7/569/7569684-1s/mozambique-50-centavos-1945.jpg
+  tras: https://i.ucoin.net/coin/7/569/7569684-2s/mozambique-50-centavos-1945.jpg
+
+mozambique-50-centavos-1950:
+  frente: https://i.ucoin.net/coin/37/107/37107840-1s/mozambique-50-centavos-1950.jpg
+  tras: https://i.ucoin.net/coin/37/107/37107840-2s/mozambique-50-centavos-1950.jpg
+
+mozambique-50-centavos-1957:
+  frente: https://i.ucoin.net/coin/80/249/80249700-1s/mozambique-50-centavos-1957.jpg
+  tras: https://i.ucoin.net/coin/80/249/80249700-2s/mozambique-50-centavos-1957.jpg
+
+mozambique-50-centavos-1974:
+  frente: https://i.ucoin.net/coin/55/051/55051112-1s/mozambique-50-centavos-1974.jpg
+  tras: https://i.ucoin.net/coin/55/051/55051112-2s/mozambique-50-centavos-1974.jpg
+
+mozambique-50-centavos-1980:
+  frente: https://i.ucoin.net/coin/36/937/36937396-1s/mozambique-50-centavos-1980.jpg
+  tras: https://i.ucoin.net/coin/36/937/36937396-2s/mozambique-50-centavos-1980.jpg
+
+mozambique-50-centavos-2012:
+  frente: https://i.ucoin.net/coin/27/117/27117166-1s/mozambique-50-centavos-2012.jpg
+  tras: https://i.ucoin.net/coin/27/117/27117166-2s/mozambique-50-centavos-2012.jpg
+
+mozambique-50-centavos-2024:
+  frente: https://i.ucoin.net/coin/78/530/78530397-1s/mozambique-50-centavos-2024.jpg
+  tras: https://i.ucoin.net/coin/78/530/78530397-2s/mozambique-50-centavos-2024.jpg
+
+mozambique-50-centimos-1975:
+  frente: https://i.ucoin.net/coin/68/697/68697530-1s/mozambique-50-centimos-1975.jpg
+  tras: https://i.ucoin.net/coin/68/697/68697530-2s/mozambique-50-centimos-1975.jpg
+
+mozambique-50-meticais-1986:
+  frente: https://i.ucoin.net/coin/57/718/57718310-1s/mozambique-50-meticais-1986.jpg
+  tras: https://i.ucoin.net/coin/57/718/57718310-2s/mozambique-50-meticais-1986.jpg
+
+mozambique-50-meticais-1994:
+  frente: https://i.ucoin.net/coin/60/438/60438960-1s/mozambique-50-meticais-1994.jpg
+  tras: https://i.ucoin.net/coin/60/438/60438960-2s/mozambique-50-meticais-1994.jpg
+
+mozambique-500-meticais-1994:
+  frente: https://i.ucoin.net/coin/74/275/74275494-1s/mozambique-500-meticais-1994.jpg
+  tras: https://i.ucoin.net/coin/74/275/74275494-2s/mozambique-500-meticais-1994.jpg
+
+mozambique-5000-meticais-1998:
+  frente: https://i.ucoin.net/coin/57/719/57719448-1s/mozambique-5000-meticais-1998.jpg
+  tras: https://i.ucoin.net/coin/57/719/57719448-2s/mozambique-5000-meticais-1998.jpg
