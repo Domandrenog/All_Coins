@@ -1,0 +1,35 @@
+vietnam-1-dong-1976:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietnam/normal/frente/vietnam-1-dong-1976.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietnam/normal/tras/vietnam-1-dong-1976.jpg
+
+vietnam-1-hao-1976:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietnam/normal/frente/vietnam-1-hao-1976.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietnam/normal/tras/vietnam-1-hao-1976.jpg
+
+vietnam-1000-dong-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietnam/normal/frente/vietnam-1000-dong-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietnam/normal/tras/vietnam-1000-dong-2003.jpg
+
+vietnam-2-hao-1976:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietnam/normal/frente/vietnam-2-hao-1976.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietnam/normal/tras/vietnam-2-hao-1976.jpg
+
+vietnam-200-dong-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietnam/normal/frente/vietnam-200-dong-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietnam/normal/tras/vietnam-200-dong-2003.jpg
+
+vietnam-2000-dong-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietnam/normal/frente/vietnam-2000-dong-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietnam/normal/tras/vietnam-2000-dong-2003.jpg
+
+vietnam-5-hao-1976:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietnam/normal/frente/vietnam-5-hao-1976.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietnam/normal/tras/vietnam-5-hao-1976.jpg
+
+vietnam-500-dong-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietnam/normal/frente/vietnam-500-dong-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietnam/normal/tras/vietnam-500-dong-2003.jpg
+
+vietnam-5000-dong-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietnam/normal/frente/vietnam-5000-dong-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietnam/normal/tras/vietnam-5000-dong-2003.jpg

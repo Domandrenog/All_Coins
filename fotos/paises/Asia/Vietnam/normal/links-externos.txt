@@ -1,0 +1,35 @@
+vietnam-1-dong-1976:
+  frente: https://i.ucoin.net/coin/75/171/75171277-1s/vietnam-1-dong-1976.jpg
+  tras: https://i.ucoin.net/coin/75/171/75171277-2s/vietnam-1-dong-1976.jpg
+
+vietnam-1-hao-1976:
+  frente: https://i.ucoin.net/coin/58/929/58929340-1s/vietnam-1-hao-1976.jpg
+  tras: https://i.ucoin.net/coin/58/929/58929340-2s/vietnam-1-hao-1976.jpg
+
+vietnam-1000-dong-2003:
+  frente: https://i.ucoin.net/coin/37/880/37880340-1s/vietnam-1000-dong-2003.jpg
+  tras: https://i.ucoin.net/coin/37/880/37880340-2s/vietnam-1000-dong-2003.jpg
+
+vietnam-2-hao-1976:
+  frente: https://i.ucoin.net/coin/77/160/77160566-1s/vietnam-2-hao-1976.jpg
+  tras: https://i.ucoin.net/coin/77/160/77160566-2s/vietnam-2-hao-1976.jpg
+
+vietnam-200-dong-2003:
+  frente: https://i.ucoin.net/coin/37/880/37880330-1s/vietnam-200-dong-2003.jpg
+  tras: https://i.ucoin.net/coin/37/880/37880330-2s/vietnam-200-dong-2003.jpg
+
+vietnam-2000-dong-2003:
+  frente: https://i.ucoin.net/coin/37/880/37880344-1s/vietnam-2000-dong-2003.jpg
+  tras: https://i.ucoin.net/coin/37/880/37880344-2s/vietnam-2000-dong-2003.jpg
+
+vietnam-5-hao-1976:
+  frente: https://i.ucoin.net/coin/73/878/73878374-1s/vietnam-5-hao-1976.jpg
+  tras: https://i.ucoin.net/coin/73/878/73878374-2s/vietnam-5-hao-1976.jpg
+
+vietnam-500-dong-2003:
+  frente: https://i.ucoin.net/coin/37/880/37880334-1s/vietnam-500-dong-2003.jpg
+  tras: https://i.ucoin.net/coin/37/880/37880334-2s/vietnam-500-dong-2003.jpg
+
+vietnam-5000-dong-2003:
+  frente: https://i.ucoin.net/coin/37/880/37880350-1s/vietnam-5000-dong-2003.jpg
+  tras: https://i.ucoin.net/coin/37/880/37880350-2s/vietnam-5000-dong-2003.jpg
