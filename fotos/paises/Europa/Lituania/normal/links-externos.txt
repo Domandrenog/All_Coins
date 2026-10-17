@@ -1,0 +1,91 @@
+lithuania-1-centas-1991:
+  frente: https://i.ucoin.net/coin/65/507/65507648-1s/lithuania-1-centas-1991.jpg
+  tras: https://i.ucoin.net/coin/65/507/65507648-2s/lithuania-1-centas-1991.jpg
+
+lithuania-1-euro-2015:
+  frente: https://i.ucoin.net/coin/46/899/46899547-1s/lithuania-1-euro-2015.jpg
+  tras: https://i.ucoin.net/coin/46/899/46899547-2s/lithuania-1-euro-2015.jpg
+
+lithuania-1-euro-cent-2015:
+  frente: https://i.ucoin.net/coin/46/899/46899528-1s/lithuania-1-euro-cent-2015.jpg
+  tras: https://i.ucoin.net/coin/46/899/46899528-2s/lithuania-1-euro-cent-2015.jpg
+
+lithuania-1-litas-1991:
+  frente: https://i.ucoin.net/coin/27/051/27051249-1s/lithuania-1-litas-1991.jpg
+  tras: https://i.ucoin.net/coin/27/051/27051249-2s/lithuania-1-litas-1991.jpg
+
+lithuania-1-litas-2008:
+  frente: https://i.ucoin.net/coin/45/850/45850816-1s/lithuania-1-litas-2008.jpg
+  tras: https://i.ucoin.net/coin/45/850/45850816-2s/lithuania-1-litas-2008.jpg
+
+lithuania-10-centas-1991:
+  frente: https://i.ucoin.net/coin/45/850/45850598-1s/lithuania-10-centas-1991.jpg
+  tras: https://i.ucoin.net/coin/45/850/45850598-2s/lithuania-10-centas-1991.jpg
+
+lithuania-10-centas-2008:
+  frente: https://i.ucoin.net/coin/62/464/62464102-1s/lithuania-10-centas-2008.jpg
+  tras: https://i.ucoin.net/coin/62/464/62464102-2s/lithuania-10-centas-2008.jpg
+
+lithuania-10-euro-cent-2017:
+  frente: https://i.ucoin.net/coin/58/582/58582240-1s/lithuania-10-euro-cent-2017.jpg
+  tras: https://i.ucoin.net/coin/58/582/58582240-2s/lithuania-10-euro-cent-2017.jpg
+
+lithuania-2-centas-1991:
+  frente: https://i.ucoin.net/coin/51/667/51667898-1s/lithuania-2-centas-1991.jpg
+  tras: https://i.ucoin.net/coin/51/667/51667898-2s/lithuania-2-centas-1991.jpg
+
+lithuania-2-euro-2015:
+  frente: https://i.ucoin.net/coin/50/418/50418317-1s/lithuania-2-euro-2015.jpg
+  tras: https://i.ucoin.net/coin/50/418/50418317-2s/lithuania-2-euro-2015.jpg
+
+lithuania-2-euro-cent-2022:
+  frente: https://i.ucoin.net/coin/58/582/58582194-1s/lithuania-2-euro-cent-2022.jpg
+  tras: https://i.ucoin.net/coin/58/582/58582194-2s/lithuania-2-euro-cent-2022.jpg
+
+lithuania-2-litas-1991:
+  frente: https://i.ucoin.net/coin/6/367/6367593-1s/lithuania-2-litas-1991.jpg
+  tras: https://i.ucoin.net/coin/6/367/6367593-2s/lithuania-2-litas-1991.jpg
+
+lithuania-2-litas-2008:
+  frente: https://i.ucoin.net/coin/14/688/14688982-1s/lithuania-2-litas-2008.jpg
+  tras: https://i.ucoin.net/coin/14/688/14688982-2s/lithuania-2-litas-2008.jpg
+
+lithuania-20-centas-1991:
+  frente: https://i.ucoin.net/coin/65/507/65507763-1s/lithuania-20-centas-1991.jpg
+  tras: https://i.ucoin.net/coin/65/507/65507763-2s/lithuania-20-centas-1991.jpg
+
+lithuania-20-centas-2007:
+  frente: https://i.ucoin.net/coin/0/5/5358-1s/lithuania-20-centas-2007.jpg
+  tras: https://i.ucoin.net/coin/0/5/5358-2s/lithuania-20-centas-2007.jpg
+
+lithuania-20-euro-cent-2015:
+  frente: https://i.ucoin.net/coin/46/899/46899538-1s/lithuania-20-euro-cent-2015.jpg
+  tras: https://i.ucoin.net/coin/46/899/46899538-2s/lithuania-20-euro-cent-2015.jpg
+
+lithuania-5-centas-1991:
+  frente: https://i.ucoin.net/coin/45/850/45850588-1s/lithuania-5-centas-1991.jpg
+  tras: https://i.ucoin.net/coin/45/850/45850588-2s/lithuania-5-centas-1991.jpg
+
+lithuania-5-euro-cent-2015:
+  frente: https://i.ucoin.net/coin/46/899/46899533-1s/lithuania-5-euro-cent-2015.jpg
+  tras: https://i.ucoin.net/coin/46/899/46899533-2s/lithuania-5-euro-cent-2015.jpg
+
+lithuania-5-litas-1991:
+  frente: https://i.ucoin.net/coin/63/831/63831553-1s/lithuania-5-litas-1991.jpg
+  tras: https://i.ucoin.net/coin/63/831/63831553-2s/lithuania-5-litas-1991.jpg
+
+lithuania-5-litas-1999:
+  frente: https://i.ucoin.net/coin/54/089/54089679-1s/lithuania-5-litas-1999.jpg
+  tras: https://i.ucoin.net/coin/54/089/54089679-2s/lithuania-5-litas-1999.jpg
+
+lithuania-50-centas-1991:
+  frente: https://i.ucoin.net/coin/45/850/45850619-1s/lithuania-50-centas-1991.jpg
+  tras: https://i.ucoin.net/coin/45/850/45850619-2s/lithuania-50-centas-1991.jpg
+
+lithuania-50-centas-2000:
+  frente: https://i.ucoin.net/coin/45/850/45850760-1s/lithuania-50-centas-2000.jpg
+  tras: https://i.ucoin.net/coin/45/850/45850760-2s/lithuania-50-centas-2000.jpg
+
+lithuania-50-euro-cent-2019:
+  frente: https://i.ucoin.net/coin/46/899/46899542-1s/lithuania-50-euro-cent-2019.jpg
+  tras: https://i.ucoin.net/coin/46/899/46899542-2s/lithuania-50-euro-cent-2019.jpg

@@ -1,0 +1,91 @@
+lithuania-1-centas-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/frente/lithuania-1-centas-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/tras/lithuania-1-centas-1991.jpg
+
+lithuania-1-euro-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/frente/lithuania-1-euro-2015.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/tras/lithuania-1-euro-2015.jpg
+
+lithuania-1-euro-cent-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/frente/lithuania-1-euro-cent-2015.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/tras/lithuania-1-euro-cent-2015.jpg
+
+lithuania-1-litas-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/frente/lithuania-1-litas-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/tras/lithuania-1-litas-1991.jpg
+
+lithuania-1-litas-2008:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/frente/lithuania-1-litas-2008.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/tras/lithuania-1-litas-2008.jpg
+
+lithuania-10-centas-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/frente/lithuania-10-centas-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/tras/lithuania-10-centas-1991.jpg
+
+lithuania-10-centas-2008:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/frente/lithuania-10-centas-2008.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/tras/lithuania-10-centas-2008.jpg
+
+lithuania-10-euro-cent-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/frente/lithuania-10-euro-cent-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/tras/lithuania-10-euro-cent-2017.jpg
+
+lithuania-2-centas-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/frente/lithuania-2-centas-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/tras/lithuania-2-centas-1991.jpg
+
+lithuania-2-euro-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/frente/lithuania-2-euro-2015.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/tras/lithuania-2-euro-2015.jpg
+
+lithuania-2-euro-cent-2022:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/frente/lithuania-2-euro-cent-2022.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/tras/lithuania-2-euro-cent-2022.jpg
+
+lithuania-2-litas-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/frente/lithuania-2-litas-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/tras/lithuania-2-litas-1991.jpg
+
+lithuania-2-litas-2008:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/frente/lithuania-2-litas-2008.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/tras/lithuania-2-litas-2008.jpg
+
+lithuania-20-centas-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/frente/lithuania-20-centas-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/tras/lithuania-20-centas-1991.jpg
+
+lithuania-20-centas-2007:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/frente/lithuania-20-centas-2007.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/tras/lithuania-20-centas-2007.jpg
+
+lithuania-20-euro-cent-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/frente/lithuania-20-euro-cent-2015.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/tras/lithuania-20-euro-cent-2015.jpg
+
+lithuania-5-centas-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/frente/lithuania-5-centas-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/tras/lithuania-5-centas-1991.jpg
+
+lithuania-5-euro-cent-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/frente/lithuania-5-euro-cent-2015.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/tras/lithuania-5-euro-cent-2015.jpg
+
+lithuania-5-litas-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/frente/lithuania-5-litas-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/tras/lithuania-5-litas-1991.jpg
+
+lithuania-5-litas-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/frente/lithuania-5-litas-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/tras/lithuania-5-litas-1999.jpg
+
+lithuania-50-centas-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/frente/lithuania-50-centas-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/tras/lithuania-50-centas-1991.jpg
+
+lithuania-50-centas-2000:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/frente/lithuania-50-centas-2000.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/tras/lithuania-50-centas-2000.jpg
+
+lithuania-50-euro-cent-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/frente/lithuania-50-euro-cent-2019.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Lituania/normal/tras/lithuania-50-euro-cent-2019.jpg
