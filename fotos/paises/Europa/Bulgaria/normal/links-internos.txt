@@ -1,0 +1,211 @@
+bulgaria-1-euro-2026:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-1-euro-2026.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-1-euro-2026.jpg
+
+bulgaria-1-euro-cent-2026:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-1-euro-cent-2026.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-1-euro-cent-2026.jpg
+
+bulgaria-1-lev-1960:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-1-lev-1960.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-1-lev-1960.jpg
+
+bulgaria-1-lev-1962:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-1-lev-1962.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-1-lev-1962.jpg
+
+bulgaria-1-lev-1990:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-1-lev-1990.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-1-lev-1990.jpg
+
+bulgaria-1-lev-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-1-lev-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-1-lev-1992.jpg
+
+bulgaria-1-lev-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-1-lev-2002.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-1-lev-2002.jpg
+
+bulgaria-1-stotinka-1951:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-1-stotinka-1951.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-1-stotinka-1951.jpg
+
+bulgaria-1-stotinka-1962:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-1-stotinka-1962.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-1-stotinka-1962.jpg
+
+bulgaria-1-stotinka-1990:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-1-stotinka-1990.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-1-stotinka-1990.jpg
+
+bulgaria-1-stotinka-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-1-stotinka-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-1-stotinka-1999.jpg
+
+bulgaria-1-stotinka-2000:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-1-stotinka-2000.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-1-stotinka-2000.jpg
+
+bulgaria-10-euro-cent-2026:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-10-euro-cent-2026.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-10-euro-cent-2026.jpg
+
+bulgaria-10-leva-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-10-leva-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-10-leva-1992.jpg
+
+bulgaria-10-leva-1997:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-10-leva-1997.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-10-leva-1997.jpg
+
+bulgaria-10-stotinki-1951:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-10-stotinki-1951.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-10-stotinki-1951.jpg
+
+bulgaria-10-stotinki-1962:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-10-stotinki-1962.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-10-stotinki-1962.jpg
+
+bulgaria-10-stotinki-1990:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-10-stotinki-1990.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-10-stotinki-1990.jpg
+
+bulgaria-10-stotinki-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-10-stotinki-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-10-stotinki-1992.jpg
+
+bulgaria-10-stotinki-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-10-stotinki-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-10-stotinki-1999.jpg
+
+bulgaria-2-euro-2026:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-2-euro-2026.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-2-euro-2026.jpg
+
+bulgaria-2-euro-cent-2026:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-2-euro-cent-2026.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-2-euro-cent-2026.jpg
+
+bulgaria-2-leva-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-2-leva-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-2-leva-1992.jpg
+
+bulgaria-2-leva-2015:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-2-leva-2015.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-2-leva-2015.jpg
+
+bulgaria-2-stotinki-1962:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-2-stotinki-1962.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-2-stotinki-1962.jpg
+
+bulgaria-2-stotinki-1989:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-2-stotinki-1989.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-2-stotinki-1989.jpg
+
+bulgaria-2-stotinki-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-2-stotinki-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-2-stotinki-1999.jpg
+
+bulgaria-2-stotinki-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-2-stotinki-2002.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-2-stotinki-2002.jpg
+
+bulgaria-20-euro-cent-2026:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-20-euro-cent-2026.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-20-euro-cent-2026.jpg
+
+bulgaria-20-leva-1989:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-20-leva-1989.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-20-leva-1989.jpg
+
+bulgaria-20-leva-1997:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-20-leva-1997.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-20-leva-1997.jpg
+
+bulgaria-20-stotinki-1954:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-20-stotinki-1954.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-20-stotinki-1954.jpg
+
+bulgaria-20-stotinki-1962:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-20-stotinki-1962.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-20-stotinki-1962.jpg
+
+bulgaria-20-stotinki-1974:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-20-stotinki-1974.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-20-stotinki-1974.jpg
+
+bulgaria-20-stotinki-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-20-stotinki-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-20-stotinki-1992.jpg
+
+bulgaria-20-stotinki-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-20-stotinki-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-20-stotinki-1999.jpg
+
+bulgaria-25-stotinki-1951:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-25-stotinki-1951.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-25-stotinki-1951.jpg
+
+bulgaria-3-stotinki-1951:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-3-stotinki-1951.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-3-stotinki-1951.jpg
+
+bulgaria-5-euro-cent-2026:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-5-euro-cent-2026.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-5-euro-cent-2026.jpg
+
+bulgaria-5-leva-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-5-leva-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-5-leva-1992.jpg
+
+bulgaria-5-stotinki-1951:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-5-stotinki-1951.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-5-stotinki-1951.jpg
+
+bulgaria-5-stotinki-1962:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-5-stotinki-1962.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-5-stotinki-1962.jpg
+
+bulgaria-5-stotinki-1990:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-5-stotinki-1990.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-5-stotinki-1990.jpg
+
+bulgaria-5-stotinki-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-5-stotinki-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-5-stotinki-1999.jpg
+
+bulgaria-5-stotinki-2000:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-5-stotinki-2000.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-5-stotinki-2000.jpg
+
+bulgaria-50-euro-cent-2026:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-50-euro-cent-2026.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-50-euro-cent-2026.jpg
+
+bulgaria-50-leva-1989:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-50-leva-1989.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-50-leva-1989.jpg
+
+bulgaria-50-leva-1997:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-50-leva-1997.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-50-leva-1997.jpg
+
+bulgaria-50-stotinki-1959:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-50-stotinki-1959.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-50-stotinki-1959.jpg
+
+bulgaria-50-stotinki-1962:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-50-stotinki-1962.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-50-stotinki-1962.jpg
+
+bulgaria-50-stotinki-1988:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-50-stotinki-1988.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-50-stotinki-1988.jpg
+
+bulgaria-50-stotinki-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-50-stotinki-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-50-stotinki-1992.jpg
+
+bulgaria-50-stotinki-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/frente/bulgaria-50-stotinki-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Bulgaria/normal/tras/bulgaria-50-stotinki-1999.jpg
