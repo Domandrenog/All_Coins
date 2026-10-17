@@ -1,0 +1,575 @@
+azores-10-reis-1843:
+  frente: https://i.ucoin.net/coin/29/760/29760135-1s/azores-10-reis-1843.jpg
+  tras: https://i.ucoin.net/coin/29/760/29760135-2s/azores-10-reis-1843.jpg
+
+azores-10-reis-1865:
+  frente: https://i.ucoin.net/coin/29/759/29759573-1s/azores-10-reis-1865.jpg
+  tras: https://i.ucoin.net/coin/29/759/29759573-2s/azores-10-reis-1865.jpg
+
+azores-10-reis-1901:
+  frente: https://i.ucoin.net/coin/78/008/78008197-1s/azores-10-reis-1901.jpg
+  tras: https://i.ucoin.net/coin/78/008/78008197-2s/azores-10-reis-1901.jpg
+
+azores-100-escudos-1981:
+  frente: https://i.ucoin.net/coin/73/858/73858315-1s/azores-100-escudos-1981.jpg
+  tras: https://i.ucoin.net/coin/73/858/73858315-2s/azores-100-escudos-1981.jpg
+
+azores-100-escudos-1986:
+  frente: https://i.ucoin.net/coin/80/664/80664376-1s/azores-100-escudos-1986.jpg
+  tras: https://i.ucoin.net/coin/80/664/80664376-2s/azores-100-escudos-1986.jpg
+
+azores-100-escudos-1991:
+  frente: https://i.ucoin.net/coin/63/995/63995001-1s/azores-100-escudos-1991.jpg
+  tras: https://i.ucoin.net/coin/63/995/63995001-2s/azores-100-escudos-1991.jpg
+
+azores-100-escudos-1995:
+  frente: https://i.ucoin.net/coin/23/647/23647117-1s/azores-100-escudos-1995.jpg
+  tras: https://i.ucoin.net/coin/23/647/23647117-2s/azores-100-escudos-1995.jpg
+
+azores-20-reis-1843:
+  frente: https://i.ucoin.net/coin/29/760/29760210-1s/azores-20-reis-1843.jpg
+  tras: https://i.ucoin.net/coin/29/760/29760210-2s/azores-20-reis-1843.jpg
+
+azores-20-reis-1865:
+  frente: https://i.ucoin.net/coin/29/759/29759669-1s/azores-20-reis-1865.jpg
+  tras: https://i.ucoin.net/coin/29/759/29759669-2s/azores-20-reis-1865.jpg
+
+azores-25-escudos-1981:
+  frente: https://i.ucoin.net/coin/73/858/73858196-1s/azores-25-escudos-1981.jpg
+  tras: https://i.ucoin.net/coin/73/858/73858196-2s/azores-25-escudos-1981.jpg
+
+azores-5-reis-1843:
+  frente: https://i.ucoin.net/coin/29/760/29760005-1s/azores-5-reis-1843.jpg
+  tras: https://i.ucoin.net/coin/29/760/29760005-2s/azores-5-reis-1843.jpg
+
+azores-5-reis-1865:
+  frente: https://i.ucoin.net/coin/29/760/29760069-1s/azores-5-reis-1865.jpg
+  tras: https://i.ucoin.net/coin/29/760/29760069-2s/azores-5-reis-1865.jpg
+
+azores-5-reis-1901:
+  frente: https://i.ucoin.net/coin/78/008/78008211-1s/azores-5-reis-1901.jpg
+  tras: https://i.ucoin.net/coin/78/008/78008211-2s/azores-5-reis-1901.jpg
+
+madeira-islands-10-reis-1842:
+  frente: https://i.ucoin.net/coin/67/337/67337424-1s/madeira_islands-10-reis-1842.jpg
+  tras: https://i.ucoin.net/coin/67/337/67337424-2s/madeira_islands-10-reis-1842.jpg
+
+madeira-islands-100-escudos-1981:
+  frente: https://i.ucoin.net/coin/77/897/77897089-1s/madeira_islands-100-escudos-1981.jpg
+  tras: https://i.ucoin.net/coin/77/897/77897089-2s/madeira_islands-100-escudos-1981.jpg
+
+madeira-islands-20-reis-1842:
+  frente: https://i.ucoin.net/coin/84/475/84475746-1s/madeira_islands-20-reis-1842.jpg
+  tras: https://i.ucoin.net/coin/84/475/84475746-2s/madeira_islands-20-reis-1842.jpg
+
+madeira-islands-25-escudos-1981:
+  frente: https://i.ucoin.net/coin/77/855/77855257-1s/madeira_islands-25-escudos-1981.jpg
+  tras: https://i.ucoin.net/coin/77/855/77855257-2s/madeira_islands-25-escudos-1981.jpg
+
+madeira-islands-5-reis-1850:
+  frente: https://i.ucoin.net/coin/67/337/67337442-1s/madeira_islands-5-reis-1850.jpg
+  tras: https://i.ucoin.net/coin/67/337/67337442-2s/madeira_islands-5-reis-1850.jpg
+
+portugal-1-centavo-1918:
+  frente: https://i.ucoin.net/coin/21/134/21134086-1s/portugal-1-centavo-1918.jpg
+  tras: https://i.ucoin.net/coin/21/134/21134086-2s/portugal-1-centavo-1918.jpg
+
+portugal-1-escudo-1916:
+  frente: https://i.ucoin.net/coin/5/905/5905086-1s/portugal-1-escudo-1916.jpg
+  tras: https://i.ucoin.net/coin/5/905/5905086-2s/portugal-1-escudo-1916.jpg
+
+portugal-1-escudo-1924:
+  frente: https://i.ucoin.net/coin/35/858/35858071-1s/portugal-1-escudo-1924.jpg
+  tras: https://i.ucoin.net/coin/35/858/35858071-2s/portugal-1-escudo-1924.jpg
+
+portugal-1-escudo-1957:
+  frente: https://i.ucoin.net/coin/2/408/2408657-1s/portugal-1-escudo-1957.jpg
+  tras: https://i.ucoin.net/coin/2/408/2408657-2s/portugal-1-escudo-1957.jpg
+
+portugal-1-escudo-1976:
+  frente: https://i.ucoin.net/coin/55/568/55568668-1s/portugal-1-escudo-1976.jpg
+  tras: https://i.ucoin.net/coin/55/568/55568668-2s/portugal-1-escudo-1976.jpg
+
+portugal-1-escudo-1982:
+  frente: https://i.ucoin.net/coin/55/591/55591821-1s/portugal-1-escudo-1982.jpg
+  tras: https://i.ucoin.net/coin/55/591/55591821-2s/portugal-1-escudo-1982.jpg
+
+portugal-1-escudo-2000:
+  frente: https://i.ucoin.net/coin/58/585/58585639-1s/portugal-1-escudo-2000.jpg
+  tras: https://i.ucoin.net/coin/58/585/58585639-2s/portugal-1-escudo-2000.jpg
+
+portugal-1-euro-2004:
+  frente: https://i.ucoin.net/coin/55/029/55029925-1s/portugal-1-euro-2004.jpg
+  tras: https://i.ucoin.net/coin/55/029/55029925-2s/portugal-1-euro-2004.jpg
+
+portugal-1-euro-2009:
+  frente: https://i.ucoin.net/coin/72/709/72709948-1s/portugal-1-euro-2009.jpg
+  tras: https://i.ucoin.net/coin/72/709/72709948-2s/portugal-1-euro-2009.jpg
+
+portugal-1-euro-cent-2012:
+  frente: https://i.ucoin.net/coin/55/471/55471176-1s/portugal-1-euro-cent-2012.jpg
+  tras: https://i.ucoin.net/coin/55/471/55471176-2s/portugal-1-euro-cent-2012.jpg
+
+portugal-10-centavos-1915:
+  frente: https://i.ucoin.net/coin/35/723/35723173-1s/portugal-10-centavos-1915.jpg
+  tras: https://i.ucoin.net/coin/35/723/35723173-2s/portugal-10-centavos-1915.jpg
+
+portugal-10-centavos-1920:
+  frente: https://i.ucoin.net/coin/35/723/35723394-1s/portugal-10-centavos-1920.jpg
+  tras: https://i.ucoin.net/coin/35/723/35723394-2s/portugal-10-centavos-1920.jpg
+
+portugal-10-centavos-1924:
+  frente: https://i.ucoin.net/coin/58/416/58416337-1s/portugal-10-centavos-1924.jpg
+  tras: https://i.ucoin.net/coin/58/416/58416337-2s/portugal-10-centavos-1924.jpg
+
+portugal-10-centavos-1964:
+  frente: https://i.ucoin.net/coin/48/481/48481760-1s/portugal-10-centavos-1964.jpg
+  tras: https://i.ucoin.net/coin/48/481/48481760-2s/portugal-10-centavos-1964.jpg
+
+portugal-10-centavos-1971:
+  frente: https://i.ucoin.net/coin/28/945/28945745-1s/portugal-10-centavos-1971.jpg
+  tras: https://i.ucoin.net/coin/28/945/28945745-2s/portugal-10-centavos-1971.jpg
+
+portugal-10-escudos-1948:
+  frente: https://i.ucoin.net/coin/61/136/61136179-1s/portugal-10-escudos-1948.jpg
+  tras: https://i.ucoin.net/coin/61/136/61136179-2s/portugal-10-escudos-1948.jpg
+
+portugal-10-escudos-1954:
+  frente: https://i.ucoin.net/coin/2/018/2018672-1s/portugal-10-escudos-1954.jpg
+  tras: https://i.ucoin.net/coin/2/018/2018672-2s/portugal-10-escudos-1954.jpg
+
+portugal-10-escudos-1974:
+  frente: https://i.ucoin.net/coin/55/582/55582340-1s/portugal-10-escudos-1974.jpg
+  tras: https://i.ucoin.net/coin/55/582/55582340-2s/portugal-10-escudos-1974.jpg
+
+portugal-10-escudos-1997:
+  frente: https://i.ucoin.net/coin/55/606/55606670-1s/portugal-10-escudos-1997.jpg
+  tras: https://i.ucoin.net/coin/55/606/55606670-2s/portugal-10-escudos-1997.jpg
+
+portugal-10-euro-cent-2002:
+  frente: https://i.ucoin.net/coin/55/567/55567971-1s/portugal-10-euro-cent-2002.jpg
+  tras: https://i.ucoin.net/coin/55/567/55567971-2s/portugal-10-euro-cent-2002.jpg
+
+portugal-10-euro-cent-2019:
+  frente: https://i.ucoin.net/coin/56/345/56345717-1s/portugal-10-euro-cent-2019.jpg
+  tras: https://i.ucoin.net/coin/56/345/56345717-2s/portugal-10-euro-cent-2019.jpg
+
+portugal-10-reis-1838-10-reis-1837-1839-reino-de-portugal:
+  frente: https://i.ucoin.net/coin/37/496/37496261-1s/portugal-10-reis-1838.jpg
+  tras: https://i.ucoin.net/coin/37/496/37496261-2s/portugal-10-reis-1838.jpg
+
+portugal-10-reis-1838-10-reis-1838-1839-reino-de-portugal:
+  frente: https://i.ucoin.net/coin/67/322/67322772-1s/portugal-10-reis-1838.jpg
+  tras: https://i.ucoin.net/coin/67/322/67322772-2s/portugal-10-reis-1838.jpg
+
+portugal-10-reis-1841:
+  frente: https://i.ucoin.net/coin/15/348/15348439-1s/portugal-10-reis-1841.jpg
+  tras: https://i.ucoin.net/coin/15/348/15348439-2s/portugal-10-reis-1841.jpg
+
+portugal-10-reis-1871:
+  frente: https://i.ucoin.net/coin/64/853/64853146-1s/portugal-10-reis-1871.jpg
+  tras: https://i.ucoin.net/coin/64/853/64853146-2s/portugal-10-reis-1871.jpg
+
+portugal-10-reis-1883:
+  frente: https://i.ucoin.net/coin/39/683/39683224-1s/portugal-10-reis-1883.jpg
+  tras: https://i.ucoin.net/coin/39/683/39683224-2s/portugal-10-reis-1883.jpg
+
+portugal-10-reis-1891:
+  frente: https://i.ucoin.net/coin/79/238/79238407-1s/portugal-10-reis-1891.jpg
+  tras: https://i.ucoin.net/coin/79/238/79238407-2s/portugal-10-reis-1891.jpg
+
+portugal-100-escudos-1998:
+  frente: https://i.ucoin.net/coin/72/662/72662422-1s/portugal-100-escudos-1998.jpg
+  tras: https://i.ucoin.net/coin/72/662/72662422-2s/portugal-100-escudos-1998.jpg
+
+portugal-100-reis-1843:
+  frente: https://i.ucoin.net/coin/67/755/67755841-1s/portugal-100-reis-1843.jpg
+  tras: https://i.ucoin.net/coin/67/755/67755841-2s/portugal-100-reis-1843.jpg
+
+portugal-100-reis-1851:
+  frente: https://i.ucoin.net/coin/71/945/71945602-1s/portugal-100-reis-1851.jpg
+  tras: https://i.ucoin.net/coin/71/945/71945602-2s/portugal-100-reis-1851.jpg
+
+portugal-100-reis-1853:
+  frente: https://i.ucoin.net/coin/67/088/67088341-1s/portugal-100-reis-1853.jpg
+  tras: https://i.ucoin.net/coin/67/088/67088341-2s/portugal-100-reis-1853.jpg
+
+portugal-100-reis-1854:
+  frente: https://i.ucoin.net/coin/66/336/66336884-1s/portugal-100-reis-1854.jpg
+  tras: https://i.ucoin.net/coin/66/336/66336884-2s/portugal-100-reis-1854.jpg
+
+portugal-100-reis-1861:
+  frente: https://i.ucoin.net/coin/81/336/81336469-1s/portugal-100-reis-1861.jpg
+  tras: https://i.ucoin.net/coin/81/336/81336469-2s/portugal-100-reis-1861.jpg
+
+portugal-100-reis-1877:
+  frente: https://i.ucoin.net/coin/81/486/81486567-1s/portugal-100-reis-1877.jpg
+  tras: https://i.ucoin.net/coin/81/486/81486567-2s/portugal-100-reis-1877.jpg
+
+portugal-100-reis-1891:
+  frente: https://i.ucoin.net/coin/65/517/65517717-1s/portugal-100-reis-1891.jpg
+  tras: https://i.ucoin.net/coin/65/517/65517717-2s/portugal-100-reis-1891.jpg
+
+portugal-100-reis-1900:
+  frente: https://i.ucoin.net/coin/78/614/78614938-1s/portugal-100-reis-1900.jpg
+  tras: https://i.ucoin.net/coin/78/614/78614938-2s/portugal-100-reis-1900.jpg
+
+portugal-100-reis-1910:
+  frente: https://i.ucoin.net/coin/35/991/35991572-1s/portugal-100-reis-1910.jpg
+  tras: https://i.ucoin.net/coin/35/991/35991572-2s/portugal-100-reis-1910.jpg
+
+portugal-1000-reis-1837:
+  frente: https://i.ucoin.net/coin/70/898/70898696-1s/portugal-1000-reis-1837.jpg
+  tras: https://i.ucoin.net/coin/70/898/70898696-2s/portugal-1000-reis-1837.jpg
+
+portugal-1000-reis-1851:
+  frente: https://i.ucoin.net/coin/78/572/78572909-1s/portugal-1000-reis-1851.jpg
+  tras: https://i.ucoin.net/coin/78/572/78572909-2s/portugal-1000-reis-1851.jpg
+
+portugal-1000-reis-1855:
+  frente: https://i.ucoin.net/coin/37/558/37558114-1s/portugal-1000-reis-1855.jpg
+  tras: https://i.ucoin.net/coin/37/558/37558114-2s/portugal-1000-reis-1855.jpg
+
+portugal-1000-reis-1899:
+  frente: https://i.ucoin.net/coin/36/091/36091388-1s/portugal-1000-reis-1899.jpg
+  tras: https://i.ucoin.net/coin/36/091/36091388-2s/portugal-1000-reis-1899.jpg
+
+portugal-10000-reis-1884:
+  frente: https://i.ucoin.net/coin/70/886/70886997-1s/portugal-10000-reis-1884.jpg
+  tras: https://i.ucoin.net/coin/70/886/70886997-2s/portugal-10000-reis-1884.jpg
+
+portugal-2-1-2-ecu-1991:
+  frente: https://i.ucoin.net/coin/81/550/81550534-1s/portugal-2-1-2-ecu-1991.jpg
+  tras: https://i.ucoin.net/coin/81/550/81550534-2s/portugal-2-1-2-ecu-1991.jpg
+
+portugal-2-1-2-ecu-1992:
+  frente: https://i.ucoin.net/coin/18/928/18928453-1s/portugal-2-1-2-ecu-1992.jpg
+  tras: https://i.ucoin.net/coin/18/928/18928453-2s/portugal-2-1-2-ecu-1992.jpg
+
+portugal-2-1-2-ecu-1993:
+  frente: https://i.ucoin.net/coin/64/545/64545992-1s/portugal-2-1-2-ecu-1993.jpg
+  tras: https://i.ucoin.net/coin/64/545/64545992-2s/portugal-2-1-2-ecu-1993.jpg
+
+portugal-2-1-2-ecu-1994:
+  frente: https://i.ucoin.net/coin/17/414/17414844-1s/portugal-2-1-2-ecu-1994.jpg
+  tras: https://i.ucoin.net/coin/17/414/17414844-2s/portugal-2-1-2-ecu-1994.jpg
+
+portugal-2-1-2-ecu-1995:
+  frente: https://i.ucoin.net/coin/69/794/69794336-1s/portugal-2-1-2-ecu-1995.jpg
+  tras: https://i.ucoin.net/coin/69/794/69794336-2s/portugal-2-1-2-ecu-1995.jpg
+
+portugal-2-1-2-ecu-1996:
+  frente: https://i.ucoin.net/coin/17/414/17414860-1s/portugal-2-1-2-ecu-1996.jpg
+  tras: https://i.ucoin.net/coin/17/414/17414860-2s/portugal-2-1-2-ecu-1996.jpg
+
+portugal-2-1-2-ecu-1997:
+  frente: https://i.ucoin.net/coin/20/493/20493685-1s/portugal-2-1-2-ecu-1997.jpg
+  tras: https://i.ucoin.net/coin/20/493/20493685-2s/portugal-2-1-2-ecu-1997.jpg
+
+portugal-2-1-2-ecu-1998:
+  frente: https://i.ucoin.net/coin/19/153/19153677-1s/portugal-2-1-2-ecu-1998.jpg
+  tras: https://i.ucoin.net/coin/19/153/19153677-2s/portugal-2-1-2-ecu-1998.jpg
+
+portugal-2-5-escudos-1944:
+  frente: https://i.ucoin.net/coin/5/846/5846099-1s/portugal-2,5-escudos-1944.jpg
+  tras: https://i.ucoin.net/coin/5/846/5846099-2s/portugal-2,5-escudos-1944.jpg
+
+portugal-2-5-escudos-1979:
+  frente: https://i.ucoin.net/coin/52/039/52039997-1s/portugal-2,5-escudos-1979.jpg
+  tras: https://i.ucoin.net/coin/52/039/52039997-2s/portugal-2,5-escudos-1979.jpg
+
+portugal-2-centavos-1918:
+  frente: https://i.ucoin.net/coin/37/902/37902050-1s/portugal-2-centavos-1918.jpg
+  tras: https://i.ucoin.net/coin/37/902/37902050-2s/portugal-2-centavos-1918.jpg
+
+portugal-2-centavos-1920:
+  frente: https://i.ucoin.net/coin/80/264/80264392-1s/portugal-2-centavos-1920.jpg
+  tras: https://i.ucoin.net/coin/80/264/80264392-2s/portugal-2-centavos-1920.jpg
+
+portugal-2-euro-2002:
+  frente: https://i.ucoin.net/coin/72/742/72742023-1s/portugal-2-euro-2002.jpg
+  tras: https://i.ucoin.net/coin/72/742/72742023-2s/portugal-2-euro-2002.jpg
+
+portugal-2-euro-2023:
+  frente: https://i.ucoin.net/coin/68/093/68093603-1s/portugal-2-euro-2023.jpg
+  tras: https://i.ucoin.net/coin/68/093/68093603-2s/portugal-2-euro-2023.jpg
+
+portugal-2-euro-cent-2006:
+  frente: https://i.ucoin.net/coin/55/471/55471288-1s/portugal-2-euro-cent-2006.jpg
+  tras: https://i.ucoin.net/coin/55/471/55471288-2s/portugal-2-euro-cent-2006.jpg
+
+portugal-20-centavos-1916:
+  frente: https://i.ucoin.net/coin/5/905/5905412-1s/portugal-20-centavos-1916.jpg
+  tras: https://i.ucoin.net/coin/5/905/5905412-2s/portugal-20-centavos-1916.jpg
+
+portugal-20-centavos-1922:
+  frente: https://i.ucoin.net/coin/72/879/72879525-1s/portugal-20-centavos-1922.jpg
+  tras: https://i.ucoin.net/coin/72/879/72879525-2s/portugal-20-centavos-1922.jpg
+
+portugal-20-centavos-1924:
+  frente: https://i.ucoin.net/coin/35/767/35767694-1s/portugal-20-centavos-1924.jpg
+  tras: https://i.ucoin.net/coin/35/767/35767694-2s/portugal-20-centavos-1924.jpg
+
+portugal-20-centavos-1964:
+  frente: https://i.ucoin.net/coin/48/481/48481963-1s/portugal-20-centavos-1964.jpg
+  tras: https://i.ucoin.net/coin/48/481/48481963-2s/portugal-20-centavos-1964.jpg
+
+portugal-20-centavos-1971:
+  frente: https://i.ucoin.net/coin/35/789/35789326-1s/portugal-20-centavos-1971.jpg
+  tras: https://i.ucoin.net/coin/35/789/35789326-2s/portugal-20-centavos-1971.jpg
+
+portugal-20-escudos-1999:
+  frente: https://i.ucoin.net/coin/55/608/55608324-1s/portugal-20-escudos-1999.jpg
+  tras: https://i.ucoin.net/coin/55/608/55608324-2s/portugal-20-escudos-1999.jpg
+
+portugal-20-euro-cent-2005:
+  frente: https://i.ucoin.net/coin/55/470/55470980-1s/portugal-20-euro-cent-2005.jpg
+  tras: https://i.ucoin.net/coin/55/470/55470980-2s/portugal-20-euro-cent-2005.jpg
+
+portugal-20-euro-cent-2009:
+  frente: https://i.ucoin.net/coin/55/471/55471323-1s/portugal-20-euro-cent-2009.jpg
+  tras: https://i.ucoin.net/coin/55/471/55471323-2s/portugal-20-euro-cent-2009.jpg
+
+portugal-20-reis-1847:
+  frente: https://i.ucoin.net/coin/10/217/10217525-1s/portugal-20-reis-1847.jpg
+  tras: https://i.ucoin.net/coin/10/217/10217525-2s/portugal-20-reis-1847.jpg
+
+portugal-20-reis-1874:
+  frente: https://i.ucoin.net/coin/18/549/18549566-1s/portugal-20-reis-1874.jpg
+  tras: https://i.ucoin.net/coin/18/549/18549566-2s/portugal-20-reis-1874.jpg
+
+portugal-20-reis-1883:
+  frente: https://i.ucoin.net/coin/77/634/77634057-1s/portugal-20-reis-1883.jpg
+  tras: https://i.ucoin.net/coin/77/634/77634057-2s/portugal-20-reis-1883.jpg
+
+portugal-20-reis-1891:
+  frente: https://i.ucoin.net/coin/73/210/73210916-1s/portugal-20-reis-1891.jpg
+  tras: https://i.ucoin.net/coin/73/210/73210916-2s/portugal-20-reis-1891.jpg
+
+portugal-200-escudos-2001:
+  frente: https://i.ucoin.net/coin/32/879/32879985-1s/portugal-200-escudos-2001.jpg
+  tras: https://i.ucoin.net/coin/32/879/32879985-2s/portugal-200-escudos-2001.jpg
+
+portugal-200-reis-1843:
+  frente: https://i.ucoin.net/coin/80/867/80867265-1s/portugal-200-reis-1843.jpg
+  tras: https://i.ucoin.net/coin/80/867/80867265-2s/portugal-200-reis-1843.jpg
+
+portugal-200-reis-1855:
+  frente: https://i.ucoin.net/coin/58/214/58214414-1s/portugal-200-reis-1855.jpg
+  tras: https://i.ucoin.net/coin/58/214/58214414-2s/portugal-200-reis-1855.jpg
+
+portugal-200-reis-1860:
+  frente: https://i.ucoin.net/coin/32/879/32879194-1s/portugal-200-reis-1860.jpg
+  tras: https://i.ucoin.net/coin/32/879/32879194-2s/portugal-200-reis-1860.jpg
+
+portugal-200-reis-1863:
+  frente: https://i.ucoin.net/coin/63/754/63754601-1s/portugal-200-reis-1863.jpg
+  tras: https://i.ucoin.net/coin/63/754/63754601-2s/portugal-200-reis-1863.jpg
+
+portugal-200-reis-1886:
+  frente: https://i.ucoin.net/coin/86/882/86882604-1s/portugal-200-reis-1886.jpg
+  tras: https://i.ucoin.net/coin/86/882/86882604-2s/portugal-200-reis-1886.jpg
+
+portugal-200-reis-1893:
+  frente: https://i.ucoin.net/coin/78/614/78614773-1s/portugal-200-reis-1893.jpg
+  tras: https://i.ucoin.net/coin/78/614/78614773-2s/portugal-200-reis-1893.jpg
+
+portugal-200-reis-1909:
+  frente: https://i.ucoin.net/coin/80/131/80131808-1s/portugal-200-reis-1909.jpg
+  tras: https://i.ucoin.net/coin/80/131/80131808-2s/portugal-200-reis-1909.jpg
+
+portugal-2000-reis-1856:
+  frente: https://i.ucoin.net/coin/70/895/70895138-1s/portugal-2000-reis-1856.jpg
+  tras: https://i.ucoin.net/coin/70/895/70895138-2s/portugal-2000-reis-1856.jpg
+
+portugal-2000-reis-1858:
+  frente: https://i.ucoin.net/coin/70/895/70895191-1s/portugal-2000-reis-1858.jpg
+  tras: https://i.ucoin.net/coin/70/895/70895191-2s/portugal-2000-reis-1858.jpg
+
+portugal-2000-reis-1865:
+  frente: https://i.ucoin.net/coin/81/793/81793696-1s/portugal-2000-reis-1865.jpg
+  tras: https://i.ucoin.net/coin/81/793/81793696-2s/portugal-2000-reis-1865.jpg
+
+portugal-2000-reis-1875:
+  frente: https://i.ucoin.net/coin/70/898/70898641-1s/portugal-2000-reis-1875.jpg
+  tras: https://i.ucoin.net/coin/70/898/70898641-2s/portugal-2000-reis-1875.jpg
+
+portugal-25-escudos-1978:
+  frente: https://i.ucoin.net/coin/25/933/25933422-1s/portugal-25-escudos-1978.jpg
+  tras: https://i.ucoin.net/coin/25/933/25933422-2s/portugal-25-escudos-1978.jpg
+
+portugal-25-escudos-1983:
+  frente: https://i.ucoin.net/coin/52/039/52039173-1s/portugal-25-escudos-1983.jpg
+  tras: https://i.ucoin.net/coin/52/039/52039173-2s/portugal-25-escudos-1983.jpg
+
+portugal-2500-reis-1838:
+  frente: https://i.ucoin.net/coin/70/895/70895103-1s/portugal-2500-reis-1838.jpg
+  tras: https://i.ucoin.net/coin/70/895/70895103-2s/portugal-2500-reis-1838.jpg
+
+portugal-2500-reis-1851:
+  frente: https://i.ucoin.net/coin/65/208/65208144-1s/portugal-2500-reis-1851.jpg
+  tras: https://i.ucoin.net/coin/65/208/65208144-2s/portugal-2500-reis-1851.jpg
+
+portugal-2500-reis-1853:
+  frente: https://i.ucoin.net/coin/70/895/70895108-1s/portugal-2500-reis-1853.jpg
+  tras: https://i.ucoin.net/coin/70/895/70895108-2s/portugal-2500-reis-1853.jpg
+
+portugal-3-reis-1868:
+  frente: https://i.ucoin.net/coin/57/061/57061537-1s/portugal-3-reis-1868.jpg
+  tras: https://i.ucoin.net/coin/57/061/57061537-2s/portugal-3-reis-1868.jpg
+
+portugal-4-centavos-1919:
+  frente: https://i.ucoin.net/coin/29/617/29617492-1s/portugal-4-centavos-1919.jpg
+  tras: https://i.ucoin.net/coin/29/617/29617492-2s/portugal-4-centavos-1919.jpg
+
+portugal-5-centavos-1921:
+  frente: https://i.ucoin.net/coin/84/220/84220216-1s/portugal-5-centavos-1921.jpg
+  tras: https://i.ucoin.net/coin/84/220/84220216-2s/portugal-5-centavos-1921.jpg
+
+portugal-5-centavos-1924:
+  frente: https://i.ucoin.net/coin/65/272/65272840-1s/portugal-5-centavos-1924.jpg
+  tras: https://i.ucoin.net/coin/65/272/65272840-2s/portugal-5-centavos-1924.jpg
+
+portugal-5-escudos-1932:
+  frente: https://i.ucoin.net/coin/5/904/5904680-1s/portugal-5-escudos-1932.jpg
+  tras: https://i.ucoin.net/coin/5/904/5904680-2s/portugal-5-escudos-1932.jpg
+
+portugal-5-escudos-1976:
+  frente: https://i.ucoin.net/coin/55/593/55593841-1s/portugal-5-escudos-1976.jpg
+  tras: https://i.ucoin.net/coin/55/593/55593841-2s/portugal-5-escudos-1976.jpg
+
+portugal-5-escudos-1999:
+  frente: https://i.ucoin.net/coin/32/957/32957446-1s/portugal-5-escudos-1999.jpg
+  tras: https://i.ucoin.net/coin/32/957/32957446-2s/portugal-5-escudos-1999.jpg
+
+portugal-5-euro-1996:
+  frente: https://i.ucoin.net/coin/32/814/32814362-1s/portugal-5-euro-1996.jpg
+  tras: https://i.ucoin.net/coin/32/814/32814362-2s/portugal-5-euro-1996.jpg
+
+portugal-5-euro-1997:
+  frente: https://i.ucoin.net/coin/24/574/24574958-1s/portugal-5-euro-1997.jpg
+  tras: https://i.ucoin.net/coin/24/574/24574958-2s/portugal-5-euro-1997.jpg
+
+portugal-5-euro-1998:
+  frente: https://i.ucoin.net/coin/32/817/32817154-1s/portugal-5-euro-1998.jpg
+  tras: https://i.ucoin.net/coin/32/817/32817154-2s/portugal-5-euro-1998.jpg
+
+portugal-5-euro-cent-2021:
+  frente: https://i.ucoin.net/coin/62/860/62860336-1s/portugal-5-euro-cent-2021.jpg
+  tras: https://i.ucoin.net/coin/62/860/62860336-2s/portugal-5-euro-cent-2021.jpg
+
+portugal-5-reis-1836:
+  frente: https://i.ucoin.net/coin/79/435/79435180-1s/portugal-5-reis-1836.jpg
+  tras: https://i.ucoin.net/coin/79/435/79435180-2s/portugal-5-reis-1836.jpg
+
+portugal-5-reis-1852:
+  frente: https://i.ucoin.net/coin/81/023/81023676-1s/portugal-5-reis-1852.jpg
+  tras: https://i.ucoin.net/coin/81/023/81023676-2s/portugal-5-reis-1852.jpg
+
+portugal-5-reis-1867:
+  frente: https://i.ucoin.net/coin/61/036/61036673-1s/portugal-5-reis-1867.jpg
+  tras: https://i.ucoin.net/coin/61/036/61036673-2s/portugal-5-reis-1867.jpg
+
+portugal-5-reis-1886:
+  frente: https://i.ucoin.net/coin/78/601/78601477-1s/portugal-5-reis-1886.jpg
+  tras: https://i.ucoin.net/coin/78/601/78601477-2s/portugal-5-reis-1886.jpg
+
+portugal-5-reis-1892:
+  frente: https://i.ucoin.net/coin/78/611/78611698-1s/portugal-5-reis-1892.jpg
+  tras: https://i.ucoin.net/coin/78/611/78611698-2s/portugal-5-reis-1892.jpg
+
+portugal-5-reis-1910:
+  frente: https://i.ucoin.net/coin/16/954/16954086-1s/portugal-5-reis-1910.jpg
+  tras: https://i.ucoin.net/coin/16/954/16954086-2s/portugal-5-reis-1910.jpg
+
+portugal-50-centavos-1913:
+  frente: https://i.ucoin.net/coin/5/905/5905200-1s/portugal-50-centavos-1913.jpg
+  tras: https://i.ucoin.net/coin/5/905/5905200-2s/portugal-50-centavos-1913.jpg
+
+portugal-50-centavos-1924:
+  frente: https://i.ucoin.net/coin/35/794/35794487-1s/portugal-50-centavos-1924.jpg
+  tras: https://i.ucoin.net/coin/35/794/35794487-2s/portugal-50-centavos-1924.jpg
+
+portugal-50-centavos-1962:
+  frente: https://i.ucoin.net/coin/22/983/22983398-1s/portugal-50-centavos-1962.jpg
+  tras: https://i.ucoin.net/coin/22/983/22983398-2s/portugal-50-centavos-1962.jpg
+
+portugal-50-centavos-1969:
+  frente: https://i.ucoin.net/coin/70/683/70683576-1s/portugal-50-centavos-1969.jpg
+  tras: https://i.ucoin.net/coin/70/683/70683576-2s/portugal-50-centavos-1969.jpg
+
+portugal-50-escudos-1987:
+  frente: https://i.ucoin.net/coin/32/918/32918991-1s/portugal-50-escudos-1987.jpg
+  tras: https://i.ucoin.net/coin/32/918/32918991-2s/portugal-50-escudos-1987.jpg
+
+portugal-50-euro-cent-2002:
+  frente: https://i.ucoin.net/coin/55/568/55568167-1s/portugal-50-euro-cent-2002.jpg
+  tras: https://i.ucoin.net/coin/55/568/55568167-2s/portugal-50-euro-cent-2002.jpg
+
+portugal-50-euro-cent-2010:
+  frente: https://i.ucoin.net/coin/0/152/152725-1s/portugal-50-euro-cent-2010.jpg
+  tras: https://i.ucoin.net/coin/0/152/152725-2s/portugal-50-euro-cent-2010.jpg
+
+portugal-50-reis-1861:
+  frente: https://i.ucoin.net/coin/39/143/39143488-1s/portugal-50-reis-1861.jpg
+  tras: https://i.ucoin.net/coin/39/143/39143488-2s/portugal-50-reis-1861.jpg
+
+portugal-50-reis-1886:
+  frente: https://i.ucoin.net/coin/83/748/83748476-1s/portugal-50-reis-1886.jpg
+  tras: https://i.ucoin.net/coin/83/748/83748476-2s/portugal-50-reis-1886.jpg
+
+portugal-50-reis-1893:
+  frente: https://i.ucoin.net/coin/36/052/36052923-1s/portugal-50-reis-1893.jpg
+  tras: https://i.ucoin.net/coin/36/052/36052923-2s/portugal-50-reis-1893.jpg
+
+portugal-50-reis-1900:
+  frente: https://i.ucoin.net/coin/78/626/78626521-1s/portugal-50-reis-1900.jpg
+  tras: https://i.ucoin.net/coin/78/626/78626521-2s/portugal-50-reis-1900.jpg
+
+portugal-500-reis-1841:
+  frente: https://i.ucoin.net/coin/71/511/71511381-1s/portugal-500-reis-1841.jpg
+  tras: https://i.ucoin.net/coin/71/511/71511381-2s/portugal-500-reis-1841.jpg
+
+portugal-500-reis-1854:
+  frente: https://i.ucoin.net/coin/24/569/24569997-1s/portugal-500-reis-1854.jpg
+  tras: https://i.ucoin.net/coin/24/569/24569997-2s/portugal-500-reis-1854.jpg
+
+portugal-500-reis-1855:
+  frente: https://i.ucoin.net/coin/69/577/69577728-1s/portugal-500-reis-1855.jpg
+  tras: https://i.ucoin.net/coin/69/577/69577728-2s/portugal-500-reis-1855.jpg
+
+portugal-500-reis-1858:
+  frente: https://i.ucoin.net/coin/39/722/39722026-1s/portugal-500-reis-1858.jpg
+  tras: https://i.ucoin.net/coin/39/722/39722026-2s/portugal-500-reis-1858.jpg
+
+portugal-500-reis-1871:
+  frente: https://i.ucoin.net/coin/77/576/77576197-1s/portugal-500-reis-1871.jpg
+  tras: https://i.ucoin.net/coin/77/576/77576197-2s/portugal-500-reis-1871.jpg
+
+portugal-500-reis-1892:
+  frente: https://i.ucoin.net/coin/25/153/25153395-1s/portugal-500-reis-1892.jpg
+  tras: https://i.ucoin.net/coin/25/153/25153395-2s/portugal-500-reis-1892.jpg
+
+portugal-500-reis-1909:
+  frente: https://i.ucoin.net/coin/80/685/80685282-1s/portugal-500-reis-1909.jpg
+  tras: https://i.ucoin.net/coin/80/685/80685282-2s/portugal-500-reis-1909.jpg
+
+portugal-5000-reis-1838:
+  frente: https://i.ucoin.net/coin/70/894/70894794-1s/portugal-5000-reis-1838.jpg
+  tras: https://i.ucoin.net/coin/70/894/70894794-2s/portugal-5000-reis-1838.jpg
+
+portugal-5000-reis-1851:
+  frente: https://i.ucoin.net/coin/70/894/70894797-1s/portugal-5000-reis-1851.jpg
+  tras: https://i.ucoin.net/coin/70/894/70894797-2s/portugal-5000-reis-1851.jpg
+
+portugal-5000-reis-1860:
+  frente: https://i.ucoin.net/coin/70/894/70894849-1s/portugal-5000-reis-1860.jpg
+  tras: https://i.ucoin.net/coin/70/894/70894849-2s/portugal-5000-reis-1860.jpg
+
+portugal-5000-reis-1862:
+  frente: https://i.ucoin.net/coin/70/894/70894851-1s/portugal-5000-reis-1862.jpg
+  tras: https://i.ucoin.net/coin/70/894/70894851-2s/portugal-5000-reis-1862.jpg
+
+portugal-5000-reis-1883:
+  frente: https://i.ucoin.net/coin/70/894/70894885-1s/portugal-5000-reis-1883.jpg
+  tras: https://i.ucoin.net/coin/70/894/70894885-2s/portugal-5000-reis-1883.jpg

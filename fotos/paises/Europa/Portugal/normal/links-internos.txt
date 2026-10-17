@@ -1,0 +1,575 @@
+azores-10-reis-1843:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/azores-10-reis-1843.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/azores-10-reis-1843.jpg
+
+azores-10-reis-1865:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/azores-10-reis-1865.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/azores-10-reis-1865.jpg
+
+azores-10-reis-1901:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/azores-10-reis-1901.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/azores-10-reis-1901.jpg
+
+azores-100-escudos-1981:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/azores-100-escudos-1981.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/azores-100-escudos-1981.jpg
+
+azores-100-escudos-1986:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/azores-100-escudos-1986.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/azores-100-escudos-1986.jpg
+
+azores-100-escudos-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/azores-100-escudos-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/azores-100-escudos-1991.jpg
+
+azores-100-escudos-1995:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/azores-100-escudos-1995.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/azores-100-escudos-1995.jpg
+
+azores-20-reis-1843:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/azores-20-reis-1843.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/azores-20-reis-1843.jpg
+
+azores-20-reis-1865:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/azores-20-reis-1865.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/azores-20-reis-1865.jpg
+
+azores-25-escudos-1981:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/azores-25-escudos-1981.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/azores-25-escudos-1981.jpg
+
+azores-5-reis-1843:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/azores-5-reis-1843.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/azores-5-reis-1843.jpg
+
+azores-5-reis-1865:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/azores-5-reis-1865.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/azores-5-reis-1865.jpg
+
+azores-5-reis-1901:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/azores-5-reis-1901.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/azores-5-reis-1901.jpg
+
+madeira-islands-10-reis-1842:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/madeira-islands-10-reis-1842.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/madeira-islands-10-reis-1842.jpg
+
+madeira-islands-100-escudos-1981:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/madeira-islands-100-escudos-1981.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/madeira-islands-100-escudos-1981.jpg
+
+madeira-islands-20-reis-1842:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/madeira-islands-20-reis-1842.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/madeira-islands-20-reis-1842.jpg
+
+madeira-islands-25-escudos-1981:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/madeira-islands-25-escudos-1981.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/madeira-islands-25-escudos-1981.jpg
+
+madeira-islands-5-reis-1850:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/madeira-islands-5-reis-1850.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/madeira-islands-5-reis-1850.jpg
+
+portugal-1-centavo-1918:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-1-centavo-1918.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-1-centavo-1918.jpg
+
+portugal-1-escudo-1916:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-1-escudo-1916.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-1-escudo-1916.jpg
+
+portugal-1-escudo-1924:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-1-escudo-1924.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-1-escudo-1924.jpg
+
+portugal-1-escudo-1957:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-1-escudo-1957.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-1-escudo-1957.jpg
+
+portugal-1-escudo-1976:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-1-escudo-1976.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-1-escudo-1976.jpg
+
+portugal-1-escudo-1982:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-1-escudo-1982.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-1-escudo-1982.jpg
+
+portugal-1-escudo-2000:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-1-escudo-2000.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-1-escudo-2000.jpg
+
+portugal-1-euro-2004:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-1-euro-2004.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-1-euro-2004.jpg
+
+portugal-1-euro-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-1-euro-2009.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-1-euro-2009.jpg
+
+portugal-1-euro-cent-2012:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-1-euro-cent-2012.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-1-euro-cent-2012.jpg
+
+portugal-10-centavos-1915:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-10-centavos-1915.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-10-centavos-1915.jpg
+
+portugal-10-centavos-1920:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-10-centavos-1920.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-10-centavos-1920.jpg
+
+portugal-10-centavos-1924:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-10-centavos-1924.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-10-centavos-1924.jpg
+
+portugal-10-centavos-1964:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-10-centavos-1964.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-10-centavos-1964.jpg
+
+portugal-10-centavos-1971:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-10-centavos-1971.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-10-centavos-1971.jpg
+
+portugal-10-escudos-1948:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-10-escudos-1948.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-10-escudos-1948.jpg
+
+portugal-10-escudos-1954:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-10-escudos-1954.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-10-escudos-1954.jpg
+
+portugal-10-escudos-1974:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-10-escudos-1974.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-10-escudos-1974.jpg
+
+portugal-10-escudos-1997:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-10-escudos-1997.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-10-escudos-1997.jpg
+
+portugal-10-euro-cent-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-10-euro-cent-2002.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-10-euro-cent-2002.jpg
+
+portugal-10-euro-cent-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-10-euro-cent-2019.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-10-euro-cent-2019.jpg
+
+portugal-10-reis-1838-10-reis-1837-1839-reino-de-portugal:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-10-reis-1838-10-reis-1837-1839-reino-de-portugal.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-10-reis-1838-10-reis-1837-1839-reino-de-portugal.jpg
+
+portugal-10-reis-1838-10-reis-1838-1839-reino-de-portugal:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-10-reis-1838-10-reis-1838-1839-reino-de-portugal.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-10-reis-1838-10-reis-1838-1839-reino-de-portugal.jpg
+
+portugal-10-reis-1841:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-10-reis-1841.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-10-reis-1841.jpg
+
+portugal-10-reis-1871:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-10-reis-1871.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-10-reis-1871.jpg
+
+portugal-10-reis-1883:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-10-reis-1883.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-10-reis-1883.jpg
+
+portugal-10-reis-1891:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-10-reis-1891.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-10-reis-1891.jpg
+
+portugal-100-escudos-1998:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-100-escudos-1998.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-100-escudos-1998.jpg
+
+portugal-100-reis-1843:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-100-reis-1843.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-100-reis-1843.jpg
+
+portugal-100-reis-1851:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-100-reis-1851.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-100-reis-1851.jpg
+
+portugal-100-reis-1853:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-100-reis-1853.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-100-reis-1853.jpg
+
+portugal-100-reis-1854:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-100-reis-1854.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-100-reis-1854.jpg
+
+portugal-100-reis-1861:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-100-reis-1861.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-100-reis-1861.jpg
+
+portugal-100-reis-1877:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-100-reis-1877.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-100-reis-1877.jpg
+
+portugal-100-reis-1891:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-100-reis-1891.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-100-reis-1891.jpg
+
+portugal-100-reis-1900:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-100-reis-1900.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-100-reis-1900.jpg
+
+portugal-100-reis-1910:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-100-reis-1910.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-100-reis-1910.jpg
+
+portugal-1000-reis-1837:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-1000-reis-1837.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-1000-reis-1837.jpg
+
+portugal-1000-reis-1851:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-1000-reis-1851.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-1000-reis-1851.jpg
+
+portugal-1000-reis-1855:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-1000-reis-1855.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-1000-reis-1855.jpg
+
+portugal-1000-reis-1899:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-1000-reis-1899.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-1000-reis-1899.jpg
+
+portugal-10000-reis-1884:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-10000-reis-1884.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-10000-reis-1884.jpg
+
+portugal-2-1-2-ecu-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-2-1-2-ecu-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-2-1-2-ecu-1991.jpg
+
+portugal-2-1-2-ecu-1992:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-2-1-2-ecu-1992.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-2-1-2-ecu-1992.jpg
+
+portugal-2-1-2-ecu-1993:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-2-1-2-ecu-1993.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-2-1-2-ecu-1993.jpg
+
+portugal-2-1-2-ecu-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-2-1-2-ecu-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-2-1-2-ecu-1994.jpg
+
+portugal-2-1-2-ecu-1995:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-2-1-2-ecu-1995.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-2-1-2-ecu-1995.jpg
+
+portugal-2-1-2-ecu-1996:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-2-1-2-ecu-1996.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-2-1-2-ecu-1996.jpg
+
+portugal-2-1-2-ecu-1997:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-2-1-2-ecu-1997.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-2-1-2-ecu-1997.jpg
+
+portugal-2-1-2-ecu-1998:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-2-1-2-ecu-1998.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-2-1-2-ecu-1998.jpg
+
+portugal-2-5-escudos-1944:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-2-5-escudos-1944.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-2-5-escudos-1944.jpg
+
+portugal-2-5-escudos-1979:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-2-5-escudos-1979.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-2-5-escudos-1979.jpg
+
+portugal-2-centavos-1918:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-2-centavos-1918.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-2-centavos-1918.jpg
+
+portugal-2-centavos-1920:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-2-centavos-1920.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-2-centavos-1920.jpg
+
+portugal-2-euro-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-2-euro-2002.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-2-euro-2002.jpg
+
+portugal-2-euro-2023:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-2-euro-2023.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-2-euro-2023.jpg
+
+portugal-2-euro-cent-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-2-euro-cent-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-2-euro-cent-2006.jpg
+
+portugal-20-centavos-1916:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-20-centavos-1916.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-20-centavos-1916.jpg
+
+portugal-20-centavos-1922:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-20-centavos-1922.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-20-centavos-1922.jpg
+
+portugal-20-centavos-1924:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-20-centavos-1924.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-20-centavos-1924.jpg
+
+portugal-20-centavos-1964:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-20-centavos-1964.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-20-centavos-1964.jpg
+
+portugal-20-centavos-1971:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-20-centavos-1971.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-20-centavos-1971.jpg
+
+portugal-20-escudos-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-20-escudos-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-20-escudos-1999.jpg
+
+portugal-20-euro-cent-2005:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-20-euro-cent-2005.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-20-euro-cent-2005.jpg
+
+portugal-20-euro-cent-2009:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-20-euro-cent-2009.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-20-euro-cent-2009.jpg
+
+portugal-20-reis-1847:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-20-reis-1847.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-20-reis-1847.jpg
+
+portugal-20-reis-1874:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-20-reis-1874.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-20-reis-1874.jpg
+
+portugal-20-reis-1883:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-20-reis-1883.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-20-reis-1883.jpg
+
+portugal-20-reis-1891:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-20-reis-1891.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-20-reis-1891.jpg
+
+portugal-200-escudos-2001:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-200-escudos-2001.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-200-escudos-2001.jpg
+
+portugal-200-reis-1843:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-200-reis-1843.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-200-reis-1843.jpg
+
+portugal-200-reis-1855:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-200-reis-1855.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-200-reis-1855.jpg
+
+portugal-200-reis-1860:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-200-reis-1860.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-200-reis-1860.jpg
+
+portugal-200-reis-1863:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-200-reis-1863.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-200-reis-1863.jpg
+
+portugal-200-reis-1886:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-200-reis-1886.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-200-reis-1886.jpg
+
+portugal-200-reis-1893:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-200-reis-1893.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-200-reis-1893.jpg
+
+portugal-200-reis-1909:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-200-reis-1909.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-200-reis-1909.jpg
+
+portugal-2000-reis-1856:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-2000-reis-1856.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-2000-reis-1856.jpg
+
+portugal-2000-reis-1858:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-2000-reis-1858.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-2000-reis-1858.jpg
+
+portugal-2000-reis-1865:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-2000-reis-1865.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-2000-reis-1865.jpg
+
+portugal-2000-reis-1875:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-2000-reis-1875.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-2000-reis-1875.jpg
+
+portugal-25-escudos-1978:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-25-escudos-1978.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-25-escudos-1978.jpg
+
+portugal-25-escudos-1983:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-25-escudos-1983.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-25-escudos-1983.jpg
+
+portugal-2500-reis-1838:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-2500-reis-1838.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-2500-reis-1838.jpg
+
+portugal-2500-reis-1851:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-2500-reis-1851.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-2500-reis-1851.jpg
+
+portugal-2500-reis-1853:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-2500-reis-1853.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-2500-reis-1853.jpg
+
+portugal-3-reis-1868:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-3-reis-1868.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-3-reis-1868.jpg
+
+portugal-4-centavos-1919:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-4-centavos-1919.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-4-centavos-1919.jpg
+
+portugal-5-centavos-1921:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-5-centavos-1921.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-5-centavos-1921.jpg
+
+portugal-5-centavos-1924:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-5-centavos-1924.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-5-centavos-1924.jpg
+
+portugal-5-escudos-1932:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-5-escudos-1932.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-5-escudos-1932.jpg
+
+portugal-5-escudos-1976:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-5-escudos-1976.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-5-escudos-1976.jpg
+
+portugal-5-escudos-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-5-escudos-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-5-escudos-1999.jpg
+
+portugal-5-euro-1996:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-5-euro-1996.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-5-euro-1996.jpg
+
+portugal-5-euro-1997:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-5-euro-1997.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-5-euro-1997.jpg
+
+portugal-5-euro-1998:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-5-euro-1998.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-5-euro-1998.jpg
+
+portugal-5-euro-cent-2021:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-5-euro-cent-2021.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-5-euro-cent-2021.jpg
+
+portugal-5-reis-1836:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-5-reis-1836.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-5-reis-1836.jpg
+
+portugal-5-reis-1852:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-5-reis-1852.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-5-reis-1852.jpg
+
+portugal-5-reis-1867:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-5-reis-1867.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-5-reis-1867.jpg
+
+portugal-5-reis-1886:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-5-reis-1886.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-5-reis-1886.jpg
+
+portugal-5-reis-1892:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-5-reis-1892.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-5-reis-1892.jpg
+
+portugal-5-reis-1910:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-5-reis-1910.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-5-reis-1910.jpg
+
+portugal-50-centavos-1913:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-50-centavos-1913.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-50-centavos-1913.jpg
+
+portugal-50-centavos-1924:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-50-centavos-1924.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-50-centavos-1924.jpg
+
+portugal-50-centavos-1962:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-50-centavos-1962.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-50-centavos-1962.jpg
+
+portugal-50-centavos-1969:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-50-centavos-1969.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-50-centavos-1969.jpg
+
+portugal-50-escudos-1987:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-50-escudos-1987.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-50-escudos-1987.jpg
+
+portugal-50-euro-cent-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-50-euro-cent-2002.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-50-euro-cent-2002.jpg
+
+portugal-50-euro-cent-2010:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-50-euro-cent-2010.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-50-euro-cent-2010.jpg
+
+portugal-50-reis-1861:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-50-reis-1861.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-50-reis-1861.jpg
+
+portugal-50-reis-1886:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-50-reis-1886.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-50-reis-1886.jpg
+
+portugal-50-reis-1893:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-50-reis-1893.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-50-reis-1893.jpg
+
+portugal-50-reis-1900:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-50-reis-1900.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-50-reis-1900.jpg
+
+portugal-500-reis-1841:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-500-reis-1841.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-500-reis-1841.jpg
+
+portugal-500-reis-1854:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-500-reis-1854.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-500-reis-1854.jpg
+
+portugal-500-reis-1855:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-500-reis-1855.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-500-reis-1855.jpg
+
+portugal-500-reis-1858:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-500-reis-1858.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-500-reis-1858.jpg
+
+portugal-500-reis-1871:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-500-reis-1871.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-500-reis-1871.jpg
+
+portugal-500-reis-1892:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-500-reis-1892.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-500-reis-1892.jpg
+
+portugal-500-reis-1909:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-500-reis-1909.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-500-reis-1909.jpg
+
+portugal-5000-reis-1838:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-5000-reis-1838.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-5000-reis-1838.jpg
+
+portugal-5000-reis-1851:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-5000-reis-1851.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-5000-reis-1851.jpg
+
+portugal-5000-reis-1860:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-5000-reis-1860.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-5000-reis-1860.jpg
+
+portugal-5000-reis-1862:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-5000-reis-1862.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-5000-reis-1862.jpg
+
+portugal-5000-reis-1883:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/frente/portugal-5000-reis-1883.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Europa/Portugal/normal/tras/portugal-5000-reis-1883.jpg
