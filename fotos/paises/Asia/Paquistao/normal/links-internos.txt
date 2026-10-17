@@ -1,0 +1,215 @@
+pakistan-1-2-anna-1948:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-1-2-anna-1948.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-1-2-anna-1948.jpg
+
+pakistan-1-2-anna-1953:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-1-2-anna-1953.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-1-2-anna-1953.jpg
+
+pakistan-1-2-rupee-1948:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-1-2-rupee-1948.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-1-2-rupee-1948.jpg
+
+pakistan-1-4-rupee-1950:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-1-4-rupee-1950.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-1-4-rupee-1950.jpg
+
+pakistan-1-4-rupee-1951:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-1-4-rupee-1951.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-1-4-rupee-1951.jpg
+
+pakistan-1-anna-1949:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-1-anna-1949.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-1-anna-1949.jpg
+
+pakistan-1-anna-1950:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-1-anna-1950.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-1-anna-1950.jpg
+
+pakistan-1-anna-1954:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-1-anna-1954.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-1-anna-1954.jpg
+
+pakistan-1-paisa-1961-1-paisa-1961-1963-republica-islamica:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-1-paisa-1961-1-paisa-1961-1963-republica-islamica.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-1-paisa-1961-1-paisa-1961-1963-republica-islamica.jpg
+
+pakistan-1-paisa-1961-1-paisa-1961-republica-islamica:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-1-paisa-1961-1-paisa-1961-republica-islamica.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-1-paisa-1961-1-paisa-1961-republica-islamica.jpg
+
+pakistan-1-paisa-1965-1-paisa-1964-1965-republica-islamica:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-1-paisa-1965-1-paisa-1964-1965-republica-islamica.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-1-paisa-1965-1-paisa-1964-1965-republica-islamica.jpg
+
+pakistan-1-paisa-1965-1-paisa-1965-1967-republica-islamica:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-1-paisa-1965-1-paisa-1965-1967-republica-islamica.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-1-paisa-1965-1-paisa-1965-1967-republica-islamica.jpg
+
+pakistan-1-paisa-1970:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-1-paisa-1970.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-1-paisa-1970.jpg
+
+pakistan-1-paisa-1978:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-1-paisa-1978.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-1-paisa-1978.jpg
+
+pakistan-1-pice-1951:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-1-pice-1951.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-1-pice-1951.jpg
+
+pakistan-1-pice-1959:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-1-pice-1959.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-1-pice-1959.jpg
+
+pakistan-1-pie-1957:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-1-pie-1957.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-1-pie-1957.jpg
+
+pakistan-1-rupee-1948:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-1-rupee-1948.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-1-rupee-1948.jpg
+
+pakistan-1-rupee-1979:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-1-rupee-1979.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-1-rupee-1979.jpg
+
+pakistan-1-rupee-1986:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-1-rupee-1986.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-1-rupee-1986.jpg
+
+pakistan-1-rupee-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-1-rupee-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-1-rupee-2006.jpg
+
+pakistan-1-rupee-2010:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-1-rupee-2010.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-1-rupee-2010.jpg
+
+pakistan-10-paisa-1961-10-paisa-1961-1963-republica-islamica:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-10-paisa-1961-10-paisa-1961-1963-republica-islamica.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-10-paisa-1961-10-paisa-1961-1963-republica-islamica.jpg
+
+pakistan-10-paisa-1961-10-paisa-1961-republica-islamica:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-10-paisa-1961-10-paisa-1961-republica-islamica.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-10-paisa-1961-10-paisa-1961-republica-islamica.jpg
+
+pakistan-10-paisa-1965:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-10-paisa-1965.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-10-paisa-1965.jpg
+
+pakistan-10-paisa-1969:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-10-paisa-1969.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-10-paisa-1969.jpg
+
+pakistan-10-paisa-1975:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-10-paisa-1975.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-10-paisa-1975.jpg
+
+pakistan-10-paisa-1991:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-10-paisa-1991.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-10-paisa-1991.jpg
+
+pakistan-10-rupees-2016:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-10-rupees-2016.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-10-rupees-2016.jpg
+
+pakistan-2-annas-1949:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-2-annas-1949.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-2-annas-1949.jpg
+
+pakistan-2-annas-1950:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-2-annas-1950.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-2-annas-1950.jpg
+
+pakistan-2-annas-1955:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-2-annas-1955.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-2-annas-1955.jpg
+
+pakistan-2-paisa-1965:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-2-paisa-1965.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-2-paisa-1965.jpg
+
+pakistan-2-paisa-1968:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-2-paisa-1968.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-2-paisa-1968.jpg
+
+pakistan-2-paisa-1972:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-2-paisa-1972.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-2-paisa-1972.jpg
+
+pakistan-2-paisa-1974:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-2-paisa-1974.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-2-paisa-1974.jpg
+
+pakistan-2-rupees-1998:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-2-rupees-1998.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-2-rupees-1998.jpg
+
+pakistan-2-rupees-2006:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-2-rupees-2006.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-2-rupees-2006.jpg
+
+pakistan-2-rupees-2021:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-2-rupees-2021.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-2-rupees-2021.jpg
+
+pakistan-25-paisa-1967:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-25-paisa-1967.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-25-paisa-1967.jpg
+
+pakistan-25-paisa-1969:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-25-paisa-1969.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-25-paisa-1969.jpg
+
+pakistan-25-paisa-1977:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-25-paisa-1977.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-25-paisa-1977.jpg
+
+pakistan-25-paisa-1996:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-25-paisa-1996.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-25-paisa-1996.jpg
+
+pakistan-5-paisa-1961-5-paisa-1961-1963-republica-islamica:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-5-paisa-1961-5-paisa-1961-1963-republica-islamica.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-5-paisa-1961-5-paisa-1961-1963-republica-islamica.jpg
+
+pakistan-5-paisa-1961-5-paisa-1961-republica-islamica:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-5-paisa-1961-5-paisa-1961-republica-islamica.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-5-paisa-1961-5-paisa-1961-republica-islamica.jpg
+
+pakistan-5-paisa-1970:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-5-paisa-1970.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-5-paisa-1970.jpg
+
+pakistan-5-paisa-1976:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-5-paisa-1976.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-5-paisa-1976.jpg
+
+pakistan-5-paisa-1996:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-5-paisa-1996.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-5-paisa-1996.jpg
+
+pakistan-5-rupees-2004:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-5-rupees-2004.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-5-rupees-2004.jpg
+
+pakistan-5-rupees-2019:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-5-rupees-2019.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-5-rupees-2019.jpg
+
+pakistan-50-paisa-1965:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-50-paisa-1965.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-50-paisa-1965.jpg
+
+pakistan-50-paisa-1970:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-50-paisa-1970.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-50-paisa-1970.jpg
+
+pakistan-50-paisa-1975:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-50-paisa-1975.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-50-paisa-1975.jpg
+
+pakistan-50-paisa-1994:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/frente/pakistan-50-paisa-1994.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Paquistao/normal/tras/pakistan-50-paisa-1994.jpg

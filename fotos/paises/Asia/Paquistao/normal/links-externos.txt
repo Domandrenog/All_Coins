@@ -1,0 +1,215 @@
+pakistan-1-2-anna-1948:
+  frente: https://i.ucoin.net/coin/78/581/78581620-1s/pakistan-1-2-anna-1948.jpg
+  tras: https://i.ucoin.net/coin/78/581/78581620-2s/pakistan-1-2-anna-1948.jpg
+
+pakistan-1-2-anna-1953:
+  frente: https://i.ucoin.net/coin/11/629/11629251-1s/pakistan-1-2-anna-1953.jpg
+  tras: https://i.ucoin.net/coin/11/629/11629251-2s/pakistan-1-2-anna-1953.jpg
+
+pakistan-1-2-rupee-1948:
+  frente: https://i.ucoin.net/coin/78/580/78580870-1s/pakistan-1-2-rupee-1948.jpg
+  tras: https://i.ucoin.net/coin/78/580/78580870-2s/pakistan-1-2-rupee-1948.jpg
+
+pakistan-1-4-rupee-1950:
+  frente: https://i.ucoin.net/coin/25/153/25153759-1s/pakistan-1-4-rupee-1950.jpg
+  tras: https://i.ucoin.net/coin/25/153/25153759-2s/pakistan-1-4-rupee-1950.jpg
+
+pakistan-1-4-rupee-1951:
+  frente: https://i.ucoin.net/coin/84/119/84119884-1s/pakistan-1-4-rupee-1951.jpg
+  tras: https://i.ucoin.net/coin/84/119/84119884-2s/pakistan-1-4-rupee-1951.jpg
+
+pakistan-1-anna-1949:
+  frente: https://i.ucoin.net/coin/78/581/78581369-1s/pakistan-1-anna-1949.jpg
+  tras: https://i.ucoin.net/coin/78/581/78581369-2s/pakistan-1-anna-1949.jpg
+
+pakistan-1-anna-1950:
+  frente: https://i.ucoin.net/coin/73/897/73897297-1s/pakistan-1-anna-1950.jpg
+  tras: https://i.ucoin.net/coin/73/897/73897297-2s/pakistan-1-anna-1950.jpg
+
+pakistan-1-anna-1954:
+  frente: https://i.ucoin.net/coin/84/632/84632791-1s/pakistan-1-anna-1954.jpg
+  tras: https://i.ucoin.net/coin/84/632/84632791-2s/pakistan-1-anna-1954.jpg
+
+pakistan-1-paisa-1961-1-paisa-1961-1963-republica-islamica:
+  frente: https://i.ucoin.net/coin/1/837/1837393-1s/pakistan-1-paisa-1961.jpg
+  tras: https://i.ucoin.net/coin/1/837/1837393-2s/pakistan-1-paisa-1961.jpg
+
+pakistan-1-paisa-1961-1-paisa-1961-republica-islamica:
+  frente: https://i.ucoin.net/coin/74/055/74055775-1s/pakistan-1-paisa-1961.jpg
+  tras: https://i.ucoin.net/coin/74/055/74055775-2s/pakistan-1-paisa-1961.jpg
+
+pakistan-1-paisa-1965-1-paisa-1964-1965-republica-islamica:
+  frente: https://i.ucoin.net/coin/3/020/3020634-1s/pakistan-1-paisa-1965.jpg
+  tras: https://i.ucoin.net/coin/3/020/3020634-2s/pakistan-1-paisa-1965.jpg
+
+pakistan-1-paisa-1965-1-paisa-1965-1967-republica-islamica:
+  frente: https://i.ucoin.net/coin/71/760/71760711-1s/pakistan-1-paisa-1965.jpg
+  tras: https://i.ucoin.net/coin/71/760/71760711-2s/pakistan-1-paisa-1965.jpg
+
+pakistan-1-paisa-1970:
+  frente: https://i.ucoin.net/coin/59/179/59179461-1s/pakistan-1-paisa-1970.jpg
+  tras: https://i.ucoin.net/coin/59/179/59179461-2s/pakistan-1-paisa-1970.jpg
+
+pakistan-1-paisa-1978:
+  frente: https://i.ucoin.net/coin/47/597/47597237-1s/pakistan-1-paisa-1978.jpg
+  tras: https://i.ucoin.net/coin/47/597/47597237-2s/pakistan-1-paisa-1978.jpg
+
+pakistan-1-pice-1951:
+  frente: https://i.ucoin.net/coin/8/074/8074703-1s/pakistan-1-pice-1951.jpg
+  tras: https://i.ucoin.net/coin/8/074/8074703-2s/pakistan-1-pice-1951.jpg
+
+pakistan-1-pice-1959:
+  frente: https://i.ucoin.net/coin/87/470/87470669-1s/pakistan-1-pice-1959.jpg
+  tras: https://i.ucoin.net/coin/87/470/87470669-2s/pakistan-1-pice-1959.jpg
+
+pakistan-1-pie-1957:
+  frente: https://i.ucoin.net/coin/52/393/52393174-1s/pakistan-1-pie-1957.jpg
+  tras: https://i.ucoin.net/coin/52/393/52393174-2s/pakistan-1-pie-1957.jpg
+
+pakistan-1-rupee-1948:
+  frente: https://i.ucoin.net/coin/78/646/78646516-1s/pakistan-1-rupee-1948.jpg
+  tras: https://i.ucoin.net/coin/78/646/78646516-2s/pakistan-1-rupee-1948.jpg
+
+pakistan-1-rupee-1979:
+  frente: https://i.ucoin.net/coin/70/722/70722234-1s/pakistan-1-rupee-1979.jpg
+  tras: https://i.ucoin.net/coin/70/722/70722234-2s/pakistan-1-rupee-1979.jpg
+
+pakistan-1-rupee-1986:
+  frente: https://i.ucoin.net/coin/67/040/67040701-1s/pakistan-1-rupee-1986.jpg
+  tras: https://i.ucoin.net/coin/67/040/67040701-2s/pakistan-1-rupee-1986.jpg
+
+pakistan-1-rupee-2006:
+  frente: https://i.ucoin.net/coin/58/069/58069495-1s/pakistan-1-rupee-2006.jpg
+  tras: https://i.ucoin.net/coin/58/069/58069495-2s/pakistan-1-rupee-2006.jpg
+
+pakistan-1-rupee-2010:
+  frente: https://i.ucoin.net/coin/1/827/1827302-1s/pakistan-1-rupee-2010.jpg
+  tras: https://i.ucoin.net/coin/1/827/1827302-2s/pakistan-1-rupee-2010.jpg
+
+pakistan-10-paisa-1961-10-paisa-1961-1963-republica-islamica:
+  frente: https://i.ucoin.net/coin/19/227/19227147-1s/pakistan-10-paisa-1961.jpg
+  tras: https://i.ucoin.net/coin/19/227/19227147-2s/pakistan-10-paisa-1961.jpg
+
+pakistan-10-paisa-1961-10-paisa-1961-republica-islamica:
+  frente: https://i.ucoin.net/coin/78/487/78487230-1s/pakistan-10-paisa-1961.jpg
+  tras: https://i.ucoin.net/coin/78/487/78487230-2s/pakistan-10-paisa-1961.jpg
+
+pakistan-10-paisa-1965:
+  frente: https://i.ucoin.net/coin/78/487/78487253-1s/pakistan-10-paisa-1965.jpg
+  tras: https://i.ucoin.net/coin/78/487/78487253-2s/pakistan-10-paisa-1965.jpg
+
+pakistan-10-paisa-1969:
+  frente: https://i.ucoin.net/coin/78/487/78487261-1s/pakistan-10-paisa-1969.jpg
+  tras: https://i.ucoin.net/coin/78/487/78487261-2s/pakistan-10-paisa-1969.jpg
+
+pakistan-10-paisa-1975:
+  frente: https://i.ucoin.net/coin/47/597/47597002-1s/pakistan-10-paisa-1975.jpg
+  tras: https://i.ucoin.net/coin/47/597/47597002-2s/pakistan-10-paisa-1975.jpg
+
+pakistan-10-paisa-1991:
+  frente: https://i.ucoin.net/coin/71/197/71197996-1s/pakistan-10-paisa-1991.jpg
+  tras: https://i.ucoin.net/coin/71/197/71197996-2s/pakistan-10-paisa-1991.jpg
+
+pakistan-10-rupees-2016:
+  frente: https://i.ucoin.net/coin/58/830/58830785-1s/pakistan-10-rupees-2016.jpg
+  tras: https://i.ucoin.net/coin/58/830/58830785-2s/pakistan-10-rupees-2016.jpg
+
+pakistan-2-annas-1949:
+  frente: https://i.ucoin.net/coin/82/908/82908174-1s/pakistan-2-annas-1949.jpg
+  tras: https://i.ucoin.net/coin/82/908/82908174-2s/pakistan-2-annas-1949.jpg
+
+pakistan-2-annas-1950:
+  frente: https://i.ucoin.net/coin/35/325/35325129-1s/pakistan-2-annas-1950.jpg
+  tras: https://i.ucoin.net/coin/35/325/35325129-2s/pakistan-2-annas-1950.jpg
+
+pakistan-2-annas-1955:
+  frente: https://i.ucoin.net/coin/78/580/78580941-1s/pakistan-2-annas-1955.jpg
+  tras: https://i.ucoin.net/coin/78/580/78580941-2s/pakistan-2-annas-1955.jpg
+
+pakistan-2-paisa-1965:
+  frente: https://i.ucoin.net/coin/78/486/78486740-1s/pakistan-2-paisa-1965.jpg
+  tras: https://i.ucoin.net/coin/78/486/78486740-2s/pakistan-2-paisa-1965.jpg
+
+pakistan-2-paisa-1968:
+  frente: https://i.ucoin.net/coin/25/284/25284066-1s/pakistan-2-paisa-1968.jpg
+  tras: https://i.ucoin.net/coin/25/284/25284066-2s/pakistan-2-paisa-1968.jpg
+
+pakistan-2-paisa-1972:
+  frente: https://i.ucoin.net/coin/50/464/50464260-1s/pakistan-2-paisa-1972.jpg
+  tras: https://i.ucoin.net/coin/50/464/50464260-2s/pakistan-2-paisa-1972.jpg
+
+pakistan-2-paisa-1974:
+  frente: https://i.ucoin.net/coin/68/549/68549820-1s/pakistan-2-paisa-1974.jpg
+  tras: https://i.ucoin.net/coin/68/549/68549820-2s/pakistan-2-paisa-1974.jpg
+
+pakistan-2-rupees-1998:
+  frente: https://i.ucoin.net/coin/9/170/9170266-1s/pakistan-2-rupees-1998.jpg
+  tras: https://i.ucoin.net/coin/9/170/9170266-2s/pakistan-2-rupees-1998.jpg
+
+pakistan-2-rupees-2006:
+  frente: https://i.ucoin.net/coin/3/811/3811297-1s/pakistan-2-rupees-2006.jpg
+  tras: https://i.ucoin.net/coin/3/811/3811297-2s/pakistan-2-rupees-2006.jpg
+
+pakistan-2-rupees-2021:
+  frente: https://i.ucoin.net/coin/81/069/81069357-1s/pakistan-2-rupees-2021.jpg
+  tras: https://i.ucoin.net/coin/81/069/81069357-2s/pakistan-2-rupees-2021.jpg
+
+pakistan-25-paisa-1967:
+  frente: https://i.ucoin.net/coin/69/789/69789984-1s/pakistan-25-paisa-1967.jpg
+  tras: https://i.ucoin.net/coin/69/789/69789984-2s/pakistan-25-paisa-1967.jpg
+
+pakistan-25-paisa-1969:
+  frente: https://i.ucoin.net/coin/56/967/56967204-1s/pakistan-25-paisa-1969.jpg
+  tras: https://i.ucoin.net/coin/56/967/56967204-2s/pakistan-25-paisa-1969.jpg
+
+pakistan-25-paisa-1977:
+  frente: https://i.ucoin.net/coin/78/494/78494781-1s/pakistan-25-paisa-1977.jpg
+  tras: https://i.ucoin.net/coin/78/494/78494781-2s/pakistan-25-paisa-1977.jpg
+
+pakistan-25-paisa-1996:
+  frente: https://i.ucoin.net/coin/67/063/67063046-1s/pakistan-25-paisa-1996.jpg
+  tras: https://i.ucoin.net/coin/67/063/67063046-2s/pakistan-25-paisa-1996.jpg
+
+pakistan-5-paisa-1961-5-paisa-1961-1963-republica-islamica:
+  frente: https://i.ucoin.net/coin/57/920/57920250-1s/pakistan-5-paisa-1961.jpg
+  tras: https://i.ucoin.net/coin/57/920/57920250-2s/pakistan-5-paisa-1961.jpg
+
+pakistan-5-paisa-1961-5-paisa-1961-republica-islamica:
+  frente: https://i.ucoin.net/coin/57/919/57919881-1s/pakistan-5-paisa-1961.jpg
+  tras: https://i.ucoin.net/coin/57/919/57919881-2s/pakistan-5-paisa-1961.jpg
+
+pakistan-5-paisa-1970:
+  frente: https://i.ucoin.net/coin/20/308/20308029-1s/pakistan-5-paisa-1970.jpg
+  tras: https://i.ucoin.net/coin/20/308/20308029-2s/pakistan-5-paisa-1970.jpg
+
+pakistan-5-paisa-1976:
+  frente: https://i.ucoin.net/coin/47/596/47596918-1s/pakistan-5-paisa-1976.jpg
+  tras: https://i.ucoin.net/coin/47/596/47596918-2s/pakistan-5-paisa-1976.jpg
+
+pakistan-5-paisa-1996:
+  frente: https://i.ucoin.net/coin/47/597/47597389-1s/pakistan-5-paisa-1996.jpg
+  tras: https://i.ucoin.net/coin/47/597/47597389-2s/pakistan-5-paisa-1996.jpg
+
+pakistan-5-rupees-2004:
+  frente: https://i.ucoin.net/coin/58/068/58068146-1s/pakistan-5-rupees-2004.jpg
+  tras: https://i.ucoin.net/coin/58/068/58068146-2s/pakistan-5-rupees-2004.jpg
+
+pakistan-5-rupees-2019:
+  frente: https://i.ucoin.net/coin/78/580/78580213-1s/pakistan-5-rupees-2019.jpg
+  tras: https://i.ucoin.net/coin/78/580/78580213-2s/pakistan-5-rupees-2019.jpg
+
+pakistan-50-paisa-1965:
+  frente: https://i.ucoin.net/coin/69/977/69977040-1s/pakistan-50-paisa-1965.jpg
+  tras: https://i.ucoin.net/coin/69/977/69977040-2s/pakistan-50-paisa-1965.jpg
+
+pakistan-50-paisa-1970:
+  frente: https://i.ucoin.net/coin/4/045/4045923-1s/pakistan-50-paisa-1970.jpg
+  tras: https://i.ucoin.net/coin/4/045/4045923-2s/pakistan-50-paisa-1970.jpg
+
+pakistan-50-paisa-1975:
+  frente: https://i.ucoin.net/coin/1/808/1808313-1s/pakistan-50-paisa-1975.jpg
+  tras: https://i.ucoin.net/coin/1/808/1808313-2s/pakistan-50-paisa-1975.jpg
+
+pakistan-50-paisa-1994:
+  frente: https://i.ucoin.net/coin/67/063/67063593-1s/pakistan-50-paisa-1994.jpg
+  tras: https://i.ucoin.net/coin/67/063/67063593-2s/pakistan-50-paisa-1994.jpg
