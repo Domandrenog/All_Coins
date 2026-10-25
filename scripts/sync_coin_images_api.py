@@ -347,6 +347,15 @@ def generated_image_links(coin: dict[str, object], args: argparse.Namespace, slu
     }
 
 
+def base44_authorization(api_key: str) -> str:
+    token = api_key.strip()
+    if token.lower().startswith("bearer "):
+        token = token[7:].strip()
+    if not token:
+        raise ValueError("O token pessoal da Base44 está vazio.")
+    return f"Bearer {token}"
+
+
 def api_request(method: str, path: str, api_key: str, payload: object | None = None, query: dict[str, object] | None = None) -> object:
     url = f"{API_BASE_URL}{path}"
     if query:
@@ -360,7 +369,10 @@ def api_request(method: str, path: str, api_key: str, payload: object | None = N
         url,
         data=body,
         method=method,
-        headers={"api_key": api_key, "Content-Type": "application/json"},
+        headers={
+            "Authorization": base44_authorization(api_key),
+            "Content-Type": "application/json",
+        },
     )
 
     max_attempts = API_RATE_LIMIT_ATTEMPTS

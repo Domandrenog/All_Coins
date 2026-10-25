@@ -13,6 +13,11 @@ from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
+try:
+    from .sync_coin_images_api import base44_authorization
+except ImportError:
+    from sync_coin_images_api import base44_authorization
+
 API_BASE_URL = "https://track-coin-collection.base44.app/api"
 API_KEY_ENV = "ALL_COINS_API_KEY"
 UCOIN_DOMAIN = "i.ucoin.net"
@@ -46,7 +51,13 @@ def parse_args() -> argparse.Namespace:
 
 def api_request(path: str, api_key: str, query: dict[str, object]) -> object:
     url = f"{API_BASE_URL}{path}?{urlencode(query)}"
-    request = Request(url, headers={"api_key": api_key, "Accept": "application/json"})
+    request = Request(
+        url,
+        headers={
+            "Authorization": base44_authorization(api_key),
+            "Accept": "application/json",
+        },
+    )
     for attempt in range(1, API_REQUEST_ATTEMPTS + 1):
         try:
             with urlopen(request, timeout=120) as response:
