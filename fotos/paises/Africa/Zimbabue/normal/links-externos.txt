@@ -1,0 +1,103 @@
+zimbabwe-1-cent-1988:
+  frente: https://i.ucoin.net/coin/8/718/8718273-1s/zimbabwe-1-cent-1988.jpg
+  tras: https://i.ucoin.net/coin/8/718/8718273-2s/zimbabwe-1-cent-1988.jpg
+
+zimbabwe-1-cent-1997:
+  frente: https://i.ucoin.net/coin/46/748/46748312-1s/zimbabwe-1-cent-1997.jpg
+  tras: https://i.ucoin.net/coin/46/748/46748312-2s/zimbabwe-1-cent-1997.jpg
+
+zimbabwe-1-cent-2014:
+  frente: https://i.ucoin.net/coin/16/393/16393029-1s/zimbabwe-1-cent-2014.jpg
+  tras: https://i.ucoin.net/coin/16/393/16393029-2s/zimbabwe-1-cent-2014.jpg
+
+zimbabwe-1-dollar-1980:
+  frente: https://i.ucoin.net/coin/74/121/74121904-1s/zimbabwe-1-dollar-1980.jpg
+  tras: https://i.ucoin.net/coin/74/121/74121904-2s/zimbabwe-1-dollar-1980.jpg
+
+zimbabwe-1-dollar-2001:
+  frente: https://i.ucoin.net/coin/73/606/73606021-1s/zimbabwe-1-dollar-2001.jpg
+  tras: https://i.ucoin.net/coin/73/606/73606021-2s/zimbabwe-1-dollar-2001.jpg
+
+zimbabwe-1-dollar-2017:
+  frente: https://i.ucoin.net/coin/27/091/27091199-1s/zimbabwe-1-dollar-2017.jpg
+  tras: https://i.ucoin.net/coin/27/091/27091199-2s/zimbabwe-1-dollar-2017.jpg
+
+zimbabwe-1-zig-2024:
+  frente: https://i.ucoin.net/coin/70/237/70237126-1s/zimbabwe-1-zig-2024.jpg
+  tras: https://i.ucoin.net/coin/70/237/70237126-2s/zimbabwe-1-zig-2024.jpg
+
+zimbabwe-10-cents-1999:
+  frente: https://i.ucoin.net/coin/27/091/27091186-1s/zimbabwe-10-cents-1999.jpg
+  tras: https://i.ucoin.net/coin/27/091/27091186-2s/zimbabwe-10-cents-1999.jpg
+
+zimbabwe-10-cents-2001:
+  frente: https://i.ucoin.net/coin/74/121/74121857-1s/zimbabwe-10-cents-2001.jpg
+  tras: https://i.ucoin.net/coin/74/121/74121857-2s/zimbabwe-10-cents-2001.jpg
+
+zimbabwe-10-cents-2014:
+  frente: https://i.ucoin.net/coin/85/280/85280311-1s/zimbabwe-10-cents-2014.jpg
+  tras: https://i.ucoin.net/coin/85/280/85280311-2s/zimbabwe-10-cents-2014.jpg
+
+zimbabwe-10-dollars-2003:
+  frente: https://i.ucoin.net/coin/6/024/6024488-1s/zimbabwe-10-dollars-2003.jpg
+  tras: https://i.ucoin.net/coin/6/024/6024488-2s/zimbabwe-10-dollars-2003.jpg
+
+zimbabwe-2-dollars-1997:
+  frente: https://i.ucoin.net/coin/84/483/84483520-1s/zimbabwe-2-dollars-1997.jpg
+  tras: https://i.ucoin.net/coin/84/483/84483520-2s/zimbabwe-2-dollars-1997.jpg
+
+zimbabwe-2-dollars-2003:
+  frente: https://i.ucoin.net/coin/73/603/73603597-1s/zimbabwe-2-dollars-2003.jpg
+  tras: https://i.ucoin.net/coin/73/603/73603597-2s/zimbabwe-2-dollars-2003.jpg
+
+zimbabwe-2-dollars-2018:
+  frente: https://i.ucoin.net/coin/73/615/73615954-1s/zimbabwe-2-dollars-2018.jpg
+  tras: https://i.ucoin.net/coin/73/615/73615954-2s/zimbabwe-2-dollars-2018.jpg
+
+zimbabwe-2-zig-2024:
+  frente: https://i.ucoin.net/coin/70/237/70237134-1s/zimbabwe-2-zig-2024.jpg
+  tras: https://i.ucoin.net/coin/70/237/70237134-2s/zimbabwe-2-zig-2024.jpg
+
+zimbabwe-20-cents-1988:
+  frente: https://i.ucoin.net/coin/73/606/73606874-1s/zimbabwe-20-cents-1988.jpg
+  tras: https://i.ucoin.net/coin/73/606/73606874-2s/zimbabwe-20-cents-1988.jpg
+
+zimbabwe-20-cents-2003:
+  frente: https://i.ucoin.net/coin/73/615/73615927-1s/zimbabwe-20-cents-2003.jpg
+  tras: https://i.ucoin.net/coin/73/615/73615927-2s/zimbabwe-20-cents-2003.jpg
+
+zimbabwe-25-cents-2014:
+  frente: https://i.ucoin.net/coin/16/392/16392882-1s/zimbabwe-25-cents-2014.jpg
+  tras: https://i.ucoin.net/coin/16/392/16392882-2s/zimbabwe-25-cents-2014.jpg
+
+zimbabwe-25-dollars-2003:
+  frente: https://i.ucoin.net/coin/74/121/74121987-1s/zimbabwe-25-dollars-2003.jpg
+  tras: https://i.ucoin.net/coin/74/121/74121987-2s/zimbabwe-25-dollars-2003.jpg
+
+zimbabwe-5-cents-1997:
+  frente: https://i.ucoin.net/coin/27/091/27091193-1s/zimbabwe-5-cents-1997.jpg
+  tras: https://i.ucoin.net/coin/27/091/27091193-2s/zimbabwe-5-cents-1997.jpg
+
+zimbabwe-5-cents-2014:
+  frente: https://i.ucoin.net/coin/60/248/60248822-1s/zimbabwe-5-cents-2014.jpg
+  tras: https://i.ucoin.net/coin/60/248/60248822-2s/zimbabwe-5-cents-2014.jpg
+
+zimbabwe-5-dollars-2001:
+  frente: https://i.ucoin.net/coin/27/091/27091185-1s/zimbabwe-5-dollars-2001.jpg
+  tras: https://i.ucoin.net/coin/27/091/27091185-2s/zimbabwe-5-dollars-2001.jpg
+
+zimbabwe-5-zig-2024:
+  frente: https://i.ucoin.net/coin/70/237/70237145-1s/zimbabwe-5-zig-2024.jpg
+  tras: https://i.ucoin.net/coin/70/237/70237145-2s/zimbabwe-5-zig-2024.jpg
+
+zimbabwe-50-cents-1980:
+  frente: https://i.ucoin.net/coin/55/750/55750725-1s/zimbabwe-50-cents-1980.jpg
+  tras: https://i.ucoin.net/coin/55/750/55750725-2s/zimbabwe-50-cents-1980.jpg
+
+zimbabwe-50-cents-2002:
+  frente: https://i.ucoin.net/coin/58/426/58426921-1s/zimbabwe-50-cents-2002.jpg
+  tras: https://i.ucoin.net/coin/58/426/58426921-2s/zimbabwe-50-cents-2002.jpg
+
+zimbabwe-50-cents-2014:
+  frente: https://i.ucoin.net/coin/17/419/17419791-1s/zimbabwe-50-cents-2014.jpg
+  tras: https://i.ucoin.net/coin/17/419/17419791-2s/zimbabwe-50-cents-2014.jpg

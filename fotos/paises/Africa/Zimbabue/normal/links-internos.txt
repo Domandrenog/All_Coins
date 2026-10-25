@@ -1,0 +1,103 @@
+zimbabwe-1-cent-1988:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/frente/zimbabwe-1-cent-1988.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/tras/zimbabwe-1-cent-1988.jpg
+
+zimbabwe-1-cent-1997:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/frente/zimbabwe-1-cent-1997.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/tras/zimbabwe-1-cent-1997.jpg
+
+zimbabwe-1-cent-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/frente/zimbabwe-1-cent-2014.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/tras/zimbabwe-1-cent-2014.jpg
+
+zimbabwe-1-dollar-1980:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/frente/zimbabwe-1-dollar-1980.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/tras/zimbabwe-1-dollar-1980.jpg
+
+zimbabwe-1-dollar-2001:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/frente/zimbabwe-1-dollar-2001.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/tras/zimbabwe-1-dollar-2001.jpg
+
+zimbabwe-1-dollar-2017:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/frente/zimbabwe-1-dollar-2017.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/tras/zimbabwe-1-dollar-2017.jpg
+
+zimbabwe-1-zig-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/frente/zimbabwe-1-zig-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/tras/zimbabwe-1-zig-2024.jpg
+
+zimbabwe-10-cents-1999:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/frente/zimbabwe-10-cents-1999.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/tras/zimbabwe-10-cents-1999.jpg
+
+zimbabwe-10-cents-2001:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/frente/zimbabwe-10-cents-2001.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/tras/zimbabwe-10-cents-2001.jpg
+
+zimbabwe-10-cents-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/frente/zimbabwe-10-cents-2014.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/tras/zimbabwe-10-cents-2014.jpg
+
+zimbabwe-10-dollars-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/frente/zimbabwe-10-dollars-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/tras/zimbabwe-10-dollars-2003.jpg
+
+zimbabwe-2-dollars-1997:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/frente/zimbabwe-2-dollars-1997.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/tras/zimbabwe-2-dollars-1997.jpg
+
+zimbabwe-2-dollars-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/frente/zimbabwe-2-dollars-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/tras/zimbabwe-2-dollars-2003.jpg
+
+zimbabwe-2-dollars-2018:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/frente/zimbabwe-2-dollars-2018.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/tras/zimbabwe-2-dollars-2018.jpg
+
+zimbabwe-2-zig-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/frente/zimbabwe-2-zig-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/tras/zimbabwe-2-zig-2024.jpg
+
+zimbabwe-20-cents-1988:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/frente/zimbabwe-20-cents-1988.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/tras/zimbabwe-20-cents-1988.jpg
+
+zimbabwe-20-cents-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/frente/zimbabwe-20-cents-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/tras/zimbabwe-20-cents-2003.jpg
+
+zimbabwe-25-cents-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/frente/zimbabwe-25-cents-2014.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/tras/zimbabwe-25-cents-2014.jpg
+
+zimbabwe-25-dollars-2003:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/frente/zimbabwe-25-dollars-2003.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/tras/zimbabwe-25-dollars-2003.jpg
+
+zimbabwe-5-cents-1997:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/frente/zimbabwe-5-cents-1997.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/tras/zimbabwe-5-cents-1997.jpg
+
+zimbabwe-5-cents-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/frente/zimbabwe-5-cents-2014.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/tras/zimbabwe-5-cents-2014.jpg
+
+zimbabwe-5-dollars-2001:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/frente/zimbabwe-5-dollars-2001.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/tras/zimbabwe-5-dollars-2001.jpg
+
+zimbabwe-5-zig-2024:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/frente/zimbabwe-5-zig-2024.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/tras/zimbabwe-5-zig-2024.jpg
+
+zimbabwe-50-cents-1980:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/frente/zimbabwe-50-cents-1980.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/tras/zimbabwe-50-cents-1980.jpg
+
+zimbabwe-50-cents-2002:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/frente/zimbabwe-50-cents-2002.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/tras/zimbabwe-50-cents-2002.jpg
+
+zimbabwe-50-cents-2014:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/frente/zimbabwe-50-cents-2014.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Africa/Zimbabue/normal/tras/zimbabwe-50-cents-2014.jpg
