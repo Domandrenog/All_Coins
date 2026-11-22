@@ -9,6 +9,7 @@ import os
 import shutil
 import subprocess
 import sys
+import tempfile
 import time
 from pathlib import Path
 from tempfile import TemporaryDirectory
@@ -326,6 +327,14 @@ def launch_notes_browser() -> bool:
             (shutil.which(name) for name in ("chromium", "chromium-browser", "google-chrome", "google-chrome-stable") if shutil.which(name)),
             None,
         )
+        if executable is None and sys.platform == "darwin":
+            macos_browsers = (
+                Path("/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"),
+                Path("/Applications/Chromium.app/Contents/MacOS/Chromium"),
+                Path.home() / "Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                Path.home() / "Applications/Chromium.app/Contents/MacOS/Chromium",
+            )
+            executable = next((str(path) for path in macos_browsers if path.is_file()), None)
         if executable is None:
             raise RuntimeError("Chrome/Chromium não encontrado para abrir a sessão Numista.")
         NOTES_BROWSER_PROCESS = subprocess.Popen(
@@ -334,7 +343,7 @@ def launch_notes_browser() -> bool:
                 "--incognito",
                 "--remote-debugging-address=127.0.0.1",
                 "--remote-debugging-port=9222",
-                f"--user-data-dir=/tmp/{NOTES_BROWSER_PROFILE_MARKER}",
+                f"--user-data-dir={Path(tempfile.gettempdir()) / NOTES_BROWSER_PROFILE_MARKER}",
                 "--no-first-run",
                 "--no-default-browser-check",
                 NUMISTA_START_URL,

@@ -526,6 +526,14 @@ class BrowserImageDownloader:
             self.playwright = sync_playwright().start()
 
         executable = which("chromium") or which("chromium-browser") or which("google-chrome") or which("google-chrome-stable")
+        if executable is None and sys.platform == "darwin":
+            macos_candidates = (
+                Path("/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"),
+                Path("/Applications/Chromium.app/Contents/MacOS/Chromium"),
+                Path.home() / "Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                Path.home() / "Applications/Chromium.app/Contents/MacOS/Chromium",
+            )
+            executable = next((str(path) for path in macos_candidates if path.is_file()), None)
         launch_options = {"executable_path": executable} if executable else {}
         self.context = self.playwright.chromium.launch_persistent_context(
             self.user_data_dir,

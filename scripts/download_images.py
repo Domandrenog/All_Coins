@@ -107,6 +107,16 @@ def resolve_browser_executable(chrome_path: str) -> str | None:
         if candidate and Path(candidate).exists():
             return candidate
 
+    macos_candidates = (
+        Path("/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"),
+        Path("/Applications/Chromium.app/Contents/MacOS/Chromium"),
+        Path.home() / "Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        Path.home() / "Applications/Chromium.app/Contents/MacOS/Chromium",
+    )
+    for candidate in macos_candidates:
+        if candidate.is_file():
+            return str(candidate)
+
     return None
 
 

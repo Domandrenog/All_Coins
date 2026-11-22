@@ -117,7 +117,7 @@ python3 -m pip install --break-system-packages playwright
 python3 -m playwright install chromium
 ```
 
-Também funciona com `chromium`, `chromium-browser`, `google-chrome` ou `google-chrome-stable` já instalados no sistema.
+Também funciona com `chromium`, `chromium-browser`, `google-chrome` ou `google-chrome-stable` já instalados no sistema. No macOS, o menu e os scripts também detetam Chrome ou Chromium nos locais padrão de aplicações (`/Applications` e `~/Applications`), mesmo que o executável não esteja no `PATH`.
 
 As imagens do Numista podem exigir uma sessão Chrome real por causa do
 Cloudflare. No fluxo de `notes`, o `main.py` abre automaticamente uma janela
