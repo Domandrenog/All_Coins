@@ -1,0 +1,103 @@
+south-vietnam-1-dong-1960:
+  frente: https://i.ucoin.net/coin/79/900/79900609-1s/south_vietnam-1-dong-1960.jpg
+  tras: https://i.ucoin.net/coin/79/900/79900609-2s/south_vietnam-1-dong-1960.jpg
+
+south-vietnam-1-dong-1964:
+  frente: https://i.ucoin.net/coin/80/555/80555277-1s/south_vietnam-1-dong-1964.jpg
+  tras: https://i.ucoin.net/coin/80/555/80555277-2s/south_vietnam-1-dong-1964.jpg
+
+south-vietnam-1-dong-1971:
+  frente: https://i.ucoin.net/coin/67/550/67550504-1s/south_vietnam-1-dong-1971.jpg
+  tras: https://i.ucoin.net/coin/67/550/67550504-2s/south_vietnam-1-dong-1971.jpg
+
+south-vietnam-1-xu-1975:
+  frente: https://i.ucoin.net/coin/7/780/7780538-1s/south_vietnam-1-xu-1975.jpg
+  tras: https://i.ucoin.net/coin/7/780/7780538-2s/south_vietnam-1-xu-1975.jpg
+
+south-vietnam-10-dong-1964:
+  frente: https://i.ucoin.net/coin/58/395/58395488-1s/south_vietnam-10-dong-1964.jpg
+  tras: https://i.ucoin.net/coin/58/395/58395488-2s/south_vietnam-10-dong-1964.jpg
+
+south-vietnam-10-dong-1968:
+  frente: https://i.ucoin.net/coin/86/208/86208306-1s/south_vietnam-10-dong-1968.jpg
+  tras: https://i.ucoin.net/coin/86/208/86208306-2s/south_vietnam-10-dong-1968.jpg
+
+south-vietnam-10-dong-1974:
+  frente: https://i.ucoin.net/coin/54/007/54007627-1s/south_vietnam-10-dong-1974.jpg
+  tras: https://i.ucoin.net/coin/54/007/54007627-2s/south_vietnam-10-dong-1974.jpg
+
+south-vietnam-10-su-1953:
+  frente: https://i.ucoin.net/coin/58/370/58370455-1s/south_vietnam-10-su-1953.jpg
+  tras: https://i.ucoin.net/coin/58/370/58370455-2s/south_vietnam-10-su-1953.jpg
+
+south-vietnam-2-xu-1975-2-xu-1975-vietna-do-norte:
+  frente: https://i.ucoin.net/coin/73/141/73141347-1s/south_vietnam-2-xu-1975.jpg
+  tras: https://i.ucoin.net/coin/73/141/73141347-2s/south_vietnam-2-xu-1975.jpg
+
+south-vietnam-2-xu-1975-2-xu-1975-vietna-do-sul:
+  frente: https://i.ucoin.net/coin/79/900/79900847-1s/south_vietnam-2-xu-1975.jpg
+  tras: https://i.ucoin.net/coin/79/900/79900847-2s/south_vietnam-2-xu-1975.jpg
+
+south-vietnam-20-dong-1968-20-dong-1968-vietna-do-sul:
+  frente: https://i.ucoin.net/coin/32/011/32011278-1s/south_vietnam-20-dong-1968.jpg
+  tras: https://i.ucoin.net/coin/32/011/32011278-2s/south_vietnam-20-dong-1968.jpg
+
+south-vietnam-20-dong-1968-20-dong-1968-vietna-do-sul-81f16ac7:
+  frente: https://i.ucoin.net/coin/73/861/73861875-1s/south_vietnam-20-dong-1968.jpg
+  tras: https://i.ucoin.net/coin/73/861/73861875-2s/south_vietnam-20-dong-1968.jpg
+
+south-vietnam-20-su-1953:
+  frente: https://i.ucoin.net/coin/45/664/45664771-1s/south_vietnam-20-su-1953.jpg
+  tras: https://i.ucoin.net/coin/45/664/45664771-2s/south_vietnam-20-su-1953.jpg
+
+south-vietnam-5-dong-1966:
+  frente: https://i.ucoin.net/coin/79/900/79900673-1s/south_vietnam-5-dong-1966.jpg
+  tras: https://i.ucoin.net/coin/79/900/79900673-2s/south_vietnam-5-dong-1966.jpg
+
+south-vietnam-5-dong-1971:
+  frente: https://i.ucoin.net/coin/79/900/79900413-1s/south_vietnam-5-dong-1971.jpg
+  tras: https://i.ucoin.net/coin/79/900/79900413-2s/south_vietnam-5-dong-1971.jpg
+
+south-vietnam-5-xu-1975:
+  frente: https://i.ucoin.net/coin/77/160/77160629-1s/south_vietnam-5-xu-1975.jpg
+  tras: https://i.ucoin.net/coin/77/160/77160629-2s/south_vietnam-5-xu-1975.jpg
+
+south-vietnam-50-dong-1975:
+  frente: https://i.ucoin.net/coin/68/888/68888232-1s/south_vietnam-50-dong-1975.jpg
+  tras: https://i.ucoin.net/coin/68/888/68888232-2s/south_vietnam-50-dong-1975.jpg
+
+south-vietnam-50-su-1960:
+  frente: https://i.ucoin.net/coin/77/160/77160703-1s/south_vietnam-50-su-1960.jpg
+  tras: https://i.ucoin.net/coin/77/160/77160703-2s/south_vietnam-50-su-1960.jpg
+
+south-vietnam-50-xu-1953:
+  frente: https://i.ucoin.net/coin/30/711/30711888-1s/south_vietnam-50-xu-1953.jpg
+  tras: https://i.ucoin.net/coin/30/711/30711888-2s/south_vietnam-50-xu-1953.jpg
+
+south-vietnam-50-xu-1963:
+  frente: https://i.ucoin.net/coin/77/160/77160757-1s/south_vietnam-50-xu-1963.jpg
+  tras: https://i.ucoin.net/coin/77/160/77160757-2s/south_vietnam-50-xu-1963.jpg
+
+vietnam-1-dong-1946:
+  frente: https://i.ucoin.net/coin/7/780/7780625-1s/vietnam-1-dong-1946.jpg
+  tras: https://i.ucoin.net/coin/7/780/7780625-2s/vietnam-1-dong-1946.jpg
+
+vietnam-1-xu-1958:
+  frente: https://i.ucoin.net/coin/28/162/28162232-1s/vietnam-1-xu-1958.jpg
+  tras: https://i.ucoin.net/coin/28/162/28162232-2s/vietnam-1-xu-1958.jpg
+
+vietnam-2-dong-1946:
+  frente: https://i.ucoin.net/coin/11/322/11322967-1s/vietnam-2-dong-1946.jpg
+  tras: https://i.ucoin.net/coin/11/322/11322967-2s/vietnam-2-dong-1946.jpg
+
+vietnam-2-xu-1958:
+  frente: https://i.ucoin.net/coin/28/162/28162210-1s/vietnam-2-xu-1958.jpg
+  tras: https://i.ucoin.net/coin/28/162/28162210-2s/vietnam-2-xu-1958.jpg
+
+vietnam-5-hao-1946:
+  frente: https://i.ucoin.net/coin/70/741/70741047-1s/vietnam-5-hao-1946.jpg
+  tras: https://i.ucoin.net/coin/70/741/70741047-2s/vietnam-5-hao-1946.jpg
+
+vietnam-5-xu-1958:
+  frente: https://i.ucoin.net/coin/28/076/28076980-1s/vietnam-5-xu-1958.jpg
+  tras: https://i.ucoin.net/coin/28/076/28076980-2s/vietnam-5-xu-1958.jpg

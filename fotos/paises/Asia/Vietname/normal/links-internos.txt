@@ -1,0 +1,103 @@
+south-vietnam-1-dong-1960:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/frente/south-vietnam-1-dong-1960.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/tras/south-vietnam-1-dong-1960.jpg
+
+south-vietnam-1-dong-1964:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/frente/south-vietnam-1-dong-1964.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/tras/south-vietnam-1-dong-1964.jpg
+
+south-vietnam-1-dong-1971:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/frente/south-vietnam-1-dong-1971.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/tras/south-vietnam-1-dong-1971.jpg
+
+south-vietnam-1-xu-1975:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/frente/south-vietnam-1-xu-1975.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/tras/south-vietnam-1-xu-1975.jpg
+
+south-vietnam-10-dong-1964:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/frente/south-vietnam-10-dong-1964.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/tras/south-vietnam-10-dong-1964.jpg
+
+south-vietnam-10-dong-1968:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/frente/south-vietnam-10-dong-1968.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/tras/south-vietnam-10-dong-1968.jpg
+
+south-vietnam-10-dong-1974:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/frente/south-vietnam-10-dong-1974.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/tras/south-vietnam-10-dong-1974.jpg
+
+south-vietnam-10-su-1953:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/frente/south-vietnam-10-su-1953.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/tras/south-vietnam-10-su-1953.jpg
+
+south-vietnam-2-xu-1975-2-xu-1975-vietna-do-norte:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/frente/south-vietnam-2-xu-1975-2-xu-1975-vietna-do-norte.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/tras/south-vietnam-2-xu-1975-2-xu-1975-vietna-do-norte.jpg
+
+south-vietnam-2-xu-1975-2-xu-1975-vietna-do-sul:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/frente/south-vietnam-2-xu-1975-2-xu-1975-vietna-do-sul.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/tras/south-vietnam-2-xu-1975-2-xu-1975-vietna-do-sul.jpg
+
+south-vietnam-20-dong-1968-20-dong-1968-vietna-do-sul:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/frente/south-vietnam-20-dong-1968-20-dong-1968-vietna-do-sul.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/tras/south-vietnam-20-dong-1968-20-dong-1968-vietna-do-sul.jpg
+
+south-vietnam-20-dong-1968-20-dong-1968-vietna-do-sul-81f16ac7:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/frente/south-vietnam-20-dong-1968-20-dong-1968-vietna-do-sul-81f16ac7.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/tras/south-vietnam-20-dong-1968-20-dong-1968-vietna-do-sul-81f16ac7.jpg
+
+south-vietnam-20-su-1953:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/frente/south-vietnam-20-su-1953.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/tras/south-vietnam-20-su-1953.jpg
+
+south-vietnam-5-dong-1966:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/frente/south-vietnam-5-dong-1966.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/tras/south-vietnam-5-dong-1966.jpg
+
+south-vietnam-5-dong-1971:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/frente/south-vietnam-5-dong-1971.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/tras/south-vietnam-5-dong-1971.jpg
+
+south-vietnam-5-xu-1975:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/frente/south-vietnam-5-xu-1975.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/tras/south-vietnam-5-xu-1975.jpg
+
+south-vietnam-50-dong-1975:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/frente/south-vietnam-50-dong-1975.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/tras/south-vietnam-50-dong-1975.jpg
+
+south-vietnam-50-su-1960:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/frente/south-vietnam-50-su-1960.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/tras/south-vietnam-50-su-1960.jpg
+
+south-vietnam-50-xu-1953:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/frente/south-vietnam-50-xu-1953.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/tras/south-vietnam-50-xu-1953.jpg
+
+south-vietnam-50-xu-1963:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/frente/south-vietnam-50-xu-1963.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/tras/south-vietnam-50-xu-1963.jpg
+
+vietnam-1-dong-1946:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/frente/vietnam-1-dong-1946.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/tras/vietnam-1-dong-1946.jpg
+
+vietnam-1-xu-1958:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/frente/vietnam-1-xu-1958.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/tras/vietnam-1-xu-1958.jpg
+
+vietnam-2-dong-1946:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/frente/vietnam-2-dong-1946.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/tras/vietnam-2-dong-1946.jpg
+
+vietnam-2-xu-1958:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/frente/vietnam-2-xu-1958.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/tras/vietnam-2-xu-1958.jpg
+
+vietnam-5-hao-1946:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/frente/vietnam-5-hao-1946.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/tras/vietnam-5-hao-1946.jpg
+
+vietnam-5-xu-1958:
+  frente: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/frente/vietnam-5-xu-1958.jpg
+  tras: https://raw.githubusercontent.com/Domandrenog/All_Coins/main/fotos/paises/Asia/Vietname/normal/tras/vietnam-5-xu-1958.jpg
